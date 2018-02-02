@@ -67,6 +67,5 @@ $config['time_reference'] = 'local';
 /* php短标签重写,如服务器没有开启短标签模块,此配置可以实现 */
 $config['rewrite_short_tags'] = FALSE;
 $config['proxy_ips'] = '';
-
 /* End of file config.php */
 /* Location: ./application/config/config.php */
