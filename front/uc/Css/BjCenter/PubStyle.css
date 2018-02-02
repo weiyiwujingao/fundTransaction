@@ -1,0 +1,107 @@
+/*伯嘉基金公用部分*/
+/*reset*/
+html,body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,select,p,blockquote,th,td{margin:0;padding:0;color:#333;font-family:"微软雅黑";font-size:12px;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border:0;}
+address,button,caption,cite,code,dfn,em,input,optgroup,option,select,strong,textarea,th,var{font:inherit;}
+del,ins{text-decoration:none;}
+li{list-style:none;}
+caption,th{text-align:left;}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}
+article,aside,dialog,footer,header,section,footer,nav,figure,menu{display:block;}
+em,i{text-decoration:none;font-style:normal;}
+a{text-decoration:none;color:#333;}
+a:hover{text-decoration:none;color:#000;}
+.Cf:before,.Cf:after{content:"";display:table;}
+.Cf:after{clear:both;}
+.Cf{zoom:1;}
+.Fl{float:left;}
+.Fr{float:right;}
+.Pre{position:relative;}
+.Mt0{margin-top:0px !important;}
+.Mt5{margin-top:5px !important;}
+.Mt10{margin-top:10px !important;}
+.Mt15{margin-top:15px !important;}
+.Mt20{margin-top:20px !important;}
+.Mt25{margin-top:25px !important;}
+.Mt30{margin-top:30px !important;}
+.Ml0{margin-left:0px !important;}
+.Ml5{margin-left:5px !important;}
+.Ml10{margin-left:10px !important;}
+.Ml15{margin-left:15px !important;}
+.Ml20{margin-left:20px !important;}
+.Ml25{margin-left:25px !important;}
+.Ml30{margin-left:30px !important;}
+.Mr0{margin-right:0px !important;}
+.Mr5{margin-right:5px !important;}
+.Mr10{margin-right:10px !important;}
+.Mr15{margin-right:15px !important;}
+.Mr20{margin-right:20px !important;}
+.Mr25{margin-right:25px !important;}
+.Mr30{margin-right:30px !important;}
+.Mg0{margin:0 !important;}
+.W1000{width:1000px;margin:auto;}
+/*Public*/
+.TopBx .Gt1,.TopHv1 .TLgB1,.TopHv1 .TLgBtn1,.TopHv1 .TLgBtn2,.TopHv1 p,.NavLogo,.NavLk,.FootPic a{background-image:url('https://trade.buyfunds.cn/front/uc/Imgs/BjCenter/IconV1.png?v=20161118');background-repeat:no-repeat;}
+.TopBg{height:40px;display:block;background:#c1144a;position:relative;z-index:1;}
+.TopBx{height:40px;line-height:40px;}
+.TopL,.TopR{height:40px;line-height:40px;float:left;}
+.TopR{float:right;}
+.TopBx .TopLk1{font-size:14px;color:#fff;margin:0 10px;line-height:40px;float:left;cursor:pointer;font-weight:normal;}
+.TopBx .TopLk1:hover{text-decoration:none;}
+.TopBx .Gt1{padding:0 15px 0 0;background-position:right -185px;}
+.TopSd{float:left;position:relative;height:40px;overflow:visible;z-index:1;}
+.TopSd .TopSs{display:none;position:absolute;top:40px;}
+.TopSd:hover .TopSs{display:block;}
+.TopHv1{background:#f7f7f7;width:272px;height:250px;left:0;}
+.TopHv1 .TLgB1{display:block;width:100%;height:32px;background-position:-222px -138px;margin:15px auto 20px;}
+.TopHv1 .TLgBtn1,.TopHv1 .TLgBtn2{display:block;width:216px;height:37px;text-indent:-9999px;outline:none;margin:0 auto 10px;background-position:-249px -182px;}
+.TopHv1 .TLgBtn2{background-position:-249px -219px;}
+.TopHv1 p{display:block;padding:0 0 0 55px;height:40px;line-height:40px;color:#c1144a;font-size:32px;font-weight:bold;font-family:Arial,Helvetica,sans-serif;background-position:-550px -421px;}
+.TopHv1 span{display:block;height:30px;line-height:30px;color:#666;font-size:16px;font-weight:normal;text-align:center;}
+.TopHv2{background:#fafafa;width:70px;left:10px;}
+.TopHv2 a{display:block;width:70px;height:28px;line-height:28px;outline:none;text-align:center;font-size:12px;background:#fafafa;color:#333;}
+.TopHv2 a:hover{background:#df386c;color:#fff;}
+.NavBxA{display:block;height:70px;margin:25px auto 20px;}
+.NavLogo{display:block;float:left;width:240px;height:60px;background-position:0 0;margin:5px 0 0 0;}
+.NavBxAs{float:right;width:752px;}
+.NavLk{display:block;float:left;width:94px;height:30px;line-height:30px;padding:40px 0 0 0;text-align:center;font-size:16px;color:#333;}
+.NLk1{background-position:-218px -266px;}
+.NLk2{background-position:-316px -266px;}
+.NLk3{background-position:-409px -266px;}
+.NLk4{background-position:-506px -266px;}
+.NLk5{background-position:-218px -338px;}
+.NLk6{background-position:-316px -338px;}
+.NLk7{background-position:-409px -338px;}
+.NLk8{background-position:-506px -338px;}
+.NavBxB{height:48px;padding:10px 0 10px 20px;position:relative;background:#f7f7f7;width:980px;margin:0 auto;}
+.NavBxB b{display:block;float:left;width:18px;height:42px;line-height:20px;padding:3px 4px;text-align:center;background:#c1144a;color:#fff;font-size:14px;font-weight:normal;}
+.NavBxB p{display:block;float:left;padding:0 2px 0 6px;}
+.NavBxB p a{display:block;float:left;outline:none;width:60px;line-height:24px;font-size:14px;color:#333;margin:0 10px 0 0;}
+.NavBxB p.NbP1{width:280px;}
+.NavBxB p.NbP2{width:140px;}
+.NavBxB p.NbP3{width:140px;}
+.NavBxB p.NbP4{width:280px;}
+.FootPic{height:100px;position:relative;margin:10px auto;}
+.FootPic a{display:block;float:left;position:relative;height:98px;border:1px solid #eee;width:199px;margin:0 0 0 -1px;background-color:#fff;}
+.FootPic a.Fpic1{background-position:9px -87px;}
+.FootPic a.Fpic2{background-position:10px -185px;}
+.FootPic a.Fpic3{background-position:8px -278px;}
+.FootPic a.Fpic4{background-position:8px -373px;}
+.FootPic a.Fpic5{background-position:8px -475px;}
+.FootPic a:hover{background-color:#f7f7f7;}
+.FootBg{width:100%;min-width:1000px;background:#c1144a;height:auto;padding:50px 0 0 0;}
+.Footer{padding:0 0 0 0;}
+.Footer p{display:block;font-size:18px;color:#fff;line-height:40px;}
+.Footer .Fp1{}
+.Footer .Ml1{margin-left:100px;}
+.Footer .Ml2{margin-left:30px;}
+.Footer .Fl{float:left;width:630px;}
+.Footer .Fr{float:right;width:360px;padding:10px 0;font-size:18px;color:#fff;}
+.Footer .Fr b{display:block;float:left;width:90px;height:90px;line-height:90px;font-weight:normal;}
+.Footer .Fr span{display:block;float:left;width:100px;line-height:40px;text-align:center;margin:0 10px 0 0;}
+.Footer .Fr img{display:block;width:87px;height:87px;margin:0 auto;}
+.Footer .W1p{display:block;width:100%;padding:0;float:left;}
+.Footer .Tc{text-align:center;margin:20px 0 30px;}
+.Footer p.Fs1{font-size:14px;line-height:25px;margin:10px 0 0;}
+

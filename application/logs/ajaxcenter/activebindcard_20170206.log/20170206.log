@@ -1,0 +1,1621 @@
+[14:50:09][|-param-|Array
+(
+    [mobile_code] => 094332
+    [sms_serial_no] => 1685942
+    [original_serial_no] => bj2017020614495286613
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350263199001012323
+    [mobile_tel] => 13599951535
+    [order_date] => 20170206
+    [order_time] => 145009
+    [bank_account] => 6228480402564890018
+    [bank_no] => 103305053844
+)
+]
+[14:50:09][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:50:10][|-iParam-|Array
+(
+    [UserID] => 203
+    [Province] => 江苏省
+    [City] => 苏州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103305053844
+    [BranchName] => 中国农业银行苏州黄埭支行
+    [BankCard] => 6228480402564890018
+    [Mobile] => 13599951535
+    [NickName] => 阿德法啊
+    [IdentityNumber] => 350263199001012323
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 14:50:09
+)
+]
+[14:50:10][|-iRs-|Array
+(
+    [flag] => 10008
+    [msg] => 真实姓名不符合
+    [info] => 
+)
+]
+[14:58:00][|-param-|Array
+(
+    [mobile_code] => 208082
+    [sms_serial_no] => 1685952
+    [original_serial_no] => bj2017020614574436472
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 369025199012123652
+    [mobile_tel] => 13599951535
+    [order_date] => 20170206
+    [order_time] => 145800
+    [bank_account] => 6228480402564890018
+    [bank_no] => 103305053844
+)
+]
+[14:58:00][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:58:01][|-iParam-|Array
+(
+    [UserID] => 203
+    [Province] => 江苏省
+    [City] => 苏州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103305053844
+    [BranchName] => 中国农业银行苏州黄埭支行
+    [BankCard] => 6228480402564890018
+    [Mobile] => 13599951535
+    [NickName] => 呵呵呵
+    [IdentityNumber] => 369025199012123652
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 14:58:00
+)
+]
+[14:58:01][|-iRs-|Array
+(
+    [flag] => 10008
+    [msg] => 真实姓名不符合
+    [info] => 
+)
+]
+[14:58:29][|-param-|Array
+(
+    [mobile_code] => 083475
+    [sms_serial_no] => 1685953
+    [original_serial_no] => bj2017020614581595204
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 369025199012123652
+    [mobile_tel] => 13599951535
+    [order_date] => 20170206
+    [order_time] => 145829
+    [bank_account] => 6228480402564890018
+    [bank_no] => 103305053844
+)
+]
+[14:58:29][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:58:30][|-iParam-|Array
+(
+    [UserID] => 203
+    [Province] => 江苏省
+    [City] => 苏州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103305053844
+    [BranchName] => 中国农业银行苏州黄埭支行
+    [BankCard] => 6228480402564890018
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 369025199012123652
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 14:58:29
+)
+]
+[14:58:30][|-iRs-|Array
+(
+    [flag] => 10008
+    [msg] => 真实姓名不符合
+    [info] => 
+)
+]
+[15:00:59][|-param-|Array
+(
+    [mobile_code] => 083475
+    [sms_serial_no] => 1685953
+    [original_serial_no] => bj2017020614581595204
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 369025199012123652
+    [mobile_tel] => 13599951535
+    [order_date] => 20170206
+    [order_time] => 150059
+    [bank_account] => 6228480402564890018
+    [bank_no] => 103305053844
+)
+]
+[15:01:00][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:01:01][|-param-|Array
+(
+    [mobile_code] => 083475
+    [sms_serial_no] => 1685953
+    [original_serial_no] => bj2017020614581595204
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 369025199012123652
+    [mobile_tel] => 13599951535
+    [order_date] => 20170206
+    [order_time] => 150101
+    [bank_account] => 6228480402564890018
+    [bank_no] => 103305053844
+)
+]
+[15:01:01][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:01:16][|-param-|Array
+(
+    [mobile_code] => 873350
+    [sms_serial_no] => 1685957
+    [original_serial_no] => bj2017020615010525659
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 369025199012123652
+    [mobile_tel] => 13599951535
+    [order_date] => 20170206
+    [order_time] => 150116
+    [bank_account] => 6228480402564890018
+    [bank_no] => 103305053844
+)
+]
+[15:01:16][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:01:17][|-iParam-|Array
+(
+    [UserID] => 203
+    [Province] => 江苏省
+    [City] => 苏州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103305053844
+    [BranchName] => 中国农业银行苏州黄埭支行
+    [BankCard] => 6228480402564890018
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 369025199012123652
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:01:16
+)
+]
+[15:01:17][|-iRs-|Array
+(
+    [flag] => 10008
+    [msg] => 开户接口失败
+    [info] => 
+)
+]
+[15:16:57][|-param-|Array
+(
+    [mobile_code] => 808311
+    [sms_serial_no] => 1685976
+    [original_serial_no] => bj2017020615164596899
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 369025199012123652
+    [mobile_tel] => 13599951535
+    [order_date] => 20170206
+    [order_time] => 151657
+    [bank_account] => 6228480402564890018
+    [bank_no] => 103305053844
+)
+]
+[15:16:58][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:22:12][|-param-|Array
+(
+    [mobile_code] => 600799
+    [sms_serial_no] => 1685979
+    [original_serial_no] => bj2017020615215727403
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 369025199012123655
+    [mobile_tel] => 13599951535
+    [order_date] => 20170206
+    [order_time] => 152212
+    [bank_account] => 6228480402564890018
+    [bank_no] => 103305053844
+)
+]
+[15:22:13][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:22:13][|-iParam-|Array
+(
+    [UserID] => 203
+    [Province] => 江苏省
+    [City] => 苏州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103305053844
+    [BranchName] => 中国农业银行苏州黄埭支行
+    [BankCard] => 6228480402564890018
+    [Mobile] => 13599951535
+    [NickName] => 啊啊啊
+    [IdentityNumber] => 369025199012123655
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:22:13
+)
+]
+[15:22:13][|-iRs-|Array
+(
+    [flag] => 10007
+    [msg] => 实名认证添加失败
+    [info] => 
+)
+]
+[15:31:03][|-param-|Array
+(
+    [mobile_code] => 712585
+    [sms_serial_no] => 1685989
+    [original_serial_no] => bj2017020615304254019
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011736
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 153103
+    [bank_account] => 6226661401297043
+    [bank_no] => 303521000181
+)
+]
+[15:31:04][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:31:04][|-iParam-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国光大银行
+    [BankNo] => 009
+    [BranchBank] => 303521000181
+    [BranchName] => 中国光大银行武汉汉口支行
+    [BankCard] => 6226661401297043
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199202011736
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:31:04
+)
+]
+[15:31:04][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[15:31:08][|-param-|Array
+(
+    [mobile_code] => 712585
+    [sms_serial_no] => 1685989
+    [original_serial_no] => bj2017020615304254019
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011736
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 153108
+    [bank_account] => 6226661401297043
+    [bank_no] => 303521000181
+)
+]
+[15:31:09][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:34:42][|-param-|Array
+(
+    [mobile_code] => 532578
+    [sms_serial_no] => 1685995
+    [original_serial_no] => bj2017020615342448020
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011736
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 153442
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:34:42][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:34:43][|-iParam-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 赤壁市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103536269569
+    [BranchName] => 中国农业银行股份有限公司赤壁市城西支行
+    [BankCard] => 6228452408037333076
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199202011736
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:34:42
+)
+]
+[15:34:43][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[15:37:35][|-param-|Array
+(
+    [mobile_code] => 532578
+    [sms_serial_no] => 1685995
+    [original_serial_no] => bj2017020615342448020
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011736
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 153735
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:37:36][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:38:10][|-param-|Array
+(
+    [mobile_code] => 730493
+    [sms_serial_no] => 1686001
+    [original_serial_no] => bj2017020615380156948
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286622
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 153810
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:38:11][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:38:12][|-iParam-|Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003318
+    [BranchName] => 中国银行股份有限公司武汉光谷支行
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286622
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:38:11
+)
+]
+[15:38:12][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[15:38:49][|-param-|Array
+(
+    [mobile_code] => 730493
+    [sms_serial_no] => 1686001
+    [original_serial_no] => bj2017020615380156948
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286622
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 153849
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:38:54][|-sRs-|Array
+(
+)
+]
+[15:38:55][|-param-|Array
+(
+    [mobile_code] => 730493
+    [sms_serial_no] => 1686001
+    [original_serial_no] => bj2017020615380156948
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286622
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 153855
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:38:56][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:40:25][|-param-|Array
+(
+    [mobile_code] => 730493
+    [sms_serial_no] => 1686001
+    [original_serial_no] => bj2017020615380156948
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286622
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154025
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:40:25][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:40:26][|-param-|Array
+(
+    [mobile_code] => 730493
+    [sms_serial_no] => 1686001
+    [original_serial_no] => bj2017020615380156948
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286622
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154026
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:40:26][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:40:26][|-param-|Array
+(
+    [mobile_code] => 730493
+    [sms_serial_no] => 1686001
+    [original_serial_no] => bj2017020615380156948
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286622
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154026
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:40:27][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:40:51][|-param-|Array
+(
+    [mobile_code] => 802830
+    [sms_serial_no] => 1686006
+    [original_serial_no] => bj2017020615403920501
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154051
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:40:51][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:40:52][|-iParam-|Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003318
+    [BranchName] => 中国银行股份有限公司武汉光谷支行
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286623
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:40:51
+)
+]
+[15:40:52][|-iRs-|Array
+(
+    [flag] => 10007
+    [msg] => 实名认证添加失败
+    [info] => 
+)
+]
+[15:42:43][|-param-|Array
+(
+    [mobile_code] => 802830
+    [sms_serial_no] => 1686006
+    [original_serial_no] => bj2017020615403920501
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154243
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:42:44][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:42:44][|-param-|Array
+(
+    [mobile_code] => 802830
+    [sms_serial_no] => 1686006
+    [original_serial_no] => bj2017020615403920501
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154244
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:42:45][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:42:53][|-param-|Array
+(
+    [mobile_code] => 932275
+    [sms_serial_no] => 1686009
+    [original_serial_no] => bj2017020615422911089
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011735
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 154253
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:42:53][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:42:54][|-iParam-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 赤壁市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103536269569
+    [BranchName] => 中国农业银行股份有限公司赤壁市城西支行
+    [BankCard] => 6228452408037333076
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199202011735
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:42:53
+)
+]
+[15:42:54][|-iRs-|Array
+(
+    [flag] => 10007
+    [msg] => 实名认证添加失败
+    [info] => 
+)
+]
+[15:43:03][|-param-|Array
+(
+    [mobile_code] => 802830
+    [sms_serial_no] => 1686006
+    [original_serial_no] => bj2017020615403920501
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154303
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:43:04][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:43:04][|-param-|Array
+(
+    [mobile_code] => 802830
+    [sms_serial_no] => 1686006
+    [original_serial_no] => bj2017020615403920501
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154304
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:43:05][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:43:06][|-param-|Array
+(
+    [mobile_code] => 802830
+    [sms_serial_no] => 1686006
+    [original_serial_no] => bj2017020615403920501
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 154306
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:43:06][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => B.MGW.0121: 当日重复绑卡次数超限
+    [error_no] => -1
+)
+]
+[15:45:25][|-param-|Array
+(
+    [mobile_code] => 124131
+    [sms_serial_no] => 1686011
+    [original_serial_no] => bj2017020615451025022
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011735
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 154525
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:45:25][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:45:26][|-iParam-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 赤壁市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103536269569
+    [BranchName] => 中国农业银行股份有限公司赤壁市城西支行
+    [BankCard] => 6228452408037333076
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199202011735
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:45:25
+)
+]
+[15:45:26][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[15:46:20][|-param-|Array
+(
+    [mobile_code] => 152519
+    [sms_serial_no] => 1686012
+    [original_serial_no] => bj2017020615460515735
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199102011735
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 154620
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:46:21][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:46:21][|-iParam-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 赤壁市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103536269569
+    [BranchName] => 中国农业银行股份有限公司赤壁市城西支行
+    [BankCard] => 6228452408037333076
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199102011735
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:46:21
+)
+]
+[15:46:21][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[15:46:25][|-param-|Array
+(
+    [mobile_code] => 152519
+    [sms_serial_no] => 1686012
+    [original_serial_no] => bj2017020615460515735
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199102011735
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 154625
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:46:26][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:46:37][|-param-|Array
+(
+    [mobile_code] => 152519
+    [sms_serial_no] => 1686012
+    [original_serial_no] => bj2017020615460515735
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199102011735
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 154637
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:46:38][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:47:02][|-param-|Array
+(
+    [mobile_code] => 341667
+    [sms_serial_no] => 1686013
+    [original_serial_no] => bj2017020615465013995
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199002011735
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 154702
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:47:03][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:47:03][|-iParam-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 赤壁市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103536269569
+    [BranchName] => 中国农业银行股份有限公司赤壁市城西支行
+    [BankCard] => 6228452408037333076
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199002011735
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:47:03
+)
+]
+[15:47:03][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[15:48:41][|-param-|Array
+(
+    [mobile_code] => 341667
+    [sms_serial_no] => 1686013
+    [original_serial_no] => bj2017020615465013995
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199002011735
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 154841
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:48:42][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[15:51:28][|-param-|Array
+(
+    [mobile_code] => 898729
+    [sms_serial_no] => 1686016
+    [original_serial_no] => bj2017020615505056547
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286123
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 155128
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:51:29][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:51:29][|-iParam-|Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003318
+    [BranchName] => 中国银行股份有限公司武汉光谷支行
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286123
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:51:29
+)
+]
+[15:51:29][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[15:53:51][|-param-|Array
+(
+    [mobile_code] => 793169
+    [sms_serial_no] => 1686020
+    [original_serial_no] => bj2017020615533111827
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286129
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 155351
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:53:52][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:53:52][|-iParam-|Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003318
+    [BranchName] => 中国银行股份有限公司武汉光谷支行
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286129
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:53:52
+)
+]
+[15:53:52][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[15:54:54][|-param-|Array
+(
+    [mobile_code] => 530434
+    [sms_serial_no] => 1686021
+    [original_serial_no] => bj2017020615542681588
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286129
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 155454
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:54:55][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:54:55][|-iParam-|Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003318
+    [BranchName] => 中国银行股份有限公司武汉光谷支行
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286129
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:54:55
+)
+]
+[15:54:55][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[15:55:23][|-param-|Array
+(
+    [mobile_code] => 531769
+    [sms_serial_no] => 1686023
+    [original_serial_no] => bj2017020615550721030
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286369
+    [mobile_tel] => 15972158074
+    [order_date] => 20170206
+    [order_time] => 155523
+    [bank_account] => 6217857600002597495
+    [bank_no] => 104521003318
+)
+]
+[15:55:24][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:55:24][|-iParam-|Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003318
+    [BranchName] => 中国银行股份有限公司武汉光谷支行
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286369
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:55:24
+)
+]
+[15:55:24][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[15:56:14][|-param-|Array
+(
+    [mobile_code] => 318766
+    [sms_serial_no] => 1686024
+    [original_serial_no] => bj2017020615555670936
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199302024212
+    [mobile_tel] => 18671517368
+    [order_date] => 20170206
+    [order_time] => 155614
+    [bank_account] => 6226661401297043
+    [bank_no] => 303521000181
+)
+]
+[15:56:15][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:56:15][|-iParam-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国光大银行
+    [BankNo] => 009
+    [BranchBank] => 303521000181
+    [BranchName] => 中国光大银行武汉汉口支行
+    [BankCard] => 6226661401297043
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199302024212
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:56:15
+)
+]
+[15:56:15][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[16:56:57][|-param-|Array
+(
+    [mobile_code] => 451564
+    [sms_serial_no] => 1686068
+    [original_serial_no] => bj2017020616561792522
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [mobile_tel] => 18125530297
+    [order_date] => 20170206
+    [order_time] => 165657
+    [bank_account] => 6214830201562278
+    [bank_no] => 308581002249
+)
+]
+[16:56:58][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[16:56:59][|-iParam-|Array
+(
+    [UserID] => 206
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308581002249
+    [BranchName] => 招商银行股份有限公司广州风神支行
+    [BankCard] => 6214830201562278
+    [Mobile] => 18125530297
+    [NickName] => 阿拉蕾
+    [IdentityNumber] => 4222199201010427
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 16:56:58
+)
+]
+[16:56:59][|-iRs-|Array
+(
+    [flag] => 10007
+    [msg] => 实名认证添加失败
+    [info] => 
+)
+]
+[16:57:57][|-param-|Array
+(
+    [mobile_code] => 608174
+    [sms_serial_no] => 1686069
+    [original_serial_no] => bj2017020616571271155
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [mobile_tel] => 18125530297
+    [order_date] => 20170206
+    [order_time] => 165757
+    [bank_account] => 6214830201562278
+    [bank_no] => 308581002249
+)
+]
+[16:57:57][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[16:57:58][|-iParam-|Array
+(
+    [UserID] => 206
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308581002249
+    [BranchName] => 招商银行股份有限公司广州风神支行
+    [BankCard] => 6214830201562278
+    [Mobile] => 18125530297
+    [NickName] => 江子晗
+    [IdentityNumber] => 4222199201010427
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 16:57:57
+)
+]
+[16:57:58][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]

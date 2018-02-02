@@ -1,0 +1,21 @@
+<div class="mSide">
+    <h3 class="sideTitle">快速通道</h3>
+    <div class="sideMenu">
+        <a href="<?php echo TRADE_WEB_URL; ?>"  class="<?php echo $sidebar == 'wdzc' ? 'AC' : '' ?>">我的资产</a>
+        <a href="<?php echo base_url().'manage/positiondetails.html';?>"  class="<?php echo $sidebar == 'ccmx' ? 'AC' : '' ?>">持仓明细</a>
+        <!--<a href="#"  class="<?php echo $sidebar == 'xjb' ? 'AC' : '' ?>">现金宝</a>-->
+        <a href="<?php echo WEB_URL, '/deal/sift'; ?>" target="_blank"  class="<?php echo $sidebar == 'bjjx' ? 'AC' : '' ?>">伯嘉精选</a>
+        <a href="<?php echo WEB_URL, '/deal/brokermoney1'; ?>" target="_blank" class="<?php echo $sidebar == 'qslc' ? 'AC' : '' ?>">券商理财</a>
+        <a href="<?php echo WEB_URL, '/deal/hotfund'; ?>" target="_blank"  class="<?php echo $sidebar == 'rxjj' ? 'AC' : '' ?>">热销基金</a>
+        <a href="<?php echo WEB_URL, '/openfund/index'; ?>" target="_blank"  class="<?php echo $sidebar == 'jjph' ? 'AC' : '' ?>">基金排行</a>
+        <a href="<?php echo base_url().'trade/fundtrade.html';?>" class="<?php echo $sidebar == 'mjj' ? 'AC' : '' ?>">买基金</a>
+        <a href="<?php echo base_url().'trade/sellfund.html';?>" class="<?php echo $sidebar == '_mjj' ? 'AC' : '' ?>">卖基金</a>
+        <a href="<?php echo WEB_URL, '/newfund/index'; ?>" target="_blank" class="<?php echo $sidebar == 'mxjj' ? 'AC' : '' ?>">买新基金</a>
+        <a href="<?php echo WEB_URL, '/tools/optional'; ?>" target="_blank" class="<?php echo $sidebar == 'zxjj' ? 'AC' : '' ?>">自选基金</a>
+        <a href="<?php echo base_url(); ?>fix/index.html"  class="<?php echo $sidebar == 'jjdt' ? 'AC' : '' ?>">基金定投</a>
+        <a href="<?php echo base_url(); ?>product/convert.html"  class="<?php echo $sidebar == 'jjzh' ? 'AC' : '' ?>">基金转换</a>
+        <a href="<?php echo base_url().'trade/fundrevoke.html';?>"  class="<?php echo $sidebar == 'jycd' ? 'AC' : '' ?>">交易撤单</a>
+        <a href="<?php echo base_url().'manage/index.html'?>"  class="<?php echo $sidebar == 'jycx' ? 'AC' : '' ?>">交易查询</a>
+        <a href="<?php echo base_url().'trade/dividendmethod.html';?>"  class="<?php echo $sidebar == 'fhsz' ? 'AC' : '' ?>">分红设置</a>
+    </div>
+</div>

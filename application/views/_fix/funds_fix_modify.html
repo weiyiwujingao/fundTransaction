@@ -1,0 +1,227 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+<div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">修改基金定投计划</h3>
+            <form data-code="<?php echo $data['code']; ?>" action="<?php echo base_url(); ?>fix/modify_result.html" method="post">
+            	<div class="formP">
+                	<b class="bankPre">基金名称：</b>
+                    <span><?php echo $data['name'], '(', $data['code'], ')'; ?></span>
+                </div>
+                <div class="formP">
+                    <b class="bankPre">收费方式：</b>
+                    <span><?php echo $data['share_type']; ?></span>
+                </div>
+                <div class="formP">
+                    <b class="bankPre">支付账户：</b>
+                    <span><?php echo $data['acco']; ?></span>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*扣款周期：</i></b>
+                    <span class="uRadio">每<?php echo $data['period']; ?><i><input type="radio" name="period" value="0" checked /></i></span><em>暂时仅支持按月周期充值</em>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*扣款日期：</i></b>
+                    <span class="FormSlt w100">
+                      		<select name="fix_day" onChange="dayChange(this);">
+                                <option value="1" <?php if($data['fix_day'] == 1) echo 'selected'; ?>>1日</option>
+                                <option value="2" <?php if($data['fix_day'] == 2) echo 'selected'; ?>>2日</option>
+                                <option value="3" <?php if($data['fix_day'] == 3) echo 'selected'; ?>>3日</option>
+                                <option value="4" <?php if($data['fix_day'] == 4) echo 'selected'; ?>>4日</option>
+                                <option value="5" <?php if($data['fix_day'] == 5) echo 'selected'; ?>>5日</option>
+                                <option value="6" <?php if($data['fix_day'] == 6) echo 'selected'; ?>>6日</option>
+                                <option value="7" <?php if($data['fix_day'] == 7) echo 'selected'; ?>>7日</option>
+                                <option value="8" <?php if($data['fix_day'] == 8) echo 'selected'; ?>>8日</option>
+                                <option value="9" <?php if($data['fix_day'] == 9) echo 'selected'; ?>>9日</option>
+                                <option value="10" <?php if($data['fix_day'] == 10) echo 'selected'; ?>>10日</option>
+                                <option value="11" <?php if($data['fix_day'] == 11) echo 'selected'; ?>>11日</option>
+                                <option value="12" <?php if($data['fix_day'] == 12) echo 'selected'; ?>>12日</option>
+                                <option value="13" <?php if($data['fix_day'] == 13) echo 'selected'; ?>>13日</option>
+                                <option value="14" <?php if($data['fix_day'] == 14) echo 'selected'; ?>>14日</option>
+                                <option value="15" <?php if($data['fix_day'] == 15) echo 'selected'; ?>>15日</option>
+                                <option value="16" <?php if($data['fix_day'] == 16) echo 'selected'; ?>>16日</option>
+                                <option value="17" <?php if($data['fix_day'] == 17) echo 'selected'; ?>>17日</option>
+                                <option value="18" <?php if($data['fix_day'] == 18) echo 'selected'; ?>>18日</option>
+                                <option value="19" <?php if($data['fix_day'] == 19) echo 'selected'; ?>>19日</option>
+                                <option value="20" <?php if($data['fix_day'] == 20) echo 'selected'; ?>>20日</option>
+                                <option value="21" <?php if($data['fix_day'] == 21) echo 'selected'; ?>>21日</option>
+                                <option value="22" <?php if($data['fix_day'] == 22) echo 'selected'; ?>>22日</option>
+                                <option value="23" <?php if($data['fix_day'] == 23) echo 'selected'; ?>>23日</option>
+                                <option value="24" <?php if($data['fix_day'] == 24) echo 'selected'; ?>>24日</option>
+                                <option value="25" <?php if($data['fix_day'] == 25) echo 'selected'; ?>>25日</option>
+                                <option value="26" <?php if($data['fix_day'] == 26) echo 'selected'; ?>>26日</option>
+                                <option value="27" <?php if($data['fix_day'] == 27) echo 'selected'; ?>>27日</option>
+                                <option value="28" <?php if($data['fix_day'] == 28) echo 'selected'; ?>>28日</option>
+                            </select>
+                      </span>
+                </div>
+                <div class="formP">
+                    <b class="bankPre"><i>*</i>下次扣款日期：</b>
+                    <span class="NextYear"><?php echo $data['next_day']; ?></span>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*每期充值金额：</i></b>
+                    <span><input type="text" name="balance" value="<?php echo $data['balance']; ?>" onBlur="crashInp(this);" class="money w310"/></span>
+                    <b class="eMl7">元</b>
+                    <em></em>
+                </div>
+                <p class="formTip">购买金额不能低于<i number="">--</i>元，日累计限额<i number="">--</i>元</p>
+                <div class="formLi">
+                    <b class="bankPre">大写金额：</b>
+                    <b class="Capital"><?php echo $data['rmb']; ?></b>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>请输入交易密码：</b>
+                    <span><input type="password" name="password" onBlur="passInp(this)" value="" class="pass w340"></span>
+                    <b class="eMl7"><a href="<?php echo TRADE_TRPWD_URL; ?>" target="_blank" class="blue">忘记交易密码?</a></b>
+                    <em></em>
+                </div>
+                <p class="formTip">请输入伯嘉基金网交易密码，非银行卡密码。</p>
+                <div class="btnPre Mt30">
+                    <a href="javascript:;" onClick="subForm(this);" class="halfBtn">下一步</a>
+                    <a href="<?php echo base_url(); ?>fix/index.html" class="navyBtn">返回</a>
+                </div>
+                <input type="hidden" name="fund_name" value="<?php echo $data['name']; ?>">
+                <input type="hidden" name="bank_no" value="<?php echo $data['bank_no']; ?>">
+                <input type="hidden" name="operation" value="modify">
+                <input type="hidden" name="protocol_id" value="<?php echo $data['protocol_id']; ?>">
+            </form>
+            <div class="Explain">
+                <h3>说明：</h3>
+                <p>1、我们将 24 小时受理您的交易申请。您交易日的交易申请至 15:00 截止， 15:00 以后的交易申请或非交易日的交易申请视为于下一个交易日提交。您最终申请提交时间以我司注册登记中心接收时间为准。</p>
+                <p>2、由于客户端系统时间与服务器时间可能有误差，请尽量避免在交易截止时间前后进行交易，交易提交时间以本系统服务器时间为准。如因网络原因或网银系统故障，导致划款成功指令未传递到本系统的，我们会在交易日结束后通过银行对账，确认交易成功，15：00前的交易申请将视为当日的申请。</p>
+                <p>3、基金的申购、赎回交易均遵循“未知价”交易原则，即您申购、赎回基金时都按提交业务申请当天的净值计算，而每天的净值是在交易结束后计算出来的，也就是说您在提交交易申请时不知道交易的价格。因此您所看到的基金净值，为该基金上一交易日的基金净值，而非基金申购成交时的基金净值。</p>
+            </div>
+        </div>
+    </div>
+
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161228140734"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.uRadio').uRadio();/*单选框美化*/
+		$('.FormSlt').uSelect();/*select美化*/
+
+		$('.money').inpCash();//现金输入金额限制，大小写关联
+
+        fundLimit();
+
+		function crashInp(obj){//现金输入
+			var p = $(obj).parents('.formLi'),
+			tip = $(p).next().find('i'),
+			numStr = $(obj).val(),
+			Min = parseFloat($(tip).eq(0).attr('number')),
+			Max = parseFloat($(tip).eq(1).attr('number'));
+			if(numStr == ''){
+				$(obj).showTip('Error','不能为空!');
+			}else{
+				var num = parseFloat(numStr);
+				if(num < Min){
+					$(obj).showTip('Error','购买金额不能小于'+Min);
+				}else if(num > Max){
+					$(obj).showTip('Error','购买金额不能超过日累计限额'+Max);
+				}else{
+					var txt = $(obj).cashTxt();//获取大写金额字符串
+					$('.Capital').html(txt);//显示大写金额字符串
+					$(obj).showTip('Right');//
+				}
+			}
+		}
+
+		function passInp(obj){//密码输入框空判断
+			var str = $(obj).val();
+			if(str == ''){
+				$(obj).showTip('Error','不能为空');
+			}else{
+				$(obj).showTip('Right');
+			}
+		}
+
+        function dayChange(obj){//日期选择事件
+            var day = $(obj).val();
+            $.ajax({
+                url: '<?php echo base_url(); ?>fix/getdeductionday',
+                type: 'post',
+                data:'fix_day='+day,
+                success: function (d) {
+                    var o = $.parseJSON(d);
+                    if (o.code == 200) {
+                        $('.NextYear').html(o.data);
+                        $('input[name="nextday"]').val(o.data);
+                    }else if(o.code == 0){
+                        alert(o.message);
+                        window.top.location.href=o.url;
+                    } else {
+                        $('.NextYear').html('服务器错误，请重试');
+                    }
+                }
+            });
+        }
+
+		function subForm(obj){//表单提交按钮点击事件 仅供参考
+			var flag = true,
+			p = $(obj).parents('form');
+			if($('.money').val() == ''){
+				flag = false;
+				$('.money').showTip('Error','不能为空');
+			}else{
+				var str = $('.money').val(),
+				reg = /^[1-9]\d*.\d{1,2}$|^[1-9]\d*$/;
+				if(!reg.test(str)){
+					flag = false;
+					$('.money').showTip('Error','输入金额格式不正确');
+				}else{
+					var _p = $('.money').parents('.formLi'),
+					tip = $(_p).next().find('i'),
+					num = parseFloat($('.money').val()),
+					Min = parseFloat($(tip).eq(0).attr('number')),
+					Max = parseFloat($(tip).eq(1).attr('number'));
+					if(num < Min){
+						flag = false;
+						$('.money').showTip('Error','购买金额不能小于'+Min);
+					}else if(Max < 100000000 && num > Max){
+						flag = false;
+						$('.money').showTip('Error','购买金额不能超过日累计限额'+Max);
+					}else{
+						$('.money').showTip('Right');//
+					}
+				}
+			}
+			if($('.pass').val() == ''){
+				flag = false;
+				$('.pass').showTip('Error','不能为空');
+			}
+			if(flag){
+				$(p).submit();
+			}
+		}
+
+        /*获取基金的购买限额*/
+        function fundLimit(){
+            var jjId = $('form').eq(0).attr('data-code');
+            $.ajax({
+                url:'<?php echo base_url(); ?>fix/getfundinfo/'+jjId,
+                dataType:'json',
+                success: function(d){
+                    if(d.code == 200){
+                        if (d.data.max_value>100000000) {
+                            $('.formTip').eq(0).html('购买金额不能低于<i number="'+d.data.min_value+'">'+d.data.min_value+'</i>元<i number="'+d.data.max_value+'"></i>');
+                        } else {
+                            $('.formTip').eq(0).html('购买金额不能低于<i number="'+d.data.min_value+'">'+d.data.min_value+'</i>元，日累计限额<i number="'+d.data.max_value+'">'+d.data.max_value/10000.0+'</i>万元');
+                        }
+                    }else if(d.code == 0){
+                        alert(d.message);
+                        window.top.location.href=d.url;
+                    }else{
+                        $('.money').showTip('Error','服务器错误，请重试');
+                    }
+                }
+            });
+        }
+    </script>

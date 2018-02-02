@@ -1,0 +1,65 @@
+[16:02:40][access_token获取
+json_data:Array
+(
+    [token_type] => bearer
+    [access_token] => A5EA47F96E724578B0903C1538B3EB852017012216024188336162
+    [expires_in] => 86400
+    [refresh_token] => 3C4CC4B392E240B99CB3F5AB578E400A2017012216024188218798
+    [scope] => iuc,cw
+)
+]
+[16:02:57][access_token获取
+json_data:]
+[16:02:57][access_token获取失败
+json_data:]
+[16:05:56][access_token参数：Array
+(
+    [open_id] => 345bb87cb20f7a30daefb358f6ce05b2
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [token_type] => bearer
+    [access_token] => D12123641E5E41DC903231897BDCA4E32017012216055772084329
+    [expires_in] => 86400
+    [refresh_token] => 4EA23944EA964B298756FD30342D0FB92017012216055772067040
+    [scope] => iuc,cw
+)
+]
+[16:06:54][access_token参数：Array
+(
+    [open_id] => ae0e00ca2c1704aabe363f3ca78e16c7
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [data] => {"token_type":"bearer","access_token":"8EB85769D645494E8861E53BFCD294272017012216065493046230","expires_in":86400,"refresh_token":"029A5C34911449728AAF3BCE3F9A81122017012216065493022476","scope":"iuc,cw"}
+    [code] => 200
+)
+]
+[16:07:34][access_token参数：Array
+(
+    [open_id] => e42076a325782963c913b87395a4ca1c
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [data] => {"token_type":"bearer","access_token":"B4D646E627D243698B841C76275C81AF2017012216073504178675","expires_in":86400,"refresh_token":"1FAC49A0C18244799149989C7F20F83C2017012216073504073156","scope":"iuc,cw"}
+    [code] => 200
+)
+]
+[16:09:12][access_token参数：
+json_data:9EA541B584A9436FA159877EEC6112DC2017012216091381945347]
+[16:09:33][access_token参数：
+json_data:90E54BAA7E26456F8345DEA02E2D94762017012216093422030325]
+[16:09:36][access_token参数：
+json_data:425181D1BBBE402293A81A41C5EF95142017012216093780564574]

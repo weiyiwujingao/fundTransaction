@@ -1,0 +1,232 @@
+[10:39:17][|-param-|Array
+(
+    [serial_no] => bj2017021610391786747
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [real_name] => 罗蔓
+    [mobile_tel] => 15927191870
+    [order_date] => 20170216
+    [order_time] => 103917
+    [bank_account] => 6217711604404516
+    [bank_no] => 302521038273
+)
+]
+[10:39:25][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 联机交易交互失败String index out of range: -21
+    [error_no] => -1
+)
+]
+[10:40:21][|-param-|Array
+(
+    [serial_no] => bj2017021610402111124
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [real_name] => 罗蔓
+    [mobile_tel] => 15927191870
+    [order_date] => 20170216
+    [order_time] => 104021
+    [bank_account] => 6217711504504516
+    [bank_no] => 302521038273
+)
+]
+[10:40:22][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[10:40:41][|-param-|Array
+(
+    [serial_no] => bj2017021610404144677
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [real_name] => 罗蔓
+    [mobile_tel] => 15927191870
+    [order_date] => 20170216
+    [order_time] => 104041
+    [bank_account] => 62177115045045165
+    [bank_no] => 302521038273
+)
+]
+[10:40:41][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[10:40:53][|-param-|Array
+(
+    [serial_no] => bj2017021610405330141
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [real_name] => 罗蔓
+    [mobile_tel] => 15927191870
+    [order_date] => 20170216
+    [order_time] => 104053
+    [bank_account] => 6217711504504519
+    [bank_no] => 302521038273
+)
+]
+[10:40:53][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[10:45:45][|-param-|Array
+(
+    [serial_no] => bj2017021610454570440
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [real_name] => 罗蔓
+    [mobile_tel] => 15927191870
+    [order_date] => 20170216
+    [order_time] => 104545
+    [bank_account] => 6228480068816522773
+    [bank_no] => 103391013640
+)
+]
+[10:45:46][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[10:45:52][|-param-|Array
+(
+    [serial_no] => bj2017021610455274737
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [real_name] => 罗蔓
+    [mobile_tel] => 15927191870
+    [order_date] => 20170216
+    [order_time] => 104552
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013640
+)
+]
+[10:45:54][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1691099
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[10:45:54][|-bankNum-|421083199206290033|-sex-|0]
+[13:53:20][|-param-|Array
+(
+    [serial_no] => bj2017021613532069871
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202010214
+    [real_name] => 江来
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 135320
+    [bank_account] => 6217000830000123038
+    [bank_no] => 105110039241
+)
+]
+[13:53:21][|-sRs-|Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[13:53:21][|-bankNum-|421281199202010214|-sex-|0]
+[13:54:40][|-param-|Array
+(
+    [serial_no] => bj2017021613544059297
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202010214
+    [real_name] => 江来
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 135440
+    [bank_account] => 6217000830000123038
+    [bank_no] => 105110039241
+)
+]
+[13:54:40][|-sRs-|Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[13:54:40][|-bankNum-|421281199202010214|-sex-|0]
+[13:56:43][|-param-|Array
+(
+    [serial_no] => bj2017021613564383725
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011555
+    [real_name] => 江来
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 135643
+    [bank_account] => 6217000830000123033
+    [bank_no] => 105100001044
+)
+]
+[13:56:43][|-sRs-|Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[13:56:43][|-bankNum-|421281199202011555|-sex-|0]
+[13:57:56][|-param-|Array
+(
+    [serial_no] => bj2017021613575661732
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011555
+    [real_name] => 江来
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 135756
+    [bank_account] => 6217000830000123033
+    [bank_no] => 105100001044
+)
+]
+[13:57:56][|-sRs-|Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[13:57:56][|-bankNum-|421281199202011555|-sex-|0]

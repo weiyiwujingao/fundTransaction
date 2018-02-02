@@ -1,0 +1,68 @@
+2017-01-25 11:15:03|-ip-|10.100.0.18|-mobile-|15620553970|-phoneArea-||||
+2017-01-25 11:15:03|-$cParam-|Array
+(
+    [mobile] => 15620553970
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-01-25 11:15:03
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 54
+    [Mobile] => 15620553970
+    [IP] => 10.100.0.18
+    [MobileCheck] => 707480
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 54
+            [ActiveTime] => 2017-01-25 11:15:03
+        )
+
+)
+
+2017-01-25 11:28:43|-ip-|10.100.0.18|-mobile-|13237185370|-phoneArea-||||
+2017-01-25 11:28:43|-$cParam-|Array
+(
+    [mobile] => 13237185370
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-01-25 11:28:43
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 55
+    [Mobile] => 13237185370
+    [IP] => 10.100.0.18
+    [MobileCheck] => 776220
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 55
+            [ActiveTime] => 2017-01-25 11:28:43
+        )
+
+)
+

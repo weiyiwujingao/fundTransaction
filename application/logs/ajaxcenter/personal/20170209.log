@@ -1,0 +1,93 @@
+[09:51:16][|-dParam-|Array
+(
+    [Email] => xf.jiang@sohu.com
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 209
+)
+]
+[09:51:21][|-dParam-|Array
+(
+    [Email] => xf.jiang@sohu.com
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 209
+)
+]
+[10:19:23][|-dParam-|Array
+(
+    [TelPhone] => 123456
+    [Address] => 123456
+    [Postal] => 123456
+    [Email] => 123456@qq.com
+    [SendRate] => 1
+    [UserID] => 206
+)
+]
+[10:35:40][|-dParam-|Array
+(
+    [TelPhone] => 123456
+    [Address] => 123456
+    [Postal] => 123456
+    [Email] => 123456@qq.com
+    [SendRate] => 1
+    [UserID] => 206
+)
+]
+[11:31:36][|-dParam-|Array
+(
+    [TelPhone] => 123456
+    [Address] => 123456
+    [Postal] => 123456
+    [Email] => 123456@qq.com
+    [ReservedContent] => 测试
+    [UserID] => 178
+)
+]
+[13:40:00][|-dParam-|Array
+(
+    [TelPhone] => 123456
+    [Address] => 123456
+    [Postal] => 123456
+    [Email] => 123@qq.com
+    [ReservedContent] => 123456
+    [UserID] => 178
+)
+]
+[14:50:56][|-dParam-|Array
+(
+    [TelPhone] => 123456
+    [Address] => 123456
+    [Postal] => 123456
+    [Email] => 123456@qq.com
+    [ReservedContent] => 测试
+    [UserID] => 178
+)
+]
+[16:29:28][|-dParam-|Array
+(
+    [Email] => x.jiang@sohu.com
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 209
+)
+]
+[18:56:59][|-dParam-|Array
+(
+    [Job] => 2
+    [UserID] => 178
+)
+]
+[19:12:24][|-dParam-|Array
+(
+    [Job] => 2
+    [SendRate] => 3
+    [UserID] => 196
+)
+]
+[20:15:40][|-dParam-|Array
+(
+    [Job] => 2
+    [UserID] => 166
+)
+]

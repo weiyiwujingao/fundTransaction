@@ -1,0 +1,168 @@
+[10:33:21][|-trParam-|Array
+(
+    [UserID] => 184
+    [TrueName] => 江雪锋
+    [IdentityNumber] => 421281199202011735
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:35:20][|-trParam-|Array
+(
+    [UserID] => 184
+    [TrueName] => 江雪锋
+    [IdentityNumber] => 421281199202011735
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:51:59][|-trParam-|Array
+(
+    [UserID] => 184
+    [TrueName] => 江雪锋
+    [IdentityNumber] => 421281199202011735
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:37:49][|-trParam-|Array
+(
+    [UserID] => 178
+    [TrueName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:37:49][|-strParam-|Array
+(
+    [UserID] => 178
+    [TrueName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:02:24][|-trParam-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:02:24][|-strParam-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:20:15][|-trParam-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:20:15][|-strParam-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[14:51:34][|-trParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[14:54:36][|-trParam-|Array
+(
+    [UserID] => 178
+    [TrueName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[14:54:36][|-strParam-|Array
+(
+    [UserID] => 178
+    [TrueName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[14:56:48][|-trParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[14:56:48][|-strParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]

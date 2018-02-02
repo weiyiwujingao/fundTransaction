@@ -1,0 +1,36 @@
+[14:18:21][|-dParam-|Array
+(
+    [TelPhone] => 13037100638
+    [Address] => 武汉市洪山区光谷
+    [Postal] => 430000
+    [Email] => 1375603200@qq.com
+    [ReservedContent] => 我行
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 211
+)
+]
+[14:18:48][|-dParam-|Array
+(
+    [TelPhone] => 13037100638
+    [Address] => 武汉市洪山区光谷
+    [Postal] => 430000
+    [Email] => 1375603200@qq.com
+    [ReservedContent] => 我行
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 211
+)
+]
+[14:20:44][|-dParam-|Array
+(
+    [TelPhone] => 13037100638
+    [Address] => 武汉市洪山区光谷
+    [Postal] => 430000
+    [Email] => 1375603200@qq.com
+    [ReservedContent] => 我行
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 211
+)
+]

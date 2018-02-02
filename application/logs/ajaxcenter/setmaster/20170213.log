@@ -1,0 +1,170 @@
+[14:50:33][|-xParam-|Array
+(
+    [UserID] => 196
+    [bid] => 27
+    [trade_acco] => 1195
+    [ta_acco] => B01000009851
+    [oldBid] => 11
+    [origin_tradeacco] => 1164
+)
+]
+[14:50:33][|-sRs-|Array
+(
+    [flag] => 10000
+    [msg] => 修改成功
+    [info] => 
+)
+]
+[16:15:01][|-xParam-|Array
+(
+    [UserID] => 225
+    [bid] => 32
+    [trade_acco] => 1200
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:15:01][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]
+[16:17:04][|-xParam-|Array
+(
+    [UserID] => 225
+    [bid] => 32
+    [trade_acco] => 1200
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:17:05][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]
+[16:17:20][|-xParam-|Array
+(
+    [UserID] => 225
+    [bid] => 33
+    [trade_acco] => 1201
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:17:20][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]
+[16:18:31][|-xParam-|Array
+(
+    [UserID] => 225
+    [bid] => 32
+    [trade_acco] => 1200
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:18:31][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]
+[16:18:41][|-xParam-|Array
+(
+    [UserID] => 225
+    [bid] => 33
+    [trade_acco] => 1201
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:18:41][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]
+[16:22:13][|-xParam-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => *B0000001188
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[16:22:13][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]
+[16:22:37][|-xParam-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => *B0000001188
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[16:22:37][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]
+[16:23:44][|-xParam-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => *B0000001188
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[16:23:44][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]
+[16:24:11][|-xParam-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => *B0000001188
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[16:24:11][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]

@@ -1,0 +1,34 @@
+2017-02-16 13:52:15|-ip-|27.17.217.95|-mobile-|18671517368|-phoneArea-||||
+2017-02-16 13:52:15|-$cParam-|Array
+(
+    [mobile] => 18671517368
+    [ip] => 27.17.217.95
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-16 13:52:15
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 91
+    [Mobile] => 18671517368
+    [IP] => 27.17.217.95
+    [MobileCheck] => 652217
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 91
+            [ActiveTime] => 2017-02-16 13:52:15
+        )
+
+)
+

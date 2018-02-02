@@ -1,0 +1,110 @@
+[17:10:15][|-param-|Array
+(
+    [serial_no] => bj2017020917101516341
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [real_name] => 杜拉拉
+    [mobile_tel] => 18125530297
+    [order_date] => 20170209
+    [order_time] => 171015
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100001052
+)
+]
+[17:10:26][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[17:10:59][|-param-|Array
+(
+    [serial_no] => bj2017020917105979860
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [real_name] => 杜拉拉
+    [mobile_tel] => 18125530297
+    [order_date] => 20170209
+    [order_time] => 171059
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100001052
+)
+]
+[17:11:09][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[17:11:13][|-param-|Array
+(
+    [serial_no] => bj2017020917111353294
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [real_name] => 杜拉拉
+    [mobile_tel] => 18125530297
+    [order_date] => 20170209
+    [order_time] => 171113
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100001052
+)
+]
+[17:11:14][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687776
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[19:01:35][|-param-|Array
+(
+    [serial_no] => bj2017020919013551494
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 190135
+    [bank_account] => 6228480712413995614
+    [bank_no] => 103100022069
+)
+]
+[19:01:36][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687845
+                    [status] => 9
+                )
+
+        )
+
+)
+]

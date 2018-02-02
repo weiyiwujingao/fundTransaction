@@ -1,0 +1,102 @@
+[14:39:13][|-param-|Array
+(
+    [serial_no] => bj2017021514391329839
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420922199408090022
+    [real_name] => 麦芽糖
+    [mobile_tel] => 13037100638
+    [order_date] => 20170215
+    [order_time] => 143913
+    [bank_account] => 6217000340000565980
+    [bank_no] => 103521002452
+)
+]
+[14:39:15][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1690519
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[14:39:15][|-bankNum-|420922199408090022|-sex-|1]
+[14:40:59][|-param-|Array
+(
+    [serial_no] => bj2017021514405998963
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420922199408090022
+    [real_name] => 麦芽糖
+    [mobile_tel] => 13037100638
+    [order_date] => 20170215
+    [order_time] => 144059
+    [bank_account] => 6217000340000565980
+    [bank_no] => 103521002452
+)
+]
+[14:41:00][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1690524
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[14:41:00][|-bankNum-|420922199408090022|-sex-|1]
+[14:43:22][|-param-|Array
+(
+    [serial_no] => bj2017021514432258964
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420922199408090022
+    [real_name] => 麦芽糖
+    [mobile_tel] => 13037100638
+    [order_date] => 20170215
+    [order_time] => 144322
+    [bank_account] => 6217000340000565980
+    [bank_no] => 103521002436
+)
+]
+[14:43:23][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1690526
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[14:43:23][|-bankNum-|420922199408090022|-sex-|1]

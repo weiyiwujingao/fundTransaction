@@ -1,0 +1,76 @@
+17:54:08|sendUrl|http://mail.api.cnfol.net/bjindex.php
+|info|Array
+(
+    [mailto] => 1830705200@qq.com
+    [from] => passip
+    [subject] => 伯嘉邮件测试
+    [content] => 伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试
+    [key] => da2f00b38ed9273b974f254b7ba27571
+    [Original] => passip
+    [charset] => utf8
+    [smtpID] => 24
+)
+
+|rs|Array
+(
+    [data] => errid=0&msg=发送成功
+    [code] => 200
+)
+
+18:00:50|sendUrl|http://mail.api.cnfol.net/bjindex.php
+|info|Array
+(
+    [mailto] => 1830705200@qq.com
+    [from] => passip
+    [subject] => 伯嘉邮件测试
+    [content] => 伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试
+    [key] => da2f00b38ed9273b974f254b7ba27571
+    [Original] => passip
+    [charset] => utf8
+    [smtpID] => 25
+)
+
+|rs|Array
+(
+    [data] => errid=0&msg=发送成功
+    [code] => 200
+)
+
+18:01:14|sendUrl|http://mail.api.cnfol.net/bjindex.php
+|info|Array
+(
+    [mailto] => 1830705200@qq.com
+    [from] => passip
+    [subject] => 伯嘉邮件测试
+    [content] => 伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试
+    [key] => da2f00b38ed9273b974f254b7ba27571
+    [Original] => passip
+    [charset] => utf8
+    [smtpID] => 24
+)
+
+|rs|Array
+(
+    [data] => errid=0&msg=发送成功
+    [code] => 200
+)
+
+18:02:09|sendUrl|http://mail.api.cnfol.net/bjindex.php
+|info|Array
+(
+    [mailto] => 1830705200@qq.com
+    [from] => passip
+    [subject] => 伯嘉邮件测试
+    [content] => 伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试伯嘉邮件测试
+    [key] => da2f00b38ed9273b974f254b7ba27571
+    [Original] => passip
+    [charset] => utf8
+    [smtpID] => 26
+)
+
+|rs|Array
+(
+    [data] => errid=0&msg=发送成功
+    [code] => 200
+)
+

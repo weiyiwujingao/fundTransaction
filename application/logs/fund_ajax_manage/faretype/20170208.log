@@ -1,0 +1,2337 @@
+[14:49:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[14:49:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[14:49:24][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[14:49:24][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[14:49:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[14:49:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:48][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:48][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:48][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:51][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:51][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:51][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:51][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:53][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:30:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:31:13][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 260112
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:11][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:36:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 151002
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:43:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:43:37][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:43:37][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:43:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:43:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 300110
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"","min_balance":"","min_fare":"","fund_code":"","rowcount":"","share_type":"","error_code":"1000","total_count":"","sale_type":"","max_fare":"","cust_type":"","zoneno":"","fare_type":"","ratio":"","success_type":"0","max_hold":"","min_predays":"","busin_flag":"","min_hold":"","max_predays":"","error_info":"HS_QUERY-O1: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[15:44:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"000011","rowcount":"1","share_type":"A","error_code":"","total_count":"4","sale_type":"0","max_fare":"0.00","cust_type":"0","zoneno":"267","fare_type":"0","ratio":"1.0000","success_type":"0","max_hold":"4","min_predays":"","busin_flag":"024","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"000011","rowcount":"1","share_type":"A","error_code":"","total_count":"4","sale_type":"0","max_fare":"0.00","cust_type":"0","zoneno":"267","fare_type":"0","ratio":"1.0000","success_type":"0","max_hold":"4","min_predays":"","busin_flag":"024","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"000011","rowcount":"1","share_type":"A","error_code":"","total_count":"4","sale_type":"0","max_fare":"0.00","cust_type":"0","zoneno":"267","fare_type":"0","ratio":"1.0000","success_type":"0","max_hold":"4","min_predays":"","busin_flag":"024","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"000011","rowcount":"1","share_type":"A","error_code":"","total_count":"4","sale_type":"0","max_fare":"0.00","cust_type":"0","zoneno":"267","fare_type":"0","ratio":"1.0000","success_type":"0","max_hold":"4","min_predays":"","busin_flag":"024","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"000011","rowcount":"1","share_type":"A","error_code":"","total_count":"4","sale_type":"0","max_fare":"0.00","cust_type":"0","zoneno":"267","fare_type":"0","ratio":"1.0000","success_type":"0","max_hold":"4","min_predays":"","busin_flag":"024","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:44:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:46:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"000011","rowcount":"1","share_type":"A","error_code":"","total_count":"4","sale_type":"0","max_fare":"0.00","cust_type":"0","zoneno":"267","fare_type":"0","ratio":"1.0000","success_type":"0","max_hold":"4","min_predays":"","busin_flag":"024","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:46:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"000011","rowcount":"1","share_type":"A","error_code":"","total_count":"4","sale_type":"0","max_fare":"0.00","cust_type":"0","zoneno":"267","fare_type":"0","ratio":"1.0000","success_type":"0","max_hold":"4","min_predays":"","busin_flag":"024","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:46:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:46:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:46:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"000011","rowcount":"1","share_type":"A","error_code":"","total_count":"4","sale_type":"0","max_fare":"0.00","cust_type":"0","zoneno":"267","fare_type":"0","ratio":"1.0000","success_type":"0","max_hold":"4","min_predays":"","busin_flag":"024","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:46:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:59:37][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:59:37][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:59:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:59:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:59:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:59:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:59:40][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[15:59:40][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[16:08:12][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[16:08:12][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[16:08:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[16:08:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[16:08:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[16:08:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[16:08:31][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[16:08:31][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:10:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:10:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:10:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:10:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:17:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:17:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:17:39][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:17:39][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:29:34][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:29:34][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:29:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:29:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:29:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:29:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:29:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:29:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:30:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:30:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:30:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:30:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:30:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:30:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:44:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:44:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:44:42][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:44:42][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:44:42][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:44:43][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:44:43][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:44:43][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:47:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:47:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:47:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:47:42][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:47:43][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:47:43][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:47:44][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:47:44][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:50:33][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:50:33][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:50:33][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:50:34][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:50:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:50:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:50:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:50:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095E5B10B28E43C1A2A8EF29EFBB5BF12017020809503953118063
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170208","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170207","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]

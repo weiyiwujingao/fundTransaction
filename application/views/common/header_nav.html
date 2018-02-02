@@ -1,0 +1,38 @@
+    <div class="TopBg Cf">
+        <div class="W1000 TopBx Cf">
+            <div class="TopL Cf">
+                <!--<a href="http://www.cnfol.com" target="_blank" class="TopLk1 Ml0">中金在线</a>-->
+                <a href="javascript:alert('加入收藏请使用Ctrl+D进行添加');" class="TopLk1">收藏本站</a>
+                <!--未登录情况下显示此div-->
+                <!--<div class="TopSd Cf">
+                    <a href="javascript:void(0);" class="TopLk1 Gt1">请登录</a>
+                    <div class="TopSs TopHv1 Cf">
+                        <div class="TLgB1"></div>
+                        <a href="javascript:;" class="TLgBtn1"></a>
+                        <a href="javascript:;" class="TLgBtn2"></a>
+                        <p>400-027-9899</p>
+                        <span>服务时间：9:00-18:00（工作日）</span>
+                    </div>
+                </div>-->
+                <!--登陆后显示用户名及退出按钮-->
+                <a href="<?php echo TRADE_WEB_URL; ?>" class="TopLk1"><?php echo $nickName; ?></a>
+                <!-- a href="<?php echo TRADE_LOGOUT_URL . '?rt=' . base64_encode(cur_page_url());?>" class="TopLk1">安全退出</a -->
+                <a href="<?php echo TRADE_LOGOUT_URL ;?>" class="TopLk1">安全退出</a>
+            </div>
+            <div class="TopR Cf">
+                <a href="<?php echo TRADE_REG_URL;?>" target="_blank" class="TopLk1">免费开户</a>
+                <div class="TopSd Cf">
+                    <a href="javascript:void(0);" class="TopLk1 Gt1">基金交易</a>
+                    <div class="TopSs TopHv2 Cf">
+                        <a href="<?php echo TRADE_WEB_URL;?>">我的资产</a>
+                        <a href="<?php echo base_url() . 'fix/index.html'; ?>">基金定投</a>
+                        <!--<a href="javascript:;" target="_blank">现金宝</a>-->
+                        <a href="<?php echo base_url() . 'trade/fundtrade.html'; ?>">买基金</a>
+                    </div>
+                </div>
+                <a href="<?php echo WEB_URL, '/tools/optional'; ?>" target="_blank" class="TopLk1">自选基金</a>
+                <a href="<?php echo WEB_ABOUT_US;?>" target="_blank" class="TopLk1">关于我们</a>
+                <a href="<?php echo WEB_HELP; ?>" target="_blank" class="TopLk1 Mr0">帮助中心</a>
+            </div>
+        </div>
+    </div>

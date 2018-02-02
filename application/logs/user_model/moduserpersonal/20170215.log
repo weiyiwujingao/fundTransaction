@@ -1,0 +1,99 @@
+[14:18:20][|-xParam-|Array
+(
+    [home_tel] => 13037100638
+    [address] => 武汉市洪山区光谷
+    [zipcode] => 430000
+    [e_mail] => 1375603200@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1190
+    [client_full_name] => 吴晶
+    [client_name] => 吴晶
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [trade_account_name] => 吴晶
+)
+]
+[14:18:21][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0108
+                    [error_info] => 交易账号[1190]已销户或开户失败
+                )
+
+        )
+
+)
+]
+[14:18:48][|-xParam-|Array
+(
+    [home_tel] => 13037100638
+    [address] => 武汉市洪山区光谷
+    [zipcode] => 430000
+    [e_mail] => 1375603200@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1190
+    [client_full_name] => 吴晶
+    [client_name] => 吴晶
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [trade_account_name] => 吴晶
+)
+]
+[14:18:48][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0108
+                    [error_info] => 交易账号[1190]已销户或开户失败
+                )
+
+        )
+
+)
+]
+[14:20:44][|-xParam-|Array
+(
+    [home_tel] => 13037100638
+    [address] => 武汉市洪山区光谷
+    [zipcode] => 430000
+    [e_mail] => 1375603200@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1190
+    [client_full_name] => 吴晶
+    [client_name] => 吴晶
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [trade_account_name] => 吴晶
+)
+]
+[14:20:44][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0108
+                    [error_info] => 交易账号[1190]已销户或开户失败
+                )
+
+        )
+
+)
+]

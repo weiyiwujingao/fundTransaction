@@ -1,0 +1,1351 @@
+[09:36:49][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F8048EE6B446413B8EC94C2B1CFC9F622017012309364960218040
+    [serial_no] => bj2017012309364913905
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 402142700223
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[09:36:57][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A2E2C00AA4804863AB1BA111F5D41CB02017012309365728131531
+    [serial_no] => bj201701230936573628
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 402142700223
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[09:38:12][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 62B54299CF7E47EFA9D89F4FF36F666C2017012309381244008454
+    [serial_no] => bj2017012309381274293
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 402142700223
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[09:39:18][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 71D78B85B3F747ADAB6C8B094A9FAFE52017012309391816302955
+    [serial_no] => bj2017012309391786565
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 402142700223
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[09:39:30][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => BD9F36CFC1AD4B0A9D540FC8E9A44B892017012309393092127979
+    [serial_no] => bj2017012309393082666
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 402142700223
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[09:42:31][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 80CEE5C584BF4AA680E68BC9DF0A60782017012309423212686786
+    [serial_no] => bj2017012309423196583
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 402142700223
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[09:43:11][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A9003954ED5743119EEBBD332777D62A2017012309431162408555
+    [serial_no] => bj2017012309431158667
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 306110000011
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[09:47:29][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E8E04EB2B8F64076B7833C6819CA29532017012309460661320486
+    [serial_no] => bj2017012309472868690
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 306110000011
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[09:47:59][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => BBB6E816AF2046CFA534A2C689B2D48D2017012309475918722731
+    [serial_no] => bj2017012309475895833
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 306110000011
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[09:48:42][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 154BB4E690454D3AA2A744F362BE7AF12017012309484238302927
+    [serial_no] => bj2017012309484133167
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 306110000011
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:14:10][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => DE6D9FA7338F4F559D848842D4356B452017012310141095041099
+    [serial_no] => bj2017012310141078232
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 306110000011
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:15:26][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 558D0180D0A04F97B87034CBBF6E197C2017012310152649661418
+    [serial_no] => bj2017012310152599042
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 306110000011
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:16:29][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A659C3C3589945CBA25ACF73135403C82017012310162937262637
+    [serial_no] => bj2017012310162832471
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 306110000011
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:25:00][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E2CC5303611B42D29015F97FB3510BE42017012310250019434516
+    [serial_no] => bj2017012310245997674
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:25:06][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => DAC8BEC6EAA1453F9913932E85B85ACA2017012310250624857058
+    [serial_no] => bj2017012310250526510
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:25:34][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F5DFC55A0F394B25BF77B2980F9317CE2017012310253444923273
+    [serial_no] => bj2017012310253329562
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:25:45][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 213C318EE6854158876D9C4F3B3E11C32017012310254574288723
+    [serial_no] => bj2017012310254545495
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:25:53][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A9961E67FDEB4D47AE2072A222BF552E2017012310255321879898
+    [serial_no] => bj2017012310255233627
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:26:28][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 29535BA8AF4145C8AB50DF059336D5EE2017012310262859577645
+    [serial_no] => bj2017012310262848507
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:31:11][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 55EE8440190445E4B746E141625085022017012310311188170253
+    [serial_no] => bj2017012310311124237
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:32:53][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 2D2A88E286FB4896A90F392519CBA17E2017012310325373952861
+    [serial_no] => bj201701231032537876
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:33:08][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A12F5CD7A74A43C1BC328F459B254E232017012310330873173853
+    [serial_no] => bj20170123103308738
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:33:21][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => C14137A4786E471BB94486B7EE3E68782017012310332151631773
+    [serial_no] => bj20170123103321846
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:33:41][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AEC1486C92AD49ACA0B67EB4499D8AD92017012310334111051103
+    [serial_no] => bj2017012310334059830
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 6228480068816522999
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:39:08][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => C87C9595A48F472D901A66CD231D3BD92017012310390345604740
+    [serial_no] => bj2017012310390212584
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[10:39:32][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 6D9F4E97A929400388C8FF73BA95CA752017012310392840698419
+    [serial_no] => bj201701231039272305
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[10:39:50][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 931A79E2B9634C8CB248B49958A920322017012310394557139862
+    [serial_no] => bj2017012310394593391
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203391000013
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[10:41:44][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 503053A968CF458699DE8B306D2036912017012310414030134110
+    [serial_no] => bj2017012310413922907
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[10:42:14][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => BE084B15BE7D46508C4297AC0750ACD22017012310421461661914
+    [serial_no] => bj201701231042145065
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [bank_account] => 6228480068816522777
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"错误的卡号校验位","error_no":-1}
+    [code] => 200
+)
+]
+[10:42:31][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 1736F02D146D4DB99D2F08C8836D76A82017012310422697770294
+    [serial_no] => bj2017012310422623103
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[11:06:19][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 54BBC51BC93547E4B25A632B49B923252017012311061380901231
+    [serial_no] => bj201701231106137975
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[14:48:01][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7A31ECC38428423D9488C8C9735B90732017012314480027620563
+    [serial_no] => bj2017012314475922544
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 144759
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680369","status":"9"}]}
+    [code] => 200
+)
+]
+[14:54:27][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36B799E6A2F244E38D7E3260B5844A722017012314542679302196
+    [serial_no] => bj2017012314542644962
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951999
+    [order_date] => 20170123
+    [order_time] => 145426
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680374","status":"9"}]}
+    [code] => 200
+)
+]
+[14:54:42][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 79A2D3A91C564DF5ACEB0089942DB14C2017012314544233301251
+    [serial_no] => bj2017012314544177952
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 145441
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680375","status":"9"}]}
+    [code] => 200
+)
+]
+[14:54:50][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4736D36FC3814A2FA9B52C1DA55A052D2017012314544977558971
+    [serial_no] => bj2017012314544943085
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 145449
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680376","status":"9"}]}
+    [code] => 200
+)
+]
+[14:55:19][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E72A3D99B87A402AA1322FC8911D60322017012314551966527089
+    [serial_no] => bj2017012314551846732
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 145518
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680377","status":"9"}]}
+    [code] => 200
+)
+]
+[14:55:26][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 669D7204934748F7A4D067CFB5790AB22017012314552655483367
+    [serial_no] => bj2017012314552577001
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 145525
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680378","status":"9"}]}
+    [code] => 200
+)
+]
+[14:55:30][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A647C660276442909E6333A12F9B4E502017012314553041046935
+    [serial_no] => bj2017012314552995144
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 145529
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680379","status":"9"}]}
+    [code] => 200
+)
+]
+[14:55:46][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 095799F5ECCB4A2395A21437CEA18B1E2017012314554680980141
+    [serial_no] => bj2017012314554647188
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 145546
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680380","status":"9"}]}
+    [code] => 200
+)
+]
+[14:55:50][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B2F86997D1224B3A840EA98DC112988B2017012314555012519177
+    [serial_no] => bj2017012314554960442
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 145549
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680381","status":"9"}]}
+    [code] => 200
+)
+]
+[14:56:00][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0725268C4A494B59A066F8E642037BEF2017012314555986238571
+    [serial_no] => bj2017012314555995581
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 145559
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680382","status":"9"}]}
+    [code] => 200
+)
+]
+[15:26:27][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4C1FA24660C74C7B85E2B8DAFBF698882017012315262685993802
+    [serial_no] => bj2017012315262687212
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 152626
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680411","status":"9"}]}
+    [code] => 200
+)
+]
+[16:29:49][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 1534157DC8794F48A48C144DC05178252017012316294933001852
+    [serial_no] => bj2017012316294890441
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951000
+    [order_date] => 20170123
+    [order_time] => 162948
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680445","status":"9"}]}
+    [code] => 200
+)
+]
+[17:04:52][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 825EDB63DF24469CAFB46C4C2F4164992017012317044972487090
+    [serial_no] => bj2017012317044889349
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 170448
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"联机交易交互失败String index out of range: -21","error_no":-1}
+    [code] => 200
+)
+]
+[17:05:16][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8272A06E32CF44138BE20041DC8565D22017012317051587729298
+    [serial_no] => bj2017012317051541432
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 170515
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680471","status":"9"}]}
+    [code] => 200
+)
+]
+[17:18:04][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 3713FE89856149868488C3C2569ACC672017012317180499773797
+    [sms_serial_no] => 553262
+    [original_serial_no] => Array
+        (
+            [serialNo] => bj2017012317051541432
+        )
+
+    [capital_mode] => l
+    [merchant_name] => test
+)
+|-cRs-|Array
+(
+    [data] => <html><head><title>Apache Tomcat/7.0.40 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - Request processing failed; nested exception is java.lang.IllegalArgumentException: Invalid indexed property 'original_serial_no[serialNo]' on bean class 'class com.hundsun.fcloud.pay.model.ufx.UFXSmsSignContractParam'</h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u>Request processing failed; nested exception is java.lang.IllegalArgumentException: Invalid indexed property 'original_serial_no[serialNo]' on bean class 'class com.hundsun.fcloud.pay.model.ufx.UFXSmsSignContractParam'</u></p><p><b>description</b> <u>The server encountered an internal error that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalArgumentException: Invalid indexed property 'original_serial_no[serialNo]' on bean class 'class com.hundsun.fcloud.pay.model.ufx.UFXSmsSignContractParam'
+	org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:979)
+	org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:869)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:843)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	com.hundsun.fcloud.pay.util.LoggingFilter.doFilterInternal(LoggingFilter.java:50)
+	org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:85)
+	org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+</pre></p><p><b>root cause</b> <pre>java.lang.IllegalArgumentException: Invalid indexed property 'original_serial_no[serialNo]' on bean class 'class com.hundsun.fcloud.pay.model.ufx.UFXSmsSignContractParam'
+	org.apache.commons.beanutils.PropertyUtilsBean.setIndexedProperty(PropertyUtilsBean.java:1594)
+	org.apache.commons.beanutils.PropertyUtilsBean.setNestedProperty(PropertyUtilsBean.java:1955)
+	org.apache.commons.beanutils.PropertyUtilsBean.setProperty(PropertyUtilsBean.java:2064)
+	org.apache.commons.beanutils.PropertyUtils.setProperty(PropertyUtils.java:858)
+	com.hundsun.fcloud.pay.ufx.spring.mvc.UFXArgumentResolver.resolveArgument(UFXArgumentResolver.java:75)
+	org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:77)
+	org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:162)
+	org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:129)
+	org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:776)
+	org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:705)
+	org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959)
+	org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893)
+	org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:967)
+	org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:869)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:843)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	com.hundsun.fcloud.pay.util.LoggingFilter.doFilterInternal(LoggingFilter.java:50)
+	org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:85)
+	org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.40 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.40</h3></body></html>
+    [code] => 500
+)
+]
+[17:18:15][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 03DCB71BDC824FD580ECF560FA12E7DB2017012317181587495879
+    [sms_serial_no] => 553262
+    [original_serial_no] => Array
+        (
+            [serialNo] => bj2017012317051541432
+        )
+
+    [capital_mode] => l
+    [merchant_name] => test
+)
+|-cRs-|Array
+(
+    [data] => <html><head><title>Apache Tomcat/7.0.40 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 500 - Request processing failed; nested exception is java.lang.IllegalArgumentException: Invalid indexed property 'original_serial_no[serialNo]' on bean class 'class com.hundsun.fcloud.pay.model.ufx.UFXSmsSignContractParam'</h1><HR size="1" noshade="noshade"><p><b>type</b> Exception report</p><p><b>message</b> <u>Request processing failed; nested exception is java.lang.IllegalArgumentException: Invalid indexed property 'original_serial_no[serialNo]' on bean class 'class com.hundsun.fcloud.pay.model.ufx.UFXSmsSignContractParam'</u></p><p><b>description</b> <u>The server encountered an internal error that prevented it from fulfilling this request.</u></p><p><b>exception</b> <pre>org.springframework.web.util.NestedServletException: Request processing failed; nested exception is java.lang.IllegalArgumentException: Invalid indexed property 'original_serial_no[serialNo]' on bean class 'class com.hundsun.fcloud.pay.model.ufx.UFXSmsSignContractParam'
+	org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:979)
+	org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:869)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:843)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	com.hundsun.fcloud.pay.util.LoggingFilter.doFilterInternal(LoggingFilter.java:50)
+	org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:85)
+	org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+</pre></p><p><b>root cause</b> <pre>java.lang.IllegalArgumentException: Invalid indexed property 'original_serial_no[serialNo]' on bean class 'class com.hundsun.fcloud.pay.model.ufx.UFXSmsSignContractParam'
+	org.apache.commons.beanutils.PropertyUtilsBean.setIndexedProperty(PropertyUtilsBean.java:1594)
+	org.apache.commons.beanutils.PropertyUtilsBean.setNestedProperty(PropertyUtilsBean.java:1955)
+	org.apache.commons.beanutils.PropertyUtilsBean.setProperty(PropertyUtilsBean.java:2064)
+	org.apache.commons.beanutils.PropertyUtils.setProperty(PropertyUtils.java:858)
+	com.hundsun.fcloud.pay.ufx.spring.mvc.UFXArgumentResolver.resolveArgument(UFXArgumentResolver.java:75)
+	org.springframework.web.method.support.HandlerMethodArgumentResolverComposite.resolveArgument(HandlerMethodArgumentResolverComposite.java:77)
+	org.springframework.web.method.support.InvocableHandlerMethod.getMethodArgumentValues(InvocableHandlerMethod.java:162)
+	org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:129)
+	org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:776)
+	org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:705)
+	org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959)
+	org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893)
+	org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:967)
+	org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:869)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:647)
+	org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:843)
+	javax.servlet.http.HttpServlet.service(HttpServlet.java:728)
+	com.hundsun.fcloud.pay.util.LoggingFilter.doFilterInternal(LoggingFilter.java:50)
+	org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:85)
+	org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+</pre></p><p><b>note</b> <u>The full stack trace of the root cause is available in the Apache Tomcat/7.0.40 logs.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/7.0.40</h3></body></html>
+    [code] => 500
+)
+]
+[17:19:17][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => FF88E9A5587641E8BD0BB37025DC8AF82017012317191779818900
+    [sms_serial_no] => 553262
+    [original_serial_no] => bj2017012317051541432
+    [capital_mode] => l
+    [merchant_name] => test
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"手机签约系统内部异常: 统一支付不支持的标准证件类型: null, 请核查","error_no":-1}
+    [code] => 200
+)
+]
+[17:30:16][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 628F7ED82FDC42D0899B0D146B0A58C62017012317301683373457
+    [sms_serial_no] => 553262
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"Data length of element[PhoneNO] is incorrect!","error_no":-1}
+    [code] => 200
+)
+]
+[17:30:57][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 131EC550C47247E6A2CC38E2EFF2C3E42017012317305293387851
+    [sms_serial_no] => 553262
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:31:04][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D931830E05584FFDA049BDB4ECAE80DA2017012317310019176974
+    [sms_serial_no] => 553262
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:31:39][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5D51EDAD666B4060A9BCE7959BC45C8E2017012317313563160661
+    [sms_serial_no] => 553262
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:31:55][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 709FD6A1376145119C7F453B04DEFE052017012317315082274222
+    [sms_serial_no] => 553262
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 173149
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:32:03][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 458C07FC334B4B7DB8D9BDCD2C356A042017012317315953847996
+    [sms_serial_no] => 553262
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 173158
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:33:13][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B804D7FACFF74CB6A0D8DD445421DA712017012317330913519225
+    [sms_serial_no] => 553262
+    [original_serial_no] => 1680471
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 173308
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:33:53][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8D2A20ABFF6C4B798C80FBC8FD7BC9382017012317334925415074
+    [serial_no] => bj2017012317334828790
+    [sms_serial_no] => 553262
+    [original_serial_no] => 1680471
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 173348
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:35:31][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B440177857E645679805B2BA4057CE292017012317352772317276
+    [serial_no] => bj2017012317352676125
+    [sms_serial_no] => 553262
+    [original_serial_no] => 1680471
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 173526
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:37:16][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 34C6D57E21014054807B0A8B575274562017012317371530900082
+    [serial_no] => bj201701231737141553
+    [sms_serial_no] => 553262
+    [original_serial_no] => 1680471
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 173714
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"系统异常、失效，请联系快钱","error_no":-1}
+    [code] => 200
+)
+]
+[17:37:22][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 6F04DF3A20F54C4F8E2C0002317214572017012317372196509821
+    [serial_no] => bj2017012317372173880
+    [sms_serial_no] => 553262
+    [original_serial_no] => 1680471
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 173721
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"系统异常、失效，请联系快钱","error_no":-1}
+    [code] => 200
+)
+]
+[18:41:46][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 3CB58B21E5ED4669BCFA3A95967781FD2017012318414616844416
+    [serial_no] => bj2017012318414581997
+    [sms_serial_no] => 553262
+    [original_serial_no] => 1680471
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184145
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"系统异常、失效，请联系快钱","error_no":-1}
+    [code] => 200
+)
+]

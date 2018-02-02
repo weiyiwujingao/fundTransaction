@@ -1,0 +1,120 @@
+[14:12:59][|-param-|Array
+(
+    [mobile_code] => 380988
+    [sms_serial_no] => 1689088
+    [original_serial_no] => bj2017021314122048172
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420625199305046835
+    [mobile_tel] => 13971357321
+    [order_date] => 20170213
+    [order_time] => 141259
+    [bank_account] => 6217711504504513
+    [bank_no] => 302521038273
+)
+]
+[14:13:00][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:13:01][|-iParam-|Array
+(
+    [UserID] => 225
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中信实业银行
+    [BankNo] => 015
+    [BranchBank] => 302521038273
+    [BranchName] => 中信银行股份有限公司武汉中南支行
+    [BankCard] => 6217711504504513
+    [Mobile] => 13971357321
+    [NickName] => 石自强
+    [IdentityNumber] => 420625199305046835
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 14:13:00
+)
+]
+[14:13:01][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[14:13:10][|-param-|Array
+(
+    [mobile_code] => 039429
+    [sms_serial_no] => 1689091
+    [original_serial_no] => bj201702131412497440
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420103198901170410
+    [mobile_tel] => 15827379934
+    [order_date] => 20170213
+    [order_time] => 141310
+    [bank_account] => 6226901511006813
+    [bank_no] => 302521038101
+)
+]
+[14:13:10][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:13:11][|-iParam-|Array
+(
+    [UserID] => 226
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中信实业银行
+    [BankNo] => 015
+    [BranchBank] => 302521038101
+    [BranchName] => 中信银行股份有限公司武汉分行营业部
+    [BankCard] => 6226901511006813
+    [Mobile] => 15827379934
+    [NickName] => 成龙
+    [IdentityNumber] => 420103198901170410
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 14:13:10
+)
+]
+[14:13:11][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]

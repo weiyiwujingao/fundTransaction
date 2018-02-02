@@ -1,0 +1,66 @@
+[11:16:55][Array
+(
+    [UserID] => 178
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10268
+    [OperatDetail] => 开户-1184
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-09 11:16:54
+)
+]
+[16:16:13][Array
+(
+    [UserID] => 166
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10278
+    [OperatDetail] => 开户-1188
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-09 16:16:12
+)
+]
+[16:41:02][Array
+(
+    [UserID] => 220
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10288
+    [OperatDetail] => 开户-1189
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-09 16:41:01
+)
+]
+[16:52:30][Array
+(
+    [UserID] => 211
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10298
+    [OperatDetail] => 开户-1190
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-09 16:52:29
+)
+]
+[17:11:54][Array
+(
+    [UserID] => 178
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10268
+    [OperatDetail] => 增开交易账号-1191
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-09 17:11:53
+)
+]
+[19:02:02][Array
+(
+    [UserID] => 220
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10288
+    [OperatDetail] => 增开交易账号-1192
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-09 19:02:01
+)
+]

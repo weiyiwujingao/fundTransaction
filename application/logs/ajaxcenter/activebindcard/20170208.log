@@ -1,0 +1,383 @@
+[14:36:58][|-param-|Array
+(
+    [mobile_code] => 820044
+    [sms_serial_no] => 1686962
+    [original_serial_no] => bj201702081436336853
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [mobile_tel] => 18671517368
+    [order_date] => 20170208
+    [order_time] => 143658
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022069
+)
+]
+[14:36:59][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:36:59][|-iParam-|Array
+(
+    [UserID] => 209
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103100022069
+    [BranchName] => 中国农业银行股份有限公司北京东四环华腾分理处
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18671517368
+    [NickName] => 奖励
+    [IdentityNumber] => 421281199303030145
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:36:59
+)
+]
+[14:36:59][|-iRs-|Array
+(
+    [flag] => 10007
+    [msg] => 实名认证添加失败
+    [info] => 
+)
+]
+[14:37:03][|-param-|Array
+(
+    [mobile_code] => 820044
+    [sms_serial_no] => 1686962
+    [original_serial_no] => bj201702081436336853
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [mobile_tel] => 18671517368
+    [order_date] => 20170208
+    [order_time] => 143703
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022069
+)
+]
+[14:37:08][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]
+[14:37:45][|-param-|Array
+(
+    [mobile_code] => 869297
+    [sms_serial_no] => 1686964
+    [original_serial_no] => bj2017020814373176689
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [mobile_tel] => 18671517368
+    [order_date] => 20170208
+    [order_time] => 143745
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022069
+)
+]
+[14:37:46][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:37:46][|-iParam-|Array
+(
+    [UserID] => 209
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103100022069
+    [BranchName] => 中国农业银行股份有限公司北京东四环华腾分理处
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18671517368
+    [NickName] => 江讲
+    [IdentityNumber] => 421281199303030145
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:37:46
+)
+]
+[14:37:46][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[14:42:44][|-param-|Array
+(
+    [mobile_code] => 384985
+    [sms_serial_no] => 1686971
+    [original_serial_no] => bj201702081442264432
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [mobile_tel] => 13599951535
+    [order_date] => 20170208
+    [order_time] => 144244
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105165100029
+)
+]
+[14:42:44][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:42:45][|-iParam-|Array
+(
+    [UserID] => 181
+    [Province] => 山西省
+    [City] => 平定县
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105165100029
+    [BranchName] => 中国建设银行股份有限公司阳泉城东分理处
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 阿纳啊
+    [IdentityNumber] => 421281199303030145
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:42:44
+)
+]
+[14:42:45][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[14:43:22][|-param-|Array
+(
+    [mobile_code] => 342746
+    [sms_serial_no] => 1686972
+    [original_serial_no] => bj2017020814430989526
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199912030145
+    [mobile_tel] => 13599951535
+    [order_date] => 20170208
+    [order_time] => 144322
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105165100029
+)
+]
+[14:43:23][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:43:23][|-iParam-|Array
+(
+    [UserID] => 181
+    [Province] => 山西省
+    [City] => 平定县
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105165100029
+    [BranchName] => 中国建设银行股份有限公司阳泉城东分理处
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 阿纳啊
+    [IdentityNumber] => 421281199912030145
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:43:23
+)
+]
+[14:43:23][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 投资人未满18周岁不允许交易
+    [info] => 
+)
+]
+[14:47:00][|-param-|Array
+(
+    [mobile_code] => 326853
+    [sms_serial_no] => 1686976
+    [original_serial_no] => bj2017020814464256548
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281197910020365
+    [mobile_tel] => 13599951535
+    [order_date] => 20170208
+    [order_time] => 144700
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105161002001
+)
+]
+[14:47:00][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:47:01][|-iParam-|Array
+(
+    [UserID] => 181
+    [Province] => 山西省
+    [City] => 太原市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105161002001
+    [BranchName] => 中国建设银行太原市迎泽支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 阿纳啊
+    [IdentityNumber] => 421281197910020365
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:47:00
+)
+]
+[14:47:01][|-iRs-|Array
+(
+    [flag] => 10007
+    [msg] => 实名认证添加失败
+    [info] => 
+)
+]
+[15:30:47][|-param-|Array
+(
+    [mobile_code] => 387436
+    [sms_serial_no] => 1687037
+    [original_serial_no] => bj2017020815303086028
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 423125199911119969
+    [mobile_tel] => 13599951535
+    [order_date] => 20170208
+    [order_time] => 153047
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105161003012
+)
+]
+[15:30:48][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:30:48][|-iParam-|Array
+(
+    [UserID] => 216
+    [Province] => 山西省
+    [City] => 太原市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105161003012
+    [BranchName] => 中国建设银行太原市河西支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 文阿奎
+    [IdentityNumber] => 423125199911119969
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 15:30:48
+)
+]
+[15:30:48][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 投资人未满18周岁不允许交易
+    [info] => 
+)
+]

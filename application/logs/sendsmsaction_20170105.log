@@ -1,0 +1,753 @@
+2017-01-05 13:53:23 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码223170，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 13:53:23  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81223170%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 13:53:42 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码228757，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 13:53:42  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81228757%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 13:54:14 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码806058，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 13:54:14  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81806058%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 13:56:16 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码924735，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 13:56:16  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81924735%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 13:57:38 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码084084，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 13:57:38  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81084084%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 13:59:45 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码107533，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 13:59:46  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81107533%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:00:05 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码145214，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:00:05  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81145214%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:00:41 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码956175，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:00:41  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81956175%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:02:33 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码374116，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:02:33  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81374116%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:02:50 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码250776，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:02:50  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81250776%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:04:45 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码121367，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:04:45  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81121367%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:05:46 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码810799，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:05:47  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81810799%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:10:17 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码128774，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:10:18  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81128774%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:10:30 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码497277，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:10:30  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81497277%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:10:51 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码917654，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:10:51  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81917654%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:39:48 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码618847，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:40:32 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码150266，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:40:34  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81150266%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:41:05 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码196290，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:41:05  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81196290%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:42:38 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码751565，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:42:38  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81751565%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:43:01 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码093663，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:43:01  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81093663%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:43:28 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码475849，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:43:28  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81475849%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:43:48 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码890420，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:43:48  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81890420%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:44:28 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码018237，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:45:01 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码722281，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:45:35 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码863075，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:45:35  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81863075%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:46:23 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码183310，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:46:23  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81183310%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:49:12 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码716810，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:49:12  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81716810%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:50:44 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码903350，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:50:44  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81903350%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:51:12 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码727073，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:51:12  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81727073%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:52:18 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码371191，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:52:18  Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81371191%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+  
+2017-01-05 14:53:19 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码169890，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:53:19|-postParam-|Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81169890%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+|-smsRs-|
+2017-01-05 14:55:21 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码523212，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 14:55:21|-postParam-|Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81523212%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+|-smsRs-|
+2017-01-05 15:23:19 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码926458，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 15:23:20|-postParam-|Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81926458%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+|-smsRs-|0
+2017-01-05 15:53:29 |-info-| Array
+(
+    [mobile] => 18650517649
+    [type] => 9
+    [content] => 验证码950467，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 15:53:29|-postParam-|Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81950467%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 18650517649
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+|-smsRs-|0
+2017-01-05 16:09:06 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码385804，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 16:09:06|-postParam-|Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81385804%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+|-smsRs-|0
+2017-01-05 16:30:37 |-info-| Array
+(
+    [mobile] => 13338550457
+    [type] => 9
+    [content] => 验证码777032，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-05 16:30:37|-postParam-|Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81777032%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 13338550457
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+|-smsRs-|0

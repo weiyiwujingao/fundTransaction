@@ -1,0 +1,152 @@
+[09:23:04][2017-02-16 09:23:04|||type|||qq|||qq_user_info|||Array
+(
+    [ret] => 0
+    [msg] => 
+    [is_lost] => 0
+    [nickname] => 白小天
+    [gender] => 女
+    [province] => 福建
+    [city] => 福州
+    [year] => 1988
+    [figureurl] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/30
+    [figureurl_1] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/50
+    [figureurl_2] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/100
+    [figureurl_qq_1] => http://q.qlogo.cn/qqapp/101372824/58C033F4DCA536F779EBD3E6862FC574/40
+    [figureurl_qq_2] => http://q.qlogo.cn/qqapp/101372824/58C033F4DCA536F779EBD3E6862FC574/100
+    [is_yellow_vip] => 0
+    [vip] => 0
+    [yellow_vip_level] => 0
+    [level] => 0
+    [is_yellow_year_vip] => 0
+)
+
+]
+[09:31:09][2017-02-16 09:31:09|||type|||qq|||qq_user_info|||Array
+(
+    [ret] => 0
+    [msg] => 
+    [is_lost] => 0
+    [nickname] => 武汉-测试-江子晗
+    [gender] => 女
+    [province] => 
+    [city] => 
+    [year] => 1992
+    [figureurl] => http://qzapp.qlogo.cn/qzapp/101372824/44671123B24E4430B74C509DFE52ED85/30
+    [figureurl_1] => http://qzapp.qlogo.cn/qzapp/101372824/44671123B24E4430B74C509DFE52ED85/50
+    [figureurl_2] => http://qzapp.qlogo.cn/qzapp/101372824/44671123B24E4430B74C509DFE52ED85/100
+    [figureurl_qq_1] => http://q.qlogo.cn/qqapp/101372824/44671123B24E4430B74C509DFE52ED85/40
+    [figureurl_qq_2] => http://q.qlogo.cn/qqapp/101372824/44671123B24E4430B74C509DFE52ED85/100
+    [is_yellow_vip] => 0
+    [vip] => 0
+    [yellow_vip_level] => 0
+    [level] => 0
+    [is_yellow_year_vip] => 0
+)
+
+]
+[10:31:34][2017-02-16 10:31:34|||type|||qq|||qq_user_info|||Array
+(
+    [ret] => 0
+    [msg] => 
+    [is_lost] => 0
+    [nickname] => ☆★☆★
+    [gender] => 男
+    [province] => 福建
+    [city] => 
+    [year] => 1988
+    [figureurl] => http://qzapp.qlogo.cn/qzapp/101372824/FF931F4296E447FA5531B68FD74B2105/30
+    [figureurl_1] => http://qzapp.qlogo.cn/qzapp/101372824/FF931F4296E447FA5531B68FD74B2105/50
+    [figureurl_2] => http://qzapp.qlogo.cn/qzapp/101372824/FF931F4296E447FA5531B68FD74B2105/100
+    [figureurl_qq_1] => http://q.qlogo.cn/qqapp/101372824/FF931F4296E447FA5531B68FD74B2105/40
+    [figureurl_qq_2] => http://q.qlogo.cn/qqapp/101372824/FF931F4296E447FA5531B68FD74B2105/100
+    [is_yellow_vip] => 0
+    [vip] => 0
+    [yellow_vip_level] => 0
+    [level] => 0
+    [is_yellow_year_vip] => 0
+)
+
+]
+[10:34:21][2017-02-16 10:34:21|||type|||wechat|||$aRs|||Array
+(
+    [data] => {"access_token":"bqq4-jDlvRbLlHB3P30GQJzX6fR-T2oL5DY07VSUjV58SFWU8LvigRhNvgF4zn0sFrRNmMqF6TGlXJ0To_Ff4m6g4GtKO5mcfXyXV2X7iQk","expires_in":7200,"refresh_token":"8yg2VGJXOpLMOeC0_jP1qbM4sVQv57brFcGScVFK2tx_jO9T08NEq6e3fBqjTw3mYUsPm3AP9xOGP31zfbkS1vUTFGWNfRAqpGipd_eVMyU","openid":"o8QnKv0cuE-yxU53Eou4PGeCr528","scope":"snsapi_login","unionid":"o_DW-wBqAaq-OgJzuj1aOZqYycCI"}
+    [code] => 200
+)
+
+]
+[10:52:53][2017-02-16 10:52:53|||type|||wechat|||$aRs|||Array
+(
+    [data] => {"access_token":"eLtWXHl-Nfv89ydNJNHb2GOyBWuLG5CvGXaePsRVovVqMgSc0ZQ-u2w8pEYFpUY1rF47ljTX45ntuwQCYnuqrqUkaGJ0C7GDTh-mIPzZ8xQ","expires_in":7200,"refresh_token":"CxlB25XhO2TTpM4s-yVUwgA_OIVKbMSVFfxbuA8eHXmcay6VVZFKqT_2LQm_Nqlk3kXg70nk8DxONM3KMwJvxT7YHL1wG30bYulYfaGGGQM","openid":"o8QnKv0cuE-yxU53Eou4PGeCr528","scope":"snsapi_login","unionid":"o_DW-wBqAaq-OgJzuj1aOZqYycCI"}
+    [code] => 200
+)
+
+]
+[13:55:53][2017-02-16 13:55:53|||type|||qq|||qq_user_info|||Array
+(
+    [ret] => 0
+    [msg] => 
+    [is_lost] => 0
+    [nickname] => 丹丹
+    [gender] => 女
+    [province] => 福建
+    [city] => 福州
+    [year] => 1984
+    [figureurl] => http://qzapp.qlogo.cn/qzapp/101372824/BC17E873BBFD338178106DE8697A0478/30
+    [figureurl_1] => http://qzapp.qlogo.cn/qzapp/101372824/BC17E873BBFD338178106DE8697A0478/50
+    [figureurl_2] => http://qzapp.qlogo.cn/qzapp/101372824/BC17E873BBFD338178106DE8697A0478/100
+    [figureurl_qq_1] => http://q.qlogo.cn/qqapp/101372824/BC17E873BBFD338178106DE8697A0478/40
+    [figureurl_qq_2] => http://q.qlogo.cn/qqapp/101372824/BC17E873BBFD338178106DE8697A0478/100
+    [is_yellow_vip] => 0
+    [vip] => 0
+    [yellow_vip_level] => 0
+    [level] => 0
+    [is_yellow_year_vip] => 0
+)
+
+]
+[14:17:28][2017-02-16 14:17:28|||type|||qq|||qq_user_info|||Array
+(
+    [ret] => 0
+    [msg] => 
+    [is_lost] => 0
+    [nickname] => 白小天
+    [gender] => 女
+    [province] => 福建
+    [city] => 福州
+    [year] => 1988
+    [figureurl] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/30
+    [figureurl_1] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/50
+    [figureurl_2] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/100
+    [figureurl_qq_1] => http://q.qlogo.cn/qqapp/101372824/58C033F4DCA536F779EBD3E6862FC574/40
+    [figureurl_qq_2] => http://q.qlogo.cn/qqapp/101372824/58C033F4DCA536F779EBD3E6862FC574/100
+    [is_yellow_vip] => 0
+    [vip] => 0
+    [yellow_vip_level] => 0
+    [level] => 0
+    [is_yellow_year_vip] => 0
+)
+
+]
+[14:20:10][2017-02-16 14:20:10|||type|||qq|||qq_user_info|||Array
+(
+    [ret] => 0
+    [msg] => 
+    [is_lost] => 0
+    [nickname] => 白小天
+    [gender] => 女
+    [province] => 福建
+    [city] => 福州
+    [year] => 1988
+    [figureurl] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/30
+    [figureurl_1] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/50
+    [figureurl_2] => http://qzapp.qlogo.cn/qzapp/101372824/58C033F4DCA536F779EBD3E6862FC574/100
+    [figureurl_qq_1] => http://q.qlogo.cn/qqapp/101372824/58C033F4DCA536F779EBD3E6862FC574/40
+    [figureurl_qq_2] => http://q.qlogo.cn/qqapp/101372824/58C033F4DCA536F779EBD3E6862FC574/100
+    [is_yellow_vip] => 0
+    [vip] => 0
+    [yellow_vip_level] => 0
+    [level] => 0
+    [is_yellow_year_vip] => 0
+)
+
+]

@@ -1,0 +1,238 @@
+[13:53:28][|-param-|Array
+(
+    [serial_no] => bj2017021313532818748
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420103198901170410
+    [real_name] => 成龙
+    [mobile_tel] => 15827379934
+    [order_date] => 20170213
+    [order_time] => 135328
+    [bank_account] => 6226901511006813
+    [bank_no] => 302521038216
+)
+]
+[13:53:29][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1689062
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[13:53:29][|-bankNum-|420103198901170410|-sex-|0]
+[13:55:15][|-param-|Array
+(
+    [serial_no] => bj2017021313551515732
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420103198901170410
+    [real_name] => 成龙
+    [mobile_tel] => 15827379934
+    [order_date] => 20170213
+    [order_time] => 135515
+    [bank_account] => 6226901511006813
+    [bank_no] => 302521038216
+)
+]
+[13:55:16][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1689065
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[13:55:16][|-bankNum-|420103198901170410|-sex-|0]
+[14:02:05][|-param-|Array
+(
+    [serial_no] => bj2017021314020598431
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 520123198612132563
+    [real_name] => 哦也
+    [mobile_tel] => 13599951535
+    [order_date] => 20170213
+    [order_time] => 140205
+    [bank_account] => 6227000013850134103
+    [bank_no] => 102176201501
+)
+]
+[14:02:07][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1689075
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[14:02:07][|-bankNum-|520123198612132563|-sex-|1]
+[14:05:49][|-param-|Array
+(
+    [serial_no] => bj2017021314054958661
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 523214198502011456
+    [real_name] => 阿凡我
+    [mobile_tel] => 13599951535
+    [order_date] => 20170213
+    [order_time] => 140549
+    [bank_account] => 6227000013850134103
+    [bank_no] => 302521038152
+)
+]
+[14:05:51][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1689078
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[14:05:51][|-bankNum-|523214198502011456|-sex-|0]
+[14:11:05][|-param-|Array
+(
+    [serial_no] => bj2017021314110581667
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420103198901170410
+    [real_name] => 成龙
+    [mobile_tel] => 15827379934
+    [order_date] => 20170213
+    [order_time] => 141105
+    [bank_account] => 6226901511006813
+    [bank_no] => 302521038110
+)
+]
+[14:11:06][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1689086
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[14:11:06][|-bankNum-|420103198901170410|-sex-|0]
+[14:12:20][|-param-|Array
+(
+    [serial_no] => bj2017021314122048172
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420625199305046835
+    [real_name] => 石自强
+    [mobile_tel] => 13971357321
+    [order_date] => 20170213
+    [order_time] => 141220
+    [bank_account] => 6217711504504513
+    [bank_no] => 302521038273
+)
+]
+[14:12:21][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1689088
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[14:12:21][|-bankNum-|420625199305046835|-sex-|0]
+[14:12:49][|-param-|Array
+(
+    [serial_no] => bj201702131412497440
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420103198901170410
+    [real_name] => 成龙
+    [mobile_tel] => 15827379934
+    [order_date] => 20170213
+    [order_time] => 141249
+    [bank_account] => 6226901511006813
+    [bank_no] => 302521038101
+)
+]
+[14:12:50][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1689091
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[14:12:50][|-bankNum-|420103198901170410|-sex-|0]

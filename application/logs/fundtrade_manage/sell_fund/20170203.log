@@ -1,0 +1,54 @@
+[14:00:20][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 
+    [trade_acco] => 
+    [request_num] => 10
+)
+https://sitapi.hscloud.cn/cwsale/v1/share_qry
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[14:01:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 
+    [trade_acco] => 
+    [request_num] => 10
+)
+https://sitapi.hscloud.cn/cwsale/v1/share_qry
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[14:01:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 
+    [trade_acco] => 
+    [request_num] => 10
+)
+https://sitapi.hscloud.cn/cwsale/v1/share_qry
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]

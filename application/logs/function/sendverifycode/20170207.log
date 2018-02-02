@@ -1,0 +1,88 @@
+[09:19:01][|-param-|Array
+(
+    [mobile] => 15205006442
+    [code] => 333542
+    [userID] => 207
+    [IP] => 192.168.10.39
+    [sType] => 2
+    [sign] => bj_bkpwd_check
+)
+]
+[09:19:01][|m_code_key|sendsmscachebj_bkpwd_check20715205006442]
+[10:18:49][|-param-|Array
+(
+    [mobile] => 13071252005
+    [code] => 524339
+    [tmpMobileID] => 56
+    [IP] => 10.100.0.18
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[10:18:49][|m_code_key|sendsmscachebj_reg_checkTMP5613071252005]
+[14:35:17][|-param-|Array
+(
+    [mobile] => 13037100638
+    [code] => 407070
+    [tmpMobileID] => 78
+    [IP] => 192.168.15.235
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[14:35:17][|m_code_key|sendsmscachebj_reg_checkTMP7813037100638]
+[19:24:21][|-param-|Array
+(
+    [mobile] => 13871468530
+    [code] => 519074
+    [tmpMobileID] => 79
+    [IP] => 10.100.0.18
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[19:24:21][|m_code_key|sendsmscachebj_reg_checkTMP7913871468530]
+[20:40:18][|-param-|Array
+(
+    [mobile] => 13338550457
+    [code] => 835219
+    [tmpMobileID] => 60
+    [IP] => 192.168.10.89
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[20:40:18][|m_code_key|sendsmscachebj_reg_checkTMP6013338550457]
+[20:45:42][|-param-|Array
+(
+    [mobile] => 13338550457
+    [code] => 193276
+    [tmpMobileID] => 80
+    [IP] => 192.168.10.89
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[20:45:42][|m_code_key|sendsmscachebj_reg_checkTMP8013338550457]
+[21:25:04][|-param-|Array
+(
+    [mobile] => 13338550457
+    [code] => 521248
+    [tmpMobileID] => 80
+    [IP] => 192.168.10.89
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[21:25:04][|m_code_key|sendsmscachebj_reg_checkTMP8013338550457]
+[21:31:34][|-param-|Array
+(
+    [mobile] => 13338550457
+    [code] => 595465
+    [tmpMobileID] => 80
+    [IP] => 192.168.10.89
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[21:31:34][|m_code_key|sendsmscachebj_reg_checkTMP8013338550457]

@@ -1,0 +1,361 @@
+[09:51:16][|-xParam-|Array
+(
+    [e_mail] => xf.jiang@sohu.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1173
+    [client_full_name] => 奖励
+    [client_name] => 奖励
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [trade_account_name] => 奖励
+)
+]
+[09:51:16][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0184
+                    [error_info] => 风险调查问卷内容不存在,请先进行问卷调查
+                )
+
+        )
+
+)
+]
+[09:51:20][|-xParam-|Array
+(
+    [e_mail] => xf.jiang@sohu.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1173
+    [client_full_name] => 奖励
+    [client_name] => 奖励
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [trade_account_name] => 奖励
+)
+]
+[09:51:21][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0184
+                    [error_info] => 风险调查问卷内容不存在,请先进行问卷调查
+                )
+
+        )
+
+)
+]
+[10:19:23][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [statement_flag] => 1
+    [trust_way] => 2
+    [trade_acco] => 1172
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [trade_account_name] => 阿拉蕾
+)
+]
+[10:19:23][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0108
+                    [error_info] => 交易账号[1172]已销户或开户失败
+                )
+
+        )
+
+)
+]
+[10:35:40][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [statement_flag] => 1
+    [trust_way] => 2
+    [trade_acco] => 1172
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [trade_account_name] => 阿拉蕾
+)
+]
+[10:35:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0108
+                    [error_info] => 交易账号[1172]已销户或开户失败
+                )
+
+        )
+
+)
+]
+[11:31:36][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[11:31:36][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0184
+                    [error_info] => 风险调查问卷内容不存在,请先进行问卷调查
+                )
+
+        )
+
+)
+]
+[13:40:00][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123@qq.com
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[13:40:00][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0184
+                    [error_info] => 风险调查问卷内容不存在,请先进行问卷调查
+                )
+
+        )
+
+)
+]
+[14:50:55][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[14:50:56][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000038
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[14:50:56][|-dParam-|Array
+(
+    [TelPhone] => 123456
+    [Address] => 123456
+    [Postal] => 123456
+    [Email] => 123456@qq.com
+    [ReservedContent] => 测试
+    [UserID] => 178
+)
+]
+[16:29:27][|-xParam-|Array
+(
+    [e_mail] => x.jiang@sohu.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1173
+    [client_full_name] => 奖励
+    [client_name] => 奖励
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [trade_account_name] => 奖励
+)
+]
+[16:29:28][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0184
+                    [error_info] => 风险调查问卷内容不存在,请先进行问卷调查
+                )
+
+        )
+
+)
+]
+[18:56:59][|-xParam-|Array
+(
+    [ofund_prof_code] => 2
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[18:56:59][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000076
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[18:56:59][|-dParam-|Array
+(
+    [Job] => 2
+    [UserID] => 178
+)
+]
+[19:12:23][|-xParam-|Array
+(
+    [ofund_prof_code] => 2
+    [statement_flag] => 3
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 严萌
+)
+]
+[19:12:24][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000082
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[19:12:24][|-dParam-|Array
+(
+    [Job] => 2
+    [SendRate] => 3
+    [UserID] => 196
+)
+]
+[20:15:40][|-xParam-|Array
+(
+    [ofund_prof_code] => 2
+    [trust_way] => 2
+    [trade_acco] => 1188
+    [client_full_name] => 邱小兰
+    [client_name] => 邱小兰
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [trade_account_name] => 邱小兰
+)
+]
+[20:15:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000094
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:15:40][|-dParam-|Array
+(
+    [Job] => 2
+    [UserID] => 166
+)
+]

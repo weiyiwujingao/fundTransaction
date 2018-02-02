@@ -1,0 +1,120 @@
+[13:37:12][|-param-|Array
+(
+    [mobile_code] => 922780
+    [sms_serial_no] => 1688158
+    [original_serial_no] => bj2017021013361331500
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201100000000427
+    [mobile_tel] => 18125530297
+    [order_date] => 20170210
+    [order_time] => 133712
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105110039233
+)
+]
+[13:37:15][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[13:37:15][|-iParam-|Array
+(
+    [UserID] => 170
+    [Province] => 天津市
+    [City] => 天津市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105110039233
+    [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+    [BankCard] => 6217000340000565980
+    [Mobile] => 18125530297
+    [NickName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-10 13:37:15
+)
+]
+[13:37:15][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[14:03:36][|-param-|Array
+(
+    [mobile_code] => 588216
+    [sms_serial_no] => 1688180
+    [original_serial_no] => bj2017021014031787967
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 429006198002245775
+    [mobile_tel] => 13477029958
+    [order_date] => 20170210
+    [order_time] => 140336
+    [bank_account] => 9555500272203935
+    [bank_no] => 308521015022
+)
+]
+[14:03:37][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:03:37][|-iParam-|Array
+(
+    [UserID] => 174
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308521015022
+    [BranchName] => 招商银行武汉分行武昌支行
+    [BankCard] => 9555500272203935
+    [Mobile] => 13477029958
+    [NickName] => 董长庚
+    [IdentityNumber] => 429006198002245775
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-10 14:03:37
+)
+]
+[14:03:37][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]

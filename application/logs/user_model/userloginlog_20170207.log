@@ -1,0 +1,410 @@
+2017-02-07 09:38:10|-param-|Array
+(
+    [UserID] => 195
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.89
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 49810
+)
+|-ir-|425
+2017-02-07 09:49:26|-param-|Array
+(
+    [UserID] => 208
+    [LoginType] => 1
+    [LoginIP] => 10.100.0.18
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 62093
+)
+|-ir-|426
+2017-02-07 10:11:17|-param-|Array
+(
+    [UserID] => 206
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 5
+    [LoginAddr] => 0
+    [LoginPort] => 40632
+)
+|-ir-|430
+2017-02-07 10:13:02|-param-|Array
+(
+    [UserID] => 206
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 5
+    [LoginAddr] => 0
+    [LoginPort] => 41438
+)
+|-ir-|431
+2017-02-07 10:14:45|-param-|Array
+(
+    [UserID] => 167
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.115
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 50828
+)
+|-ir-|432
+2017-02-07 10:19:35|-param-|Array
+(
+    [UserID] => 209
+    [LoginType] => 1
+    [LoginIP] => 10.100.0.18
+    [LoginPage] => 1
+    [LoginAddr] => 1
+    [LoginPort] => 54148
+)
+|-ir-|433
+2017-02-07 10:30:39|-param-|Array
+(
+    [UserID] => 168
+    [LoginType] => 1
+    [LoginIP] => 10.100.0.18
+    [LoginPage] => 4
+    [LoginAddr] => 0
+    [LoginPort] => 60748
+)
+|-ir-|435
+2017-02-07 10:32:25|-param-|Array
+(
+    [UserID] => 168
+    [LoginType] => 1
+    [LoginIP] => 10.100.0.18
+    [LoginPage] => 4
+    [LoginAddr] => 0
+    [LoginPort] => 60803
+)
+|-ir-|436
+2017-02-07 10:34:49|-param-|Array
+(
+    [UserID] => 169
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 51270
+)
+|-ir-|437
+2017-02-07 10:54:46|-param-|Array
+(
+    [UserID] => 195
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.89
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 50486
+)
+|-ir-|438
+2017-02-07 10:59:11|-param-|Array
+(
+    [UserID] => 173
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.89
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 50581
+)
+|-ir-|439
+2017-02-07 11:00:11|-param-|Array
+(
+    [UserID] => 206
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 5
+    [LoginAddr] => 0
+    [LoginPort] => 34562
+)
+|-ir-|440
+2017-02-07 11:03:15|-param-|Array
+(
+    [UserID] => 206
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 5
+    [LoginAddr] => 0
+    [LoginPort] => 35897
+)
+|-ir-|441
+2017-02-07 11:03:17|-param-|Array
+(
+    [UserID] => 173
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.89
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 60515
+)
+|-ir-|442
+2017-02-07 11:06:12|-param-|Array
+(
+    [UserID] => 173
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.89
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 60599
+)
+|-ir-|443
+2017-02-07 11:24:25|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 52944
+)
+|-ir-|445
+2017-02-07 11:26:56|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 53039
+)
+|-ir-|447
+2017-02-07 11:29:57|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 53101
+)
+|-ir-|448
+2017-02-07 13:17:46|-param-|Array
+(
+    [UserID] => 167
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.115
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 53349
+)
+|-ir-|449
+2017-02-07 13:36:59|-param-|Array
+(
+    [UserID] => 168
+    [LoginType] => 1
+    [LoginIP] => 10.100.0.18
+    [LoginPage] => 4
+    [LoginAddr] => 0
+    [LoginPort] => 51614
+)
+|-ir-|452
+2017-02-07 13:43:12|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 53824
+)
+|-ir-|453
+2017-02-07 13:44:10|-param-|Array
+(
+    [UserID] => 170
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 52016
+)
+|-ir-|454
+2017-02-07 13:49:47|-param-|Array
+(
+    [UserID] => 206
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 5
+    [LoginAddr] => 0
+    [LoginPort] => 54521
+)
+|-ir-|455
+2017-02-07 14:09:01|-param-|Array
+(
+    [UserID] => 195
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.89
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 62778
+)
+|-ir-|457
+2017-02-07 14:10:33|-param-|Array
+(
+    [UserID] => 195
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.89
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 62875
+)
+|-ir-|458
+2017-02-07 14:14:16|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 54207
+)
+|-ir-|459
+2017-02-07 14:16:02|-param-|Array
+(
+    [UserID] => 206
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 5
+    [LoginAddr] => 0
+    [LoginPort] => 38294
+)
+|-ir-|460
+2017-02-07 14:20:11|-param-|Array
+(
+    [UserID] => 181
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.115
+    [LoginPage] => 5
+    [LoginAddr] => 0
+    [LoginPort] => 54446
+)
+|-ir-|462
+2017-02-07 14:24:34|-param-|Array
+(
+    [UserID] => 181
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.115
+    [LoginPage] => 5
+    [LoginAddr] => 0
+    [LoginPort] => 54515
+)
+|-ir-|463
+2017-02-07 14:29:14|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 60635
+)
+|-ir-|464
+2017-02-07 14:34:35|-param-|Array
+(
+    [UserID] => 167
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.115
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 54606
+)
+|-ir-|466
+2017-02-07 14:35:50|-param-|Array
+(
+    [UserID] => 211
+    [LoginType] => 1
+    [LoginIP] => 192.168.15.235
+    [LoginPage] => 1
+    [LoginAddr] => 1
+    [LoginPort] => 47248
+)
+|-ir-|467
+2017-02-07 14:44:03|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 50492
+)
+|-ir-|468
+2017-02-07 14:45:15|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 51862
+)
+|-ir-|469
+2017-02-07 14:46:34|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 63988
+)
+|-ir-|470
+2017-02-07 14:48:31|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 60226
+)
+|-ir-|471
+2017-02-07 14:49:07|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 60292
+)
+|-ir-|472
+2017-02-07 14:49:47|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 54949
+)
+|-ir-|473
+2017-02-07 14:50:24|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 65040
+)
+|-ir-|474
+2017-02-07 14:52:50|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 55426
+)
+|-ir-|475
+2017-02-07 14:53:37|-param-|Array
+(
+    [UserID] => 210
+    [LoginType] => 1
+    [LoginIP] => 192.168.10.22
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 64967
+)
+|-ir-|476

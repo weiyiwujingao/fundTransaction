@@ -1,0 +1,63 @@
+[15:24:36][|-iaRs-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-09 15:10:29
+    [ActiveTime] => 2017-02-09 15:10:29
+    [KeyStr] => 4e6cea5a5f31361e77e228041b89f2d0
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[15:27:13][|-iaRs-|Array
+(
+    [UserID] => 196
+    [HsUserID] => 10108
+    [HsAccount] => 1164
+    [UserName] => CM-196
+    [NickName] => 严萌
+    [Mobile] => 15972158074
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-09 14:40:15
+    [ActiveTime] => 2017-02-09 14:40:15
+    [KeyStr] => 92fb964cb8285f22a7493bf0b89affd3
+    [RegTime] => 2017-02-06 09:26:03
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[22:04:43][|-iaRs-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.17.222
+    [LastLoginTime] => 2017-02-09 21:29:52
+    [ActiveTime] => 2017-02-09 21:29:52
+    [KeyStr] => 95d2e1ce6b75359f32f63df1fc194673
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]

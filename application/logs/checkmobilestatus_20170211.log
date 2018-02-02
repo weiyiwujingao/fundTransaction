@@ -1,0 +1,17 @@
+2017-02-11 00:18:57
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18065043496
+)
+|-result-|Array
+(
+    [Code] => 00
+    [Msg] => 有记录
+    [Record] => Array
+        (
+            [UserID] => 169
+        )
+
+)
+

@@ -1,0 +1,60 @@
+[12:42:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B7BFD833BACC474C99A47BA4804D774A2017020409250463991786
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 0
+    [bank_no] => 014
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","rowcount":"","fund_interface_type":"","bank_open_id_kind_gb":"","error_code":"1000","trade_acco":"","total_count":"","ta_acco":"","capital_mode":"","success_type":"0","branchbank":"","bank_open_id_no":"","bank_no":"","bank_account":"","error_info":"HS_QUERY-93: 总记录数为0!","remittance_no":"","fund_card":"","bank_account_name":""}]}
+    [code] => 200
+)
+]
+[12:42:37][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B7BFD833BACC474C99A47BA4804D774A2017020409250463991786
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 0
+    [bank_no] => 014
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","rowcount":"","fund_interface_type":"","bank_open_id_kind_gb":"","error_code":"1000","trade_acco":"","total_count":"","ta_acco":"","capital_mode":"","success_type":"0","branchbank":"","bank_open_id_no":"","bank_no":"","bank_account":"","error_info":"HS_QUERY-93: 总记录数为0!","remittance_no":"","fund_card":"","bank_account_name":""}]}
+    [code] => 200
+)
+]
+[12:48:32][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B7BFD833BACC474C99A47BA4804D774A2017020409250463991786
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 0
+    [bank_no] => 014
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","rowcount":"","fund_interface_type":"","bank_open_id_kind_gb":"","error_code":"1000","trade_acco":"","total_count":"","ta_acco":"","capital_mode":"","success_type":"0","branchbank":"","bank_open_id_no":"","bank_no":"","bank_account":"","error_info":"HS_QUERY-93: 总记录数为0!","remittance_no":"","fund_card":"","bank_account_name":""}]}
+    [code] => 200
+)
+]

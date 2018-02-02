@@ -1,0 +1,17 @@
+[14:29:21][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [trust_way] => 2
+    [access_token] => 105A6F9D5C714C39B153B82737BF4EB62017020608585656801584
+    [request_num] => 10
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+)
+https://sitapi.hscloud.cn/cwsale/v1/share_qry
+回参：Array
+(
+    [data] => {"error_no":"1","error_code":"1","error_info":"转发错误"}
+    [code] => 200
+)
+]

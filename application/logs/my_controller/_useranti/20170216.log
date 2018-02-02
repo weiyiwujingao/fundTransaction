@@ -1,0 +1,144 @@
+[08:41:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|setmaster]
+[09:56:13][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|unbindbank]
+[09:57:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|unbindbank]
+[09:58:37][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[09:58:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[09:58:50][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[09:59:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[09:59:34][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|activeaddbindcard]
+[10:00:18][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|unbindbank]
+[10:00:33][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|unbindbank]
+[10:01:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|unbindbank]
+[10:39:17][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:40:21][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:40:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:40:48][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:40:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:45:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:45:52][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:46:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|activebindcard]
+[10:48:28][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|riskask]
+[13:53:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[13:54:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[13:56:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[13:57:56][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]

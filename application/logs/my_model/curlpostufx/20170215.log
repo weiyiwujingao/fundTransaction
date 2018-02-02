@@ -1,0 +1,500 @@
+[10:28:27][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="0B22E1C58CB94EC4A347989597E6A5562017021510282789727543" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>cust_type:<input type="text" value="1" name="cust_type"/>
+<br/>trade_acco:<input type="text" value="1193" name="trade_acco"/>
+<br/>password:<input type="text" value="6803cbb9b19241ab53919a7f025bc107" name="password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[10:28:27][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=0B22E1C58CB94EC4A347989597E6A5562017021510282789727543&trust_way=2&cust_type=1&trade_acco=1193&password=6803cbb9b19241ab53919a7f025bc107]
+[10:28:27][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0B22E1C58CB94EC4A347989597E6A5562017021510282789727543
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1193
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[10:28:27][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="0B22E1C58CB94EC4A347989597E6A5562017021510282789727543" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>trade_acco:<input type="text" value="1193" name="trade_acco"/>
+<br/>new_password:<input type="text" value="7c5ec8641af12d25b10d4e9d67631cf4" name="new_password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[10:28:27][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=0B22E1C58CB94EC4A347989597E6A5562017021510282789727543&trust_way=2&trade_acco=1193&new_password=7c5ec8641af12d25b10d4e9d67631cf4]
+[10:28:27][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0B22E1C58CB94EC4A347989597E6A5562017021510282789727543
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [new_password] => 7c5ec8641af12d25b10d4e9d67631cf4
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[10:40:51][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="{"token_type":"bearer","access_token":"4A80E87F42C7429EAD4C761D006B5DBB2017021510361072537099","expires_in":86400,"refresh_token":"004116D56D5341B180FE4C90A46497B82017021510361072584478","scope":"iuc,cw"}" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>cust_type:<input type="text" value="1" name="cust_type"/>
+<br/>trade_acco:<input type="text" value="1193" name="trade_acco"/>
+<br/>password:<input type="text" value="6803cbb9b19241ab53919a7f025bc107" name="password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[10:40:51][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=%7B%22token_type%22%3A%22bearer%22%2C%22access_token%22%3A%224A80E87F42C7429EAD4C761D006B5DBB2017021510361072537099%22%2C%22expires_in%22%3A86400%2C%22refresh_token%22%3A%22004116D56D5341B180FE4C90A46497B82017021510361072584478%22%2C%22scope%22%3A%22iuc%2Ccw%22%7D&trust_way=2&cust_type=1&trade_acco=1193&password=6803cbb9b19241ab53919a7f025bc107]
+[10:40:51][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => {"token_type":"bearer","access_token":"4A80E87F42C7429EAD4C761D006B5DBB2017021510361072537099","expires_in":86400,"refresh_token":"004116D56D5341B180FE4C90A46497B82017021510361072584478","scope":"iuc,cw"}
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1193
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[10:40:51][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="{"token_type":"bearer","access_token":"4A80E87F42C7429EAD4C761D006B5DBB2017021510361072537099","expires_in":86400,"refresh_token":"004116D56D5341B180FE4C90A46497B82017021510361072584478","scope":"iuc,cw"}" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>trade_acco:<input type="text" value="1193" name="trade_acco"/>
+<br/>new_password:<input type="text" value="a70aea39a376219a4b918b652a7d0d91" name="new_password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[10:40:51][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=%7B%22token_type%22%3A%22bearer%22%2C%22access_token%22%3A%224A80E87F42C7429EAD4C761D006B5DBB2017021510361072537099%22%2C%22expires_in%22%3A86400%2C%22refresh_token%22%3A%22004116D56D5341B180FE4C90A46497B82017021510361072584478%22%2C%22scope%22%3A%22iuc%2Ccw%22%7D&trust_way=2&trade_acco=1193&new_password=a70aea39a376219a4b918b652a7d0d91]
+[10:40:51][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => {"token_type":"bearer","access_token":"4A80E87F42C7429EAD4C761D006B5DBB2017021510361072537099","expires_in":86400,"refresh_token":"004116D56D5341B180FE4C90A46497B82017021510361072584478","scope":"iuc,cw"}
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [new_password] => a70aea39a376219a4b918b652a7d0d91
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[11:11:38][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>cust_type:<input type="text" value="1" name="cust_type"/>
+<br/>trade_acco:<input type="text" value="1193" name="trade_acco"/>
+<br/>password:<input type="text" value="6803cbb9b19241ab53919a7f025bc107" name="password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[11:11:38][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&trust_way=2&cust_type=1&trade_acco=1193&password=6803cbb9b19241ab53919a7f025bc107]
+[11:11:38][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1193
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"20170215000001","success_type":"0","error_code":"","password":"","error_info":""}]}
+    [code] => 200
+)
+]
+[11:11:38][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>trade_acco:<input type="text" value="1193" name="trade_acco"/>
+<br/>new_password:<input type="text" value="37c98eea54c389dfd955f28413e97e8c" name="new_password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[11:11:38][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&trust_way=2&trade_acco=1193&new_password=37c98eea54c389dfd955f28413e97e8c]
+[11:11:38][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [new_password] => 37c98eea54c389dfd955f28413e97e8c
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"20170215000002","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[11:21:48][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>cust_type:<input type="text" value="1" name="cust_type"/>
+<br/>trade_acco:<input type="text" value="1193" name="trade_acco"/>
+<br/>password:<input type="text" value="6803cbb9b19241ab53919a7f025bc107" name="password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[11:21:49][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&trust_way=2&cust_type=1&trade_acco=1193&password=6803cbb9b19241ab53919a7f025bc107]
+[11:21:49][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1193
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"20170215000005","success_type":"0","error_code":"","password":"","error_info":""}]}
+    [code] => 200
+)
+]
+[11:21:49][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>trade_acco:<input type="text" value="1193" name="trade_acco"/>
+<br/>new_password:<input type="text" value="7c5ec8641af12d25b10d4e9d67631cf4" name="new_password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[11:21:49][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&trust_way=2&trade_acco=1193&new_password=7c5ec8641af12d25b10d4e9d67631cf4]
+[11:21:49][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [new_password] => 7c5ec8641af12d25b10d4e9d67631cf4
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"20170215000006","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[14:18:20][|-x-|https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>home_tel:<input type="text" value="13037100638" name="home_tel"/>
+<br/>address:<input type="text" value="武汉市洪山区光谷" name="address"/>
+<br/>zipcode:<input type="text" value="430000" name="zipcode"/>
+<br/>e_mail:<input type="text" value="1375603200@qq.com" name="e_mail"/>
+<br/>statement_flag:<input type="text" value="2" name="statement_flag"/>
+<br/>check_send_way:<input type="text" value="1" name="check_send_way"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>password:<input type="text" value="5b91455166a1f7232278929ae7c8d44a" name="password"/>
+<br/>trade_acco:<input type="text" value="1190" name="trade_acco"/>
+<br/>client_full_name:<input type="text" value="吴晶" name="client_full_name"/>
+<br/>client_name:<input type="text" value="吴晶" name="client_name"/>
+<br/>id_kind_gb:<input type="text" value="0" name="id_kind_gb"/>
+<br/>id_no:<input type="text" value="42092219940809002" name="id_no"/>
+<br/>trade_account_name:<input type="text" value="吴晶" name="trade_account_name"/>
+<br/><input type="submit" value="ok">
+</form>]
+[14:18:21][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&home_tel=13037100638&address=%E6%AD%A6%E6%B1%89%E5%B8%82%E6%B4%AA%E5%B1%B1%E5%8C%BA%E5%85%89%E8%B0%B7&zipcode=430000&e_mail=1375603200%40qq.com&statement_flag=2&check_send_way=1&trust_way=2&password=5b91455166a1f7232278929ae7c8d44a&trade_acco=1190&client_full_name=%E5%90%B4%E6%99%B6&client_name=%E5%90%B4%E6%99%B6&id_kind_gb=0&id_no=42092219940809002&trade_account_name=%E5%90%B4%E6%99%B6]
+[14:18:21][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [home_tel] => 13037100638
+    [address] => 武汉市洪山区光谷
+    [zipcode] => 430000
+    [e_mail] => 1375603200@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [password] => 5b91455166a1f7232278929ae7c8d44a
+    [trade_acco] => 1190
+    [client_full_name] => 吴晶
+    [client_name] => 吴晶
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [trade_account_name] => 吴晶
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"","success_type":"2","error_code":"0108","error_info":"交易账号[1190]已销户或开户失败"}]}
+    [code] => 200
+)
+]
+[14:18:48][|-x-|https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>home_tel:<input type="text" value="13037100638" name="home_tel"/>
+<br/>address:<input type="text" value="武汉市洪山区光谷" name="address"/>
+<br/>zipcode:<input type="text" value="430000" name="zipcode"/>
+<br/>e_mail:<input type="text" value="1375603200@qq.com" name="e_mail"/>
+<br/>statement_flag:<input type="text" value="2" name="statement_flag"/>
+<br/>check_send_way:<input type="text" value="1" name="check_send_way"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>password:<input type="text" value="5b91455166a1f7232278929ae7c8d44a" name="password"/>
+<br/>trade_acco:<input type="text" value="1190" name="trade_acco"/>
+<br/>client_full_name:<input type="text" value="吴晶" name="client_full_name"/>
+<br/>client_name:<input type="text" value="吴晶" name="client_name"/>
+<br/>id_kind_gb:<input type="text" value="0" name="id_kind_gb"/>
+<br/>id_no:<input type="text" value="42092219940809002" name="id_no"/>
+<br/>trade_account_name:<input type="text" value="吴晶" name="trade_account_name"/>
+<br/><input type="submit" value="ok">
+</form>]
+[14:18:48][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&home_tel=13037100638&address=%E6%AD%A6%E6%B1%89%E5%B8%82%E6%B4%AA%E5%B1%B1%E5%8C%BA%E5%85%89%E8%B0%B7&zipcode=430000&e_mail=1375603200%40qq.com&statement_flag=2&check_send_way=1&trust_way=2&password=5b91455166a1f7232278929ae7c8d44a&trade_acco=1190&client_full_name=%E5%90%B4%E6%99%B6&client_name=%E5%90%B4%E6%99%B6&id_kind_gb=0&id_no=42092219940809002&trade_account_name=%E5%90%B4%E6%99%B6]
+[14:18:48][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [home_tel] => 13037100638
+    [address] => 武汉市洪山区光谷
+    [zipcode] => 430000
+    [e_mail] => 1375603200@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [password] => 5b91455166a1f7232278929ae7c8d44a
+    [trade_acco] => 1190
+    [client_full_name] => 吴晶
+    [client_name] => 吴晶
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [trade_account_name] => 吴晶
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"","success_type":"2","error_code":"0108","error_info":"交易账号[1190]已销户或开户失败"}]}
+    [code] => 200
+)
+]
+[14:20:44][|-x-|https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>home_tel:<input type="text" value="13037100638" name="home_tel"/>
+<br/>address:<input type="text" value="武汉市洪山区光谷" name="address"/>
+<br/>zipcode:<input type="text" value="430000" name="zipcode"/>
+<br/>e_mail:<input type="text" value="1375603200@qq.com" name="e_mail"/>
+<br/>statement_flag:<input type="text" value="2" name="statement_flag"/>
+<br/>check_send_way:<input type="text" value="1" name="check_send_way"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>password:<input type="text" value="5b91455166a1f7232278929ae7c8d44a" name="password"/>
+<br/>trade_acco:<input type="text" value="1190" name="trade_acco"/>
+<br/>client_full_name:<input type="text" value="吴晶" name="client_full_name"/>
+<br/>client_name:<input type="text" value="吴晶" name="client_name"/>
+<br/>id_kind_gb:<input type="text" value="0" name="id_kind_gb"/>
+<br/>id_no:<input type="text" value="42092219940809002" name="id_no"/>
+<br/>trade_account_name:<input type="text" value="吴晶" name="trade_account_name"/>
+<br/><input type="submit" value="ok">
+</form>]
+[14:20:44][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&home_tel=13037100638&address=%E6%AD%A6%E6%B1%89%E5%B8%82%E6%B4%AA%E5%B1%B1%E5%8C%BA%E5%85%89%E8%B0%B7&zipcode=430000&e_mail=1375603200%40qq.com&statement_flag=2&check_send_way=1&trust_way=2&password=5b91455166a1f7232278929ae7c8d44a&trade_acco=1190&client_full_name=%E5%90%B4%E6%99%B6&client_name=%E5%90%B4%E6%99%B6&id_kind_gb=0&id_no=42092219940809002&trade_account_name=%E5%90%B4%E6%99%B6]
+[14:20:44][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/clientinfo_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [home_tel] => 13037100638
+    [address] => 武汉市洪山区光谷
+    [zipcode] => 430000
+    [e_mail] => 1375603200@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [password] => 5b91455166a1f7232278929ae7c8d44a
+    [trade_acco] => 1190
+    [client_full_name] => 吴晶
+    [client_name] => 吴晶
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [trade_account_name] => 吴晶
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"","success_type":"2","error_code":"0108","error_info":"交易账号[1190]已销户或开户失败"}]}
+    [code] => 200
+)
+]
+[14:39:13][|-x-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>serial_no:<input type="text" value="bj2017021514391329839" name="serial_no"/>
+<br/>capital_mode:<input type="text" value="l" name="capital_mode"/>
+<br/>merchant_name:<input type="text" value="test" name="merchant_name"/>
+<br/>id_kind_gb:<input type="text" value="0" name="id_kind_gb"/>
+<br/>id_no:<input type="text" value="420922199408090022" name="id_no"/>
+<br/>real_name:<input type="text" value="麦芽糖" name="real_name"/>
+<br/>mobile_tel:<input type="text" value="13037100638" name="mobile_tel"/>
+<br/>order_date:<input type="text" value="20170215" name="order_date"/>
+<br/>order_time:<input type="text" value="143913" name="order_time"/>
+<br/>bank_account:<input type="text" value="6217000340000565980" name="bank_account"/>
+<br/>bank_no:<input type="text" value="103521002452" name="bank_no"/>
+<br/><input type="submit" value="ok">
+</form>]
+[14:39:15][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&serial_no=bj2017021514391329839&capital_mode=l&merchant_name=test&id_kind_gb=0&id_no=420922199408090022&real_name=%E9%BA%A6%E8%8A%BD%E7%B3%96&mobile_tel=13037100638&order_date=20170215&order_time=143913&bank_account=6217000340000565980&bank_no=103521002452]
+[14:39:15][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [serial_no] => bj2017021514391329839
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420922199408090022
+    [real_name] => 麦芽糖
+    [mobile_tel] => 13037100638
+    [order_date] => 20170215
+    [order_time] => 143913
+    [bank_account] => 6217000340000565980
+    [bank_no] => 103521002452
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1690519","status":"9"}]}
+    [code] => 200
+)
+]
+[14:40:59][|-x-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>serial_no:<input type="text" value="bj2017021514405998963" name="serial_no"/>
+<br/>capital_mode:<input type="text" value="l" name="capital_mode"/>
+<br/>merchant_name:<input type="text" value="test" name="merchant_name"/>
+<br/>id_kind_gb:<input type="text" value="0" name="id_kind_gb"/>
+<br/>id_no:<input type="text" value="420922199408090022" name="id_no"/>
+<br/>real_name:<input type="text" value="麦芽糖" name="real_name"/>
+<br/>mobile_tel:<input type="text" value="13037100638" name="mobile_tel"/>
+<br/>order_date:<input type="text" value="20170215" name="order_date"/>
+<br/>order_time:<input type="text" value="144059" name="order_time"/>
+<br/>bank_account:<input type="text" value="6217000340000565980" name="bank_account"/>
+<br/>bank_no:<input type="text" value="103521002452" name="bank_no"/>
+<br/><input type="submit" value="ok">
+</form>]
+[14:41:00][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&serial_no=bj2017021514405998963&capital_mode=l&merchant_name=test&id_kind_gb=0&id_no=420922199408090022&real_name=%E9%BA%A6%E8%8A%BD%E7%B3%96&mobile_tel=13037100638&order_date=20170215&order_time=144059&bank_account=6217000340000565980&bank_no=103521002452]
+[14:41:00][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [serial_no] => bj2017021514405998963
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420922199408090022
+    [real_name] => 麦芽糖
+    [mobile_tel] => 13037100638
+    [order_date] => 20170215
+    [order_time] => 144059
+    [bank_account] => 6217000340000565980
+    [bank_no] => 103521002452
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1690524","status":"9"}]}
+    [code] => 200
+)
+]
+[14:43:22][|-x-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="AA2BF967800449AD968CEE4D203F727A2017021511052934754555" name="access_token"/>
+<br/>serial_no:<input type="text" value="bj2017021514432258964" name="serial_no"/>
+<br/>capital_mode:<input type="text" value="l" name="capital_mode"/>
+<br/>merchant_name:<input type="text" value="test" name="merchant_name"/>
+<br/>id_kind_gb:<input type="text" value="0" name="id_kind_gb"/>
+<br/>id_no:<input type="text" value="420922199408090022" name="id_no"/>
+<br/>real_name:<input type="text" value="麦芽糖" name="real_name"/>
+<br/>mobile_tel:<input type="text" value="13037100638" name="mobile_tel"/>
+<br/>order_date:<input type="text" value="20170215" name="order_date"/>
+<br/>order_time:<input type="text" value="144322" name="order_time"/>
+<br/>bank_account:<input type="text" value="6217000340000565980" name="bank_account"/>
+<br/>bank_no:<input type="text" value="103521002436" name="bank_no"/>
+<br/><input type="submit" value="ok">
+</form>]
+[14:43:23][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=AA2BF967800449AD968CEE4D203F727A2017021511052934754555&serial_no=bj2017021514432258964&capital_mode=l&merchant_name=test&id_kind_gb=0&id_no=420922199408090022&real_name=%E9%BA%A6%E8%8A%BD%E7%B3%96&mobile_tel=13037100638&order_date=20170215&order_time=144322&bank_account=6217000340000565980&bank_no=103521002436]
+[14:43:23][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [serial_no] => bj2017021514432258964
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 420922199408090022
+    [real_name] => 麦芽糖
+    [mobile_tel] => 13037100638
+    [order_date] => 20170215
+    [order_time] => 144322
+    [bank_account] => 6217000340000565980
+    [bank_no] => 103521002436
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1690526","status":"9"}]}
+    [code] => 200
+)
+]

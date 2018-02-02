@@ -1,0 +1,124 @@
+[17:11:53][|-param-|Array
+(
+    [mobile_code] => 003316
+    [sms_serial_no] => 1687776
+    [original_serial_no] => bj2017020917111353294
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [mobile_tel] => 18125530297
+    [order_date] => 20170209
+    [order_time] => 171153
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100001052
+)
+]
+[17:11:54][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[17:11:54][|-iParam-|Array
+(
+    [UserID] => 178
+    [HsUserID] => 10268
+    [HsAccount] => 1184
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100001052
+    [BranchName] => 中国建设银行北京天坛支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 18125530297
+    [NickName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 17:11:54
+)
+]
+[17:11:54][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[19:02:01][|-param-|Array
+(
+    [mobile_code] => 609242
+    [sms_serial_no] => 1687845
+    [original_serial_no] => bj2017020919013551494
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 190201
+    [bank_account] => 6228480712413995614
+    [bank_no] => 103100022069
+)
+]
+[19:02:02][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[19:02:02][|-iParam-|Array
+(
+    [UserID] => 220
+    [HsUserID] => 10288
+    [HsAccount] => 1189
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103100022069
+    [BranchName] => 中国农业银行股份有限公司北京东四环华腾分理处
+    [BankCard] => 6228480712413995614
+    [Mobile] => 15205006442
+    [NickName] => 后
+    [IdentityNumber] => 350426198803025631
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 19:02:02
+)
+]
+[19:02:02][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]

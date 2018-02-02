@@ -1,0 +1,33 @@
+[14:30:15][Array
+(
+    [UserID] => 167
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 
+    [OperatDetail] => 增开交易账号-1177
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-08 14:30:14
+)
+]
+[14:36:59][Array
+(
+    [UserID] => 209
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10228
+    [OperatDetail] => 开户-1179
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-08 14:36:57
+)
+]
+[14:47:01][Array
+(
+    [UserID] => 181
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10248
+    [OperatDetail] => 开户-1181
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-08 14:47:00
+)
+]

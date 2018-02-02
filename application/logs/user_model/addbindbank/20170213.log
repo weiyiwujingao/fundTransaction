@@ -1,0 +1,733 @@
+[10:57:30][|-Param-|Array
+(
+    [UserID] => 196
+    [HsUserID] => 10108
+    [HsAccount] => 1164
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100014030
+    [BranchName] => 中国建设银行北京密云工业开发区支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286623
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 10:57:30
+)
+]
+[10:57:30][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [password] => e820143041a4921b0ba1fb73f90c36a5
+    [mobile_tel] => 15972158074
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 严萌
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 420111199508286623
+    [detail_fund_way] => 01
+    [branchbank] => 105100014030
+    [fund_interface_type] => 1
+)
+]
+[10:57:31][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000003
+                    [success_type] => 0
+                    [trade_acco] => 1195
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[10:57:31][|-ibParam-|Array
+(
+    [UserID] => 196
+    [AccountName] => 严萌
+    [HsAccount] => 1195
+    [Master] => 2
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100014030
+    [BranchName] => 中国建设银行北京密云工业开发区支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 15972158074
+    [Status] => 1
+    [DataTime] => 2017-02-13 10:57:30
+)
+]
+[10:57:31][|-ibRs-|27]
+[11:38:31][|-Param-|Array
+(
+    [UserID] => 170
+    [HsUserID] => 10308
+    [HsAccount] => 1193
+    [Province] => 山西省
+    [City] => 大同市
+    [BankName] => 中国民生银行
+    [BankNo] => 014
+    [BranchBank] => 305162052013
+    [BranchName] => 中国民生银行股份有限公司大同分行
+    [BankCard] => 6217001210024455220
+    [Mobile] => 18125530297
+    [NickName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 11:38:31
+)
+]
+[11:38:31][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [password] => a70aea39a376219a4b918b652a7d0d91
+    [mobile_tel] => 18125530297
+    [bank_no] => 014
+    [bank_name] => 中国民生银行
+    [bank_account] => 6217001210024455220
+    [bank_account_name] => 原方
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 422201100000000427
+    [detail_fund_way] => 01
+    [branchbank] => 305162052013
+    [fund_interface_type] => 1
+)
+]
+[11:38:31][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[12:01:31][|-Param-|Array
+(
+    [UserID] => 170
+    [HsUserID] => 10308
+    [HsAccount] => 1193
+    [Province] => 辽宁省
+    [City] => 庄河市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 203222387838
+    [BranchName] => 中国农业发展银行庄河市支行
+    [BankCard] => 6217001210024455220
+    [Mobile] => 18125530297
+    [NickName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 12:01:31
+)
+]
+[12:01:31][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [password] => a70aea39a376219a4b918b652a7d0d91
+    [mobile_tel] => 18125530297
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6217001210024455220
+    [bank_account_name] => 原方
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 422201100000000427
+    [detail_fund_way] => 01
+    [branchbank] => 203222387838
+    [fund_interface_type] => 1
+)
+]
+[12:01:31][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[12:03:02][|-Param-|Array
+(
+    [UserID] => 170
+    [HsUserID] => 10308
+    [HsAccount] => 1193
+    [Province] => 辽宁省
+    [City] => 庄河市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 203222387838
+    [BranchName] => 中国农业发展银行庄河市支行
+    [BankCard] => 6217001210024455220
+    [Mobile] => 18125530297
+    [NickName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 12:03:02
+)
+]
+[12:03:02][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [password] => a70aea39a376219a4b918b652a7d0d91
+    [mobile_tel] => 18125530297
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6217001210024455220
+    [bank_account_name] => 原方
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 422201100000000427
+    [detail_fund_way] => 01
+    [branchbank] => 203222387838
+    [fund_interface_type] => 1
+)
+]
+[12:03:02][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[13:33:03][|-Param-|Array
+(
+    [UserID] => 167
+    [HsUserID] => 10018
+    [HsAccount] => 1155
+    [Province] => 湖北省
+    [City] => 保康县
+    [BankName] => 工商银行
+    [BankNo] => 002
+    [BranchBank] => 102528502726
+    [BranchName] => 中国工商银行股份有限公司保康支行
+    [BankCard] => 6227000013850134103
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 323333197710076666
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 13:33:03
+)
+]
+[13:33:03][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+    [mobile_tel] => 13599951535
+    [bank_no] => 002
+    [bank_name] => 工商银行
+    [bank_account] => 6227000013850134103
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 323333197710076666
+    [detail_fund_way] => 01
+    [branchbank] => 102528502726
+    [fund_interface_type] => 1
+)
+]
+[13:33:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[13:34:03][|-Param-|Array
+(
+    [UserID] => 167
+    [HsUserID] => 10018
+    [HsAccount] => 1155
+    [Province] => 湖北省
+    [City] => 保康县
+    [BankName] => 工商银行
+    [BankNo] => 002
+    [BranchBank] => 102528502726
+    [BranchName] => 中国工商银行股份有限公司保康支行
+    [BankCard] => 6227000013850134103
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 323333197710076666
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 13:34:03
+)
+]
+[13:34:03][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+    [mobile_tel] => 13599951535
+    [bank_no] => 002
+    [bank_name] => 工商银行
+    [bank_account] => 6227000013850134103
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 323333197710076666
+    [detail_fund_way] => 01
+    [branchbank] => 102528502726
+    [fund_interface_type] => 1
+)
+]
+[13:34:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[13:36:51][|-Param-|Array
+(
+    [UserID] => 167
+    [HsUserID] => 10018
+    [HsAccount] => 1155
+    [Province] => 湖北省
+    [City] => 保康县
+    [BankName] => 工商银行
+    [BankNo] => 002
+    [BranchBank] => 102528502726
+    [BranchName] => 中国工商银行股份有限公司保康支行
+    [BankCard] => 6227000013850134103
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 323333197710076666
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 13:36:51
+)
+]
+[13:36:51][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+    [mobile_tel] => 13599951535
+    [bank_no] => 002
+    [bank_name] => 工商银行
+    [bank_account] => 6227000013850134103
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 323333197710076666
+    [detail_fund_way] => 01
+    [branchbank] => 102528502726
+    [fund_interface_type] => 1
+)
+]
+[13:36:51][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000023
+                    [success_type] => 0
+                    [trade_acco] => 1196
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[13:36:51][|-ibParam-|Array
+(
+    [UserID] => 167
+    [AccountName] => 邹奋
+    [HsAccount] => 1196
+    [Master] => 2
+    [Province] => 湖北省
+    [City] => 保康县
+    [BankName] => 工商银行
+    [BankNo] => 002
+    [BranchBank] => 102528502726
+    [BranchName] => 中国工商银行股份有限公司保康支行
+    [BankCard] => 6227000013850134103
+    [Mobile] => 13599951535
+    [Status] => 1
+    [DataTime] => 2017-02-13 13:36:49
+)
+]
+[13:36:51][|-ibRs-|28]
+[14:28:08][|-Param-|Array
+(
+    [UserID] => 170
+    [HsUserID] => 10308
+    [HsAccount] => 1193
+    [Province] => 河北省
+    [City] => 石家庄
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103121031475
+    [BranchName] => 中国农业银行股份有限公司藁城韩家洼分理处
+    [BankCard] => 6217001210024455220
+    [Mobile] => 18125530297
+    [NickName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 14:28:08
+)
+]
+[14:28:08][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [password] => a70aea39a376219a4b918b652a7d0d91
+    [mobile_tel] => 18125530297
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6217001210024455220
+    [bank_account_name] => 原方
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 422201100000000427
+    [detail_fund_way] => 01
+    [branchbank] => 103121031475
+    [fund_interface_type] => 1
+)
+]
+[14:28:08][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[14:30:39][|-Param-|Array
+(
+    [UserID] => 166
+    [HsUserID] => 10278
+    [HsAccount] => 1188
+    [Province] => 福建省
+    [City] => 柘荣县
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105403900301
+    [BranchName] => 中国建设银行股份有限公司柘荣支行
+    [BankCard] => 6217000830000123038
+    [Mobile] => 15205006442
+    [NickName] => 邱小兰
+    [IdentityNumber] => 350426198803037088
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 14:30:39
+)
+]
+[14:30:39][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1188
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+    [mobile_tel] => 15205006442
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000830000123038
+    [bank_account_name] => 邱小兰
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 350426198803037088
+    [detail_fund_way] => 01
+    [branchbank] => 105403900301
+    [fund_interface_type] => 1
+)
+]
+[14:30:39][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000031
+                    [success_type] => 0
+                    [trade_acco] => 1199
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[14:30:39][|-ibParam-|Array
+(
+    [UserID] => 166
+    [AccountName] => 邱小兰
+    [HsAccount] => 1199
+    [Master] => 2
+    [Province] => 福建省
+    [City] => 柘荣县
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105403900301
+    [BranchName] => 中国建设银行股份有限公司柘荣支行
+    [BankCard] => 6217000830000123038
+    [Mobile] => 15205006442
+    [Status] => 1
+    [DataTime] => 2017-02-13 14:30:38
+)
+]
+[14:30:39][|-ibRs-|31]
+[16:06:56][|-Param-|Array
+(
+    [UserID] => 225
+    [HsUserID] => 10328
+    [HsAccount] => 1197
+    [Province] => 湖北省
+    [City] => 谷城县
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103528444085
+    [BranchName] => 中国农业银行谷城县支行冷集分理处
+    [BankCard] => 6217711504504513
+    [Mobile] => 13971357321
+    [NickName] => 石自强
+    [IdentityNumber] => 420625199305046835
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 16:06:56
+)
+]
+[16:06:56][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1197
+    [password] => e87704c1b3fbd8f432cfc536c744dd71
+    [mobile_tel] => 13971357321
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6217711504504513
+    [bank_account_name] => 石自强
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 420625199305046835
+    [detail_fund_way] => 01
+    [branchbank] => 103528444085
+    [fund_interface_type] => 1
+)
+]
+[16:06:56][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000041
+                    [success_type] => 0
+                    [trade_acco] => 1200
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[16:06:56][|-ibParam-|Array
+(
+    [UserID] => 225
+    [AccountName] => 石自强
+    [HsAccount] => 1200
+    [Master] => 2
+    [Province] => 湖北省
+    [City] => 谷城县
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103528444085
+    [BranchName] => 中国农业银行谷城县支行冷集分理处
+    [BankCard] => 6217711504504513
+    [Mobile] => 13971357321
+    [Status] => 1
+    [DataTime] => 2017-02-13 16:06:55
+)
+]
+[16:06:56][|-ibRs-|32]
+[16:13:17][|-Param-|Array
+(
+    [UserID] => 225
+    [HsUserID] => 10328
+    [HsAccount] => 1197
+    [Province] => 广东省
+    [City] => 深圳市
+    [BankName] => 中国平安银行
+    [BankNo] => 920
+    [BranchBank] => 313584000289
+    [BranchName] => 平安银行股份有限公司深圳宝安支行
+    [BankCard] => 9555500272203935
+    [Mobile] => 13971357321
+    [NickName] => 石自强
+    [IdentityNumber] => 420625199305046835
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-13 16:13:17
+)
+]
+[16:13:17][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1197
+    [password] => e87704c1b3fbd8f432cfc536c744dd71
+    [mobile_tel] => 13971357321
+    [bank_no] => 920
+    [bank_name] => 中国平安银行
+    [bank_account] => 9555500272203935
+    [bank_account_name] => 石自强
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 420625199305046835
+    [detail_fund_way] => 01
+    [branchbank] => 313584000289
+    [fund_interface_type] => 1
+)
+]
+[16:13:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000044
+                    [success_type] => 0
+                    [trade_acco] => 1201
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[16:13:17][|-ibParam-|Array
+(
+    [UserID] => 225
+    [AccountName] => 石自强
+    [HsAccount] => 1201
+    [Master] => 2
+    [Province] => 广东省
+    [City] => 深圳市
+    [BankName] => 中国平安银行
+    [BankNo] => 920
+    [BranchBank] => 313584000289
+    [BranchName] => 平安银行股份有限公司深圳宝安支行
+    [BankCard] => 9555500272203935
+    [Mobile] => 13971357321
+    [Status] => 1
+    [DataTime] => 2017-02-13 16:13:16
+)
+]
+[16:13:17][|-ibRs-|33]

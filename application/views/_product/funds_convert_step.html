@@ -1,0 +1,211 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">基金转换</h3>
+            <div class="Title1">根据基金合同约定提供的基本功能，目前仅支持同一公司旗下部分产品之间转换。</div>
+            <h3 class="Title2 Mt10">选择转入基金</h3>
+            <form action="<?php echo base_url(); ?>product/convert_result.html" method="post">
+                <table cellpadding="0" cellspacing="0" class="QTable">
+                    <thead>
+                        <tr>
+                            <th class="w30">选择</th>
+                            <th>基金代码</th>
+                            <th class="w160">基金名称</th>
+                            <th>单位净值</th>
+                            <th>日增长率</th>
+                            <th>日期</th>
+                            <th>近3个月</th>
+                            <th>近6个月</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    <?php if ($data) : ?>
+                    <?php foreach($data as $item) : ?>
+                        <tr>
+                            <td><span class="uRadio"><i><input type="radio" name="target_fund" value="<?php echo $item['fund_code']; ?>" min="<?php echo $item['min_value']; ?>" max="<?php echo $item['max_value']; ?>" onclick="getLimit(this)" autocomplete="off"></i></span></td>
+                            <td><?php echo $item['fund_code']; ?></td>
+                            <td><a href="<?php echo WEB_URL . '/fund/' . $item['fund_code']; ?>" target="_blank" class="blue" title="<?php echo $item['fund_name']; ?>"><?php echo mb_strlen($item['fund_name']) > 8 ? mb_substr($item['fund_name'], 0, 8) . '...' : $item['fund_name']; ?></a></td>
+                            <td><?php echo $item['net_value']; ?></td>
+                            <td class="<?php echo $item['day_ratio'] > 0 ? 'tdRed' : 'tdGreen';?>"><?php echo $item['day_ratio']; ?></td>
+                            <td><?php echo date('Y-m-d', strtotime($item['hq_date'])); ?></td>
+                            <td class="<?php echo $item['three_month_ratio'] > 0 ? 'tdRed' : 'tdGreen';?>"><?php echo $item['three_month_ratio']; ?></td>
+                            <td class="<?php echo $item['six_month_ratio'] > 0 ? 'tdRed' : 'tdGreen';?>"><?php echo $item['six_month_ratio']; ?></td>
+                        </tr>
+                    <?php endforeach; ?>
+                    <tr><td colspan="8" onclick="loadmore(this);" data-num="<?php echo $num; ?>">加载更多</td></tr>
+                    <?php else : ?>
+                    <tr><td colspan="8">没有可转换的基金</td></tr>
+                    <?php endif; ?>
+                    </tbody>
+                </table>
+                <div class="formLi Mt10">
+                    <b class="bankPre"><i>*</i>转入份额：</b>
+                    <span><input type="text" name="shares" value="" min="" max="" allNum="<?php echo $allshare; ?>" minNum="<?php echo $min_share; ?>" onBlur="crashInp(this);" class="money w225"/></span>
+                    <b class="eMl7">份</b>
+                    <a href="javascript:;" class="perBtn" allNum='<?php echo $allshare; ?>' data-code="<?php echo $fund_code; ?>" onclick="getAllShare(this)">全部份额</a>
+                    <em></em>
+                </div>
+                <!--<p class="formTip">转入金额不能低于<i number="">&#45;&#45;</i>元，日累计限额<i number="">&#45;&#45;万</i>元</p>-->
+                <div class="formLi Mt10">
+                    <b><i>*</i>当基金发生巨额赎回时，选择下一交易日</b>
+                    <span class="uRadio">连续赎回<i><input type="radio" name="exceed_flag" value="1" checked="checked"></i></span>
+                    <span class="uRadio">取消赎回<i><input type="radio" name="exceed_flag" value="0"></i></span>
+                </div>
+                <div class="formLi Mt10">
+                    <b class="bankPre"><i>*</i>请输入交易密码：</b>
+                    <span><input type="password" name="password" onBlur="passInp(this)" value="" class="pass w340" ></span>
+                    <b class="eMl7"><a href="<?php echo TRADE_TRPWD_URL; ?>" target="_blank" class="blue">忘记交易密码?</a></b>
+                    <em></em>
+                </div>
+                <p class="formTip">请输入伯嘉基金网交易密码，非银行卡密码。</p>
+                <div class="btnPre Mt30">
+                    <a href="javascript:;" onClick="subForm(this);" class="halfBtn">确认</a>
+                    <a href="<?php echo base_url(); ?>product/convert.html" class="navyBtn">返回</a>
+                </div>
+                <input type="hidden" name="source_fund" value="<?php echo $fund_code; ?>">
+            </form>
+        </div>
+</div>
+
+<!--弹窗提示-->
+<div class="qMask"></div>
+<div class="qWin" id="msgBox">
+    <h3><span>提示</span><i  class="qCls"></i></h3>
+    <div class="qWmess">
+    </div>
+    <div class="qWbtn">
+        <a href="javascript:;" onClick="testCkl(1)" class="redBtn Mr15">确定</a>
+        <a href="javascript:;" onClick="testCkl(0)" class="cyanBtn">取消</a>
+    </div>
+</div>
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161206144977"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.uRadio').uRadio();/*单选框美化*/
+		
+		$('.money').inpCash();//现金输入金额限制，大小写关联
+
+        //初始化
+//        var radios = $('input:radio');
+//        radios.eq(0).parent().parent('span').addClass('Chk');
+//        radios.eq(0).attr('checked', 'checked');
+
+        function loadmore(obj) {
+            $(obj).html('正在加载...');
+            var offset=parseInt($(obj).attr('data-num'))+1,
+                html='';
+            $.ajax({
+                url: '<?php echo base_url(); ?>product/getallshare',
+                type: 'post',
+                data:{
+                    'code':'<?php echo $fund_code; ?>',
+                    'rows':10,
+                    'offset':offset
+                },
+                success: function (d) {
+                    var o = $.parseJSON(d);
+                    if (o.code == 200) {
+                        $(obj).parent().before(o.data);
+                        $('.uRadio').uRadio();
+                        $(obj).attr('data-num', o.num);
+                        $(obj).html('加载更多');
+                    }else if(o.code == 202){
+                        $(obj).html('没有更多数据了');
+                    } else if(o.code == 0){
+                        alert(o.message);
+                        window.top.location.href=o.url;
+                    } else {
+                        $('.NextYear').html('服务器错误，请重试');
+                    }
+                }
+            });
+        }
+
+        function getLimit(obj) {
+            var min = $(obj).attr('min'),
+            max = $(obj).attr('max');
+            $('input[name="shares"]').attr('min', min);
+            $('input[name="shares"]').attr('max', max);
+        }
+
+		function crashInp(obj){//现金输入
+			var p = $(obj).parents('.formLi'),
+			tip = $(p).next().find('i'),
+			numStr = $(obj).val(),
+			Min = parseFloat($(obj).attr('minNum')),
+			All = parseFloat($(obj).attr('allNum')),
+            minValue = parseFloat($(obj).attr('min')),
+            maxValue = parseFloat($(obj).attr('max'));
+			if(numStr == ''){
+				$(obj).showTip('Error','不能为空!');
+			}else{
+				var num = parseFloat(numStr);
+                if(num > All) {
+                    $(obj).showTip('Error', '超出最大可用份额：'+All+'份')
+                }else if(num >All-Min && (All-Min)>0){
+					$(obj).showTip('Error','剩余份额低于最低份额：'+Min+'份');
+				}else if(num > maxValue){
+                    $(obj).showTip('Error','超出允许转入的最大份额：'+maxValue+'份');
+                }else if(num < minValue) {
+				    $(obj).showTip('Error','小于最低转入份额：'+minValue+'份');
+                }else {
+					var txt = $(obj).cashTxt();//获取大写金额字符串
+					$('.Capital').html(txt);//显示大写金额字符串
+					$(obj).showTip('Right');//
+				}
+			}
+		}
+		function passInp(obj){//密码输入框空判断
+			var str = $(obj).val();
+			if(str == ''){
+				$(obj).showTip('Error','不能为空');
+			}else{
+				$(obj).showTip('Right');
+			}
+		}
+		
+		function subForm(obj){//表单提交按钮点击事件 仅供参考
+			var flag = true,
+			p = $(obj).parents('form');
+			if ($("input[name='target_fund']:checked").val() == undefined){
+			    flag = false;
+                alert('请选择转入的基金！');
+            }
+			if($('.money').val() == ''){
+				flag = false;
+				$('.money').showTip('Error','不能为空');
+			}else{
+				var str = $('.money').val(),
+				reg = /^[1-9]\d*.\d{1,2}$|^[1-9]\d*$/;
+				if(!reg.test(str)){
+					flag = false;
+					$('.money').showTip('Error','输入份额格式不正确');
+				}else{
+					$('.money').showTip('Right');
+				}
+			}
+			if($('.pass').val() == ''){
+				flag = false;
+				$('.pass').showTip('Error','不能为空');
+			}else{
+				$('.pass').showTip('Right');
+			}
+			if(flag){
+				$(p).submit();
+			}
+		}
+
+		function getAllShare(obj) {
+            $("input[name='shares']").val($(obj).attr('allNum'));
+            $('.money').showTip('Right');
+        }
+		
+    </script>

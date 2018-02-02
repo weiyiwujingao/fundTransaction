@@ -1,0 +1,118 @@
+[11:38:32][|-$userID-|178|-$acco-|1184|-$tid-|1486697825|-$ttid-|1486697893|-$mkid-|1400e903ac6157a7]
+[11:38:32][|-$res-|Array
+(
+    [UserID] => 178
+    [TrueName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:03:51][|-$userID-|169|-$acco-|1181|-$tid-|1486702914|-$ttid-|1486703000|-$mkid-|c084e4ec7b175340]
+[13:03:51][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:04:03][|-$userID-|169|-$acco-|1181|-$tid-|1486702914|-$ttid-|1486703000|-$mkid-|c084e4ec7b175340]
+[13:04:03][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:05:51][|-$userID-|169|-$acco-|1181|-$tid-|1486702914|-$ttid-|1486703000|-$mkid-|c084e4ec7b175340]
+[13:05:51][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:16:54][|-$userID-|169|-$acco-|1181|-$tid-|1486702914|-$ttid-|1486703000|-$mkid-|c084e4ec7b175340]
+[13:16:54][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:17:41][|-$userID-|169|-$acco-|1181|-$tid-|1486702914|-$ttid-|1486703000|-$mkid-|c084e4ec7b175340]
+[13:17:41][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:18:54][|-$userID-|169|-$acco-|1181|-$tid-|1486702914|-$ttid-|1486703000|-$mkid-|c084e4ec7b175340]
+[13:18:54][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[13:19:18][|-$userID-|169|-$acco-|1181|-$tid-|1486702914|-$ttid-|1486703000|-$mkid-|c084e4ec7b175340]
+[13:20:46][|-$userID-|169|-$acco-|1181|-$tid-|1486703978|-$ttid-|1486704035|-$mkid-|e9ffd52634caca4e]
+[13:20:46][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[14:55:24][|-$userID-|178|-$acco-|1184|-$tid-|1486709590|-$ttid-|1486709700|-$mkid-|cd1803963815fba2]
+[14:55:24][|-$res-|Array
+(
+    [UserID] => 178
+    [TrueName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]

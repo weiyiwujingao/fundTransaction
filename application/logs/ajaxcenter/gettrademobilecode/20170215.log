@@ -1,0 +1,1434 @@
+[09:19:26][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:19:26][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[09:19:26][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[09:19:26][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 576340
+            [UserID] => 169
+        )
+
+)
+
+]
+[09:19:26][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 576340
+    [userID] => 169
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1487121566
+        )
+
+)
+
+]
+[09:20:42][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:20:42][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[09:20:42][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[09:20:42][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 832372
+            [UserID] => 169
+        )
+
+)
+
+]
+[09:20:42][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 832372
+    [userID] => 169
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1487121642
+        )
+
+)
+
+]
+[09:20:46][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:20:46][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[09:20:46][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[09:20:46][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 786913
+            [UserID] => 169
+        )
+
+)
+
+]
+[09:20:46][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 786913
+    [userID] => 169
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1487121646
+        )
+
+)
+
+]
+[09:20:47][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:20:47][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[09:20:47][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[09:20:47][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 184949
+            [UserID] => 169
+        )
+
+)
+
+]
+[09:20:47][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 184949
+    [userID] => 169
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1487121647
+        )
+
+)
+
+]
+[09:28:40][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:28:40][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[09:28:40][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[09:28:40][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 609615
+            [UserID] => 169
+        )
+
+)
+
+]
+[09:28:40][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 609615
+    [userID] => 169
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1487122120
+        )
+
+)
+
+]
+[09:28:41][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:47:29][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 25
+            [UserID] => 170
+            [Mobile] => 18125530297
+            [HsAccount] => 1193
+            [AccountName] => 原方
+            [Province] => 天津市
+            [City] => 天津市
+            [BankName] => 中国建设银行
+            [BankNo] => 005
+            [BranchBank] => 105110039233
+            [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+            [BankCard] => 6217000340000565980
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:47:29][|-ip-|192.168.15.235|-mobile-|18125530297|-type-|3|-$userID-|170|||
+]
+[09:47:29][|-检查手机$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 178
+)
+
+]
+[09:47:29][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 036852
+            [UserID] => 178
+        )
+
+)
+
+]
+[09:47:29][|-条件$aParam-|Array
+(
+    [mobile] => 18125530297
+    [code] => 036852
+    [userID] => 170
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 170
+            [mobile] => 18125530297
+            [tid] => 1487123249
+        )
+
+)
+
+]
+[09:50:41][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 25
+            [UserID] => 170
+            [Mobile] => 18125530297
+            [HsAccount] => 1193
+            [AccountName] => 原方
+            [Province] => 天津市
+            [City] => 天津市
+            [BankName] => 中国建设银行
+            [BankNo] => 005
+            [BranchBank] => 105110039233
+            [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+            [BankCard] => 6217000340000565980
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:50:41][|-ip-|192.168.15.235|-mobile-|18125530297|-type-|3|-$userID-|170|||
+]
+[09:50:41][|-检查手机$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 178
+)
+
+]
+[09:50:41][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 464852
+            [UserID] => 178
+        )
+
+)
+
+]
+[09:50:41][|-条件$aParam-|Array
+(
+    [mobile] => 18125530297
+    [code] => 464852
+    [userID] => 178
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 178
+            [mobile] => 18125530297
+            [tid] => 1487123441
+        )
+
+)
+
+]
+[09:50:51][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 25
+            [UserID] => 170
+            [Mobile] => 18125530297
+            [HsAccount] => 1193
+            [AccountName] => 原方
+            [Province] => 天津市
+            [City] => 天津市
+            [BankName] => 中国建设银行
+            [BankNo] => 005
+            [BranchBank] => 105110039233
+            [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+            [BankCard] => 6217000340000565980
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:50:51][|-ip-|192.168.15.235|-mobile-|18125530297|-type-|3|-$userID-|170|||
+]
+[09:50:51][|-检查手机$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 178
+)
+
+]
+[09:50:51][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 837371
+            [UserID] => 178
+        )
+
+)
+
+]
+[09:50:51][|-条件$aParam-|Array
+(
+    [mobile] => 18125530297
+    [code] => 837371
+    [userID] => 178
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 178
+            [mobile] => 18125530297
+            [tid] => 1487123451
+        )
+
+)
+
+]
+[09:55:42][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:55:42][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[09:55:42][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[09:55:42][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 628859
+            [UserID] => 169
+        )
+
+)
+
+]
+[09:55:42][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 628859
+    [userID] => 169
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1487123742
+        )
+
+)
+
+]
+[09:58:07][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[09:58:07][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[09:58:07][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[09:58:07][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 137379
+            [UserID] => 169
+        )
+
+)
+
+]
+[09:58:07][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 137379
+    [userID] => 215
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 215
+            [mobile] => 18065043496
+            [tid] => 1487123887
+        )
+
+)
+
+]
+[10:04:28][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:04:28][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[10:04:28][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[10:04:28][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 12
+    [Msg] => 信息不存在
+)
+
+]
+[10:12:58][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:12:58][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[10:12:58][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[10:12:58][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 812717
+            [UserID] => 215
+        )
+
+)
+
+]
+[10:12:58][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 812717
+    [userID] => 215
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 215
+            [mobile] => 18065043496
+            [tid] => 1487124778
+        )
+
+)
+
+]
+[10:27:50][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 25
+            [UserID] => 170
+            [Mobile] => 18125530297
+            [HsAccount] => 1193
+            [AccountName] => 原方
+            [Province] => 天津市
+            [City] => 天津市
+            [BankName] => 中国建设银行
+            [BankNo] => 005
+            [BranchBank] => 105110039233
+            [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+            [BankCard] => 6217000340000565980
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:27:50][|-ip-|192.168.15.235|-mobile-|18125530297|-type-|3|-$userID-|170|||
+]
+[10:27:50][|-检查手机$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 178
+)
+
+]
+[10:27:50][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 628203
+            [UserID] => 170
+        )
+
+)
+
+]
+[10:27:50][|-条件$aParam-|Array
+(
+    [mobile] => 18125530297
+    [code] => 628203
+    [userID] => 170
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 170
+            [mobile] => 18125530297
+            [tid] => 1487125670
+        )
+
+)
+
+]
+[10:27:55][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 25
+            [UserID] => 170
+            [Mobile] => 18125530297
+            [HsAccount] => 1193
+            [AccountName] => 原方
+            [Province] => 天津市
+            [City] => 天津市
+            [BankName] => 中国建设银行
+            [BankNo] => 005
+            [BranchBank] => 105110039233
+            [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+            [BankCard] => 6217000340000565980
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:29:40][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:30:12][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:30:12][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[10:30:12][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[10:30:12][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 761006
+            [UserID] => 215
+        )
+
+)
+
+]
+[10:30:12][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 761006
+    [userID] => 215
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 215
+            [mobile] => 18065043496
+            [tid] => 1487125812
+        )
+
+)
+
+]
+[10:39:32][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:40:16][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:40:16][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[10:40:16][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[10:40:16][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 876585
+            [UserID] => 215
+        )
+
+)
+
+]
+[10:40:16][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 876585
+    [userID] => 215
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 215
+            [mobile] => 18065043496
+            [tid] => 1487126416
+        )
+
+)
+
+]
+[10:58:40][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:59:26][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[10:59:26][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[10:59:26][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [BankNo] => 003
+    [UserID] => 215
+)
+|-cRs-|Array
+(
+    [flag] => 10003
+    [msg] => 参数缺失,Mobile, 
+    [Record] => Array
+        (
+        )
+
+)
+
+]
+[11:07:33][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[11:07:33][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[11:07:33][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [BankNo] => 003
+    [UserID] => 215
+)
+|-cRs-|Array
+(
+    [flag] => 10003
+    [msg] => 参数缺失,Mobile, 
+    [Record] => Array
+        (
+        )
+
+)
+
+]
+[11:11:04][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 34
+            [UserID] => 215
+            [Mobile] => 18065043496
+            [HsAccount] => 1155
+            [AccountName] => 黄一
+            [Province] => 福建省
+            [City] => 福州市
+            [BankName] => 中国农业银行
+            [BankNo] => 003
+            [BranchBank] => 103391013537
+            [BranchName] => 中国农业银行福州支行
+            [BankCard] => 6228480068816522772
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[11:11:04][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|-$userID-|215|||
+]
+[11:11:04][|-检查手机$cParam-|Array
+(
+    [Mobile] => 18065043496
+    [BankNo] => 003
+    [UserID] => 215
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+]
+[11:11:04][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 677453
+            [UserID] => 215
+        )
+
+)
+
+]
+[11:11:04][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 677453
+    [userID] => 215
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 215
+            [mobile] => 18065043496
+            [tid] => 1487128264
+        )
+
+)
+
+]
+[11:21:01][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 25
+            [UserID] => 170
+            [Mobile] => 18125530297
+            [HsAccount] => 1193
+            [AccountName] => 原方
+            [Province] => 天津市
+            [City] => 天津市
+            [BankName] => 中国建设银行
+            [BankNo] => 005
+            [BranchBank] => 105110039233
+            [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+            [BankCard] => 6217000340000565980
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]
+[11:21:01][|-ip-|192.168.15.235|-mobile-|18125530297|-type-|3|-$userID-|170|||
+]
+[11:21:01][|-检查手机$cParam-|Array
+(
+    [Mobile] => 18125530297
+    [BankNo] => 005
+    [UserID] => 170
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+]
+[11:21:01][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 039953
+            [UserID] => 170
+        )
+
+)
+
+]
+[11:21:01][|-条件$aParam-|Array
+(
+    [mobile] => 18125530297
+    [code] => 039953
+    [userID] => 170
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 170
+            [mobile] => 18125530297
+            [tid] => 1487128861
+        )
+
+)
+
+]
+[11:21:07][|-mcRs-|Array
+(
+    [0] => Array
+        (
+            [BankID] => 25
+            [UserID] => 170
+            [Mobile] => 18125530297
+            [HsAccount] => 1193
+            [AccountName] => 原方
+            [Province] => 天津市
+            [City] => 天津市
+            [BankName] => 中国建设银行
+            [BankNo] => 005
+            [BranchBank] => 105110039233
+            [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+            [BankCard] => 6217000340000565980
+            [Master] => 1
+            [Status] => 1
+        )
+
+)
+]

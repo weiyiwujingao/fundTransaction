@@ -1,0 +1,64 @@
+2017-01-25 11:14:24
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 15620553970
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-01-25 11:15:03
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 15620553970
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-01-25 11:27:53
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13237185370
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-01-25 11:28:43
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13237185370
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+

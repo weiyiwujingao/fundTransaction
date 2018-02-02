@@ -1,0 +1,68 @@
+[10:33:25][|-xParam-|Array
+(
+    [UserID] => 178
+    [bid] => 23
+    [trade_acco] => 1191
+    [ta_acco] => B01000010000
+    [oldBid] => 19
+    [origin_tradeacco] => 1184
+)
+]
+[10:33:26][|-sRs-|Array
+(
+    [flag] => 10000
+    [msg] => 修改成功
+    [info] => 
+)
+]
+[10:34:45][|-xParam-|Array
+(
+    [UserID] => 178
+    [bid] => 19
+    [trade_acco] => 1184
+    [ta_acco] => B01000010000
+    [oldBid] => 23
+    [origin_tradeacco] => 1191
+)
+]
+[10:34:45][|-sRs-|Array
+(
+    [flag] => 10000
+    [msg] => 修改成功
+    [info] => 
+)
+]
+[13:50:13][|-xParam-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => 
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[13:50:13][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号不能为空
+    [info] => 
+)
+]
+[14:21:30][|-xParam-|Array
+(
+    [UserID] => 225
+    [bid] => 32
+    [trade_acco] => 1200
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[14:21:30][|-sRs-|Array
+(
+    [flag] => 10009
+    [msg] => 基金账号状态是[新开户],不能做该交易[058]
+    [info] => 
+)
+]

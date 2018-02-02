@@ -1,0 +1,22 @@
+[14:58:49][Array
+(
+    [UserID] => 209
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10198
+    [OperatDetail] => 开户-1173
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-07 14:58:49
+)
+]
+[15:02:13][Array
+(
+    [UserID] => 209
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10208
+    [OperatDetail] => 开户-1174
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-07 15:02:13
+)
+]

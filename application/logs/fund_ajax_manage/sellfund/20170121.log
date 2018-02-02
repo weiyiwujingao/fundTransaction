@@ -1,0 +1,198 @@
+[16:41:53][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => DFB095500D6E4A9C91F747D2F21723062017012116415390247259
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 070002
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[16:44:20][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A3CC71EE97AF434C8B425D9C174D60D42017012116442057435491
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 070002
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[16:45:05][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 9A1E357CA5C848C380810E9FCB9A39402017012116450629224989
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 070002
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[16:45:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => EC9D1F96291B4D8D9CBAD2799FE1FD872017012116452795137212
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 070002
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[16:46:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 3CA887C76E874028AC3F6DEE2F2051CA2017012116463088034655
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 070002
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[16:48:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 9ACBB4FA72B541CAAD6B38B592D6165E2017012116481853991894
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 070002
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[16:52:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E74B7792B0E64ACA905A478323D5A8952017012116523741762395
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 070002
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[17:05:30][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 3DDEFC181C304A64A5B6BCD16FD4D6DC2017012117053078449475
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1000.00","apply_date":"20170110","original_date":"20170110","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"143548","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"联机交易交互失败null","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"143548","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"1","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"62","taconfirm_flag":"0","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170110000001","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[17:06:02][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 3AEF270908454B0AB7AC0F133FD8070E2017012117060259918373
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1000.00","apply_date":"20170110","original_date":"20170110","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"143548","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"联机交易交互失败null","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"143548","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"1","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"62","taconfirm_flag":"0","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170110000001","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]

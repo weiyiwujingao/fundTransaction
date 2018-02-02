@@ -1,0 +1,149 @@
+[14:58:48][|-param-|Array
+(
+    [mobile_code] => 222360
+    [sms_serial_no] => 1686402
+    [original_serial_no] => bj2017020714582960918
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020202
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 145848
+    [bank_account] => 6214830201562278
+    [bank_no] => 103126482927
+)
+]
+[14:58:49][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:02:12][|-param-|Array
+(
+    [mobile_code] => 871627
+    [sms_serial_no] => 1686406
+    [original_serial_no] => bj2017020715015683759
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020203
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 150212
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103521006541
+)
+]
+[15:02:13][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:04:02][|-param-|Array
+(
+    [mobile_code] => 547094
+    [sms_serial_no] => 1686407
+    [original_serial_no] => bj2017020715035073916
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020203
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 150402
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:04:03][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:04:03][|-iParam-|Array
+(
+    [UserID] => 209
+    [Province] => 湖北省
+    [City] => 赤壁市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103536269569
+    [BranchName] => 中国农业银行股份有限公司赤壁市城西支行
+    [BankCard] => 6228452408037333076
+    [Mobile] => 18671517368
+    [NickName] => 奖励
+    [IdentityNumber] => 421281199202020203
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-07 15:04:03
+)
+]
+[15:04:03][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[15:04:18][|-param-|Array
+(
+    [mobile_code] => 547094
+    [sms_serial_no] => 1686407
+    [original_serial_no] => bj2017020715035073916
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020203
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 150418
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:04:19][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 验证码不匹配
+    [error_no] => -1
+)
+]

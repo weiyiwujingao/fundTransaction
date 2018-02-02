@@ -1,0 +1,204 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">交易密码找回</h3>
+            <div class="qstepBar fourStep Mt10">
+                <a href="javascript:;" class="Cur">银行卡信息验证</a>
+                <a href="javascript:;">手机验证</a>
+                <a href="javascript:;">设置新密码</a>
+                <a href="javascript:;">重置成功</a>
+            </div>
+            <form class="Cf">
+                <div class="bankList">
+                    <?php
+                if($bank){
+                    foreach($bank as $bk => $bv){
+                    echo '
+                    <span class="uRadio imgLi">
+                            <img src="https://trade.buyfunds.cn/front/uc/Imgs/BjCenter/BankIcon/' . $bv['pic'] . '" title="">
+                            <i><input type="radio" onClick="radioClk(this);" value="' . $bk . '" name="bank"></i>
+                            </span>';
+                    }
+                    }
+                    ?>
+                </div>
+                
+                <div style="display:none" class="bankForm">
+                	<h3 class="Title1 Tc">仅限持卡人本人操作，请如实填写。以下信息用于银行真实性校验，受网银多重安全保障</h3>
+                    <div class="bankIcon Mt20">
+                        <b class="bankPre"><i>*</i>发卡银行：</b>
+                        <span id="bankIcon"><img src="https://trade.buyfunds.cn/front/uc/Imgs/BjCenter/BankIcon/GDB.jpg" title=""></span>
+                    </div>
+                    <p class="bankSafe">安全设置检测成功！开通环境安全可靠</p>
+                    <div class="formLi">
+                        <b class="bankPre"><i>*</i>银行卡账号：</b>
+                        <span class="Rtv">
+                           <!-- <textarea id="bankNum" class="bankNum"></textarea>-->
+                            <input type="text" id="bankNum" value="" class="bankNum ins" />
+                            <b class="numTip"></b>
+                        </span>
+                        <em class="Lock"></em>
+                        <em></em>
+                    </div>
+                    <p class="bankTip">提示：请填写开户人本人的借记卡/存储卡号码（暂不支持普通存折或信用卡号）</p>
+                    <div class="formLi Mt10">
+                        <b class="bankPre"><i>*</i>身份证号：</b>
+                        <span><input type="text" id="idcard" value="" class="ident w340 ins"/></span>
+                        <em class="Lock"></em>
+                        <em></em>
+                    </div>
+                    <p class="formTip">请与银行开户时证件号码一致</p>
+                    <div class="formLi Mt10">
+                        <b class="bankPre"><i>*</i>持卡人真实姓名：</b>
+                        <span><input type="text" id="turename" value="" class="w340 ins"/></span>
+                        <em></em>
+                    </div>
+                    <p class="formTip">请与银行开户时姓名一致</p>
+                    <div class="formLi Mt10">
+                        <b class="bankPre"><i>*</i>银行预留手机号：</b>
+                        <span><input type="text" id="mobile" value="" class="tel w340 ins"/></span>
+                        <em></em>
+                    </div>
+                    <p class="formTip">请与银行开户时预留的手机号一致</p>
+                    <div class="btnPre w340 Tc Mt30">
+                        <a href="javascript:;" onClick="subForm(this);" id="subForm" class="halfBtn">确认</a>
+                    </div>
+                </div>
+                <input type="hidden" id="bankcode">
+            </form>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/buy/js/common.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=2017"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.uRadio').uRadio();/*单选框美化*/
+
+		$('#bankNum').bankInp();//银行卡号输入 空格嵌入
+		$('.ident').inpIdent();//身份证号输入验证
+		$('.tel').inpTel();//手机号输入验证
+
+		function radioClk(obj){//单选框 银行选择点击事件 仅供参考
+			var p = $(obj).parents('.imgLi'),
+			box = $(p).parent().next(),
+			img = $(p).find('img'),
+			im = $(img).clone();
+			$('#bankIcon').html('');
+			$('#bankIcon').append(im);
+			if($(box).is(':hidden')){
+				$(box).css('display','block');
+				$('.FormSlt').uSelect();/*select美化*/
+			}
+			var $co=$(obj).val();
+            if($co==''){
+                $('#msgBox').showWin("<p>银行数据异常，请勿操作！</p>");
+            }
+
+            $('#bankcode').val($co);
+		}
+		//表单提交事件 仅供参考
+		function subForm(obj){
+
+            var $bankNum=$('#bankNum').val();//银行卡号
+            var $idcard=$('#idcard').val();//身份证号
+            var $turename=$('#turename').val();//真实姓名
+            var $mobile=$('#mobile').val();//预留电话
+            var $code=$('#bankcode').val();//银行代码
+
+			var flag = true,reg,
+			arr = ['银行卡账号','身份证','真实姓名','手机号码'],
+			inps = $('form').find('.ins');
+			for(var i =0 ; i < $(inps).length;i++){
+				if($(inps).eq(i).val() == ''){
+					flag = false;			
+					$(inps).eq(i).showTip('Error','<p>'+arr[i]+'不能为空'+'</p>');//此函数用于输入框后错误或正确提示
+					//第一个参数Error表示错误提示 Right表示正确 
+					//当第一个参数为Error时，请传入第二个参数及错误提示信息
+                    return false;
+				}
+			}
+
+            //空值校验
+            if($code==''){
+                $('#msgBox').showWin("<p>银行数据错误！</p>");
+                flag = false;
+            }
+
+
+             if(flag){
+
+                 if(!(toolTest.IsPhoneNum($mobile))){
+                     $('.tel').showTip('Error','手机号格式不正确');
+                     flag = false;
+                 } else {
+                     $('.tel').showTip('Right');
+                 }
+
+                 if(!(toolTest.IsIdentNum($idcard))){
+                     $('.ident').showTip('Error','身份证号格式不正确');
+                     flag = false;
+                 } else {
+                     $('.ident').showTip('Right');
+                 }
+
+                 var reg2 = /([^\d])/g;
+                 $bankNum = $bankNum.replace(reg2,'');
+                 if(!(toolTest.IsBankCardNum($bankNum))){
+                     $('.bankNum').showTip('Error','银行卡格式不正确')
+                     flag = false;
+                 } else {
+                     $('.bankNum').showTip('Right');
+                 }
+			}
+			if(flag){
+                if($('#subForm').hasClass('disClick')){
+                    $('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                    return false;
+                }
+                $('#subForm').addClass('disClick');
+                setTimeout(function(){$('#subForm').removeClass('disClick');},20*1000);
+                $.ajax({
+                    url:"<?= $ajaxUrl;?>/ajaxTrade",
+                    dataType:'json',
+                    cache:false,
+                    type:'post',
+                    data:{'tid':"<?= isset($tid)?$tid:'';?>",'mkid':"<?= isset($mkid)?$mkid:'';?>",'uid':"<?= isset($userID)?$userID:'';?>",'bankcode':$code,'banknum':$bankNum,'idcard':$idcard,'turename':$turename,'mobile':$mobile},
+                    success: function(data){
+                        if(data['flag']=='10000'){
+                            window.location.href=data['msg']
+                        }else{
+                            $('#msgBox').showWin("<p>"+data['msg']+"</p>");
+                        }
+                    },
+                    error:function(){
+                        $('#msgBox').showWin("<p class='Tc'>数据传输失败，请联系技术人员！</p>");
+                    }
+
+                });
+			}else{
+                $('#msgBox').showWin('请依据提示修改！');
+            }
+		}
+    </script>
+</body>
+</html>

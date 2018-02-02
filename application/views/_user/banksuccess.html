@@ -1,0 +1,29 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+            <h3 class="Title8">
+                <a href="<?php echo TRADE_BANK_LIST_URL ?>">银行卡管理</a>&gt;绑定成功
+            </h3>
+            <div class="qstepBar twoStep Mt10">
+                <a href="javascript:;">银行卡验证</a>
+                <a href="javascript:;" class="Cur">绑定成功</a>
+            </div>
+            <h3 class="Title Tc Mt30">银行卡绑定成功</h3>
+            <div class="Mt30 Tc">
+                <a href="<?php echo TRADE_BANK_LIST_URL ?>" class="Ml25 halfBtn">返回银行卡管理</a>
+            </div>
+        </div>
+    </div>
+    
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+	<script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?=v201612131545"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+    </script>
+</body>
+</html>

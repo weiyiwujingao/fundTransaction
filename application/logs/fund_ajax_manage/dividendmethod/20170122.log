@@ -1,0 +1,342 @@
+[13:39:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 20F8076637824C2F952CDAE7C9275EEB2017012213391561418687
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"11","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:39:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 20F8076637824C2F952CDAE7C9275EEB2017012213391561418687
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 
+    [fund_code] => 
+    [share_type] => A
+    [password] => d41d8cd98f00b204e9800998ecf8427e
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"1755","error_info":"设置的分红方式不正确！"}]}
+    [code] => 200
+)
+]
+[13:40:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A077340B8CFC43958ACCB0808FDA9B4E2017012213403646238289
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 519999
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"2","per_myriad_income":"0.0000","fund_code":"519999","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"1","pre_income_ratio":"0.0000","fund_full_name":"长信利息收益","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"长信利息收益","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0000","nav":"1.0000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:40:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A077340B8CFC43958ACCB0808FDA9B4E2017012213403646238289
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 1
+    [fund_code] => 519999
+    [share_type] => A
+    [password] => 123456
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"1706","error_info":"基金[519999]不允许修改分红方式"}]}
+    [code] => 200
+)
+]
+[13:41:13][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A3969876D8B04A83820068B2ED9919C92017012213411380733416
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 519999
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"2","per_myriad_income":"0.0000","fund_code":"519999","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"1","pre_income_ratio":"0.0000","fund_full_name":"长信利息收益","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"长信利息收益","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0000","nav":"1.0000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:41:13][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A3969876D8B04A83820068B2ED9919C92017012213411380733416
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 1
+    [fund_code] => 519999
+    [share_type] => A
+    [password] => 123456
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"1706","error_info":"基金[519999]不允许修改分红方式"}]}
+    [code] => 200
+)
+]
+[13:49:05][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A511FDCD7CC84D9EAE345D2BF48444612017012213490589345165
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 519999
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"2","per_myriad_income":"0.0000","fund_code":"519999","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"1","pre_income_ratio":"0.0000","fund_full_name":"长信利息收益","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"长信利息收益","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0000","nav":"1.0000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:49:05][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A511FDCD7CC84D9EAE345D2BF48444612017012213490589345165
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 1
+    [fund_code] => 519999
+    [share_type] => A
+    [password] => 123456
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"1706","error_info":"基金[519999]不允许修改分红方式"}]}
+    [code] => 200
+)
+]
+[13:50:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 1C176DAA0CCE49A3A064A50D20B374062017012213503885681490
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 519999
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"2","per_myriad_income":"0.0000","fund_code":"519999","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"1","pre_income_ratio":"0.0000","fund_full_name":"长信利息收益","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"长信利息收益","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0000","nav":"1.0000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:50:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 1C176DAA0CCE49A3A064A50D20B374062017012213503885681490
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 1
+    [fund_code] => 519999
+    [share_type] => A
+    [password] => 123456
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"1706","error_info":"基金[519999]不允许修改分红方式"}]}
+    [code] => 200
+)
+]
+[13:56:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4DCFB6BD4210438D9C6E91653767E8BC2017012213561648465071
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4DCFB6BD4210438D9C6E91653767E8BC2017012213561648465071
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 1
+    [fund_code] => 000011
+    [share_type] => A
+    [password] => 123456
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"0102","error_info":"[1146]|请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[14:00:31][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 78F4B9903B9D4A8C8A0D80156009DF352017012214003232308783
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:00:31][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 78F4B9903B9D4A8C8A0D80156009DF352017012214003232308783
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 1
+    [fund_code] => 000011
+    [share_type] => A
+    [password] => 123456
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"0102","error_info":"[1146]|请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[14:00:46][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F8B938C8DF5146F18AC1C9F5DE21C2342017012214004703489014
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:00:46][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F8B938C8DF5146F18AC1C9F5DE21C2342017012214004703489014
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 1
+    [fund_code] => 000011
+    [share_type] => A
+    [password] => 123456
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"0102","error_info":"[1146]|请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[14:01:08][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4BB3A356F033491B9C68F625629A1E112017012214010874658010
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 000011
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"000011","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"华夏大盘精选证券投资基金","accept_hq_date":"20170118","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"华夏大盘精选证券投资","fund_status":"0","ta_no":"CS","success_type":"0","nav_total":"1.0300","nav":"1.0300","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170117","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:01:08][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4BB3A356F033491B9C68F625629A1E112017012214010874658010
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1146
+    [auto_buy] => 1
+    [fund_code] => 000011
+    [share_type] => A
+    [password] => 123456
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"0102","error_info":"[1146]|请输入正确的密码。"}]}
+    [code] => 200
+)
+]

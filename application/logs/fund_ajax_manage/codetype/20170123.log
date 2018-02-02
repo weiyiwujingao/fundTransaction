@@ -1,0 +1,357 @@
+[10:09:43][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 411A8047D444450297EC892CD937938C2017012310094419744675
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[10:09:48][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4FECC0D72198461B8BAC26352088AF2F2017012310094850190058
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[14:37:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 498D1B4B1A424D5A9789C5FCA6E3E8332017012314375043939315
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[14:37:53][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[14:37:58][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B39C720988A14FE89D0AC32F83D100352017012314375922751620
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[14:38:43][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => DA9E11240C284FB999D67BF51D154F502017012314384445057923
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:00:32][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => BEBDC8C389F14A47927EA05C5A853F8C2017012315003273469361
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:00:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 1A1456E7CCF144088D9C2AF31D4F436E2017012315003587578525
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:02:12][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F2BE1C66D7FF4A4897A3C0A705AFB3CE2017012315021299627266
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:03:06][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 3077385DAF134DDEBCF2E264953A97BB2017012315030679113476
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:04:57][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B037A0F73DDA4826AF1A75C830D9EB802017012315045773790688
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:32:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1B5D8411B1F4C5B9B57D824AC293CE02017012315321120019419
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:32:13][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E9F72D6029164CB281B6CA2A09EA19DB2017012315321408623185
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:32:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 296ECEE78F18434D9A4BE601EC9282B92017012315321516793149
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:47:01][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 1CF2FE766B3A4DD187A87BAB11DF60482017012315470216542206
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:47:08][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 22BDE0782F4D4F4B9FB282C62F055F542017012315470895673397
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:47:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => FA2EDDB3833843639AD66CBCDFC351DB2017012315471481816515
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:47:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4DCF9F7F93B845EF87AAB3CC62A8F16E2017012315471560463163
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 400003
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:47:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => BC078E507E204DE5874B57F9C7D1BF4D2017012315472320277431
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 400003
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:47:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 375A343290AD4692A90B6C253757CFE22017012315472434180701
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:47:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B56E8398EBB14CF587365BC32BF6C4742017012315473944524748
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]

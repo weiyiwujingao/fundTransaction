@@ -1,0 +1,3911 @@
+[10:39:16][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[10:39:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 30岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30岁以上40岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 40岁以上50岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 50岁以上60岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 60岁以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[10:39:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[10:39:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A      2000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 2000元以上4000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 4000元以上6000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 6000元以上10000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 10000元以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[10:39:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[10:39:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 投资过期货、股票、外汇、基金、及其它金融产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 没投资过期货、但投资过股票、外汇、基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资过基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 只投资过黄金、债券、银行理财产品、储蓄等金融产品
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有投资过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[10:39:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[10:39:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 50%以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30%以上50%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 15%以上30%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 5%以上15以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 5%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[10:39:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[10:39:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 广播、电视等媒体宣传
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 专业人士（工作人员）推荐
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 亲友介绍
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 自己本来就很有理财意识
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[10:39:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[10:39:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 基金公司专业的管理能力
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 长期表现比较稳健
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资理财的乐趣
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 没什么理由，感觉能赚钱
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 稳赚不赔较为保险的投资方式
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[10:39:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[10:39:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 偏股型、债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 购买过但不清楚类型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有购买过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[10:39:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[10:39:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 10年以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 5年以上10年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 3年以上5年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 1年以上3年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 1年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[10:39:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[10:39:18][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 全部卖出
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 增加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 7.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 什么也不做
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 等待反弹，如果反弹超过10%，则追加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[15:55:24][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 30岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30岁以上40岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 40岁以上50岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 50岁以上60岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 60岁以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:55:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A      2000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 2000元以上4000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 4000元以上6000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 6000元以上10000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 10000元以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:55:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 投资过期货、股票、外汇、基金、及其它金融产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 没投资过期货、但投资过股票、外汇、基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资过基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 只投资过黄金、债券、银行理财产品、储蓄等金融产品
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有投资过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:55:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 50%以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30%以上50%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 15%以上30%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 5%以上15以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 5%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:55:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 广播、电视等媒体宣传
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 专业人士（工作人员）推荐
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 亲友介绍
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 自己本来就很有理财意识
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[15:55:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 基金公司专业的管理能力
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 长期表现比较稳健
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资理财的乐趣
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 没什么理由，感觉能赚钱
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 稳赚不赔较为保险的投资方式
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:55:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 偏股型、债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 购买过但不清楚类型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有购买过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:55:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 10年以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 5年以上10年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 3年以上5年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 1年以上3年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 1年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:55:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:55:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 全部卖出
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 增加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 7.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 什么也不做
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 等待反弹，如果反弹超过10%，则追加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:56:15][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[19:53:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[19:53:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 30岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30岁以上40岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 40岁以上50岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 50岁以上60岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 60岁以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[19:53:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[19:53:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A      2000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 2000元以上4000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 4000元以上6000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 6000元以上10000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 10000元以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[19:53:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[19:53:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 投资过期货、股票、外汇、基金、及其它金融产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 没投资过期货、但投资过股票、外汇、基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资过基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 只投资过黄金、债券、银行理财产品、储蓄等金融产品
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有投资过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[19:53:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[19:53:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 50%以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30%以上50%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 15%以上30%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 5%以上15以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 5%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[19:53:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[19:53:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 广播、电视等媒体宣传
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 专业人士（工作人员）推荐
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 亲友介绍
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 自己本来就很有理财意识
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[19:53:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[19:53:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 基金公司专业的管理能力
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 长期表现比较稳健
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资理财的乐趣
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 没什么理由，感觉能赚钱
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 稳赚不赔较为保险的投资方式
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[19:53:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[19:53:08][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 偏股型、债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 购买过但不清楚类型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有购买过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[19:53:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[19:53:08][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 10年以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 5年以上10年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 3年以上5年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 1年以上3年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 1年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[19:53:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[19:53:08][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 全部卖出
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 增加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 7.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 什么也不做
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 等待反弹，如果反弹超过10%，则追加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:21:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:22:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:22:23][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:29:29][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:29:29][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 30岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30岁以上40岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 40岁以上50岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 50岁以上60岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 60岁以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[20:29:29][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:29:29][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A      2000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 2000元以上4000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 4000元以上6000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 6000元以上10000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 10000元以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[20:29:29][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:29:29][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 投资过期货、股票、外汇、基金、及其它金融产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 没投资过期货、但投资过股票、外汇、基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资过基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 只投资过黄金、债券、银行理财产品、储蓄等金融产品
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有投资过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[20:29:29][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:29:29][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 50%以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30%以上50%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 15%以上30%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 5%以上15以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 5%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[20:29:29][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:29:29][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 广播、电视等媒体宣传
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 专业人士（工作人员）推荐
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 亲友介绍
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 自己本来就很有理财意识
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[20:29:29][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:29:30][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 基金公司专业的管理能力
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 长期表现比较稳健
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资理财的乐趣
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 没什么理由，感觉能赚钱
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 稳赚不赔较为保险的投资方式
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[20:29:30][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:29:30][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 偏股型、债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 购买过但不清楚类型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有购买过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[20:29:30][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:29:30][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 10年以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 5年以上10年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 3年以上5年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 1年以上3年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 1年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[20:29:30][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:29:30][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 全部卖出
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 增加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 7.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 什么也不做
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 等待反弹，如果反弹超过10%，则追加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:36:46][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:37:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:39:14][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:39:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:40:10][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:40:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[20:52:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]

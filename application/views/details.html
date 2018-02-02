@@ -1,0 +1,667 @@
+<div class="W1000 AdvW1kH90 Mt10 Mb0 Cf"><!--广告位-->
+    <script>
+        (function() {
+            var s = "_" + Math.random().toString(36).slice(2);
+            document.write('<div id="' + s + '"></div>');
+            (window.slotbydup=window.slotbydup || []).push({
+                id: '3455956',
+                container: s,
+                size: '1000,90',
+                display: 'inlay-fix'
+            });
+        })();
+    </script>
+</div>
+<!--ad End-->
+<!--skip info Start-->
+<div class="skip-info">
+    <div class="siCon">
+        <a href="/" class="siF">伯嘉基金网 &gt;</a>
+        <a href="http://www.buyfunds.cn/newfund/index">新发基金 &gt;</a>
+        <a href="javascript:;"><?php echo $detaildata['ChiNameAbbr'];?></a>
+    </div>
+</div>
+<!--skip info End-->
+<!--details Start-->
+<div class="details Cf">
+    <div class="title Cf">
+        <strong><?php echo $detaildata['ChiNameAbbr'];?></strong>
+        <span>(<?php echo $detaildata['SecuCode'];?>)<?php echo $detaildata['FundType'];?></span>
+        <a href="javascript:void(0);" onclick="Add1()" class="FdTitLk" id="AddBtn"><i>+</i><em>加自选</em></a><!--删除自选后显示-->
+        <a href="javascript:void(0);" onclick="Del1()" class="FdTitLk" id="DelBtn" style="display:none;"><i>-</i><em>删除</em></a><!--已加自选后显示-->
+    </div>
+    <div class="details-left">
+        <div class="head Cf">
+            <ul class="headUl">
+                <li>基金类型：<?php echo $detaildata['FundType'];?>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基金经理：<?php echo $managerdata[0]['Name'];?></li>
+                <li>基金募集期：<?php echo date('Y-m-d',strtotime($detaildata['IssueStartDate']));?>～<?php echo date('Y-m-d',strtotime($detaildata['IssueEndDate']));?></li>
+                <li>产品全称：<?php echo $detaildata['ChiName'];?></li>
+                <li>基金管理人：<a  target="_blank" href="<?php echo base_url().'main/detail1/code/'.$detaildata['InvestAdvisorCode'];?>"><?php echo $detaildata['InvestAdvisorName'];?></a></li>
+                <li class="redFont">风险收益特征：</li>
+                <li><?php echo $detaildata['RiskReturncharacter'];?></li>
+            </ul>
+            <?php if(in_array($detaildata['SecuCode'],$bjcodes)){
+            ?>
+            <div class="buy">
+                <p>购买状态：<span><?php if(in_array($detaildata['SecuCode'],$zzfx)){echo '认购期';} ?></span></p>
+                <i class="through">原申购费率：<span><?=$rgrateData[0]['ChargeRateDes']?></span></i>
+                <i class="redFont">伯嘉费率：<span><?=$detaildata['zdfl']?></span></i>
+                <a target="_blank" href="<?php if($bjcodes){if(in_array($detaildata['SecuCode'],$bjcodes)){echo 'http://trade.buyfunds.cn/trade/fundtrade.html?fundcode='.$detaildata['SecuCode'];}else{echo 'javascript:;';}}else{echo 'javascript:;';} ?>" class="bgRed">立即购买</a><a target="_blank" href="https://trade.buyfunds.cn/user/register.html" class="bgBlue">免费开户</a>
+                <ul>
+                    <li><span><script src="/api/get_min_sg_value/<?= $detaildata['SecuCode'] ?>"></script>
+</span>元起购</li>
+                    <li>10秒开户</li>
+                </ul>
+            </div>
+            <?php }else{
+            ?>
+             <div class="buy2">
+                <p>购买状态：<span><?php if(in_array($detaildata['SecuCode'],$zzfx)){echo '认购期';} ?></span></p>
+                <div class="by2l Cf">
+                    <div class="by2la">
+                        <b>伯嘉精选基金</b>
+                        <p>专业研究团队 提供优质选择</p>
+                        <a target="_blank" href="http://www.buyfunds.cn/deal/sift">立即体验>></a>
+                    </div>
+                    <div class="by2lb">
+                        <a target="_blank" href="https://trade.buyfunds.cn/user/register.html">免费<br />开户</a>
+                    </div>
+                </div>
+            </div>
+            <?php }?>
+            <div class="clearfloat"></div>
+        </div>
+        <div class="tabs">
+            <ul class="tabsNav Cf">
+                <li>基金概况</li>
+                <li>基金费率</li>
+                <li>基金经理</li>
+                <li>基金策略</li>
+            </ul>
+            <div class="tabsCon basic">
+                <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                    <tbody>
+                    <tr>
+                        <td class="bgGrey">基金全称</td>
+                        <td><?php echo $detaildata['ChiName'];?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey" >基金代码</td>
+                        <td id='jjdm'><?php echo $detaildata['SecuCode'];?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">基金简称</td>
+                        <td><?php echo $detaildata['ChiNameAbbr'];?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">基金类型</td>
+                        <td><?php echo $detaildata['FundType'];?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">发售时间</td>
+                        <td><?php echo date('Y-m-d',strtotime($detaildata['IssueStartDate']));?>～<?php echo date('Y-m-d',strtotime($detaildata['IssueEndDate']));?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">基金管理人</td>
+                        <td><a target="_blank"  href="<?php echo base_url().'main/detail1/code/'.$detaildata['InvestAdvisorCode'];?>"><?php echo $detaildata['InvestAdvisorName'];?></a></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">基金托管人</td>
+                        <td><?php echo $detaildata['TrusteeName'];?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">募集规模</td>
+                        <td><?php $detaildata['FoundedSize']=$detaildata['FoundedSize']/1000000000;echo $detaildata['FoundedSize']?$detaildata['FoundedSize'].'亿':'上不封顶';?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">投资目标</td>
+                        <td><?php echo $detaildata['InvestTarget'];?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">业绩比较基准</td>
+                        <td><?php echo $detaildata['PerformanceBenchMark'];?></td>
+                    </tr>
+                    <tr>
+                        <td class="bgGrey">风险收益特征</td>
+                        <td><?php echo $detaildata['RiskReturncharacter'];?></td>
+                    </tr>
+                    </tbody>
+                </table>
+                <div class="rate">
+                    <p>基金费率</p>
+                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                        <tbody>
+                        <tr>
+                            <td class="bgF1" colspan="2">认购费（前端认购费）</td>
+
+                        </tr>
+                        <tr>
+                            <td class="bgF6" width="360">单笔金额</td>
+                            <td class="bgF6">费率</td>
+                        </tr>
+                        <?php 
+                            if($ratedata){
+                              foreach($ratedata as $row){
+                        ?>
+                                    <tr>
+                                        <td>
+                                        <?php 
+                                            if(intval($row['StDivStand1'])!=0){
+                                                      if($row['IfApplyStart1']==1){
+                                                         echo intval($row['StDivStand1']).'万元&nbsp&lt=';
+                                                        }else{
+                                                         echo intval($row['StDivStand1']).'万元&nbsp&lt';
+                                                        }
+                                            }
+
+                                            if(intval($row['StDivStand1'])!=0||intval($row['EnDivStand1'])!=0){
+                                                        echo "X";
+                                            }else{
+                                                        echo "--";
+                                            }
+                                        ?>  
+                                          
+                                        <?php 
+                                            if(intval($row['EnDivStand1'])){
+                                               if($row['IfApplyEnd1']==1){
+                                                    echo '=&lt'.intval($row['EnDivStand1']).'万元';
+                                               }else{
+                                                   echo '&lt'.intval($row['EnDivStand1']).'万元';
+                                               }
+                                               
+                                            }
+                                            
+                                        ?>
+                                            
+                                        </td>
+                                        <td><?php echo $row['ChargeRateDes'];?></td>
+                                    </tr>
+                        <?php 
+                            }
+                           }else{
+                                 echo "<tr><td>--</td><td>--</td></tr>";
+                           }
+                        ?>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <div class="tabsCon rates Cf">
+                <div class="ratesLeft">
+                    <div class="rates1">
+                        <table cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                            <tr>
+                                <td class="bgF1" colspan="2">认购费（前端认购费）</td>
+                            </tr>
+                            <tr>
+                                <td class="bgF6" width="198">单笔金额</td>
+                                <td class="bgF6">费率</td>
+                            </tr>
+                            <?php 
+                            if($ratedata){
+                             foreach($ratedata as $row){?>
+                            <tr>
+                                <td>
+                                <?php 
+                                    if(intval($row['StDivStand1'])!=0){
+                                              if($row['IfApplyStart1']==1){
+                                                 echo intval($row['StDivStand1']).'万元&nbsp&lt=';
+                                                }else{
+                                                 echo intval($row['StDivStand1']).'万元&nbsp&lt';
+                                                }
+                                    }
+
+                                    if(intval($row['StDivStand1'])!=0||intval($row['EnDivStand1'])!=0){
+                                                echo "X";
+                                    }else{
+                                                echo "--";
+                                    }
+                                ?> 
+                                <?php 
+                                    if(intval($row['EnDivStand1'])){
+                                       if($row['IfApplyEnd1']==1){
+                                            echo '=&lt'.intval($row['EnDivStand1']).'万元';
+                                       }else{
+                                           echo '&lt'.intval($row['EnDivStand1']).'万元';
+                                       }
+                                       
+                                    }
+                                    
+                                ?>  
+                                </td>
+                                <td><?php echo $row['ChargeRateDes'];?></td>
+                            </tr>
+                            <?php 
+                                 }
+                                }else{
+                                    echo "<tr><td>--</td><td>--</td></tr>";
+                                }
+                            ?>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="rates2">
+                        <table cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                            <tr>
+                                <td class="bgF1" colspan="2">认购费用计算器</td>
+                            </tr>
+                            <tr>
+                                <td class="bgF6" width="149">认购金额：</td>
+                                <td><input type="text" class="rgje"></td>
+                            </tr>
+                            <tr>
+                                <td class="bgF6">单位基金净值：</td>
+                                <td><input type="text" class="dwjjjz"></td>
+                            </tr>
+                            <tr>
+                                <td class="bgF6">认购费率(0-1.5)%：</td>
+                                <td><input type="text" class="rgfl"></td>
+                            </tr>
+                            <tr id="calculator">
+                                <td colspan="2">
+                                    <a href="javascript:;" class="calculate">计算</a>
+                                    <a href="javascript:;" class="clean">清空</a>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="ratesRight">
+                    <div class="rates3">
+                        <table cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                            <tr>
+                                <td class="bgF1" colspan="2">赎回费率</td>
+                            </tr>
+                            <tr>
+                                <td class="bgF6" width="198">持有期限</td>
+                                <td class="bgF6">费率</td>
+                            </tr>
+
+                            <?php 
+                                if($redemptionratedata){
+                                  foreach($redemptionratedata as $row1){
+                            ?>
+                            <tr>
+                                <td>
+                                <?php 
+                                    if(intval($row1['StDivStand1'])!=0){
+                                              if($row1['IfApplyStart1']==1){
+                                                 echo intval($row1['StDivStand1']).'日&nbsp&lt=';
+                                                }else{
+                                                 echo intval($row1['StDivStand1']).'日&nbsp&lt';
+                                                }
+                                    }?>  
+                                <?php 
+                                    if(intval($row1['StDivStand1'])!=0||intval($row1['EnDivStand1'])!=0){
+                                          echo "持有期限";
+                                    }
+                                ?>
+                                <?php 
+                                    if(intval($row1['EnDivStand1'])){
+                                       if($row1['IfApplyEnd1']==1){
+                                            echo '=&lt'.intval($row1['EnDivStand1']).'日';
+                                       }else{
+                                           echo '&lt'.intval($row1['EnDivStand1']).'日';
+                                       }
+                                       
+                                    }
+                                    
+                                ?>
+                                    
+                                </td>
+                                <td><?php echo $row1['ChargeRateDes'];?></td>
+                            </tr>
+                            <?php 
+                                  }
+                                 }else{
+                                    echo "<tr><td>--</td><td>--</td></tr>";
+                                }
+                            ?>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="rates4">
+                        <table cellspacing="0" cellpadding="0" border="0">
+                            <tbody>
+                            <tr>
+                                <td class="bgF1" colspan="2">管理，托管费率</td>
+                            </tr>
+                            <tr>
+                                <td class="bgF6" width="198">名称</td>
+                                <td class="bgF6">费率</td>
+                            </tr>
+                            <tr>
+                                <td>基金管理费</td>
+                                <td><?php echo $administrativeratedata[0]['ChargeRateDes']?$administrativeratedata[0]['ChargeRateDes']:'--';?></td>
+                            </tr>
+                            <tr>
+                                <td>基金托管费</td>
+                                <td><?php echo $collocationratedata[0]['ChargeRateDes']?$collocationratedata[0]['ChargeRateDes']:'--';?></td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="tabsCon manager Cf">
+                <div class="pic"><img height='135' width='100' src="<?php echo base_url().'detailfund/jjjl_photo/'.$managerdata[0]['PersonalCode'];?>" alt=""></div>
+                <div class="word">
+                    <p><?php echo $managerdata[0]['Name'];?></p>
+                    <?php echo $managerdata[0]['Background'];?>
+                </div>
+            </div>
+            <div class="tabsCon way">
+                投资目标: <?php echo $detaildata['InvestTarget'];?><br/><br/>投资方向:<?php echo $detaildata['InvestOrientation'];?>
+                <br/>
+                投资策略: <?php echo $detaildata['InvestField'];?>
+            </div>
+        </div>
+    </div>
+    <div class="details-right">
+        <div class="myChoose">
+            <div class="myChooseTitle Cf">
+                <span>我的自选基金</span>
+                <a target='_blank' style="color:#2775ba" href="/tools/optional">更多</a>
+            </div>
+            <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                <tbody class="tbzx">
+                <tr>
+                    <td height="25" width='85'>名称</td>
+                    <td>单位净值</td>
+                    <td>日增长率</td>
+                </tr>
+                <?php 
+                    if($userId){
+                        if($wdzx){
+                            foreach($wdzx as $zxrow){
+
+                        
+                ?>
+                     <tr class="zx" id="<?=$zxrow['jydm'];?>">
+                        <td height="34"  ><a  class='jjName' href="/fund/index/<?=$zxrow['jydm'];?>"><?=$zxrow['jjjc'];?></a></td>
+                        <td><?=$zxrow['dwjz'];?></td>
+                        <td <?php if($zxrow['rzzl']<0){echo "style='color:#009900'";} if($zxrow['rzzl']>0){echo "style='color:#ff0000'";}?>><?=$zxrow['rzzl'];?></td>
+                     </tr>
+                <?php 
+                                    }
+                        }else{
+                            echo  "<tr><td colspan='3' text_align='center'>您暂时还未添加自选基金</td></tr>";
+                        }
+                }else{
+
+                ?>
+                <tr>
+                    <td height="34" colspan="3"><a href="https://trade.buyfunds.cn/user/login.html?rt=<?php echo  urlencode(base64_encode(base_url().$dz));?>">登录</a>查看我的自选基金</td>
+                </tr>
+                <tr>
+                    <td height="30" colspan="3" class="bgGrey">以下为热门基金</td>
+                </tr>
+
+                <?php if($rmdata){
+                        foreach($rmdata as $rmrow){
+                ?>
+                <tr>
+                    <td height="34" ><a class='jjName' target="_blank" href="/fund/index/<?=$rmrow['jydm'];?>" title="<?=$rmrow['jjjc'];?>"><?=$rmrow['jjjc'];?></a></td>
+                    <td ><?=$rmrow['dwjz'];?></td>
+                    <td <?php if($rmrow['rzzl']<0){echo "style='color:#009900'";} if($rmrow['rzzl']>0){echo "style='color:#ff0000'";}?>><?=$rmrow['rzzl'];?></td>
+                </tr>
+                <?php }}}?>
+                </tbody>
+            </table>
+        </div>
+        <div class="adZone">
+            <!-- 广告位：详情页画中画 -->
+            <script>
+                (function() {
+                    var s = "_" + Math.random().toString(36).slice(2);
+                    document.write('<div id="' + s + '"></div>');
+                    (window.slotbydup=window.slotbydup || []).push({
+                        id: '3456062',
+                        container: s,
+                        size: '260,160',
+                        display: 'inlay-fix'
+                    });
+                })();
+            </script>
+        </div>
+
+        <div class="hot">
+            <div class="hotTitle Cf">
+                <span>热销基金</span>
+                <a target='_blank' style="color:#2775ba" href=" http://www.buyfunds.cn/deal/hotfund">更多</a>
+            </div>
+            <dl class="Cf">
+            <?php if($rxdata){
+                        foreach($rxdata as $rxrow){
+            ?>
+                <dt>
+                    <a href="/fund/index/<?=$rxrow['jydm'];?>" target="_blank" title="<?=$rxrow['jjjc'];?>"><?=$rxrow['jjjc'];?></a>
+                    <span>日增长率</span>
+                    <b>
+                        <?php if ($rxrow['rzzl']>0):?>
+                        <span style="color:#f00"><?= sprintf("%.2f", $rxrow['rzzl']).'%';?></span>
+                        <?php elseif ($rxrow['rzzl']<0):?>
+                        <span style="color:#00A835"><?= sprintf("%.2f", $rxrow['rzzl']).'%';?></span>
+                        <?php elseif($rxrow['rzzl']==0):?>
+                        <span style="color:#272822"><?= sprintf("%.2f", $rxrow['rzzl']).'%';?></span>
+                        <?php endif;?>
+                    </b>
+                </dt>
+                <dd>
+                    <a <?php if($bjcodes){if(in_array($rxrow['jydm'],$bjcodes)&$rxrow['sgzt']==1){ echo "target='_blank'";}}?> href="<?php if($bjcodes){if(in_array($rxrow['jydm'],$bjcodes)&$rxrow['sgzt']==1){echo 'http://trade.buyfunds.cn/trade/fundtrade.html?fundcode='.$rxrow['jydm'];}else{echo 'javascript:;';}}else{echo 'javascript:;';} ?>" <?php if($bjcodes){if(in_array($rxrow['jydm'],$bjcodes)&$rxrow['sgzt']==1){echo "class='buyIt'";}else{echo "class='banBuy'";}}else{echo "class='banBuy'";}?>>购买</a>
+                </dd>
+             <?php }}?>
+            </dl>
+        </div>
+        <div class="information">
+            <div class="informationTitle Cf">
+                <span>基金资讯</span>
+            </div>
+            <ul id='zixun'>
+                <!-- <li><a href="javascript:;">▪ 股市将成唯一靠谱投资渠道？</a></li>
+                <li><a href="javascript:;">▪ 活期宝七日年化收益达3-10%</a></li>
+                <li><a href="javascript:;">▪ 专业安全买基金 申购费率1折</a></li>
+                <li><a href="javascript:;">▪ 固收理财产品 年化收益达3-10%</a></li>
+                <li><a href="javascript:;">▪ 手机也能买基金 点此下载安装</a></li> -->
+            </ul>
+        </div>
+    </div>
+    <div class="ad"><!-- 广告位：通栏二 -->
+        <script>
+            (function() {
+                var s = "_" + Math.random().toString(36).slice(2);
+                document.write('<div id="' + s + '"></div>');
+                (window.slotbydup=window.slotbydup || []).push({
+                    id: '3455960',
+                    container: s,
+                    size: '1000,90',
+                    display: 'inlay-fix'
+                });
+            })();
+        </script></div>
+</div>
+<!--details End-->
+<!--Main End-->
+<!--returnTop Start-->
+<div class="top">
+    <img src="<?php echo base_url();?>public/img/top.png" alt="">
+</div>
+<!--returnTop End-->
+<script src="<?php echo base_url();?>public/js/jquery.min.js"></script>
+ <script src="http://hs.cnfol.com/f=Cm/Js/Base.js,ua/js/Clouds/Tables.js,Cm/Js/Checkbox.js,Cm/Js/Dialog.js,Cm/Js/Forms.js,ua/js/Clouds/Calendar.js,Cm/Js/ShowInfo.js,ui/Js/Kik/Compare.js,ui/Js/Select/Select.js"
+        type="text/javascript">
+</script>
+<!--<script src="<?php echo base_url();?>public/js/hs.js"-->
+        <!--type="text/javascript">-->
+<!--</script>-->
+<script src="<?php echo base_url();?>public/js/common.js"></script>
+<script type="text/javascript">
+    //.move();
+    $(".miBCon").find(".filterXFJJ").find(".noMargin").addClass("active");
+    $(".tabsNav").find("li").eq(0).addClass("active");
+    $(".tabs").find(".tabsCon").eq(0).fadeIn(0);
+    //中间选项卡 Start
+    $(".tabsNav").find("li").click(function () {
+        $(this).addClass("active").siblings().removeClass("active");
+        var thisIndex = $(this).index();
+        $(".tabs").find(".tabsCon").eq(thisIndex).fadeIn(0).siblings(".tabsCon").fadeOut(0);
+    });
+    //中间选项卡 End
+
+    //table 计算器 Start
+    //添加两行
+    $(".calculate").click(function () {
+        if ($(".rgje").val() == "" || $(".dwjjjz").val() == "" || $(".rgfl").val() == "") {
+            alert("请输入数据")
+        } else {
+            //.获取三个输入框里面的数据
+            var  rgje=$(".rgje").val();
+            if(isNaN(rgje)){
+                alert('请输入正确的金额数据');
+                return  false ;
+            }
+            var  dwjjjz=$(".dwjjjz").val();
+            if(isNaN(dwjjjz)){
+                alert('请输入正确的净值数据');
+                return  false ;
+            }
+            var  rgfl=$(".rgfl").val();
+            if(isNaN(rgfl)){
+                alert('请输入正确的费率数据');
+                return  false ;
+            }
+            if(rgfl<0||rgfl>1.5){
+                alert('请输入正确的费率数据,大于0小于1.5');
+                return  false ;
+            }
+
+                 rgfl=rgfl/100;
+            //.计算手续费  成交份额
+            var  sxf=rgje*rgfl;
+                 sxf=sxf.toFixed(2);
+            var  jrgje=rgje/(1+ rgfl);
+            var  cjfe=jrgje/dwjjjz;
+                 cjfe=cjfe.toFixed(2);
+            var tds=$('.rates2 table tr');
+            var oTd = '<tr><td class="bgF6">手续费</td><td><input type="text" id="sxf" value="'+sxf+'"></td></tr><tr><td class="bgF6">成效份额</td><td><input type="text" id="cjfe" value="'+cjfe+'"></td></tr>';
+            if(tds.length==5){
+                $("#calculator").before(oTd);
+            }
+            if(tds.length==7){
+                $('#sxf').val(sxf);
+                $('#cjfe').val(cjfe);
+            }
+
+//            $(this).unbind('click');
+        }
+    });
+    //清空input
+    $(".clean").click(function () {
+        $(".rates2").find("input").val("");
+    });
+    //table 计算器 End
+    //.获取资讯文章
+    $(function(){
+        //.定义一个ajax事件，判断当前基金是否是自选基金
+        $.ajax({/*ajax的部分程序补充*/
+            url:"/user/ismychoice?code=<?php echo $detaildata['SecuCode'];?>",//url
+            type:'get',
+            success:function(data){
+                if(data==1){
+                    $('#AddBtn').hide();
+                    $('#DelBtn').show();
+                }
+                if(data==0){
+                    $('#AddBtn').show();
+                    $('#DelBtn').hide();
+                }
+
+            }
+        });
+
+        // alert(1);
+        var catid=4184;
+        var page=1;
+        $.ajax({
+                url:"http://app.cnfol.com/qualityarticles/cms_content_api.php?catid="+catid+"&limit=5&page="+page+"",
+                type:'GET',
+                dataType:"jsonp",
+                jsonp:"callback",
+                jsonpCallback:"callback",//自定义的jsonp回调函数名称，默认为jQuery自动生成的随机函数名
+                success:function(data){
+                    var str = '';
+                    $.each(data,function(i,row)
+                    {  
+                            str +='<li class="LstDv Cf"><a target="_blank" href="'+row["Url"]+'" title="'+row["Title"]+'">'+row["Title"]+'</a></li><p></p>';
+
+                    });
+                    $('#zixun').html(str);
+                    
+                },
+                error:function(data){
+                    alert('加载失败');
+                }
+            });
+
+    });
+    function Add1(){
+        if(Islogin==0){
+            Dialog('DiaBg','DiaAlt1');
+            $('#DiaTxt1').html('登录后才能关注基金');
+            return;
+        }
+        $.ajax({/*ajax的部分程序补充*/
+            url:"/user/addmychoice?code=<?php echo $detaildata['SecuCode'];?>",//url
+            type:'get',
+            success:function(data){
+                $('#AddBtn').hide();
+                $('#DelBtn').show();
+                //.location.href="/detailfund/index/"+"<?php echo $detaildata['InnerCode'];?>";
+                //.定义一个ajax事件  ，获取新的自选基金
+                $.ajax({
+                    url:"/detailfund/getzx",//url
+                    type:'post',
+                    success:function(data){
+                        //.删除原来显示的自选基金
+                        data=eval(data);
+                        $('.zx').remove();
+                        $.each(data, function(i, item){
+                            var  str='';
+                            var type='';
+                            var  num=parseFloat(item['rzzl']);
+                            if(num<=0){
+                                 type+='color:#009900';
+                            }
+                            if(num>0){
+                                 type+='color:#ff0000';
+                            }
+                            str+="<tr class='zx' id='"+item["jydm"]+"'> <td height='34'><a  class='jjName' href='/fund/index/'"+item["jydm"]+">"+item['jjjc']+"</a></td><td>"+item['dwjz']+"</td><td style='"+type+"' >"+item['rzzl']+"</td></tr>" ;
+                        $('.tbzx').append(str);
+                        });
+                    }
+                });
+
+            }
+        });
+    }
+    function Del1(){
+        $.ajax({/*ajax的部分程序补充*/
+            url:"/user/delmychoice?code=<?php echo $detaildata['SecuCode'];?>",//url
+            type:'get',
+            success:function(data){
+                $('#DelBtn').hide();
+                $('#AddBtn').show();
+                $('#<?php echo $detaildata['SecuCode'];?>').remove();
+            }
+        });
+    }
+</script>
+
+
+
+</body>
+</html>

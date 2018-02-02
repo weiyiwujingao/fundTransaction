@@ -1,0 +1,52 @@
+[09:22:50][|-dParam-|Array
+(
+    [Email] => xf.jiang@sohu.com
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 209
+)
+]
+[13:56:28][|-dParam-|Array
+(
+    [TelPhone] => 1
+    [UserID] => 170
+)
+]
+[14:05:04][|-dParam-|Array
+(
+    [SendRate] => 2
+    [UserID] => 178
+)
+]
+[14:05:19][|-dParam-|Array
+(
+    [SendRate] => 2
+    [UserID] => 178
+)
+]
+[14:05:25][|-dParam-|Array
+(
+    [SendRate] => 2
+    [UserID] => 178
+)
+]
+[14:05:31][|-dParam-|Array
+(
+    [SendRate] => 2
+    [UserID] => 178
+)
+]
+[15:16:36][|-dParam-|Array
+(
+    [Address] => 22
+    [UserID] => 170
+)
+]
+[17:05:13][|-dParam-|Array
+(
+    [Email] => xf.jiang@sohu.com
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 184
+)
+]

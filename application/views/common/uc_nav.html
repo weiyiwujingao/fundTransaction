@@ -1,0 +1,41 @@
+<div class="uMenu">
+    <dl class="MenuCnt">
+        <dt>
+            <a href="<?php echo TRADE_WEB_URL; ?>"  class="<?php echo $nav == 'wdzh' ? 'CM' : '' ?>">我的账户</a>
+            <!--<a href="javascript:;"  class="<?php echo $nav == 'xjb' ? 'CM' : '' ?>">现金宝</a>-->
+            <a href="javascript:;"  class="<?php echo $nav == 'jjcp' ? 'CM' : '' ?>">基金产品</a>
+            <a href="javascript:;"  class="<?php echo $nav == 'jjdt' ? 'CM' : '' ?>">基金定投</a>
+            <a href="javascript:;"  class="<?php echo $nav == 'jycx' ? 'CM' : '' ?>">交易查询</a>
+        </dt>
+        <dd>
+            <a href="<?php echo TRADE_WEB_URL; ?>"  class="<?php echo $subnav == 'wdzc' ? 'AC' : '' ?>">我的资产</a>
+            <a href="<?php echo base_url().'manage/positiondetails.html';?>"  class="<?php echo $subnav == 'ccmx' ? 'AC' : '' ?>">持仓明细</a>
+            <a href="<?php echo TRADE_LGPWD_URL?>"  class="<?php echo $subnav == 'xgmm' ? 'AC' : '' ?>">修改登录密码</a>
+            <a href="<?php echo TRADE_PERSONAL_URL ?>"  class="<?php echo $subnav == 'grxxgl' ? 'AC' : '' ?>">个人信息管理</a>
+            <a href="<?php echo TRADE_BANK_LIST_URL ?>"  class="<?php echo $subnav == 'yhkgl' ? 'AC' : '' ?>">银行卡管理</a>
+            <a href="<?php echo TRADE_RISK_QUES_RESULT_URL ?>"  class="<?php echo $subnav == 'fxcp' ? 'AC' : '' ?>">风险测评</a>
+        </dd>
+        <dd>
+            <a href="<?php echo TRADE_WEB_URL; ?>"  class="<?php echo $subnav == 'sy' ? 'AC' : '' ?>">首页</a>
+            <a href="<?php echo WEB_URL;?>/openfund/index"  class="<?php echo $subnav == 'jjph' ? 'AC' : '' ?>" target="_blank">基金排行</a>
+            <a href="<?php echo base_url().'trade/fundtrade.html';?>"  class="<?php echo $subnav == 'mjj' ? 'AC' : '' ?>">买基金</a>
+            <a href="<?php echo base_url().'trade/sellfund.html';?>"  class="<?php echo $subnav == '_mjj' ? 'AC' : '' ?>">卖基金</a>
+            <a href="<?php echo base_url(); ?>product/convert.html"  class="<?php echo $subnav == 'jjzh' ? 'AC' : '' ?>">基金转换</a>
+			<a href="<?php echo WEB_URL, '/newfund/index'; ?>" target="_blank"  class="">买新基金</a>			
+            <a href="<?php echo base_url().'trade/dividendmethod.html';?>"  class="<?php echo $subnav == 'jjfhfs' ? 'AC' : '' ?>">修改分红方式</a>
+            <a href="<?php echo base_url().'trade/fundrevoke.html';?>"  class="<?php echo $subnav == 'cd' ? 'AC' : '' ?>">撤单</a>
+        </dd>
+        <dd class="Tc">
+            <a href="<?php echo base_url(); ?>fix/index.html"  class="<?php echo $subnav == 'wddt' ? 'AC' : '' ?>">我的定投</a>
+            <a href="<?php echo base_url(); ?>fix/new.html"  class="<?php echo $subnav == 'xzdt' ? 'AC' : '' ?>">新增定投</a>
+            <a href="<?php echo base_url().'trade/fundrevoke.html';?>"  class="<?php echo $subnav == '_cd' ? 'AC' : '' ?>">撤单</a>
+            <a href="<?php echo base_url(); ?>fix/stop.html"  class="<?php echo $subnav == 'dtzzjl' ? 'AC' : '' ?>">定投终止记录</a>
+        </dd>
+        <dd class="Tc">
+           <!--<a href="javascript:;"  class="<?php echo $subnav == 'xjbjycx' ? 'AC' : '' ?>">现金宝交易查询</a>--> 
+            <a href="<?php echo base_url().'manage/index.html'?>"  class="<?php echo $subnav == 'jjjycx' ? 'AC' : '' ?>">基金交易查询</a>
+            <a href="<?php echo base_url(); ?>transaction/bill.html"  class="<?php echo $subnav == 'wddzd' ? 'AC' : '' ?>">我的对账单</a>
+            <a href="<?php echo base_url(); ?>transaction/log.html"  class="<?php echo $subnav == 'czrz' ? 'AC' : '' ?>">操作日志</a>
+        </dd>
+    </dl>
+</div>

@@ -1,0 +1,475 @@
+[11:16:55][|-Param-|Array
+(
+    [UserID] => 178
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104581010280
+    [BranchName] => 中国银行广州东风东路支行
+    [BankCard] => 6216697000003339540
+    [Mobile] => 18125530297
+    [NickName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 11:16:55
+)
+]
+[11:16:55][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [password] => 7c5ec8641af12d25b10d4e9d67631cf4
+    [mobile_tel] => 18125530297
+    [bank_no] => 004
+    [bank_name] => 中国银行
+    [bank_account] => 6216697000003339540
+    [bank_account_name] => 杜拉拉
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 104581010280
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[11:16:55][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000007
+                    [apply_date] => 20170209
+                    [success_type] => 0
+                    [trade_acco] => 1184
+                    [error_code] => 
+                    [client_id] => 10268
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[11:16:55][|-uuRs-|1]
+[11:16:55][|-ibParam-|Array
+(
+    [UserID] => 178
+    [AccountName] => 杜拉拉
+    [HsAccount] => 1184
+    [Master] => 1
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104581010280
+    [BranchName] => 中国银行广州东风东路支行
+    [BankCard] => 6216697000003339540
+    [Mobile] => 18125530297
+    [Status] => 1
+    [DataTime] => 2017-02-09 11:16:54
+)
+]
+[11:16:55][|-ibRs-|19]
+[11:16:55][|-iaParam-|Array
+(
+    [UserID] => 178
+    [TrueName] => 杜拉拉
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 1
+    [IdentityNumber] => 422201199901010427
+    [Status] => 1
+    [CheckTime] => 2017-02-09 11:16:54
+    [DataTime] => 2017-02-09 11:16:54
+    [EndValidDate] => 20990101
+)
+]
+[11:16:55][|-iaRs-|1]
+[16:16:13][|-Param-|Array
+(
+    [UserID] => 166
+    [Province] => 福建省
+    [City] => 龙岩
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103405070014
+    [BranchName] => 中国农业银行龙岩龙津支行
+    [BankCard] => 6228480712413995614
+    [Mobile] => 15205006442
+    [NickName] => 邱小兰
+    [IdentityNumber] => 350426198803037088
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 16:16:13
+)
+]
+[16:16:13][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 邱小兰
+    [client_name] => 邱小兰
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+    [mobile_tel] => 15205006442
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480712413995614
+    [bank_account_name] => 邱小兰
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103405070014
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[16:16:13][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000046
+                    [apply_date] => 20170210
+                    [success_type] => 0
+                    [trade_acco] => 1188
+                    [error_code] => 
+                    [client_id] => 10278
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[16:16:13][|-uuRs-|1]
+[16:16:13][|-ibParam-|Array
+(
+    [UserID] => 166
+    [AccountName] => 邱小兰
+    [HsAccount] => 1188
+    [Master] => 1
+    [Province] => 福建省
+    [City] => 龙岩
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103405070014
+    [BranchName] => 中国农业银行龙岩龙津支行
+    [BankCard] => 6228480712413995614
+    [Mobile] => 15205006442
+    [Status] => 1
+    [DataTime] => 2017-02-09 16:16:12
+)
+]
+[16:16:13][|-ibRs-|20]
+[16:16:13][|-iaParam-|Array
+(
+    [UserID] => 166
+    [TrueName] => 邱小兰
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 0
+    [IdentityNumber] => 350426198803037088
+    [Status] => 1
+    [CheckTime] => 2017-02-09 16:16:12
+    [DataTime] => 2017-02-09 16:16:12
+    [EndValidDate] => 20990101
+)
+]
+[16:16:13][|-iaRs-|1]
+[16:35:01][|-Param-|Array
+(
+    [UserID] => 220
+    [Province] => 天津市
+    [City] => 天津市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 203110000014
+    [BranchName] => 中国农业发展银行天津市分行
+    [BankCard] => 6228480712413995614
+    [Mobile] => 15205006442
+    [NickName] => 邱小兰
+    [IdentityNumber] => 350426198803037088
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 16:35:01
+)
+]
+[16:35:01][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 邱小兰
+    [client_name] => 邱小兰
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+    [mobile_tel] => 15205006442
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480712413995614
+    [bank_account_name] => 邱小兰
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 203110000014
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[16:35:01][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[16:41:01][|-Param-|Array
+(
+    [UserID] => 220
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100014030
+    [BranchName] => 中国建设银行北京密云工业开发区支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 15205006442
+    [NickName] => 后
+    [IdentityNumber] => 350426198803025631
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 16:41:01
+)
+]
+[16:41:01][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 后
+    [client_name] => 后
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+    [mobile_tel] => 15205006442
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 后
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 105100014030
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[16:41:02][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000052
+                    [apply_date] => 20170210
+                    [success_type] => 0
+                    [trade_acco] => 1189
+                    [error_code] => 
+                    [client_id] => 10288
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[16:41:02][|-uuRs-|1]
+[16:41:02][|-ibParam-|Array
+(
+    [UserID] => 220
+    [AccountName] => 后
+    [HsAccount] => 1189
+    [Master] => 1
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100014030
+    [BranchName] => 中国建设银行北京密云工业开发区支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 15205006442
+    [Status] => 1
+    [DataTime] => 2017-02-09 16:41:01
+)
+]
+[16:41:02][|-ibRs-|21]
+[16:41:02][|-iaParam-|Array
+(
+    [UserID] => 220
+    [TrueName] => 后
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 1
+    [IdentityNumber] => 350426198803025631
+    [Status] => 1
+    [CheckTime] => 2017-02-09 16:41:01
+    [DataTime] => 2017-02-09 16:41:01
+    [EndValidDate] => 20990101
+)
+]
+[16:41:02][|-iaRs-|1]
+[16:52:30][|-Param-|Array
+(
+    [UserID] => 211
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100014030
+    [BranchName] => 中国建设银行北京密云工业开发区支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13037100638
+    [NickName] => 吴晶
+    [IdentityNumber] => 42092219940809002
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 16:52:30
+)
+]
+[16:52:30][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 吴晶
+    [client_name] => 吴晶
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [password] => 5b91455166a1f7232278929ae7c8d44a
+    [mobile_tel] => 13037100638
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 吴晶
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 105100014030
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[16:52:30][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000056
+                    [apply_date] => 20170210
+                    [success_type] => 0
+                    [trade_acco] => 1190
+                    [error_code] => 
+                    [client_id] => 10298
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[16:52:30][|-uuRs-|1]
+[16:52:30][|-ibParam-|Array
+(
+    [UserID] => 211
+    [AccountName] => 吴晶
+    [HsAccount] => 1190
+    [Master] => 1
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100014030
+    [BranchName] => 中国建设银行北京密云工业开发区支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13037100638
+    [Status] => 1
+    [DataTime] => 2017-02-09 16:52:29
+)
+]
+[16:52:30][|-ibRs-|22]
+[16:52:30][|-iaParam-|Array
+(
+    [UserID] => 211
+    [TrueName] => 吴晶
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 1
+    [IdentityNumber] => 42092219940809002
+    [Status] => 1
+    [CheckTime] => 2017-02-09 16:52:29
+    [DataTime] => 2017-02-09 16:52:29
+    [EndValidDate] => 20990101
+)
+]
+[16:52:30][|-iaRs-|1]

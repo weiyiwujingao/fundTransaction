@@ -1,0 +1,83 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+	<?php require_once(VIEWPATH . '/common/uc_sidebar.html');?> 
+        <div class="aMain">
+        	<div class="DesUl">
+            	<b>普通基金市值</b>
+                <b><?php if(isset($data['today_values'])) echo $data['today_values'].'元'; else echo '0.00元';?></b>
+                <span>估计每日收益：<?php if(isset($data['total']['today_income'])) echo $data['total']['today_income'].'元';else echo '0.00元';?></span>
+                <a href="<?php echo base_url().'trade/fundtrade.html';?>"  class="redBlock">买基金</a>
+                <a href="<?php echo base_url().'trade/sellfund.html';?>">卖基金</a>
+                <a href="<?php echo TRADE_WEB_URL.'/product/convert.html';?>">转换</a>
+            </div>
+            <h3 class="Title2 Mt10">
+                基金产品市值明细
+            </h3>
+            <table class="QTable" cellpadding="0" cellspacing="0">
+            	<thead>
+                	<tr>
+                        <th>基金代码</th>
+                        <th class="w160">基金名称</th>
+                        <th>类型</th>
+                        <th>现有份额</th>
+                        <th>最新净值</th>
+                        <th>基金市值</th>
+                        <th>持仓盈亏</th>
+                        <th>盈亏比例</th>
+                        <th class="w130">操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+				<?php if(isset($data['list']) && $data['list']) :?>
+					<?php foreach($data['list'] as $k=>$v) :?>
+					<tr>
+                    	<td><?=$v['fund_code']?></td>
+                        <td><a href="<?php echo WEB_URL.'/fund/'.$v["fund_code"]?>" target="_blank" title="<?=$v['fund_name']?>"><?=str_cut($v['fund_name'],0,8)?></a></td>
+                        <td><?=$v['ofund_type']?></td>
+                        <td><?=$v['current_share']?></td>
+                        <td><?=$v['net_worth']?></td>
+                        <td><?=$v['worth_value']?></td>
+                        <td class="tdGreen"><?php echo ($v['accum_income']&&$v['accum_income']!='0.00')?$v['accum_income']:'--';?></td>
+                        <td class="tdGreen"><?php echo ($v['loss_ratio'])?$v['loss_ratio']:'--'?></td>
+                        <td>
+                        	<a href="<?php echo base_url().'trade/fundtrade.html?fundcode='.$v['fund_code'];?>" class="thBtn">买入</a>
+                            <a href="<?php echo base_url().'trade/sell.html?fundcode='.$v['fund_code'];?>" class="tdBtn">卖出</a>
+                        </td>
+                    </tr>
+					<?php endforeach?>
+				<?php endif?>
+                </tbody>
+            </table>
+            <div class="RightAd Mt15">
+			<?php require_once(VIEWPATH . '/advert/advert.html');?>
+			</div>
+            <h3 class="Title3 Mt10"><a href="<?php echo WEB_URL.'/deal/hotfund';?>" class="More" target="_blank">更多&gt;&gt;</a>热销基金</h3>
+            <?php require_once(VIEWPATH . '/hotfund/hotfund.html');?>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+   
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161221151234"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单切换卡
+		function buyFund(){
+			$('#msgBox').showWin('<p class="Tc">您暂时不能交易，请先绑定银行卡！</p>','');
+		}
+    </script>
+</body>
+</html>

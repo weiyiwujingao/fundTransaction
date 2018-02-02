@@ -1,0 +1,19 @@
+2017-02-09 09:13:12
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 418969
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+

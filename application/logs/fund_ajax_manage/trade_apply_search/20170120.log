@@ -1,0 +1,1751 @@
+[13:55:55][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5BBF7DCA049B4A1689633205BDC65B8F2017012013555591473977
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170113
+    [end_date] => 20170120
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000023],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"133757","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000023","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1111.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000022],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"131533","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000022","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000021],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115753","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000021","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000020],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115703","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000020","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000019],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115658","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000019","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:55:55][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5BBF7DCA049B4A1689633205BDC65B8F2017012013555591473977
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:55:55][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5BBF7DCA049B4A1689633205BDC65B8F2017012013555591473977
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:55:56][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5BBF7DCA049B4A1689633205BDC65B8F2017012013555591473977
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:55:56][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5BBF7DCA049B4A1689633205BDC65B8F2017012013555591473977
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:55:56][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5BBF7DCA049B4A1689633205BDC65B8F2017012013555591473977
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:02][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 02EBBC052A2B4F82A8062EAD8D5DB16C2017012013560296255865
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 1
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170113
+    [end_date] => 20170120
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[13:56:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 245C4C28AC934F71A55EDD9603060FE02017012013560456185953
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170113
+    [end_date] => 20170120
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000023],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"133757","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000023","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1111.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000022],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"131533","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000022","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000021],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115753","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000021","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000020],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115703","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000020","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000019],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115658","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000019","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 245C4C28AC934F71A55EDD9603060FE02017012013560456185953
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 245C4C28AC934F71A55EDD9603060FE02017012013560456185953
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 245C4C28AC934F71A55EDD9603060FE02017012013560456185953
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 245C4C28AC934F71A55EDD9603060FE02017012013560456185953
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 245C4C28AC934F71A55EDD9603060FE02017012013560456185953
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 56C5BEFF8C9648E4B9A4CE0C18BAE4EE2017012013561113743737
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170113
+    [end_date] => 20170120
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000023],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"133757","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000023","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1111.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000022],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"131533","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000022","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000021],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115753","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000021","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000020],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115703","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000020","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000019],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115658","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"40","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000019","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 56C5BEFF8C9648E4B9A4CE0C18BAE4EE2017012013561113743737
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 56C5BEFF8C9648E4B9A4CE0C18BAE4EE2017012013561113743737
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:11][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 56C5BEFF8C9648E4B9A4CE0C18BAE4EE2017012013561113743737
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:11][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 56C5BEFF8C9648E4B9A4CE0C18BAE4EE2017012013561113743737
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:11][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 56C5BEFF8C9648E4B9A4CE0C18BAE4EE2017012013561113743737
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:20][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 717011CCE6534E8FB8917BC881D325B02017012013562037447926
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170116
+    [end_date] => 20170120
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000023],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"133757","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000023","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1111.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000022],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"131533","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000022","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000021],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115753","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000021","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000020],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115703","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000020","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000019],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115658","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000019","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:20][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 717011CCE6534E8FB8917BC881D325B02017012013562037447926
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:20][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 717011CCE6534E8FB8917BC881D325B02017012013562037447926
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:20][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 717011CCE6534E8FB8917BC881D325B02017012013562037447926
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:20][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 717011CCE6534E8FB8917BC881D325B02017012013562037447926
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:20][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 717011CCE6534E8FB8917BC881D325B02017012013562037447926
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:21][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8DDE28A076734A1F8A3DDB4F523E2ED42017012013562213385051
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170116
+    [end_date] => 20170120
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000023],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"133757","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000023","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1111.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000022],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"131533","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000022","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000021],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115753","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000021","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000020],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115703","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000020","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000019],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115658","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"34","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000019","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:21][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8DDE28A076734A1F8A3DDB4F523E2ED42017012013562213385051
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8DDE28A076734A1F8A3DDB4F523E2ED42017012013562213385051
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8DDE28A076734A1F8A3DDB4F523E2ED42017012013562213385051
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8DDE28A076734A1F8A3DDB4F523E2ED42017012013562213385051
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8DDE28A076734A1F8A3DDB4F523E2ED42017012013562213385051
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E2187437D7B047D19F663D470DD9993A2017012013562534207830
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170116
+    [end_date] => 20170116
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.60","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"联机交易交互失败String index out of range: -21","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"175521","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002399","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.60","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002398],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"173423","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002398","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002397],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161934","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002397","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002396],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161823","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002396","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002395],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161821","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002395","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E2187437D7B047D19F663D470DD9993A2017012013562534207830
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E2187437D7B047D19F663D470DD9993A2017012013562534207830
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E2187437D7B047D19F663D470DD9993A2017012013562534207830
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E2187437D7B047D19F663D470DD9993A2017012013562534207830
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:25][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E2187437D7B047D19F663D470DD9993A2017012013562534207830
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:26][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7621C25BAF3846B5A25621201F0FA6E12017012013562723501124
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170116
+    [end_date] => 20170116
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.60","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"联机交易交互失败String index out of range: -21","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"175521","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002399","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.60","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002398],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"173423","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002398","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002397],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161934","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002397","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002396],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161823","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002396","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002395],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161821","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002395","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:26][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7621C25BAF3846B5A25621201F0FA6E12017012013562723501124
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7621C25BAF3846B5A25621201F0FA6E12017012013562723501124
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7621C25BAF3846B5A25621201F0FA6E12017012013562723501124
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7621C25BAF3846B5A25621201F0FA6E12017012013562723501124
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7621C25BAF3846B5A25621201F0FA6E12017012013562723501124
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F238A0BD743F47AB82810568F5488F8F2017012013562926991057
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170116
+    [end_date] => 20170116
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.60","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"联机交易交互失败String index out of range: -21","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"175521","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002399","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.60","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002398],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"173423","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002398","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002397],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161934","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002397","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002396],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161823","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002396","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"111.00","apply_date":"20170116","original_date":"20170118","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170113002395],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161821","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"11","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170113002395","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F238A0BD743F47AB82810568F5488F8F2017012013562926991057
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F238A0BD743F47AB82810568F5488F8F2017012013562926991057
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F238A0BD743F47AB82810568F5488F8F2017012013562926991057
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F238A0BD743F47AB82810568F5488F8F2017012013562926991057
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F238A0BD743F47AB82810568F5488F8F2017012013562926991057
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:31][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B1B691CB91A447549AA0283801C31B252017012013563206712187
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170117
+    [end_date] => 20170116
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[13:56:37][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D539CFDDC3CE456B846C5B5524AF2A472017012013563836312394
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170117
+    [end_date] => 20170116
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[13:56:39][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => FD70180DF67B4C74ABE559910A73B7732017012013563950744243
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170117
+    [end_date] => 20170116
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"","send_flags":"","hope_date":"","money_type":"","max_trade_succ_quota":"","target_fund_type":"","ta_acco":"","balance":"","apply_date":"","original_date":"","protocol_period_unit":"","deduct_status":"","discount_rate":"","apply_time":"","oppo_netno":"","first_exchdate":"","diffscale":"","max_succ_times":"","ofund_user_type":"","error_code":"1000","original_appno":"","busin_ass_code":"","shares":"","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"","expiry_date":"","combined_error_info":"","fund_froze_flag":"","busin_board_type":"","share_type":"","trade_acco":"","capital_mode":"","oppo_agency":"","after_discount_rate":"","oppo_trade_account":"","order_date":"","protocol_name":"","target_fund_code":"","fund_code":"","reserve_discount_rate":"","auto_buy":"","rowcount":"","cyber_bank_error_id":"","oppo_fund_account":"","total_count":"","taconfirm_flag":"","receivable_account":"","trade_period":"","allot_no":"","fund_exceed_flag":"","fund_busin_code":"","fund_risk_flag":"","error_info":"HS_QUERY-9K: 总记录数为0!"}]}
+    [code] => 200
+)
+]
+[13:56:46][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E98C10C62323431FB79AF5C4EF71A4552017012013564711515150
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 022
+    [sort_direction] => 1
+    [begin_date] => 20170117
+    [end_date] => 20170117
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[13:56:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4029CECA2F754DF38F0C7A039DA07EC92017012013564720401559
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 9
+    [fund_busin_code] => 
+    [sort_direction] => 1
+    [begin_date] => 20170117
+    [end_date] => 20170117
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000023],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"133757","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000023","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1111.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000022],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"131533","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000022","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000021],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115753","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000021","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000020],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115703","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000020","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000019],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115658","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000019","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4029CECA2F754DF38F0C7A039DA07EC92017012013564720401559
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4029CECA2F754DF38F0C7A039DA07EC92017012013564720401559
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4029CECA2F754DF38F0C7A039DA07EC92017012013564720401559
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4029CECA2F754DF38F0C7A039DA07EC92017012013564720401559
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4029CECA2F754DF38F0C7A039DA07EC92017012013564720401559
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 256743F77E764C3788889E951A4E30602017012013564967040544
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 
+    [fund_busin_code] => 
+    [sort_direction] => 1
+    [begin_date] => 20170117
+    [end_date] => 20170117
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000023],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"133757","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000023","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1111.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000022],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"131533","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000022","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000021],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115753","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000021","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000020],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115703","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000020","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000019],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115658","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"5","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000019","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 256743F77E764C3788889E951A4E30602017012013564967040544
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 256743F77E764C3788889E951A4E30602017012013564967040544
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 256743F77E764C3788889E951A4E30602017012013564967040544
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 256743F77E764C3788889E951A4E30602017012013564967040544
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:56:49][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 256743F77E764C3788889E951A4E30602017012013564967040544
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:09][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5E331F87971149B69BA8D752C515E9202017012013570941377887
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 20
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 
+    [fund_busin_code] => 
+    [sort_direction] => 1
+    [begin_date] => 20170117
+    [end_date] => 20170117
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000004],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"155130","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"4","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000004","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000003],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"155115","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"4","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000003","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000002],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"153600","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"4","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000002","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000001],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"150644","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"4","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000001","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:09][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5E331F87971149B69BA8D752C515E9202017012013570941377887
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:09][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5E331F87971149B69BA8D752C515E9202017012013570941377887
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:09][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5E331F87971149B69BA8D752C515E9202017012013570941377887
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:09][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5E331F87971149B69BA8D752C515E9202017012013570941377887
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 50
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 
+    [fund_busin_code] => 
+    [sort_direction] => 1
+    [begin_date] => 20170117
+    [end_date] => 20170117
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1110.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000023],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"133757","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000023","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"1111.00","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000022],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"131533","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000022","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000021],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115753","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000021","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000020],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115703","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000020","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000019],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"115658","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000019","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000018],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"114846","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000018","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000017],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"114346","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000017","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.09","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000016],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"114227","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000016","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"19999.99","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000015],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"114003","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000015","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"19999.99","apply_date":"20170117","original_date":"20170120","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000014],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"113553","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000014","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000013],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"164458","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000013","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000012],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"164419","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000012","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000011],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"164026","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000011","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000010],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"163634","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000010","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000009],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"162014","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000009","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000008],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"161939","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000008","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000007],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"160829","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000007","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000006],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"155847","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000006","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000005],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"155240","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000005","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000004],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"155130","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000004","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000003],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"155115","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000003","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000002],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"153600","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000002","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""},{"detail_fund_way":"01","send_flags":"0","hope_date":"","money_type":"0","max_trade_succ_quota":"0.00","target_fund_type":"","ta_acco":"B01000009693","balance":"9996.00","apply_date":"20170117","original_date":"20170119","protocol_period_unit":"","deduct_status":"1","discount_rate":"1.0000","apply_time":"093000","oppo_netno":"","first_exchdate":"","diffscale":"0.0000","max_succ_times":"","ofund_user_type":"","error_code":"","original_appno":"","busin_ass_code":"","shares":"0.00","portfolio_code":"","success_type":"0","portfolio_allot_no":"","bank_no":"014","expiry_date":"","combined_error_info":"B.BIN.0001: cardNo is error!cardNo=[1234001840336623111] ExternalRefNumber=[20170116000001],merchantId=[812051545110011]","fund_froze_flag":"","busin_board_type":"","share_type":"A","trade_acco":"1146","capital_mode":"l","oppo_agency":"","after_discount_rate":"1.0000","oppo_trade_account":"","order_date":"150644","protocol_name":"","target_fund_code":"","fund_code":"600570","reserve_discount_rate":"1.0000","auto_buy":"","rowcount":"23","cyber_bank_error_id":"9999","oppo_fund_account":"","total_count":"23","taconfirm_flag":"9","receivable_account":"1234001840336623111","trade_period":"","allot_no":"20170116000001","fund_exceed_flag":"","fund_busin_code":"022","fund_risk_flag":"2","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:17][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:23][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:24][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:57:24][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F76D29A637941789E23E0E00B74351C2017012013571713670829
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170116","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170113","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]

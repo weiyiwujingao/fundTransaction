@@ -1,0 +1,238 @@
+[14:58:49][|-Param-|Array
+(
+    [UserID] => 209
+    [Province] => 河北省
+    [City] => 卢龙县
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103126482927
+    [BranchName] => 中国农业银行股份有限公司卢龙木井分理处
+    [BankCard] => 6214830201562278
+    [Mobile] => 18671517368
+    [NickName] => 奖励
+    [IdentityNumber] => 421281199202020202
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-07 14:58:49
+)
+]
+[14:58:49][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 奖励
+    [client_name] => 奖励
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020202
+    [password] => 5dcc73f8fd666d3a9d2d0ce70d36e3ff
+    [mobile_tel] => 18671517368
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6214830201562278
+    [bank_account_name] => 奖励
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103126482927
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[14:58:49][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170207000002
+                    [apply_date] => 20170207
+                    [success_type] => 0
+                    [trade_acco] => 1173
+                    [error_code] => 
+                    [client_id] => 10198
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[14:58:49][|-uuRs-|1]
+[14:58:49][|-ibParam-|Array
+(
+    [UserID] => 209
+    [AccountName] => 奖励
+    [HsAccount] => 1173
+    [Master] => 1
+    [Province] => 河北省
+    [City] => 卢龙县
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103126482927
+    [BranchName] => 中国农业银行股份有限公司卢龙木井分理处
+    [BankCard] => 6214830201562278
+    [Mobile] => 18671517368
+    [Status] => 1
+    [DataTime] => 2017-02-07 14:58:48
+)
+]
+[15:02:13][|-Param-|Array
+(
+    [UserID] => 209
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103521006541
+    [BranchName] => 中国农业银行股份有限公司武汉集家嘴支行
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18671517368
+    [NickName] => 奖励
+    [IdentityNumber] => 421281199202020203
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-07 15:02:13
+)
+]
+[15:02:13][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 奖励
+    [client_name] => 奖励
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020203
+    [password] => 5dcc73f8fd666d3a9d2d0ce70d36e3ff
+    [mobile_tel] => 18671517368
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 奖励
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103521006541
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[15:02:13][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170207000003
+                    [apply_date] => 20170208
+                    [success_type] => 0
+                    [trade_acco] => 1174
+                    [error_code] => 
+                    [client_id] => 10208
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[15:02:13][|-ibParam-|Array
+(
+    [UserID] => 209
+    [AccountName] => 奖励
+    [HsAccount] => 1174
+    [Master] => 1
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103521006541
+    [BranchName] => 中国农业银行股份有限公司武汉集家嘴支行
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18671517368
+    [Status] => 1
+    [DataTime] => 2017-02-07 15:02:11
+)
+]
+[15:04:03][|-Param-|Array
+(
+    [UserID] => 209
+    [Province] => 湖北省
+    [City] => 赤壁市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103536269569
+    [BranchName] => 中国农业银行股份有限公司赤壁市城西支行
+    [BankCard] => 6228452408037333076
+    [Mobile] => 18671517368
+    [NickName] => 奖励
+    [IdentityNumber] => 421281199202020203
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-07 15:04:03
+)
+]
+[15:04:03][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 奖励
+    [client_name] => 奖励
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020203
+    [password] => 5dcc73f8fd666d3a9d2d0ce70d36e3ff
+    [mobile_tel] => 18671517368
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228452408037333076
+    [bank_account_name] => 奖励
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103536269569
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[15:04:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]

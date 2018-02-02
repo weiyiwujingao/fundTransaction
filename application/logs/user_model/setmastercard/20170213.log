@@ -1,0 +1,260 @@
+[14:50:33][|-Param-|Array
+(
+    [UserID] => 196
+    [bid] => 27
+    [trade_acco] => 1195
+    [ta_acco] => B01000009851
+    [oldBid] => 11
+    [origin_tradeacco] => 1164
+)
+]
+[14:50:33][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1164
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[16:15:01][|-Param-|Array
+(
+    [UserID] => 225
+    [bid] => 32
+    [trade_acco] => 1200
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:15:01][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]
+[16:17:04][|-Param-|Array
+(
+    [UserID] => 225
+    [bid] => 32
+    [trade_acco] => 1200
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:17:05][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]
+[16:17:20][|-Param-|Array
+(
+    [UserID] => 225
+    [bid] => 33
+    [trade_acco] => 1201
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:17:20][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]
+[16:18:31][|-Param-|Array
+(
+    [UserID] => 225
+    [bid] => 32
+    [trade_acco] => 1200
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:18:31][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]
+[16:18:41][|-Param-|Array
+(
+    [UserID] => 225
+    [bid] => 33
+    [trade_acco] => 1201
+    [ta_acco] => *B0000001197
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[16:18:41][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]
+[16:22:13][|-Param-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => *B0000001188
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[16:22:13][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]
+[16:22:37][|-Param-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => *B0000001188
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[16:22:37][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]
+[16:23:44][|-Param-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => *B0000001188
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[16:23:44][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]
+[16:24:11][|-Param-|Array
+(
+    [UserID] => 166
+    [bid] => 31
+    [trade_acco] => 1199
+    [ta_acco] => *B0000001188
+    [oldBid] => 20
+    [origin_tradeacco] => 1188
+)
+]
+[16:24:11][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]

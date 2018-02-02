@@ -1,0 +1,545 @@
+[19:32:35][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[19:32:35][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 1365
+                    [error_info] => 基金账号不能为空
+                )
+
+        )
+
+)
+]
+[19:34:21][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[19:34:21][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[19:35:01][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[19:35:01][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[19:35:07][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[19:35:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[19:39:05][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[19:39:05][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:15:50][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:15:51][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:15:54][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:15:54][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:16:35][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:16:35][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:17:47][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:17:48][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:18:11][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:18:11][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:20:11][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:20:11][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:21:45][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:21:45][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:23:04][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:23:04][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:23:35][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:23:36][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:23:54][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:23:54][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:24:01][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:24:01][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:27:06][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:27:06][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:28:11][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 15
+    [origin_tradeacco] => 1177
+)
+]
+[20:28:12][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1177
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:28:19][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 15
+    [trade_acco] => 1177
+    [ta_acco] => B01000009761
+    [oldBid] => 2
+    [origin_tradeacco] => 1155
+)
+]
+[20:28:19][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1155
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[20:28:27][|-Param-|Array
+(
+    [UserID] => 167
+    [bid] => 2
+    [trade_acco] => 1155
+    [ta_acco] => B01000009761
+    [oldBid] => 15
+    [origin_tradeacco] => 1177
+)
+]
+[20:28:27][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1177
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[22:10:28][|-Param-|Array
+(
+    [UserID] => 178
+    [bid] => 23
+    [trade_acco] => 1191
+    [ta_acco] => *B0000001184
+    [oldBid] => 19
+    [origin_tradeacco] => 1184
+)
+]
+[22:10:28][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 2
+                    [origin_tradeacco] => 
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[新开户],不能做该交易[058]
+                )
+
+        )
+
+)
+]

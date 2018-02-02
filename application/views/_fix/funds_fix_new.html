@@ -1,0 +1,466 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+	<!--选择基金下拉选框 start-->
+    <dl class="fund_suggest">
+    	<dt>
+        	<a class="CM" href="javascript:;">当前搜索</a>
+
+            <a href="javascript:;" onclick="searchByLetter(this)">A</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">B</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">C</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">D</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">F</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">G</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">H</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">J</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">M</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">N</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">P</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">Q</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">R</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">S</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">T</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">W</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">X</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">Y</a>
+            <a href="javascript:;" onclick="searchByLetter(this)">Z</a>
+          <span>[关闭]</span>
+        </dt>
+        <dd class="Inp">
+        	<p>请在搜索框内输入“<span>代码</span>”“<span>拼音</span>”或“<span>简称</span>”</p>
+        </dd>
+      	<dd class="Cf resultbox">	</dd>
+    </dl>
+    <!--选择基金下拉选框 end-->
+   <!--Top Start-->
+    <?php require_once(VIEWPATH . '/common/header_nav.html');?>
+    <?php require_once(VIEWPATH . '/common/banner.html');?>
+    <!--Top End-->
+    <?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">基金定投</h3>
+            <div class="qstepBar Mt10">
+                <a href="javascript:;" class="Cur">基金定投</a>
+                <a href="javascript:;">预览定投计划</a>
+                <a href="javascript:;">申请受理</a>
+            </div>
+            <form class="Mt15" action="<?php echo base_url(); ?>fix/new_preview.html" method="post">
+            	<div class="formLi">
+                	<b class="bankPre"><i>*</i>选择购买基金：</b>
+                    <span class="fundInp"><input name="fund_code" data-ok="0" data-risk="" value="<?php echo $fund_code ?: '请输入基金代码或简称'; ?>" class="w340" autocomplete="off" onBlur="fundBlur(this);" type="text"><b></b></span>
+            		<em></em>
+                </div>
+                <div class="fundDes">
+
+                </div>
+                <div class="payStyle Mt15">
+                	<b class="bankPre"><i>*</i>请选择支付方式：</b>
+                    <!--<div class="payLi">-->
+                        <!--<h3>现金支付</h3>-->
+                        <!--<span class="uRadio paySlt">-->
+                            <!--现金余额2000元<i><input type="radio" onClick="payRadio(this);" value="cash" name="bank"></i>-->
+                        <!--</span>-->
+                    <!--</div>-->
+                    <div class="payLi">
+                        <h3>银行卡支付</h3>
+                        <span class="uRadio paySlt">
+                            <i><input type="radio" value="charge" checked onClick="payRadio(this);" name="bank"></i>
+                            
+                        </span>
+                        <span class="FormSlt">
+                            <select name="acco">
+                                <?php if ($accos) : ?>
+                                <?php foreach ($accos as $item) : ?>
+                                <option value="<?php echo $item['trade_acco'].'|'.$item['info']; ?>" <?php echo $item['trade_acco'] == $master_acco ? 'selected="selected"' : ''; ?> data-acco="<?php echo $item['trade_acco'];?>"><?php echo $item['info']; ?></option>
+                                <?php endforeach; ?>
+                                <?php else : ?>
+                                <option value="">没有绑定任何银行卡</option>
+                                <?php endif; ?>
+                            </select>
+                        </span>
+                    </div>
+                </div>
+                <div class="formP">
+                	 <b class="bankPre">定投方式：</b>
+                     <span>定期定额</span>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre"><i>*定期充值：</i></b>
+                    <span class="uRadio">每月<i><input type="radio" name="period" value="0" checked /></i></span><em>暂时仅支持按月周期充值</em>
+                </div>
+                <div class="formLi">
+                	  <b class="bankPre"><i>*请求充值日期：</i></b>
+                      <span class="FormSlt w100">
+                      		<select name="fixday" onChange="dayChange(this);" autocomplete="off">
+                                <option value="1">1日</option>
+                                <option value="2">2日</option>
+                                <option value="3">3日</option>
+                                <option value="4">4日</option>
+                                <option value="5">5日</option>
+                                <option value="6">6日</option>
+                                <option value="7">7日</option>
+                                <option value="8">8日</option>
+                                <option value="9">9日</option>
+                                <option value="10">10日</option>
+                                <option value="11">11日</option>
+                                <option value="12">12日</option>
+                                <option value="13">13日</option>
+                                <option value="14">14日</option>
+                                <option value="15">15日</option>
+                                <option value="16">16日</option>
+                                <option value="17">17日</option>
+                                <option value="18">18日</option>
+                                <option value="19">19日</option>
+                                <option value="20">20日</option>
+                                <option value="21">21日</option>
+                                <option value="22">22日</option>
+                                <option value="23">23日</option>
+                                <option value="24">24日</option>
+                                <option value="25">25日</option>
+                                <option value="26">26日</option>
+                                <option value="27">27日</option>
+                                <option value="28">28日</option>
+                            </select>
+                      </span>
+                </div>
+                <div class="formP">
+                	<b class="bankPre"><i>*</i>下次扣款日期：</b>
+                    <span class="NextYear"><?php echo $deduction_day; ?></span>
+                    <input type="hidden" name="nextday" value="<?php echo $deduction_day; ?>">
+                </div>
+                
+                <div class="formLi">
+                    <b class="bankPre"><i>*每期定投金额：</i></b>
+                    <span><input type="text" name="balance" value="" autocomplete="off" onBlur="crashInp(this);" class="money w310"/></span>
+                    <b class="eMl7">元</b>
+                    <em></em>
+                </div>
+                <p class="formTip">购买金额不能低于<i number="">--</i>元，日累计限额<i number="">--</i>元</p>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>大写金额：</b>
+                    <b class="Capital"></b>
+                    <input type="hidden" name="rmb" value="">
+                </div>
+                
+                <div class="formP">
+                	<b class="bankPre">申购费率：</b><b id="FeiLv">--</b>
+                </div>
+                <div class="formP">
+                	<b class="bankPre">估算手续费：</b><b id="ShouXF">--</b>
+                </div>
+                <div class="Mt10 Tc">
+                	<a href="javascript:;" data-risk_bear="<?php echo $risk_bear; ?>" onClick="subForm(this);" class="halfBtn">下一步</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    <!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+        <h3><span>风险提示</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+            <p>您当前选择的基金风险等级为<span class="red">【中等风险等级】</span>不符合您的风险承受等级，详情请见<a href="<?php echo WEB_URL; ?>/bangzhuzhongxin/20170208/24259975.shtml" class="blue">《基金销售适用性规则》</a>是否确认购买</p>
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" onClick="testCkl(1)" class="redBtn Mr15">确定</a>
+            <a href="javascript:;" onClick="testCkl(0)" class="cyanBtn">取消</a>
+        </div>
+    </div>
+
+<!--Foot Start-->
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612271635"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.uRadio').uRadio();/*单选框美化*/
+		$('.FormSlt').uSelect();/*select美化*/
+		
+        $('.money').bind('keyup',function(event){
+            var o=this,pos = $(this).getCursor(),str = $(o).val();
+            if (str>100000000000) {
+                var len = str.length -1;
+                str = str.substr(0,pos-1)+str.substr(pos,len);//str.substr(0,len);
+                $(this).val(str);
+                $(this).setCursor(pos-1);
+            }
+        });
+
+        $('.money').inpCash();//现金输入金额限制，大小写关联
+
+        var FundInput = $('input[name="fund_code"]');
+        if (new RegExp("^[0-9]+").test(FundInput.val())) fundBlur(FundInput);
+		
+		function crashInp(obj){//现金输入
+			var p = $(obj).parents('.formLi'),
+			tip = $(p).next().find('i'),
+			numStr = $(obj).val(),
+			Min = parseFloat($(tip).eq(0).attr('number')),
+			Max = parseFloat($(tip).eq(1).attr('number'));
+			if(numStr == ''){
+				$(obj).showTip('Error','不能为空!');
+			}else{
+				var num = parseFloat(numStr);
+				if(num < Min){
+					$(obj).showTip('Error','购买金额不能小于'+Min);
+				}else if(num > Max){
+					$(obj).showTip('Error','购买金额不能超过日累计限额'+Max);
+				}else{
+				    getFare();
+					$(obj).showTip('Right')
+				}
+			}			
+		}
+		function payRadio(obj){//单选框点击事件 支付方式
+			var p = $(obj).parents('.payStyle'),
+			_this = $(obj).parents('.payLi');
+			$(_this).addClass('curPay').siblings('.payLi').removeClass('curPay');
+			/*更改费率 手续费 具体请程序员自行修改 一下仅供参考*/
+//			$('#FeiLv').html('0费率');
+//			$('#ShouXF').html('0.00元');
+            getFare();
+		}
+		
+		function dayChange(obj){//日期选择事件
+			var day = $(obj).val();
+			$.ajax({
+			    url: '<?php echo base_url(); ?>fix/getdeductionday',
+                type: 'post',
+                data:'fix_day='+day,
+                success: function (d) {
+			        var o = $.parseJSON(d);
+			        if (o.code == 200) {
+                        $('.NextYear').html(o.data);
+			            $('input[name="nextday"]').val(o.data);
+                    }else if(o.code == 0){
+                        alert(o.message);
+                        window.top.location.href=o.url;
+                    } else {
+                        $('.NextYear').html('服务器错误，请重试');
+                    }
+                }
+            });
+		}
+		
+		function subForm(obj){
+			var flag = true,
+			form = $(obj).parents('form'),
+			inps = $(form).find('input:text');
+            if ($('input[name="fund_code"]').attr('data-ok') == 0) {
+                flag = false;
+                $('input[name="fund_code"]').showTip('Error','输入或选择有效的基金代码');
+            }
+            if ($('select[name="acco"]').val() == '') {
+                flag = false;
+                $('select[name="acco"]').showTip('Error','请选择银行卡');
+            }
+			for(i = 0; i < 2; i++){
+                var str = $(inps).eq(i).val();
+				if(str == ''){
+					flag = false;
+					$(inps).eq(i).showTip('Error','不能为空');
+				}
+            }
+			if(flag){
+				var str = $('.money').val(),
+				reg = /^[1-9]\d*.\d{1,2}$|^[1-9]\d*$|^0\.\d{1,2}/;
+				if(!reg.test(str)){
+					flag = false;
+					$('.money').showTip('Error','输入金额格式不正确');
+				}else{
+					var _p = $('.money').parents('.formLi'),
+					tip = $(_p).next().find('i'),
+					num = parseFloat($('.money').val()),
+					Min = parseFloat($(tip).eq(0).attr('number')),
+					Max = parseFloat($(tip).eq(1).attr('number'));
+					if(num < Min){
+						flag = false;
+						$('.money').showTip('Error','购买金额不能小于'+Min);
+					}else if(num > Max){
+						flag = false;
+						$('.money').showTip('Error','购买金额不能超过日累计限额'+Max);
+					}else{
+						$('.money').showTip('Right');
+					}
+				}
+			}
+            if(flag){
+                var rmb = $('.Capital').html();
+                $('input[name="rmb"]').val(rmb);
+                if ($(obj).attr('data-risk_bear')!=3 && $(obj).attr('data-risk_bear')+1<$('input[name="fund_code"]').attr('data-risk')) {
+                    $('#msgBox').showWin();
+                    return false;
+                }
+                $('form').eq(0).submit();
+			}
+		}
+
+        function testCkl(i) {
+		    if (i ==1) {
+                $('form').eq(0).submit();
+            }
+        }
+		
+		/*选择基金js====================================*/
+		function fundBlur(obj){
+			var jjId = $(obj).val();
+			if(jjId == ''){
+                $(obj).val('请输入基金代码或简称');
+				$(obj).showTip('Error','不能为空');
+				$('.fundDes').css('display','none');
+				//$('.fund_suggest').css('display','none');
+			}else{
+                $(obj).showTip('Right');
+				$.ajax({
+					url:'<?php echo base_url(); ?>fix/getfundinfo/'+jjId,
+                    type:'post',
+                    data:'acco='+$('select[name="acco"] option:selected').attr('data-acco'),
+					dataType:'json',
+					success: function(d){
+						/*ajax 获取输入框输入基金代码相关内容 以表格形式输出*/
+						if(d.code == 200){//当输入框内容能取到相应基金时 显示基金相关细心
+							/*显示基金名称及基本信息 内容替换请程序员自行编写*/
+							if (d.data.allow_fix != 1) {
+							    $(obj).attr('data-ok', 0);
+                                $(obj).showTip('Error','该基金不支持定投');
+                                return;
+                            }
+                            if (d.data.fund_status_raw != 0) {
+                                $(obj).attr('data-ok', 0);
+                                $(obj).showTip('Error','该基金'+d.data.fund_status+'，暂不能定投');
+                                return;
+                            }
+							var html='',
+                                box=$('.fundDes');
+							html=html + '<input type="hidden" name="fund_name" value="'+d.data.fund_name+'">';
+							html=html + '<p><b class="bankPre">基金名称：</b><a href="'+'<?php echo WEB_URL; ?>/fund/'+d.data.fund_code+'" class="blue" target="_blank">'+d.data.fund_full_name+'</a></p>';
+                            html=html + '<p><b class="bankPre">基金信息：</b><span>'+d.data.ofund_type+'</span><span>'+d.data.ofund_risklevel+'</span><span>'+d.data.share_type+'</span><span> 分红方式：'+d.data.auto_buy+'</span></p>';
+                            box.html(html);
+							box.css('display','block');//显示选择基金基本信息的模块
+                            $(obj).attr('data-risk', d.data.ofund_risklevel_raw);
+                            $('.qWmess').find('span').html('【'+d.data.ofund_risklevel+'】');
+                            if (d.data.max_value>100000000) {
+                                $('.formTip').html('购买金额不能低于<i number="'+d.data.min_value+'">'+d.data.min_value+'</i>元<i number="'+d.data.max_value+'"></i>');
+                            } else {
+                                $('.formTip').html('购买金额不能低于<i number="'+d.data.min_value+'">'+d.data.min_value+'</i>元，日累计限额<i number="'+d.data.max_value+'">'+d.data.max_value/10000.0+'</i>万元');
+                            }
+                            getFare();
+                            $(obj).attr('data-ok', 1);
+							$(obj).showTip('Right');
+						}else if(d.code == 0){
+						    alert(d.message);
+						    window.top.location.href=d.url;
+                        }else{
+                            $(obj).attr('data-ok', 0);
+							$(obj).showTip('Error','请输入正确的基金代码');
+							$('.fundDes').css('display','none');
+						}
+
+						//$('.fund_suggest').css('display','none');
+					}
+				});
+			}
+		}
+		$('.fundInp').Fund({
+			number:2,//下拉按钮点击展示选项卡变化 从0开始计算 （默认显示1即A标签页 即不设置此项时）
+			keyup:function(o,fn){//输入框键盘事件,o为单曲input
+				var code = $(o).val(),
+				box = $('.Inp'),
+				html = '<table cellspacing="0" cellpadding="0"><thead><tr><th>选项</th><th>代码</th><th>类型</th><th>简称</th></tr></thead><tbody>';
+				$('.resultbox').css('display', 'none');
+				$.ajax({
+					url:'<?php echo base_url(); ?>fix/searchfunds',
+					type:'post',
+					data:{'key':code,'rows':20},
+					dataType:'json',
+					success: function(d){
+                        if (d.code == 200) {
+                            /*ajax 获取输入框输入基金代码相关内容 以表格形式输出*/
+                            $.each(d.data, function(i, e){
+                                html = html + '<tr style="text-align: center;" onclick="selectFund(this)" data-code="' + e.fund_code + '"><td><span>' + code + '<span>' + '</td><td>' + e.fund_code + '</td><td>' + e.ofund_type + '</td><td>' + e.fund_name + '</td></tr>';
+                            });
+                        } else if (d.code == 201) {
+                            html = html + '<tr style="text-align: center;"><td colspan="4"><span>' + d.message + '<span>' + '</td></tr>';
+                        }else if(d.code == 0){
+                            alert(d.message);
+                            window.top.location.href=d.url;
+                        }else {
+                            html = html + '<tr style="text-align: center;"><td colspan="4"><span>服务器错误，请重试<span></td></tr>';
+                        }
+						html = html + '<tbody></table>';
+						$(box).html(html);
+						if(typeof fn == 'function'){
+							fn();
+						}
+					}
+				});
+			},
+			click:function(o){//dd内a标签点事件 表格tr的点击事件
+				$(o).parents('.fund_suggest').css('display','none');
+                getFare();
+				/*显示基金名称及基本信息 内容替换请程序员自行编写*/
+				$('.fundDes').css('display','block');//显示选择基金基本信息的模块
+				//alert($(o).html())
+			}
+		});
+		function searchByLetter(o)
+        {
+            var key = $(o).html(),
+            box = $('.resultbox'),
+            html = '';
+            $('.Inp').css('display', 'none');
+            $.ajax({
+                url:'<?php echo base_url(); ?>fix/searchcodesbyletter',
+                type:'post',
+                data:{'key':key},
+                dataType:'json',
+                success: function(d){
+                    if (d.code == 200) {
+                        /*ajax 获取输入框输入基金代码相关内容 以表格形式输出*/
+                        for (var i = 0; i < d.data.length; i++) {
+                            html = html + '<a data-code="'+d.data[i].code+'" href="javascript:;" onclick="selectFund(this)">'+d.data[i].name+'</a>';
+                        }
+                    } else if (d.code == 201) {
+                        html = html + '<a href="javascript:;" >'+d.message+'</a>';
+                    }else if(d.code == 0){
+                        alert(d.message);
+                        window.top.location.href=d.url;
+                    }else{
+                        html = html + '<a href="javascript:;" >服务器错误，请重试</a>';
+                    }
+                    $(box).html(html).css('display','block')
+                }
+            });
+        }
+        function selectFund(o)
+        {
+            FundInput.val($(o).attr('data-code'));
+            fundBlur(FundInput);
+            getFare();
+        }
+
+        /*查询费率*/
+        function getFare()
+        {
+            var trade_acco = $('select[name="acco"]').val().split('|',1)[0],code = FundInput.val(), balance = $('input[name="balance"]').val();
+            if (new RegExp("[0-9]{6}").test(code) && balance) {
+                $.post('<?php echo base_url(); ?>fix/getfare',{'trade_acco':trade_acco,'code':code,'balance':balance}, function(d){
+                    o = $.parseJSON(d);
+                    if (o.code == 200) {
+                        $('#FeiLv').html('<span style="text-decoration:line-through;">'+o.data.fare_ratio+'%</span>　　'+o.data.bj_ratio+'%');
+                        $('#ShouXF').html(o.data.fare_sx+'元');
+                    } else if (o.code == 201) {
+                        $('#FeiLv').html(o.message);
+                        $('#ShouXF').html('--');
+                    }else if(o.code == 0){
+                        alert(o.message);
+                        window.top.location.href=o.url;
+                    }else{
+                        $('#FeiLv').html('<span style="text-decoration:line-through;">服务器错误，请重试</span>');
+                    }
+                });
+            }
+        }
+    </script>

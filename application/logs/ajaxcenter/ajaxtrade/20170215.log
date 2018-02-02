@@ -1,0 +1,326 @@
+[09:19:25][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487121402|-$mkid-|7a3a1a4d749d977b]
+[09:19:25][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[09:19:25][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[09:47:28][|-修改交易密码$Param-||-$mobile-|18125530297|-$bankcode-|005|-$banknum-|6217000340000565980|-$idcard-|422201100000000427|-$turename-|原方|-$userID-|170|-$tid-|1487123161|-$mkid-|1038e0e412156cb3]
+[09:47:28][|-trParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[09:47:28][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[09:55:41][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487123692|-$mkid-|5132896b314702af]
+[09:55:41][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[09:55:41][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[09:58:07][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487123851|-$mkid-|eb34e3d4c5c25ddb]
+[09:58:07][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[09:58:07][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:04:28][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487124237|-$mkid-|6d35fb6edc575f2b]
+[10:04:28][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:04:28][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:12:52][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487124747|-$mkid-|1014d45f237247a7]
+[10:12:52][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:12:52][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:27:16][|-修改交易密码$Param-||-$mobile-|18125530297|-$bankcode-|005|-$banknum-|6217000340000565980|-$idcard-|422201100000000427|-$turename-|原方|-$userID-|170|-$tid-|1487123161|-$mkid-|1038e0e412156cb3]
+[10:27:49][|-修改交易密码$Param-||-$mobile-|18125530297|-$bankcode-|005|-$banknum-|6217000340000565980|-$idcard-|422201100000000427|-$turename-|原方|-$userID-|170|-$tid-|1487125640|-$mkid-|0f69219e801439d3]
+[10:27:49][|-trParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:27:49][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:30:10][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487125784|-$mkid-|5c339be8c7e13678]
+[10:30:10][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:30:10][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:40:16][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487126375|-$mkid-|424270460ab49f7e]
+[10:40:16][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:40:16][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:59:20][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487127527|-$mkid-|aa426e77be17eb69]
+[10:59:20][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:59:20][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:07:33][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487128020|-$mkid-|8d384cf597012f8e]
+[11:07:33][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:07:33][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:11:03][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄一|-$userID-|215|-$tid-|1487128241|-$mkid-|f914859d49b2f562]
+[11:11:03][|-trParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:11:03][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:21:01][|-修改交易密码$Param-||-$mobile-|18125530297|-$bankcode-|005|-$banknum-|6217000340000565980|-$idcard-|422201100000000427|-$turename-|原方|-$userID-|170|-$tid-|1487128833|-$mkid-|65c1c714b9f38a30]
+[11:21:01][|-trParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:21:01][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]

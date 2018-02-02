@@ -1,0 +1,1968 @@
+[11:27:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:27:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:27:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[11:27:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 11000
+    [trade_acco] => 1164
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[11:28:09][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:28:09][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:28:09][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[11:28:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 11000
+    [trade_acco] => 1164
+    [password] => 04c9afd0bf881e685cde0485800ff760
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[11:28:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:28:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:28:27][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[11:28:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 11000
+    [trade_acco] => 1164
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[11:34:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:34:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:34:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[11:34:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 1100
+    [trade_acco] => 1164
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"1353","error_info":"交易账号已锁定"}]}
+    [code] => 200
+)
+]
+[11:36:13][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:36:13][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:36:13][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[11:36:13][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 1200
+    [trade_acco] => 1164
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"1353","error_info":"交易账号已锁定"}]}
+    [code] => 200
+)
+]
+[11:42:12][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:42:12][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[11:42:12][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[11:42:12][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 11000
+    [trade_acco] => 1164
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"1353","error_info":"交易账号已锁定"}]}
+    [code] => 200
+)
+]
+[11:44:40][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10268
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1184","total_count":"1","ta_acco":"*B0000001184","capital_mode":"l","success_type":"0","branchbank":"104581010280","bank_open_id_no":"422201199901010427","bank_no":"004","bank_account":"6216697000003339540","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"杜拉拉"}]}
+    [code] => 200
+)
+]
+[11:44:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10268
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1184","total_count":"1","ta_acco":"*B0000001184","capital_mode":"l","success_type":"0","branchbank":"104581010280","bank_open_id_no":"422201199901010427","bank_no":"004","bank_account":"6216697000003339540","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"杜拉拉"}]}
+    [code] => 200
+)
+]
+[11:44:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[11:44:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6216697000003339540
+    [share_type] => A
+    [balance] => 1000
+    [trade_acco] => 1184
+    [password] => 7c5ec8641af12d25b10d4e9d67631cf4
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"1000.00","apply_time":"114441","allot_no":"20170209000010","apply_date":"20170209","success_type":"0","clear_date":"","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[14:32:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[14:32:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[14:32:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:32:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 10000
+    [trade_acco] => 1164
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"1353","error_info":"交易账号已锁定"}]}
+    [code] => 200
+)
+]
+[14:44:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[14:44:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[14:44:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:44:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 10000
+    [trade_acco] => 1164
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[15:11:56][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[15:11:57][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[15:11:57][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:11:57][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 10000
+    [trade_acco] => 1164
+    [password] => 58b6495eb11ef0236716195c35ac97ce
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[15:27:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[15:27:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[15:27:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[15:27:53][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 10000
+    [trade_acco] => 1164
+    [password] => e820143041a4921b0ba1fb73f90c36a5
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"10000.00","apply_time":"093000","allot_no":"20170209000044","apply_date":"20170210","success_type":"0","clear_date":"","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[16:59:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[16:59:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[16:59:10][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[16:59:11][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 20000
+    [trade_acco] => 1164
+    [password] => e820143041a4921b0ba1fb73f90c36a5
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"20000.00","apply_time":"093000","allot_no":"20170209000061","apply_date":"20170210","success_type":"0","clear_date":"","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:03:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1189","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"350426198803025631","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[17:03:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1189","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"350426198803025631","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[17:03:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:03:05][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 005
+    [bank_account] => 6217000340000565980
+    [share_type] => A
+    [balance] => 12000
+    [trade_acco] => 1189
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"12000.00","apply_time":"093000","allot_no":"20170209000064","apply_date":"20170210","success_type":"0","clear_date":"","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[19:26:01][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[19:26:01][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10108
+    [bank_no] => 004
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1164","total_count":"1","ta_acco":"B01000009851","capital_mode":"l","success_type":"0","branchbank":"104521003318","bank_open_id_no":"420111199508286623","bank_no":"004","bank_account":"6217857600002597495","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"严萌"}]}
+    [code] => 200
+)
+]
+[19:26:01][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[19:26:01][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 004
+    [bank_account] => 6217857600002597495
+    [share_type] => A
+    [balance] => 90000
+    [trade_acco] => 1164
+    [password] => e820143041a4921b0ba1fb73f90c36a5
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"90000.00","apply_time":"093000","allot_no":"20170209000083","apply_date":"20170210","success_type":"0","clear_date":"","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[19:32:37][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[19:32:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[19:32:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[19:32:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 003
+    [bank_account] => 6228480712413995614
+    [share_type] => A
+    [balance] => 12000
+    [trade_acco] => 1192
+    [password] => 0e530180297f05ef7a8b906d16569a36
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[19:34:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[19:34:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[19:34:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[19:34:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 003
+    [bank_account] => 6228480712413995614
+    [share_type] => A
+    [balance] => 12000
+    [trade_acco] => 1192
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"12000.00","apply_time":"093000","allot_no":"20170209000085","apply_date":"20170210","success_type":"0","clear_date":"","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[20:11:03][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10298
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1190","total_count":"1","ta_acco":"*B0000001190","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"42092219940809002","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"吴晶"}]}
+    [code] => 200
+)
+]
+[20:11:03][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10298
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1190","total_count":"1","ta_acco":"*B0000001190","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"42092219940809002","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"吴晶"}]}
+    [code] => 200
+)
+]
+[20:11:03][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[20:11:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 005
+    [bank_account] => 6217000340000565980
+    [share_type] => A
+    [balance] => 10000
+    [trade_acco] => 1190
+    [password] => 5b91455166a1f7232278929ae7c8d44a
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"10000.00","apply_time":"093000","allot_no":"20170209000092","apply_date":"20170210","success_type":"0","clear_date":"","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[20:44:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1189","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"350426198803025631","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[20:44:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1189","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"350426198803025631","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[20:44:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[20:44:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 005
+    [bank_account] => 6217000340000565980
+    [share_type] => A
+    [balance] => 1999
+    [trade_acco] => 1189
+    [password] => b696e140682e2330a2b1ced63e1c1fd7
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[20:45:00][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1189","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"350426198803025631","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[20:45:00][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1189","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"350426198803025631","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[20:45:00][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[20:45:00][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 005
+    [bank_account] => 6217000340000565980
+    [share_type] => A
+    [balance] => 1999
+    [trade_acco] => 1189
+    [password] => 0f6742c225bdff90bf2fbf2c779d8450
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[20:53:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1189","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"350426198803025631","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[20:53:15][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 005
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1189","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"105100014030","bank_open_id_no":"350426198803025631","bank_no":"005","bank_account":"6217000340000565980","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[20:53:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[20:53:16][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 005
+    [bank_account] => 6217000340000565980
+    [share_type] => A
+    [balance] => 1111
+    [trade_acco] => 1189
+    [password] => 0f6742c225bdff90bf2fbf2c779d8450
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"1353","error_info":"交易账号已锁定"}]}
+    [code] => 200
+)
+]
+[21:37:07][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10278
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1188","total_count":"1","ta_acco":"*B0000001188","capital_mode":"l","success_type":"0","branchbank":"103405070014","bank_open_id_no":"350426198803037088","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"邱小兰"}]}
+    [code] => 200
+)
+]
+[21:37:07][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10278
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1188","total_count":"1","ta_acco":"*B0000001188","capital_mode":"l","success_type":"0","branchbank":"103405070014","bank_open_id_no":"350426198803037088","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"邱小兰"}]}
+    [code] => 200
+)
+]
+[21:37:07][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[21:37:08][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 003
+    [bank_account] => 6228480712413995614
+    [share_type] => A
+    [balance] => 10000
+    [trade_acco] => 1188
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"10000.00","apply_time":"093000","allot_no":"20170209000113","apply_date":"20170210","success_type":"0","clear_date":"","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[21:39:48][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[21:39:48][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[21:39:48][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[21:39:48][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 003
+    [bank_account] => 6228480712413995614
+    [share_type] => A
+    [balance] => 1111.06
+    [trade_acco] => 1192
+    [password] => 0f6742c225bdff90bf2fbf2c779d8450
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[22:55:42][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[22:55:42][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[22:55:42][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[22:55:43][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 003
+    [bank_account] => 6228480712413995614
+    [share_type] => A
+    [balance] => 1111
+    [trade_acco] => 1192
+    [password] => 0f6742c225bdff90bf2fbf2c779d8450
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[22:56:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[22:56:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [trust_way] => 2
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [trade_acco] => 
+    [client_id] => 10288
+    [bank_no] => 003
+)
+https://sitapi.hscloud.cn/cwsale/v1/accobank_qry
+回参：Array
+(
+    [data] => {"data":[{"detail_fund_way":"01","rowcount":"1","fund_interface_type":"1","bank_open_id_kind_gb":"0","error_code":"","trade_acco":"1192","total_count":"1","ta_acco":"*B0000001189","capital_mode":"l","success_type":"0","branchbank":"103100022069","bank_open_id_no":"350426198803025631","bank_no":"003","bank_account":"6228480712413995614","error_info":"","remittance_no":"","fund_card":"","bank_account_name":"后"}]}
+    [code] => 200
+)
+]
+[22:56:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170209","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170208","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[22:56:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 36AFD9D4FA9D4C8D9A8676265390F7382017020909405418005400
+    [money_type] => 0
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [detail_fund_way] => 01
+    [fund_code] => 600570
+    [bank_no] => 003
+    [bank_account] => 6228480712413995614
+    [share_type] => A
+    [balance] => 555
+    [trade_acco] => 1192
+    [password] => 0f6742c225bdff90bf2fbf2c779d8450
+)
+https://sitapi.hscloud.cn/cwsale/v1/allot_trade
+回参：Array
+(
+    [data] => {"data":[{"balance":"0.00","apply_time":"","allot_no":"","apply_date":"","success_type":"3","clear_date":"","error_code":"0102","error_info":"请输入正确的密码。"}]}
+    [code] => 200
+)
+]

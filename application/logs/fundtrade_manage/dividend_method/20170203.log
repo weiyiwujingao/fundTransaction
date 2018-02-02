@@ -1,0 +1,17 @@
+[14:01:57][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [trust_way] => 2
+    [access_token] => 
+    [request_num] => 10
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+)
+https://sitapi.hscloud.cn/cwsale/v1/share_qry
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]

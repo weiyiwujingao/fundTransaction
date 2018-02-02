@@ -1,0 +1,102 @@
+[10:46:03][|-Param-|Array
+(
+    [UserID] => 224
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013640
+    [BranchName] => 中国农业银行福州塔头支行
+    [BankCard] => 6228480068816522772
+    [Mobile] => 15927191870
+    [NickName] => 罗蔓
+    [IdentityNumber] => 421083199206290033
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-16 10:46:03
+)
+]
+[10:46:03][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 罗蔓
+    [client_name] => 罗蔓
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [password] => 2fed3552497f2facc94bd74d5996315b
+    [mobile_tel] => 15927191870
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 罗蔓
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013640
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[10:46:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170215000349
+                    [apply_date] => 20170216
+                    [success_type] => 0
+                    [trade_acco] => 1206
+                    [error_code] => 
+                    [client_id] => 10378
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[10:46:04][|-uuRs-|1]
+[10:46:04][|-ibParam-|Array
+(
+    [UserID] => 224
+    [AccountName] => 罗蔓
+    [HsAccount] => 1206
+    [Master] => 1
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013640
+    [BranchName] => 中国农业银行福州塔头支行
+    [BankCard] => 6228480068816522772
+    [Mobile] => 15927191870
+    [Status] => 1
+    [DataTime] => 2017-02-16 10:46:02
+)
+]
+[10:46:04][|-ibRs-|36]
+[10:46:04][|-iaParam-|Array
+(
+    [UserID] => 224
+    [TrueName] => 罗蔓
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 0
+    [IdentityNumber] => 421083199206290033
+    [Status] => 1
+    [CheckTime] => 2017-02-16 10:46:02
+    [DataTime] => 2017-02-16 10:46:02
+    [EndValidDate] => 20990101
+)
+]
+[10:46:04][|-iaRs-|1]

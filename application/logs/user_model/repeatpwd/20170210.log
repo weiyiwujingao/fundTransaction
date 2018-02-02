@@ -1,0 +1,48 @@
+[14:01:09][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[14:02:00][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[14:02:06][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[14:02:17][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[14:02:52][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[22:11:21][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]

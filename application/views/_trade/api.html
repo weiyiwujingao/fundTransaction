@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>接口 - 铂嘉基金</title>
+<link type="text/css" rel="stylesheet" href="https://trade.buyfunds.cn/f=front/uc/Css/BjCenter/Basis.css,front/uc/Css/BjCenter/PubStyle.css,front/uc/Css/BjCenter/BjFund.css?v=<?=time()?>" />
+</head>
+
+<body>
+<div style="margin-left: 120px">
+	<dd style="display:block" >
+    	<form action="https://trade.buyfunds.cn/trade/api.html" method="get" name="userform">
+        	<br/><font size="5" face="arial">查看参数列表</font><br/><br/>
+            <div class="dataLi">
+                <b class="w100 Tr">功能号：</b>
+                <span><input class="w160" name="action" type="text" value="" /></span>[action]<br/><br/>
+                <b class="w100 Tr">参数号：</b>
+                <span><input class="w160"  name="parame" type="text" value=""  style="width:600px;" /></span>[parame]<br/><br/>
+				<b class="w100 Tr">来源地：</b>
+                <span><input class="w160" name="url" type="text" value="" /></span>[url]<br/><br/>
+            </div>
+        	<div class="FormLabe">
+               <input type="submit"> 
+            </div>
+        </form>
+    </dd>
+</div><br/>
+	<?php if($parame) :?>
+	<div style="float:left;margin-left: 15px"><span style="margin-left:15px;"><font size="5" face="arial" color="red">参数列表：</font></span><br/>
+	<?php 
+	foreach($parame as $ke=>$va){
+		echo '<dd style="margin-left:15px;"><font size="3" face="arial">'; echo '<a style="color:red">'.$ke.'</a> => '.$va; echo '<br/>';echo '</dd><font>';
+	}
+	?>
+	</div>
+	<?php endif?>
+	<?php if(isset($data['data'])) :?>
+	<?php 
+	foreach($data['data'] as $k=>$v){ 
+		echo '<div style="float:left;margin-left: 100px"><span><font size="5" face="arial" color="red">数据：</font></span>';
+		foreach($v as $kk=>$vv){
+			echo '<dd><font size="3" face="arial">';echo '<a style="color:red">'.$kk.'</a> => '.$vv;echo '<br/>';echo '</dd></font>';
+		}
+		echo '<br/>';
+	}?>
+	</div>
+	<?php else:?>
+	<div style="float:left;margin-left: 100px"><span><font size="5" face="arial" color="red">数据：</font></span>
+	<?php 
+	if(isset($data) && is_array($data) )
+	foreach($data as $kk=>$vv){
+			echo '<dd><font size="3" face="arial">';echo '<a style="color:red">'.$kk.'</a> => '.$vv;echo '<br/>';echo '</dd></font>';
+		}
+		echo '<br/>';
+	?>
+	<?php endif?>
+</body>
+</html>

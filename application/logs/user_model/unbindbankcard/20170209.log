@@ -1,0 +1,44 @@
+[19:04:20][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1192
+)
+]
+[19:04:20][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2787
+                    [error_info] => 未找到可销交易账号的基金账号
+                )
+
+        )
+
+)
+]
+[22:10:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1191
+)
+]
+[22:10:43][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2787
+                    [error_info] => 未找到可销交易账号的基金账号
+                )
+
+        )
+
+)
+]

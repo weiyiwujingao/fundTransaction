@@ -1,0 +1,17 @@
+[12:41:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B7BFD833BACC474C99A47BA4804D774A2017020409250463991786
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 519999
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]

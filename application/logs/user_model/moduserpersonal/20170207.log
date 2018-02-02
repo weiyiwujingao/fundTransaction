@@ -1,0 +1,410 @@
+[20:21:26][|-xParam-|Array
+(
+    [statement_flag] => 2303
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:21:27][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0118
+                    [error_info] => 委托方式[]不能做此交易
+                )
+
+        )
+
+)
+]
+[20:22:51][|-xParam-|Array
+(
+    [statement_flag] => 2303
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:22:51][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0118
+                    [error_info] => 委托方式[]不能做此交易
+                )
+
+        )
+
+)
+]
+[20:24:15][|-xParam-|Array
+(
+    [statement_flag] => 2303
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:24:15][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[20:24:26][|-xParam-|Array
+(
+    [statement_flag] => 2303
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:24:26][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0101
+                    [error_info] => 应用错误，请与系统管理员联系。
+                )
+
+        )
+
+)
+]
+[20:27:20][|-xParam-|Array
+(
+    [home_tel] => adfadfadfad
+    [address] => safdadfasdf
+    [zipcode] => 2323232
+    [e_mail] => kaslf@cmlsa.com
+    [statement_flag] => 2303
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:27:26][|-rs-|Array
+(
+)
+]
+[20:27:37][|-xParam-|Array
+(
+    [home_tel] => adfadfadfad
+    [address] => safdadfasdf
+    [zipcode] => 2323232
+    [e_mail] => kaslf@cmlsa.com
+    [statement_flag] => 2303
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:27:42][|-rs-|Array
+(
+)
+]
+[20:28:20][|-xParam-|Array
+(
+    [home_tel] => adfadfadfad
+    [address] => safdadfasdf
+    [zipcode] => 2323232
+    [e_mail] => kaslf@cmlsa.com
+    [statement_flag] => 2303
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:28:25][|-rs-|Array
+(
+)
+]
+[20:28:32][|-xParam-|Array
+(
+    [home_tel] => adfadfadfad
+    [address] => safdadfasdf
+    [zipcode] => 2323232
+    [e_mail] => kaslf@cmlsa.com
+    [statement_flag] => 2303
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:28:37][|-rs-|Array
+(
+)
+]
+[20:42:24][|-xParam-|Array
+(
+    [home_tel] => adfadfadfad
+    [address] => safdadfasdf
+    [zipcode] => 2323232
+    [e_mail] => kaslf@cmlsa.com
+    [statement_flag] => 2303
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:42:29][|-rs-|Array
+(
+)
+]
+[20:43:12][|-xParam-|Array
+(
+    [home_tel] => adfadfadfad
+    [address] => safdadfasdf
+    [zipcode] => 2323232
+    [e_mail] => kaslf@cmlsa.com
+    [statement_flag] => 2303
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:43:17][|-rs-|Array
+(
+)
+]
+[20:43:29][|-xParam-|Array
+(
+    [home_tel] => adfadfadfad
+    [address] => safdadfasdf
+    [zipcode] => 2323232
+    [e_mail] => kaslf@cmlsa.com
+    [statement_flag] => 2303
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:43:34][|-dParam-|Array
+(
+    [TelPhone] => adfadfadfad
+    [Address] => safdadfasdf
+    [Postal] => 2323232
+    [Email] => kaslf@cmlsa.com
+    [SendRate] => 2303
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 167
+)
+]
+[20:47:42][|-xParam-|Array
+(
+    [statement_flag] => 2303
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:47:42][|-dParam-|Array
+(
+    [SendRate] => 2303
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 167
+)
+]
+[20:47:53][|-xParam-|Array
+(
+    [statement_flag] => 2303
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:47:53][|-dParam-|Array
+(
+    [SendRate] => 2303
+    [UserID] => 167
+)
+]
+[20:48:04][|-xParam-|Array
+(
+    [statement_flag] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:48:04][|-dParam-|Array
+(
+    [SendRate] => 1
+    [UserID] => 167
+)
+]
+[20:51:50][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:51:50][|-dParam-|Array
+(
+    [SendMethod] => a:2:{i:0;i:1;i:1;i:2;}
+    [UserID] => 167
+)
+]
+[20:55:20][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:55:20][|-dParam-|Array
+(
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 167
+)
+]
+[20:56:30][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:56:31][|-dParam-|Array
+(
+    [SendMethod] => a:2:{i:0;i:1;i:1;i:2;}
+    [UserID] => 167
+)
+]
+[20:56:39][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:56:39][|-dParam-|Array
+(
+    [SendMethod] => a:1:{i:0;i:2;}
+    [UserID] => 167
+)
+]
+[20:56:54][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [trade_account_name] => 
+)
+]
+[20:56:54][|-dParam-|Array
+(
+    [SendMethod] => a:2:{i:0;i:1;i:1;i:2;}
+    [UserID] => 167
+)
+]

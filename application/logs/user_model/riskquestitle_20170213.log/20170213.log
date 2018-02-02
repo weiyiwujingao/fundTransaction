@@ -1,0 +1,525 @@
+[14:13:33][|-Param-|Array
+(
+    [request_num] => 20
+)
+]
+[14:13:33][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [question_content] => 01 您所处的年龄段是： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 1
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [question_content] => 02 您每月的可支配收入范围： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 2
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [2] => Array
+                (
+                    [question_content] => 03 您曾经投资过以下哪些金融产品： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 3
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [3] => Array
+                (
+                    [question_content] => 04 您准备投资的资金占到您个人或者家庭资产（包括固定和流动资产）的比例范围：  (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 4
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+            [4] => Array
+                (
+                    [question_content] => 05 您从什么渠道开始对基金产生兴趣并准备开始投资： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 5
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 6
+                )
+
+            [5] => Array
+                (
+                    [question_content] => 06 您认为投资基金的哪个方面最吸引您： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 6
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 7
+                )
+
+            [6] => Array
+                (
+                    [question_content] => 07 您曾经购买过何种类型的基金产品： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 7
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 8
+                )
+
+            [7] => Array
+                (
+                    [question_content] => 08 您大约会持有这项投资计划多久，才有可能动用其中的大部分资金： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 8
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 9
+                )
+
+            [8] => Array
+                (
+                    [question_content] => 09 当您选择了一项投资工具，相信它在未来一段期间将翻番，可是不久却下跌了20%，这时您将： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 9
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 10
+                )
+
+        )
+
+)
+]
+[15:19:25][|-Param-|Array
+(
+    [request_num] => 20
+)
+]
+[15:19:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [question_content] => 01 您所处的年龄段是： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 1
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [question_content] => 02 您每月的可支配收入范围： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 2
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [2] => Array
+                (
+                    [question_content] => 03 您曾经投资过以下哪些金融产品： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 3
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [3] => Array
+                (
+                    [question_content] => 04 您准备投资的资金占到您个人或者家庭资产（包括固定和流动资产）的比例范围：  (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 4
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+            [4] => Array
+                (
+                    [question_content] => 05 您从什么渠道开始对基金产生兴趣并准备开始投资： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 5
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 6
+                )
+
+            [5] => Array
+                (
+                    [question_content] => 06 您认为投资基金的哪个方面最吸引您： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 6
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 7
+                )
+
+            [6] => Array
+                (
+                    [question_content] => 07 您曾经购买过何种类型的基金产品： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 7
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 8
+                )
+
+            [7] => Array
+                (
+                    [question_content] => 08 您大约会持有这项投资计划多久，才有可能动用其中的大部分资金： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 8
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 9
+                )
+
+            [8] => Array
+                (
+                    [question_content] => 09 当您选择了一项投资工具，相信它在未来一段期间将翻番，可是不久却下跌了20%，这时您将： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 9
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 10
+                )
+
+        )
+
+)
+]
+[15:20:14][|-Param-|Array
+(
+    [request_num] => 20
+)
+]
+[16:11:16][|-Param-|Array
+(
+    [request_num] => 20
+)
+]
+[16:11:16][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [question_content] => 01 您所处的年龄段是： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 1
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [question_content] => 02 您每月的可支配收入范围： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 2
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [2] => Array
+                (
+                    [question_content] => 03 您曾经投资过以下哪些金融产品： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 3
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [3] => Array
+                (
+                    [question_content] => 04 您准备投资的资金占到您个人或者家庭资产（包括固定和流动资产）的比例范围：  (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 4
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+            [4] => Array
+                (
+                    [question_content] => 05 您从什么渠道开始对基金产生兴趣并准备开始投资： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 5
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 6
+                )
+
+            [5] => Array
+                (
+                    [question_content] => 06 您认为投资基金的哪个方面最吸引您： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 6
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 7
+                )
+
+            [6] => Array
+                (
+                    [question_content] => 07 您曾经购买过何种类型的基金产品： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 7
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 8
+                )
+
+            [7] => Array
+                (
+                    [question_content] => 08 您大约会持有这项投资计划多久，才有可能动用其中的大部分资金： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 8
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 9
+                )
+
+            [8] => Array
+                (
+                    [question_content] => 09 当您选择了一项投资工具，相信它在未来一段期间将翻番，可是不久却下跌了20%，这时您将： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 9
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 10
+                )
+
+        )
+
+)
+]
+[16:48:30][|-Param-|Array
+(
+    [request_num] => 20
+)
+]
+[16:48:30][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [question_content] => 01 您所处的年龄段是： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 1
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [question_content] => 02 您每月的可支配收入范围： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 2
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [2] => Array
+                (
+                    [question_content] => 03 您曾经投资过以下哪些金融产品： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 3
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [3] => Array
+                (
+                    [question_content] => 04 您准备投资的资金占到您个人或者家庭资产（包括固定和流动资产）的比例范围：  (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 4
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+            [4] => Array
+                (
+                    [question_content] => 05 您从什么渠道开始对基金产生兴趣并准备开始投资： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 5
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 6
+                )
+
+            [5] => Array
+                (
+                    [question_content] => 06 您认为投资基金的哪个方面最吸引您： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 6
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 7
+                )
+
+            [6] => Array
+                (
+                    [question_content] => 07 您曾经购买过何种类型的基金产品： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 7
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 8
+                )
+
+            [7] => Array
+                (
+                    [question_content] => 08 您大约会持有这项投资计划多久，才有可能动用其中的大部分资金： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 8
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 9
+                )
+
+            [8] => Array
+                (
+                    [question_content] => 09 当您选择了一项投资工具，相信它在未来一段期间将翻番，可是不久却下跌了20%，这时您将： (  )
+                    [rowcount] => 9
+                    [success_type] => 0
+                    [answer_object] => 1
+                    [question_no] => 9
+                    [error_code] => 
+                    [total_count] => 
+                    [error_info] => 
+                    [order_no] => 10
+                )
+
+        )
+
+)
+]

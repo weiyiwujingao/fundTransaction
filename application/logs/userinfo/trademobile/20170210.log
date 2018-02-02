@@ -1,0 +1,285 @@
+[11:37:49][|-moRs-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [uid] => 178
+    [mobile] => 18125530297
+    [tid] => 1486697825
+    [stid] => 1486697869
+    [mkid] => 0531a3452f983285
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-10 11:01:43
+            [ActiveTime] => 2017-02-10 11:01:43
+            [KeyStr] => 6cc4c3f3d64df33a495fe805aa528711
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170209000037
+            [TelPhone] => 123456
+            [Email] => 123456@qq.com
+            [Address] => 123456
+            [Postal] => 123456
+            [Job] => 2
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 测试啊
+        )
+
+)
+]
+[13:02:24][|-moRs-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [uid] => 169
+    [mobile] => 18065043496
+    [tid] => 1486702914
+    [stid] => 1486702944
+    [mkid] => ba72f3680bc51d8d
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-10 11:35:41
+            [ActiveTime] => 2017-02-10 11:35:41
+            [KeyStr] => 6f89f9c22cac9348a18a2ab860320b0e
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[13:20:15][|-moRs-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [uid] => 169
+    [mobile] => 18065043496
+    [tid] => 1486703978
+    [stid] => 1486704015
+    [mkid] => 3bf514408ca15e4f
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-10 11:35:41
+            [ActiveTime] => 2017-02-10 11:35:41
+            [KeyStr] => 68ebbf41becb1f65c24ff7ba7836ce9f
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[14:54:36][|-moRs-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [uid] => 178
+    [mobile] => 18125530297
+    [tid] => 1486709590
+    [stid] => 1486709676
+    [mkid] => a78a3f6c248da6eb
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-10 14:03:00
+            [ActiveTime] => 2017-02-10 14:03:00
+            [KeyStr] => 8e5ae9397a2ab6aea187c4baffd32b05
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170209000037
+            [TelPhone] => 123456
+            [Email] => 123456@qq.com
+            [Address] => 123456
+            [Postal] => 123456
+            [Job] => 2
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 测试啊
+        )
+
+)
+]
+[14:56:48][|-moRs-|Array
+(
+    [userID] => 170
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 原方
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [uid] => 170
+    [mobile] => 18125530297
+    [tid] => 1486709764
+    [stid] => 1486709808
+    [mkid] => 80afb51b38c1f94b
+    [userInfo] => Array
+        (
+            [UserID] => 170
+            [HsUserID] => 10308
+            [HsAccount] => 1193
+            [UserName] => QQ-170
+            [NickName] => 原方
+            [Mobile] => 
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-10 13:54:01
+            [ActiveTime] => 2017-02-10 13:54:01
+            [KeyStr] => 48527278999fa6297e5df84c6776d926
+            [RegTime] => 2017-02-04 10:21:26
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 170
+            [Country] => 
+            [RiskBear] => 2
+            [PaperID] => 20170210000025
+            [TelPhone] => 1
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]

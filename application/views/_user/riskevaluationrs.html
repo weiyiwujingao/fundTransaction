@@ -1,0 +1,79 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">风险测评结果</h3>
+        	<?php
+        	    $str = '';
+                switch ($type)
+                {
+                case 1:
+                  $str = '
+                  <div class="riskEnd levelBlue">
+                  <h3>您是一位<span>保守型</span>投资者<a href="' . TRADE_RISK_QUES_URL . '" class="smallBtn Ml10">重新测评</a></h3>
+                  <p class="Mt10">适合购买的产品风险等级为：低风险、中低风险。</p>
+                  <p>适合购买的投资基金类型为：<span>货币型</span>、<span>债券型</span>等基金。</p>
+                  </div>
+                  ';
+                  break;
+                case 2:
+                  $str = '
+                  <div class="riskEnd levelOrg">
+                  <h3>您是一位<span>稳健型</span>投资者<a href="' . TRADE_RISK_QUES_URL . '" class="smallBtn Ml10">重新测评</a></h3>
+                  <p class="Mt10">适合购买的产品风险等级为：低风险、中低风险、中风险。</p>
+                  <p>适合购买的投资基金类型为：<span>货币型</span>、<span>债券型</span>、<span>混合型</span>等基金。</p>
+                  </div>
+                  ';
+                  break;
+                case 3:
+                  $str = '
+                  <div class="riskEnd levelRed">
+                  <h3>您是一位<span>积极型</span>投资者<a href="' . TRADE_RISK_QUES_URL . '" class="smallBtn Ml10">重新测评</a></h3>
+                  <p class="Mt10">适合购买的产品风险等级为：低风险、中低风险、中风险、中高风险、高风险。</p>
+                  <p>适合购买的投资基金类型为：<span>货币型</span>、<span>债券型</span>、<span>混合型</span>、<span>股票型</span>等基金。</p>
+                  </div>
+                  ';
+                  break;
+                default:
+                  $str = '';
+                }
+        	?>
+            <?php echo $str; ?>
+            <div class="Explain">
+            	<h3>说明：</h3>
+                <p>根据证监会关于基金销售管理的相关规定，我们需要对投资者进行风险等级评测，请跟据您的风险偏好确认自己的风险承受力，在基金认申购时，系统会对您的风险承受力和基金的风险等级进行匹配，如果基金风险等级大于您的风险承受力，系统会做出风险提示。</p>
+            </div>
+            <div class="RightAd Mt20">
+            <?php require_once(VIEWPATH . '/advert/advert.html');?>
+            </div>
+            <h3 class="Title3 Mt10"><a href="<?php echo WEB_URL.'/deal/hotfund';?>"  class="More">更多&gt;&gt;</a>热销基金</h3>
+            <?php require_once(VIEWPATH . '/hotfund/hotfund.html');?>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+   
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612161531"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		function buyFund(){
+			$('#msgBox').showWin('<p class="Tc">您暂时不能交易，请先绑定银行卡！</p>','');
+		}
+    </script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+[14:17:21][|-$cParam-|Array
+(
+    [mobile] => 15972158074
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 196
+)
+
+]
+[14:17:21][|-$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 003496
+            [UserID] => 196
+        )
+
+)
+
+]
+[14:17:21][|-$aParam-|Array
+(
+    [mobile] => 15972158074
+    [code] => 003496
+    [userID] => 196
+    [IP] => 192.168.15.235
+    [sType] => 4
+    [sign] => bj_trademod_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 196
+            [mobile] => 15972158074
+            [tid] => 1487139441
+        )
+
+)
+
+]

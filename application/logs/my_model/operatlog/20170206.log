@@ -1,0 +1,177 @@
+[10:46:32][Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003318
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286622
+    [Sex] => 1
+    [Password] => 0b04cae8583407ba6329865893082387
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 10:46:32
+    [OperatDesc] => 
+    [OperatTime] => 2017-02-06 10:46:32
+)
+]
+[11:06:51][Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国光大银行
+    [BankNo] => 009
+    [BranchBank] => 303521000181
+    [BankCard] => 6226661401297043
+    [Mobile] => 18671517368
+    [NickName] => 江雪
+    [IdentityNumber] => 421281199202011736
+    [Sex] => 2
+    [Password] => 8211804ff70081d34eeaacbe6b778a44
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 11:06:51
+    [OperatDesc] => 
+    [OperatTime] => 2017-02-06 11:06:51
+)
+]
+[15:16:59][Array
+(
+    [UserID] => 203
+    [Province] => 江苏省
+    [City] => 苏州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103305053844
+    [BranchName] => 中国农业银行苏州黄埭支行
+    [BankCard] => 6228480402564890018
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 369025199012123652
+    [Sex] => 1
+    [Password] => 6803cbb9b19241ab53919a7f025bc107
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 15:16:58
+    [OperatDesc] => 
+    [OperatTime] => 2017-02-06 15:16:59
+)
+]
+[15:22:13][Array
+(
+    [UserID] => 203
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10098
+    [OperatDetail] => 开户-1163
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:22:13
+)
+]
+[15:40:52][Array
+(
+    [UserID] => 196
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10108
+    [OperatDetail] => 开户-1164
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:40:52
+)
+]
+[15:42:54][Array
+(
+    [UserID] => 184
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10118
+    [OperatDetail] => 开户-1165
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:42:54
+)
+]
+[15:46:21][Array
+(
+    [UserID] => 184
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10128
+    [OperatDetail] => 开户-1166
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:46:21
+)
+]
+[15:47:03][Array
+(
+    [UserID] => 184
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10138
+    [OperatDetail] => 开户-1167
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:47:03
+)
+]
+[15:51:29][Array
+(
+    [UserID] => 196
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10148
+    [OperatDetail] => 开户-1168
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:51:29
+)
+]
+[15:53:52][Array
+(
+    [UserID] => 196
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10158
+    [OperatDetail] => 开户-1169
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:53:52
+)
+]
+[15:55:24][Array
+(
+    [UserID] => 196
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10168
+    [OperatDetail] => 开户-1170
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:55:24
+)
+]
+[15:56:15][Array
+(
+    [UserID] => 184
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10178
+    [OperatDetail] => 开户-1171
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 15:56:15
+)
+]
+[16:56:59][Array
+(
+    [UserID] => 206
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10188
+    [OperatDetail] => 开户-1172
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-06 16:56:59
+)
+]

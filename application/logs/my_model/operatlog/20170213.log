@@ -1,0 +1,88 @@
+[10:57:31][Array
+(
+    [UserID] => 196
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10108
+    [OperatDetail] => 增开交易账号-1195
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-13 10:57:30
+)
+]
+[13:36:51][Array
+(
+    [UserID] => 167
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10018
+    [OperatDetail] => 增开交易账号-1196
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-13 13:36:49
+)
+]
+[13:38:05][Array
+(
+    [UserID] => 167
+    [OperatType] => 2
+    [OperatStatus] => 1
+    [HsUserID] => 
+    [OperatDetail] => 银行卡解绑-1177
+    [OperatDesc] => 帐号修改
+    [OperatTime] => 2017-02-13 13:38:04
+)
+]
+[14:13:01][Array
+(
+    [UserID] => 225
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10328
+    [OperatDetail] => 开户-1197
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-13 14:12:59
+)
+]
+[14:13:11][Array
+(
+    [UserID] => 226
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10338
+    [OperatDetail] => 开户-1198
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-13 14:13:10
+)
+]
+[14:30:39][Array
+(
+    [UserID] => 166
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10278
+    [OperatDetail] => 增开交易账号-1199
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-13 14:30:38
+)
+]
+[16:06:56][Array
+(
+    [UserID] => 225
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10328
+    [OperatDetail] => 增开交易账号-1200
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-13 16:06:55
+)
+]
+[16:13:17][Array
+(
+    [UserID] => 225
+    [OperatType] => 1
+    [OperatStatus] => 1
+    [HsUserID] => 10328
+    [OperatDetail] => 增开交易账号-1201
+    [OperatDesc] => 客户开户
+    [OperatTime] => 2017-02-13 16:13:16
+)
+]

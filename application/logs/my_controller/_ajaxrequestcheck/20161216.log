@@ -1,0 +1,35 @@
+[10:12:03][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[10:12:03][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[10:46:39][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[10:46:39][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[11:51:19][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[11:51:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[12:24:06][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[12:24:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[13:36:30][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[13:36:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]

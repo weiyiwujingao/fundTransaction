@@ -1,0 +1,204 @@
+[13:37:15][|-Param-|Array
+(
+    [UserID] => 170
+    [Province] => 天津市
+    [City] => 天津市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105110039233
+    [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+    [BankCard] => 6217000340000565980
+    [Mobile] => 18125530297
+    [NickName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-10 13:37:15
+)
+]
+[13:37:15][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 原方
+    [client_name] => 原方
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 422201100000000427
+    [password] => 7c5ec8641af12d25b10d4e9d67631cf4
+    [mobile_tel] => 18125530297
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 原方
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 105110039233
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[13:37:15][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170210000024
+                    [apply_date] => 20170210
+                    [success_type] => 0
+                    [trade_acco] => 1193
+                    [error_code] => 
+                    [client_id] => 10308
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[13:37:15][|-uuRs-|1]
+[13:37:15][|-ibParam-|Array
+(
+    [UserID] => 170
+    [AccountName] => 原方
+    [HsAccount] => 1193
+    [Master] => 1
+    [Province] => 天津市
+    [City] => 天津市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105110039233
+    [BranchName] => 中国建设银行股份有限公司天津鑫茂科技园分理处
+    [BankCard] => 6217000340000565980
+    [Mobile] => 18125530297
+    [Status] => 1
+    [DataTime] => 2017-02-10 13:37:12
+)
+]
+[13:37:15][|-ibRs-|25]
+[13:37:15][|-iaParam-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 1
+    [IdentityNumber] => 422201100000000427
+    [Status] => 1
+    [CheckTime] => 2017-02-10 13:37:12
+    [DataTime] => 2017-02-10 13:37:12
+    [EndValidDate] => 20990101
+)
+]
+[13:37:15][|-iaRs-|1]
+[14:03:37][|-Param-|Array
+(
+    [UserID] => 174
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308521015022
+    [BranchName] => 招商银行武汉分行武昌支行
+    [BankCard] => 9555500272203935
+    [Mobile] => 13477029958
+    [NickName] => 董长庚
+    [IdentityNumber] => 429006198002245775
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-10 14:03:37
+)
+]
+[14:03:37][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 董长庚
+    [client_name] => 董长庚
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 429006198002245775
+    [password] => 863cd7a9c5305440d26ca9bad955f584
+    [mobile_tel] => 13477029958
+    [bank_no] => 007
+    [bank_name] => 招商银行
+    [bank_account] => 9555500272203935
+    [bank_account_name] => 董长庚
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 308521015022
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[14:03:37][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170210000030
+                    [apply_date] => 20170210
+                    [success_type] => 0
+                    [trade_acco] => 1194
+                    [error_code] => 
+                    [client_id] => 10318
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[14:03:37][|-uuRs-|1]
+[14:03:37][|-ibParam-|Array
+(
+    [UserID] => 174
+    [AccountName] => 董长庚
+    [HsAccount] => 1194
+    [Master] => 1
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308521015022
+    [BranchName] => 招商银行武汉分行武昌支行
+    [BankCard] => 9555500272203935
+    [Mobile] => 13477029958
+    [Status] => 1
+    [DataTime] => 2017-02-10 14:03:36
+)
+]
+[14:03:37][|-ibRs-|26]
+[14:03:37][|-iaParam-|Array
+(
+    [UserID] => 174
+    [TrueName] => 董长庚
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 0
+    [IdentityNumber] => 429006198002245775
+    [Status] => 1
+    [CheckTime] => 2017-02-10 14:03:36
+    [DataTime] => 2017-02-10 14:03:36
+    [EndValidDate] => 20990101
+)
+]
+[14:03:37][|-iaRs-|1]

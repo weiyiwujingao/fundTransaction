@@ -1,0 +1,1981 @@
+[09:30:36][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[09:30:36][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[09:31:33][|-ip-|10.100.0.18|--sign--|provincebybank]
+[09:31:33][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[09:34:11][|-ip-|192.168.10.89|--sign--|applypurchase]
+[09:34:11][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[09:37:27][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[09:37:27][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[09:37:29][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[09:37:29][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[09:37:34][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[09:37:34][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[09:38:47][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[09:38:47][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:39:30][|-ip-|192.168.15.235|--sign--|applypurchase]
+[09:39:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[09:43:25][|-ip-|192.168.10.89|--sign--|applypurchase]
+[09:43:25][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[09:52:29][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[09:52:29][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:52:38][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[09:52:38][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:52:40][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[09:52:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:52:45][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[09:52:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:52:48][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[09:52:48][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:53:05][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[09:53:05][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:53:14][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[09:53:14][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:53:20][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[09:53:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:56:59][|-ip-|192.168.10.39|--sign--|applypurchase]
+[09:56:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[09:58:51][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[09:58:51][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:58:59][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[09:58:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[09:59:02][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[09:59:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[09:59:03][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[09:59:03][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:59:05][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[09:59:05][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[09:59:20][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[09:59:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:00:56][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[10:00:56][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[10:01:40][|-ip-|192.168.10.39|--sign--|applypurchase]
+[10:01:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[10:05:20][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[10:05:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:05:22][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[10:05:22][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:05:22][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[10:05:22][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:05:23][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[10:05:23][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:05:23][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[10:05:23][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:07:32][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[10:07:32][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:10:31][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[10:10:31][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:20:10][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[10:20:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[10:20:12][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[10:20:12][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[10:20:46][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[10:20:46][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[10:20:56][|-ip-|192.168.15.235|--sign--|ajaxtradenew]
+[10:20:56][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtradenew]
+[10:27:43][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[10:27:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[10:28:20][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[10:28:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:28:52][|-ip-|192.168.15.235|--sign--|applypurchase]
+[10:28:52][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[10:29:13][|-ip-|192.168.15.235|--sign--|applypurchase]
+[10:29:13][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[10:30:01][|-ip-|192.168.15.235|--sign--|applypurchase]
+[10:30:01][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[10:30:55][|-ip-|192.168.15.235|--sign--|applypurchase]
+[10:30:55][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[10:32:47][|-ip-|192.168.15.235|--sign--|applypurchase]
+[10:32:47][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[10:33:25][|-ip-|192.168.15.235|--sign--|setmaster]
+[10:33:25][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|setmaster]
+[10:33:50][|-ip-|192.168.15.235|--sign--|unbindbank]
+[10:33:50][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|unbindbank]
+[10:34:45][|-ip-|192.168.15.235|--sign--|setmaster]
+[10:34:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|setmaster]
+[10:34:53][|-ip-|192.168.15.235|--sign--|unbindbank]
+[10:34:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|unbindbank]
+[10:54:19][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[10:54:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:55:47][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[10:55:47][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:56:56][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[10:56:56][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[10:56:58][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[10:56:58][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:12:23][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[11:12:23][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:12:31][|-ip-|192.168.15.235|--sign--|applypurchase]
+[11:12:31][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[11:12:40][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[11:12:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:23:51][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[11:23:51][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:23:56][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[11:23:56][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:23:58][|-ip-|10.100.0.18|--sign--|trade_apply_search]
+[11:23:58][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:35:30][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:35:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:39:00][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:39:00][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:39:23][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:39:23][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:40:07][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:40:07][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:40:13][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:40:13][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:54:10][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:54:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:54:19][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:54:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:54:20][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:54:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:56:09][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[11:56:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[11:56:35][|-ip-|192.168.15.235|--sign--|trade_apply_search]
+[11:56:35][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[13:40:42][|-ip-|192.168.15.235|--sign--|provincebybank]
+[13:40:42][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[13:40:53][|-ip-|192.168.15.235|--sign--|citybyprovincebank]
+[13:40:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[13:40:55][|-ip-|192.168.15.235|--sign--|bandbyprovincebankcity]
+[13:40:55][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[13:42:57][|-ip-|192.168.15.235|--sign--|addbindcard]
+[13:42:57][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[13:43:11][|-ip-|192.168.15.235|--sign--|addbindcard]
+[13:43:11][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[13:43:20][|-ip-|192.168.15.235|--sign--|addbindcard]
+[13:43:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[13:43:43][|-ip-|192.168.15.235|--sign--|addbindcard]
+[13:43:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[13:43:56][|-ip-|192.168.15.235|--sign--|addbindcard]
+[13:43:56][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|addbindcard]
+[13:50:08][|-ip-|192.168.10.39|--sign--|setmaster]
+[13:50:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|setmaster]
+[13:50:08][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[13:50:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[13:50:10][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[13:50:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[13:51:48][|-ip-|192.168.10.89|--sign--|dividendmethod]
+[13:51:48][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|dividendmethod]
+[13:51:50][|-ip-|192.168.10.89|--sign--|dividendmethod]
+[13:51:50][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|dividendmethod]
+[14:07:40][|-ip-|192.168.15.235|--sign--|personal]
+[14:07:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|personal]
+[14:16:22][|-ip-|192.168.10.89|--sign--|sellfund]
+[14:16:22][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[14:16:39][|-ip-|192.168.10.89|--sign--|sellfund]
+[14:16:39][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[14:20:12][|-ip-|192.168.10.89|--sign--|sellfund]
+[14:20:12][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[14:20:38][|-ip-|192.168.10.89|--sign--|sellfund]
+[14:20:38][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[14:21:10][|-ip-|192.168.10.89|--sign--|sellfund]
+[14:21:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[14:21:30][|-ip-|10.100.0.18|--sign--|setmaster]
+[14:21:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|setmaster]
+[14:21:31][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:21:31][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:23:09][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:23:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:24:03][|-ip-|192.168.10.89|--sign--|applypurchase]
+[14:24:03][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[14:29:47][|-ip-|192.168.10.89|--sign--|applypurchase]
+[14:29:47][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[14:31:10][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:31:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:31:12][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[14:31:12][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[14:31:20][|-ip-|192.168.10.89|--sign--|sellfund]
+[14:31:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[14:33:24][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:33:24][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:33:26][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[14:33:26][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[14:34:39][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:34:39][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:34:41][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:34:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:34:42][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:34:42][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:34:43][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:34:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:34:43][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:34:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:34:59][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:34:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:35:53][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[14:35:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[14:36:01][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:36:01][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:37:10][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:37:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:38:19][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:38:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:38:27][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:38:27][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:38:30][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:38:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:38:31][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:38:31][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:39:39][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:39:39][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:43:25][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[14:43:25][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:44:43][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:44:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:47:09][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[14:47:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[14:48:19][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:48:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:51:40][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:51:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:52:09][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:52:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:52:54][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:52:54][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:55:12][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:55:12][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:57:16][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:57:16][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[14:58:49][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[14:58:49][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[15:01:54][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:01:54][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:01:57][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:01:57][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:03:03][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[15:03:03][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[15:03:05][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:03:05][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:04:11][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:04:11][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:04:35][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[15:04:35][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[15:04:47][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[15:04:47][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[15:06:41][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:06:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:09:16][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[15:09:16][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[15:09:18][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:09:18][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:09:55][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:09:55][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:09:58][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:09:58][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:09:59][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:09:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:10:01][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[15:10:01][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[15:12:36][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:12:36][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:12:41][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:12:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:12:57][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:12:57][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:12:59][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:12:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:13:02][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:13:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:13:04][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:13:04][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:13:50][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:13:50][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:14:00][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:14:00][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:15:08][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:15:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:16:13][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:16:13][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:16:27][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:16:27][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:18:45][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:18:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:18:48][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:18:48][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:26:06][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:26:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:26:14][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:26:14][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:26:29][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:26:29][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:26:42][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:26:42][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:26:44][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:26:44][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:28:34][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:28:34][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:28:41][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:28:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:28:46][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:28:46][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:28:53][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:28:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:28:55][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:28:55][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:28:58][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:28:58][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:29:02][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[15:29:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:39:06][|-ip-|192.168.10.89|--sign--|sellfund]
+[15:39:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[15:41:38][|-ip-|192.168.10.89|--sign--|sellfund]
+[15:41:38][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[15:41:40][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[15:41:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[15:41:43][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:41:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:42:19][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[15:42:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[15:43:27][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:43:27][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:43:28][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:43:28][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:44:45][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:44:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:46:54][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[15:46:54][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[15:48:04][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[15:48:04][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[15:49:42][|-ip-|10.100.0.18|--sign--|provincebybank]
+[15:49:42][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[15:53:43][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[15:53:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[15:53:46][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:53:46][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:54:08][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[15:54:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[15:58:57][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[15:58:57][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[15:59:23][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[15:59:23][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[16:06:00][|-ip-|192.168.10.39|--sign--|ajaxtrade]
+[16:06:00][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[16:07:58][|-ip-|192.168.10.39|--sign--|dividendmethod]
+[16:07:58][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|dividendmethod]
+[16:08:15][|-ip-|192.168.10.39|--sign--|dividendmethod]
+[16:08:15][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|dividendmethod]
+[16:08:32][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[16:08:32][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[16:10:34][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[16:10:34][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[16:10:35][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:10:35][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:10:36][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:10:36][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:11:06][|-ip-|192.168.15.235|--sign--|ajaxgetcode]
+[16:11:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[16:11:09][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[16:11:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[16:11:24][|-ip-|192.168.15.235|--sign--|getmobilecode]
+[16:11:24][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|getmobilecode]
+[16:12:12][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[16:12:12][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[16:12:17][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:12:17][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:13:08][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[16:13:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[16:13:08][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:13:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:13:11][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:13:11][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:13:29][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[16:13:29][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[16:13:29][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:13:29][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:14:43][|-ip-|192.168.15.235|--sign--|ajaxgetcode]
+[16:14:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[16:14:49][|-ip-|192.168.15.235|--sign--|getmobilecode]
+[16:14:49][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|getmobilecode]
+[16:15:44][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:15:44][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:15:47][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:15:47][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:15:56][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:15:56][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:16:30][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[16:16:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[16:16:30][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:16:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:16:50][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:16:50][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:16:59][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:16:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:17:07][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:17:07][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:17:58][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[16:17:58][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[16:18:48][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[16:18:48][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[16:20:23][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[16:20:23][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[16:20:24][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:20:24][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:20:59][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[16:20:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[16:33:18][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:33:18][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:33:44][|-ip-|192.168.10.115|--sign--|personal]
+[16:33:44][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|personal]
+[16:33:53][|-ip-|192.168.10.115|--sign--|personal]
+[16:33:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|personal]
+[16:34:04][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:34:04][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:34:06][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:34:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:34:07][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[16:34:07][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[16:35:05][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:35:05][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:37:18][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[16:37:18][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[16:37:18][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:37:18][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:37:21][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:37:21][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:37:21][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:37:21][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:37:21][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:37:21][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:39:19][|-ip-|192.168.10.115|--sign--|personal]
+[16:39:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|personal]
+[16:39:28][|-ip-|192.168.10.115|--sign--|personal]
+[16:39:28][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|personal]
+[16:39:37][|-ip-|192.168.10.115|--sign--|personal]
+[16:39:37][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|personal]
+[16:41:45][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[16:41:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[16:43:06][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[16:43:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[16:45:02][|-ip-|192.168.10.39|--sign--|sellfund]
+[16:45:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|sellfund]
+[16:54:36][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:54:36][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:54:42][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:54:42][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:08][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:11][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:11][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:14][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:14][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:15][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:15][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:17][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:17][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:19][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:21][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:21][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:23][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:23][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:24][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:24][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:26][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:26][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:27][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[16:55:27][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:55:56][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:55:56][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:56:04][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:56:04][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:56:26][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:56:26][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:56:30][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:56:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:56:37][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:56:37][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:58:09][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:58:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:58:12][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:58:12][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:58:17][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:58:17][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[16:58:24][|-ip-|192.168.10.89|--sign--|trade_apply_search]
+[16:58:24][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:00:42][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:00:42][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:00:43][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:00:43][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:01:14][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:01:14][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:01:24][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[17:01:24][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[17:01:24][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:01:24][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:01:31][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:01:31][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:01:33][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:01:33][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:01:44][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:01:44][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:01:57][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:01:57][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:02:09][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:02:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:02:10][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:02:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:02:10][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:02:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:02:11][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[17:02:11][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[17:05:38][|-ip-|192.168.10.39|--sign--|ajaxgetcode]
+[17:05:38][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[17:05:50][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:05:50][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:06:10][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:06:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:13:01][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:13:01][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:17:54][|-ip-|192.168.15.235|--sign--|ajaxtrademobile]
+[17:17:54][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrademobile]
+[17:21:47][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:21:47][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:22:05][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:22:05][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:22:09][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:22:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:22:55][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:22:55][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:23:27][|-ip-|192.168.15.235|--sign--|ajaxtrade]
+[17:23:27][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxtrade]
+[17:23:27][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:23:27][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:27:20][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:27:20][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:27:32][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:27:32][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:27:33][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:27:33][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:27:34][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:27:34][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:27:35][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:27:35][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:27:38][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:27:38][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:27:39][|-ip-|192.168.15.235|--sign--|gettrademobilecode]
+[17:27:39][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|gettrademobilecode]
+[17:32:03][|-ip-|192.168.10.39|--sign--|applypurchase]
+[17:32:03][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[17:32:22][|-ip-|192.168.10.39|--sign--|applypurchase]
+[17:32:22][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]
+[17:33:52][|-ip-|192.168.10.39|--sign--|trade_apply_search]
+[17:33:52][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|trade_apply_search]
+[17:39:23][|-ip-|192.168.10.89|--sign--|applypurchase]
+[17:39:23][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|applypurchase]

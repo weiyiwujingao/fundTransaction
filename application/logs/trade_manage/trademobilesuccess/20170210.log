@@ -1,0 +1,63 @@
+[09:28:53][|-$userInfo-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-10 09:24:48
+    [ActiveTime] => 2017-02-10 09:24:48
+    [KeyStr] => a15db6a892494d1d286ee0abb1116b93
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[09:31:22][|-$userInfo-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-10 09:24:48
+    [ActiveTime] => 2017-02-10 09:24:48
+    [KeyStr] => a15db6a892494d1d286ee0abb1116b93
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[11:05:23][|-$userInfo-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-10 09:24:48
+    [ActiveTime] => 2017-02-10 09:24:48
+    [KeyStr] => a15db6a892494d1d286ee0abb1116b93
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]

@@ -1,0 +1,30 @@
+[14:07:40][|-dParam-|Array
+(
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 178
+)
+]
+[16:33:44][|-dParam-|Array
+(
+    [SendMethod] => a:2:{i:0;i:1;i:1;i:2;}
+    [UserID] => 167
+)
+]
+[16:33:53][|-dParam-|Array
+(
+    [SendMethod] => a:2:{i:0;i:1;i:1;i:2;}
+    [UserID] => 167
+)
+]
+[16:39:28][|-dParam-|Array
+(
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 167
+)
+]
+[16:39:38][|-dParam-|Array
+(
+    [SendMethod] => a:1:{i:0;i:2;}
+    [UserID] => 167
+)
+]

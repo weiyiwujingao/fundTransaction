@@ -1,0 +1,40 @@
+2017-02-05 00:13:15|-param-|Array
+(
+    [UserID] => 169
+    [LoginType] => 1
+    [LoginIP] => 192.168.17.222
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 64345
+)
+|-ir-|343
+2017-02-05 00:13:27|-param-|Array
+(
+    [UserID] => 169
+    [LoginType] => 1
+    [LoginIP] => 192.168.17.222
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 64355
+)
+|-ir-|344
+2017-02-05 00:14:00|-param-|Array
+(
+    [UserID] => 169
+    [LoginType] => 1
+    [LoginIP] => 192.168.17.222
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 64401
+)
+|-ir-|345
+2017-02-05 00:14:10|-param-|Array
+(
+    [UserID] => 169
+    [LoginType] => 1
+    [LoginIP] => 192.168.17.222
+    [LoginPage] => 2
+    [LoginAddr] => 0
+    [LoginPort] => 64409
+)
+|-ir-|346

@@ -1,0 +1,471 @@
+[14:36:59][|-Param-|Array
+(
+    [UserID] => 209
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103100022069
+    [BranchName] => 中国农业银行股份有限公司北京东四环华腾分理处
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18671517368
+    [NickName] => 奖励
+    [IdentityNumber] => 421281199303030145
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:36:59
+)
+]
+[14:36:59][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 奖励
+    [client_name] => 奖励
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [password] => 5dcc73f8fd666d3a9d2d0ce70d36e3ff
+    [mobile_tel] => 18671517368
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 奖励
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103100022069
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[14:36:59][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170208000004
+                    [apply_date] => 20170208
+                    [success_type] => 0
+                    [trade_acco] => 1179
+                    [error_code] => 
+                    [client_id] => 10228
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[14:36:59][|-ibParam-|Array
+(
+    [UserID] => 209
+    [AccountName] => 奖励
+    [HsAccount] => 1179
+    [Master] => 1
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103100022069
+    [BranchName] => 中国农业银行股份有限公司北京东四环华腾分理处
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18671517368
+    [Status] => 1
+    [DataTime] => 2017-02-08 14:36:57
+)
+]
+[14:36:59][|-ibRs-|16]
+[14:36:59][|-iaParam-|Array
+(
+    [UserID] => 209
+    [TrueName] => 奖励
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 0
+    [IdentityNumber] => 421281199303030145
+    [Status] => 1
+    [CheckTime] => 2017-02-08 14:36:57
+    [DataTime] => 2017-02-08 14:36:57
+    [EndValidDate] => 20990101
+)
+]
+[14:36:59][|-iaRs-|0]
+[14:37:46][|-Param-|Array
+(
+    [UserID] => 209
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103100022069
+    [BranchName] => 中国农业银行股份有限公司北京东四环华腾分理处
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18671517368
+    [NickName] => 江讲
+    [IdentityNumber] => 421281199303030145
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:37:46
+)
+]
+[14:37:46][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 江讲
+    [client_name] => 江讲
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [password] => 5dcc73f8fd666d3a9d2d0ce70d36e3ff
+    [mobile_tel] => 18671517368
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 江讲
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103100022069
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[14:37:46][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[14:42:44][|-Param-|Array
+(
+    [UserID] => 181
+    [Province] => 山西省
+    [City] => 平定县
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105165100029
+    [BranchName] => 中国建设银行股份有限公司阳泉城东分理处
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 阿纳啊
+    [IdentityNumber] => 421281199303030145
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:42:44
+)
+]
+[14:42:44][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 阿纳啊
+    [client_name] => 阿纳啊
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+    [mobile_tel] => 13599951535
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 阿纳啊
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 105165100029
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[14:42:45][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[14:43:23][|-Param-|Array
+(
+    [UserID] => 181
+    [Province] => 山西省
+    [City] => 平定县
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105165100029
+    [BranchName] => 中国建设银行股份有限公司阳泉城东分理处
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 阿纳啊
+    [IdentityNumber] => 421281199912030145
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:43:23
+)
+]
+[14:43:23][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 阿纳啊
+    [client_name] => 阿纳啊
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199912030145
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+    [mobile_tel] => 13599951535
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 阿纳啊
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 105165100029
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[14:43:23][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 1111
+                    [client_id] => 
+                    [error_info] => 投资人未满18周岁不允许交易
+                )
+
+        )
+
+)
+]
+[14:47:00][|-Param-|Array
+(
+    [UserID] => 181
+    [Province] => 山西省
+    [City] => 太原市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105161002001
+    [BranchName] => 中国建设银行太原市迎泽支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 阿纳啊
+    [IdentityNumber] => 421281197910020365
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:47:00
+)
+]
+[14:47:00][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 阿纳啊
+    [client_name] => 阿纳啊
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281197910020365
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+    [mobile_tel] => 13599951535
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 阿纳啊
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 105161002001
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[14:47:01][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170208000006
+                    [apply_date] => 20170208
+                    [success_type] => 0
+                    [trade_acco] => 1181
+                    [error_code] => 
+                    [client_id] => 10248
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[14:47:01][|-uuRs-|1]
+[14:47:01][|-ibParam-|Array
+(
+    [UserID] => 181
+    [AccountName] => 阿纳啊
+    [HsAccount] => 1181
+    [Master] => 1
+    [Province] => 山西省
+    [City] => 太原市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105161002001
+    [BranchName] => 中国建设银行太原市迎泽支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [Status] => 1
+    [DataTime] => 2017-02-08 14:47:00
+)
+]
+[14:47:01][|-ibRs-|17]
+[14:47:01][|-iaParam-|Array
+(
+    [UserID] => 181
+    [TrueName] => 阿纳啊
+    [Country] => 156
+    [IdentType] => 0
+    [Sex] => 1
+    [IdentityNumber] => 421281197910020365
+    [Status] => 1
+    [CheckTime] => 2017-02-08 14:47:00
+    [DataTime] => 2017-02-08 14:47:00
+    [EndValidDate] => 20990101
+)
+]
+[14:47:01][|-iaRs-|0]
+[15:30:48][|-Param-|Array
+(
+    [UserID] => 216
+    [Province] => 山西省
+    [City] => 太原市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105161003012
+    [BranchName] => 中国建设银行太原市河西支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 文阿奎
+    [IdentityNumber] => 423125199911119969
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 15:30:48
+)
+]
+[15:30:48][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 文阿奎
+    [client_name] => 文阿奎
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 423125199911119969
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+    [mobile_tel] => 13599951535
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 文阿奎
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 105161003012
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[15:30:48][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 1111
+                    [client_id] => 
+                    [error_info] => 投资人未满18周岁不允许交易
+                )
+
+        )
+
+)
+]

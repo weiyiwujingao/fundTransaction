@@ -1,0 +1,22 @@
+2017-01-10 10:08:29 |-info-| Array
+(
+    [mobile] => 18065043496
+    [type] => 9
+    [content] => 验证码270008，您正在登录伯嘉基金网，若非本人操作，请勿泄露。
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-01-10 10:08:29|-postParam-|Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E9%AA%8C%E8%AF%81%E7%A0%81270008%EF%BC%8C%E6%82%A8%E6%AD%A3%E5%9C%A8%E7%99%BB%E5%BD%95%E4%BC%AF%E5%98%89%E5%9F%BA%E9%87%91%E7%BD%91%EF%BC%8C%E8%8B%A5%E9%9D%9E%E6%9C%AC%E4%BA%BA%E6%93%8D%E4%BD%9C%EF%BC%8C%E8%AF%B7%E5%8B%BF%E6%B3%84%E9%9C%B2%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 18065043496
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+|-smsRs-|0

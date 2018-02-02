@@ -1,0 +1,186 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf print">
+    	<h3 class="Title Tc"><?php echo $data['name']; ?> <?php echo $data['year'],'年',$data['month'],'月'; ?>对账单</h3>
+        <div class="TitleLi">
+        	<div class="Fr Mt10">
+                <span>货币单位：人民币（元）</span>
+                <span>份额单位：份</span>
+                <a href="javascript:;" onclick="printBill()" target="_blank" class="printData">打印</a>
+            </div>
+            <b>对账单查询:</b>
+            <span class="FormSlt w60">
+                <select name="year">
+                    <?php $Y = date('Y'); for($i = $Y; $i >= 2014; $i--) : ?>
+                    <option value="<?php echo $i; ?>" <?php if($data['year'] == $i) echo 'selected'; ?>><?php echo $i; ?>年</option>
+                    <?php endfor; ?>
+                </select>
+            </span>
+            <span class="FormSlt w60">
+                <select name="month">
+                    <?php for($i = 1; $i < 13; $i++) : ?>
+                    <option value="<?php echo $i; ?>" <?php if($data['month'] == $i) echo 'selected'; ?>><?php echo $i; ?>月</option>
+                    <?php endfor; ?>
+                </select>
+            </span>
+            <a href="javascript:;" class="txtGbtn">查询</a>
+        </div>
+        <h3 class="Title2 Mt15">历史持仓明细（<?php echo '截止至', date('Y-m-d'); ?>）</h3>
+        <table class="QTable" cellpadding="0" cellspacing="0">
+        	<thead>
+            	<tr>
+                	<th>基金代码</th>
+                    <th>基金名称</th>
+                    <th>基金类型</th>
+                    <th>单位净值</th>
+                    <th>持有份额</th>
+                    <th>参考市值</th>
+                    <th>关联银行卡</th>
+                </tr>
+            </thead>
+            <tbody>
+            <?php if(!empty($data['data1'])) : ?>
+            <?php foreach($data['data1'] as $row) : ?>
+            	<tr>
+                	<td><?php echo $row['fund_code']; ?></td>
+                    <td><a href="<?php echo WEB_URL . '/fund/' . $row['fund_code']; ?>" class="blue" target="_blank" title="<?php echo $row['fund_name']; ?>"><?php echo mb_strlen($row['fund_name']) > 8 ? mb_substr($row['fund_name'], 0, 8) . '...' : $row['fund_name']; ?></a></td>
+                    <td><?php echo $row['fund_type']; ?></td>
+                    <td><?php echo $row['net_value']; ?></td>
+                    <td><?php echo $row['total_share']; ?></td>
+                    <td><?php echo $row['worth_value']; ?></td>
+                    <td><?php echo $row['bank_info']; ?></td>
+                </tr>
+            <?php endforeach; ?>
+            <?php else : ?>
+            <tr>
+                <td colspan="7">暂无数据</td>
+            </tr>
+            <?php endif; ?>
+            </tbody>
+        </table>
+        <h3 class="Title2 Mt15">历史交易明细（<?php echo $data['date_range']; ?>）</h3>
+        <table class="QTable" cellpadding="0" cellspacing="0">
+        	<thead>
+            	<tr>
+                	<th>确认日期</th>
+                    <th>基金代码</th>
+                    <th>基金名称</th>
+                    <th>业务类型</th>
+                    <th>确认状态</th>
+                    <th>确认份额</th>
+                    <th>确认金额</th>
+                    <th>手续费</th>
+                    <th>确认净值</th>
+                    <th>关联银行卡</th>
+                </tr>
+            </thead>
+            <tbody>
+            <?php if(!empty($data['data2'])) : ?>
+            <?php foreach($data['data2'] as $row) : ?>
+                <tr>
+                    <td><?php echo $row['affirm_date']; ?></td>
+                    <td><?php echo $row['fund_code']; ?></td>
+                    <td><?php echo $row['fund_name']; ?></td>
+                    <td><?php echo $row['busin_type']; ?></td>
+                    <td><?php echo $row['confirm_state']; ?></td>
+                    <td><?php echo $row['confirm_share']; ?></td>
+                    <td><?php echo $row['confirm_balance']; ?></td>
+                    <td><?php echo $row['fare_sx']; ?></td>
+                    <td><?php echo $row['net_value']; ?></td>
+                    <td><?php echo $row['bank_info']; ?></td>
+                </tr>
+            <?php endforeach; ?>
+            <?php else : ?>
+                <tr>
+                    <td colspan="10">暂无数据</td>
+                </tr>
+            <?php endif; ?>
+            </tbody>
+        </table>
+        <h3 class="Title2 Mt15">历史分红明细（<?php echo $data['date_range']; ?>）</h3>
+        <table class="QTable" cellpadding="0" cellspacing="0">
+        	<thead>
+            	<tr>
+                	<th>确认日期</th>
+                    <th>基金代码</th>
+                    <th>基金名称</th>
+                    <th>分红方式</th>
+                    <th>分红金额</th>
+                    <th>红利再投份额</th>
+                    <th>确认净值</th>
+                </tr>
+            </thead>
+            <tbody>
+            <?php if(!empty($data['data3'])) : ?>
+            <?php foreach($data['data3'] as $row) : ?>
+                <tr>
+                    <td><?php echo $row['affirm_date']; ?></td>
+                    <td><?php echo $row['fund_code']; ?></td>
+                    <td><?php echo $row['fund_name']; ?></td>
+                    <td><?php echo $row['auto_buy']; ?></td>
+                    <td><?php echo $row['dividend_bala']; ?></td>
+                    <td><?php echo $row['dividend_share']; ?></td>
+                    <td><?php echo $row['net_value']; ?></td>
+                </tr>
+            <?php endforeach; ?>
+            <?php else : ?>
+            <tr>
+                <td colspan="10">暂无数据</td>
+            </tr>
+            <?php endif; ?>
+            </tbody>
+        </table>
+        <p class="tipDes Mt30">友情提示：本对账单仅供参考，不构成资产证明。参考市值展示的结果根据净值和份额计算，具体份额变动及分红情况以注册登记机构登记为准。</p>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612141605"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.FormSlt').uSelect();/*select美化*/
+
+        $('.txtGbtn').on('click', function () {
+            window.location.href='/transaction/bill.html?year='+$('select[name="year"]').val()+'&month='+$('select[name="month"]').val()
+        });
+
+        function printBill() {
+            var header = "<html><head><title>账单打印 - 伯嘉基金网</title>",
+                body = "</head><body>",
+                footer = "</body></html>",
+                css = $('link'),
+                root = $('html'),
+                new_html = '';
+            css.each(function (i) {
+                header += css[i].outerHTML;
+            });
+            $('.TitleLi').find('a').remove();
+            $('.TitleLi').find('b').remove();
+            $('.TitleLi').find('.FormSlt').remove();
+            new_html = header+body+$('.print').prop('outerHTML')+footer;
+            root.html(new_html);
+            setTimeout(function () {
+                window.print();
+            },50);
+            setTimeout(function () {
+                location.reload();
+            },100);
+            return false;
+        }
+    </script>

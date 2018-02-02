@@ -1,0 +1,134 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">交易密码找回</h3>
+            <div class="qstepBar fourStep Mt10">
+                <a href="javascript:;">银行卡信息验证</a>
+                <a href="javascript:;" class="Cur">手机验证</a>
+                <a href="javascript:;">设置新密码</a>
+                <a href="javascript:;">重置成功</a>
+            </div>
+            <form class="Mt20 Pl60">
+                <div class="formP">
+                	<b class="bankPre"><i>*</i>手机号码：</b><span id="mobile"><?= isset($mobile)?mobileReplace($mobile):'网络异常请勿操作！';?></span>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>短信验证码：</b>
+                    <span><input type="text" id="dcode" value="" class="w160"/></span>
+                    <a href="javascript:;" id="scBtn" onClick="codeClk();" class="codeBtn">获取短信验证</a>
+                    <em></em>
+                </div>
+                <div class="btnPre w340 Tc Mt30">
+                    <a href="javascript:;" onClick="subForm(this);" class="halfBtn">确认</a>
+                </div>
+                <input type="hidden" id="ctid">
+                <input type="hidden" id="mkid" value="<?= isset($mkid)?$mkid:'';?>">
+            </form>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+        <h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+            <p class="red">您已经输错3次密码，还有2次登录机会！</p>
+            <p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js?v=201612121358"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+        codeClk();
+		
+		var T = 180,Time;//T倒计时实际，Time倒计时计时器
+		function codeClk(){//倒计时按钮点击事件
+            if($('#mobile').val()=='网络异常请勿操作！'){
+                $('#msgBox').showWin('网络异常，请勿操作！');
+                return;
+            }
+            if($('#scBtn').hasClass('disClick')){
+                $('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                return false;
+            }
+            $('#scBtn').addClass('disClick');
+
+            $.ajax({
+                url:"<?= $ajaxUrl;?>/getTradeMobileCode",
+                cache:false,
+                dataType:'json',
+                type:'post',
+                data:{'tid':"<?= isset($tid)?$tid:'';?>",'stid':"<?= isset($tid)?$stid:'';?>",
+                    'mobile':"<?= isset($mobile)?$mobile:'';?>",'uid':"<?= isset($uid)?$uid:'';?>",
+                    'mkid':$('#mkid').val(),'fd':"<?= isset($fd)?$fd:'';?>"},
+                success:function(data){
+                    if(data['flag']=='10000'){
+                        $('#ctid').val(data['info']['ctid']);
+                        $('#mkid').val(data['info']['mkid']);
+                        countDown(180, '#scBtn');//传递参数是为清空暂停计时器起参数为下一次计时器时长例如60s，不传参数为启动计时器开始倒计时
+                        $('#scBtn').removeClass('disClick');
+                    }else{
+                        $('#msgBox').showWin("<p>"+data['msg']+"</p>");
+                    }
+                },
+                error:function(){
+                    $('#msgBox').showWin("<p>数据传输失败，请联系技术人员！</p>");
+                }
+            });
+
+		}
+		function nullTxt(obj,name){//空校验 仅供参考
+			if($(obj).val() == ''){
+				$(obj).showTip('Error',name+'不能为空');
+			}else{
+				$(obj).showTip('Right');
+			}
+		}
+		function subForm(){//提交表单按钮点击事件
+			var flag = true;
+			var $dcode=$('#dcode').val();//验证码
+			var $ctid=$('#ctid').val();//验证码
+			var $mkid=$('#mkid').val();//验证码
+
+			if($dcode==''){
+				flag = false;
+                nullTxt('#dcode','验证码');
+			}
+			if(flag){
+				$.ajax({
+				    url:"<?= $ajaxUrl;?>/ajaxTrademobile",
+                    type:"post",
+                    dataType:"json",
+                    data:{'tid':"<?= isset($tid)?$tid:'';?>",'stid':"<?= isset($stid)?$stid:'';?>",
+                        'mobile':"<?= isset($mobile)?$mobile:'';?>",'uid':"<?= isset($uid)?$uid:'';?>",
+                        'dcode':$dcode,'ctid':$ctid,'mkid':$mkid,},
+                    success:function(data){
+                        if(data['flag']=='10000'){
+                            window.location.href=data['url'];
+                        }else{
+                            $('#msgBox').showWin("<p class='Tc'>"+data['msg']+"</p>");
+                        }
+                    },
+                    error:function(){
+                        $('#msgBox').showWin("<p class='Tc'>数据传输失败，请联系技术人员！</p>");
+                    }
+                });
+			}else{
+                $('#msgBox').showWin('请依据提示修改！');
+            }
+		}
+		
+    </script>
+</body>
+</html>

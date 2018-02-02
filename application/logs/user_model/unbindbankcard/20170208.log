@@ -1,0 +1,22 @@
+[16:17:25][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1177
+)
+]
+[16:17:25][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2034
+                    [error_info] => 有在途交易，不能销户
+                )
+
+        )
+
+)
+]

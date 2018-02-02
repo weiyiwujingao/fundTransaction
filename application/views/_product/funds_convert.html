@@ -1,0 +1,62 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">基金转换</h3>
+            <div class="Title1">根据基金合同约定提供的基本功能，目前仅支持同一公司旗下部分产品之间转换。</div>
+            <h3 class="Title2 Mt10">当前持有的开放基金份额</h3>
+            <table cellpadding="0" cellspacing="0" class="QTable">
+            	<thead>
+                	<tr>
+                        <th>基金代码</th>
+                        <th class="w120">基金名称</th>
+                        <th>支付账户</th>
+                        <th>单位净值</th>
+                        <th>净值日期</th>
+                        <th>持有份额</th>
+                        <th>可用份额</th>
+                        <th>市值</th>
+                        <th class="w60">操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <?php if ($data) : ?>
+                <?php foreach($data as $item) : ?>
+                	<tr>
+                    	<td><?php echo $item['fund_code']; ?></td>
+                        <td><a href="<?php echo WEB_URL . '/fund/' . $item['fund_code']; ?>" target="_blank" class="blue" title="<?php echo $item['fund_name']; ?>"><?php echo mb_strlen($item['fund_name']) > 5 ? mb_substr($item['fund_name'], 0, 5) . '...' : $item['fund_name']; ?></a></td>
+                        <td><?php echo $item['bank_name'] . '|' . $item['bank_account']; ?></td>
+                        <td><?php echo $item['net_value']; ?></td>
+                        <td><?php echo $item['nav_date']; ?></td>
+                        <td><?php echo $item['current_share']; ?></td>
+                        <td><?php echo $item['enable_shares']; ?></td>
+                        <td><?php echo $item['worth_value']; ?></td>
+                        <td><a href="<?php echo base_url(); ?>product/convert_step/<?php echo $item['fund_code']; ?>.html?bank=<?php echo $item['bank_no'];?>" class="thBtn">转出</a></td>
+                    </tr>
+                <?php endforeach; ?>
+                <?php else : ?>
+                <tr><td colspan="9">您没有持有任何开放式基金</td></tr>
+                <?php endif; ?>
+                </tbody>
+            </table>
+            <div class="Explain Mt10">
+            	<h3>说明：</h3>
+                <p>1、我们将 24 小时受理您的交易申请。您交易日的交易申请至 15：00 截止， 15：00 以后的交易申请或非交易日的交易申请视为于下一个交易日提交。您最终申请提交时间以我司注册登记中心接收时间为准。</p>
+				<p>2、由于客户端系统时间与服务器时间可能有误差，请尽量避免在交易截止时间前后进行交易，交易提交时间以本系统服务器时间为准。如因网络原因或网银系统故障，导致划款成功指令未传递到本系统的，我们会在交易日结束后通过银行对账，确认交易成功，15：00前的交易申请将视为当日的申请。</p>
+				<p>3、基金的申购、赎回交易均遵循“未知价”交易原则，即您申购、赎回基金时都按提交业务申请当天的净值计算，而每天的净值是在交易结束后计算出来的，也就是说您在提交交易申请时不知道交易的价格。因此您所看到的基金净值，为该基金上一交易日的基金净值，而非基金申购成交时的基金净值。</p>
+				<p>4、转换费 = 转出基金赎回费 + 转入转出基金原申购费率补差费（目前我司平台转换费暂不打折，费率优惠以具体公告为准）</p>
+            </div>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161206144977"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+    </script>

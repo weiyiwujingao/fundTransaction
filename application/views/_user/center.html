@@ -1,0 +1,169 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+    	<div class="userBlock">
+        	<a href="javascript:;" onClick="$('#userIcon').showWin();" class="userIcon">
+            	<img src="<?php echo getUserHead($userID);?>" title="" />
+                <i></i>
+            </a>
+            <h3 class="userName">
+            	<span><?php echo (isset($userInfo['NickName']) && $userInfo['NickName']) ? $userInfo['NickName'] : $userInfo['UserName']; ?></span>
+                <a href="<?php echo TRADE_LOGOUT_URL;?>">安全退出</a>
+            </h3>
+            <ul class="userLi">
+            	<li>上次登录时间：<?php echo $userInfo['LastLoginTime'];?></li>
+                <li>预留信息：<?php echo (isset($userDetail['ReservedContent']) && $userDetail['ReservedContent']) ?  $userDetail['ReservedContent'] . '<a href="javascript:;" onClick="$(\'#setYL\').showWin();">修改</a>' : '<a href="javascript:;" onClick="$(\'#setYL\').showWin();">未预留</a>'; ?></li>
+            </ul>
+            <div class="uLine"></div>
+            <ul class="userLi">
+            	<li>绑定手机：<?php echo mobileReplace($userInfo['Mobile']);?><a href="<?php if($userInfo['Mobile']) echo TRADE_MODIFYPHONE_URL;else echo TRADE_BINDPHONE_URL;?>"><?php if($userInfo['Mobile']) echo '修改';else echo '绑定';?></a></li>
+                <li>你的银行卡<span><?php echo $bankCount; ?></span>张：<?php echo ( $bankCount>0 ? '<a href="' . TRADE_BANK_LIST_URL . '">管理</a>' : '<a href="' . TRADE_ADD_BANK_URL . '">绑卡</a>')  ?></li>
+            </ul>
+            <div class="uLine"></div>
+            <ul class="userLi">
+            	<li>您的风险等级：<?php echo (isset($userDetail['RiskBear']) && $userDetail['RiskBear']) ? '<span>' . $aRisk[$userDetail['RiskBear']] . '</span><a href="' . TRADE_RISK_QUES_RESULT_URL . '">重新测评</a>' : '<span>未评测</span>'; ?></li>
+                <li>个人信息：<a href="<?php echo TRADE_PERSONAL_URL;?>" >完善</a><a href="<?php echo TRADE_LGPWD_URL; ?>" >修改登录密码</a></li>
+            </ul>
+        </div>
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="moneyUl"><b>资产总额：<?php if(isset($data['today_values'])) echo $data['today_values'].'元'; else echo '0.00元';?></b><a href="<?php echo base_url().'manage/positiondetails.html'?>">持仓明细</a><span>持仓收益：<?php if(isset($data['total']['accum_income'])) echo $data['total']['accum_income'].'元'; else echo '0.00元';?></span></h3>
+            <div class="DesUl Mt10">
+            	<b>普通基金市值</b>
+                <b><?php if(isset($data['today_values'])) echo $data['today_values'].'元'; else echo '0.00元';?></b>
+                <span>估计每日收益：<?php if(isset($data['total']['today_income'])) echo $data['total']['today_income'].'元';else echo '0.00元';?></span>
+                <a href="<?php echo base_url().'trade/fundtrade.html';?>"  class="redBlock">买基金</a>
+                <a href="<?php echo base_url().'trade/sellfund.html';?>">卖基金</a>
+                <a href="<?php echo TRADE_WEB_URL.'/product/convert.html';?>">转换</a>
+            </div>
+            <h3 class="Title6">普通基金市值明细 &gt; <a href="<?php echo base_url().'manage/positiondetails.html';?>">查看明细</a></h3>
+            <div class="RightAd Mt15">
+            <?php require_once(VIEWPATH . '/advert/advert.html');?>
+            </div>
+            <h3 class="Title3 Mt10"><a href="<?php echo WEB_URL.'/deal/hotfund';?>" class="More" target="_blank">更多&gt;&gt;</a>热销基金</h3>
+            <?php require_once(VIEWPATH . '/hotfund/hotfund.html');?>
+        </div>
+    </div>
+    
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" class="redBtn">确定</a>
+        </div>
+    </div>
+    <!--修改头像弹窗-->
+    <div class="qWin userWin" id="userIcon">
+   		<h3><span>设置头像</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<div class="uImg">
+            	<h4>当前头像</h4>
+                <div class="showImg"><img src="<?php echo getUserHead($userID);?>" title=""></div>
+                <p>图片支持png/jpg/gif格式，文件不超过2M</p>
+                <p>上传本地照片，选择一张本地图片上传为头像</p>
+            </div>
+            <div class="uImg">
+                <iframe name="ajaxifr" style="display:none;"></iframe>
+            	<h4>预览头像</h4>
+                <div class="showImg"><img src="" title=""></div>
+                <form  id="uploadImgForm" method="post" enctype="multipart/form-data" target="ajaxifr" action="<?php echo $centerUrl .'/chgHeadImg'; ?>">
+                <a href="javascript:;" class="uImgBtn"><input type="file" onChange="ImgChange(this);" id="headFile" name="headFile"/></a>
+                </form>
+            </div>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="iconSucces();" class="redBtn">确定</a>
+        </div>
+    </div>
+    <!--设置预留验证信息-->
+    <div class="qWin" id="setYL">
+   		<h3><span>设置预留验证信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<div class="formLi">
+            	<span><input type="text" id="rContent" value="<?php echo (isset($userDetail['ReservedContent']) && $userDetail['ReservedContent']) ?  $userDetail['ReservedContent']: ''; ?>" class="w340"></span>
+            </div>
+        	<p>请输入任意汉字，英文字母，长度不能超过8个</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onclick="subRc();" id="subRc" class="redBtn undo">确定</a>
+        </div>
+    </div>
+    <!--测评弹窗-->
+    <div class="qWin" id="Test">
+   		<h3><span>提示</span><i onclick="location.reload();" class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="Tc">您还没有进行风险能力测评，马上进行吧！</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="<?php echo TRADE_RISK_QUES_URL;?>" class="redBtn Mr15">立即测评</a>
+            <a href="<?php echo TRADE_WEB_URL;?>" class="cyanBtn">跳过<span>默认为保守型</span></a>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201611301508"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();
+		<?php
+		if($isRisk){
+		    echo "$('#Test').showWin();";
+		}
+		?>
+		
+		function ImgChange(obj){
+			$(obj).upFile(160,160);
+		}
+		function iconSucces(){//头像设置弹窗 确定按钮点击事件
+			//$('#msgBox').showWin('<p class="Tc">头像设置成</p>','提示');
+		    $('#uploadImgForm').submit();
+		}
+		function buyFund(){
+			$('#msgBox').showWin('<p class="Tc">您暂时不能交易，请先绑定银行卡！</p>','');
+		}
+		
+		function subRc(){
+			var rContent = $('#rContent').val();
+			
+			if(!rContent){
+				alert('预留信息不为空');
+			}
+			if($('#rContent').length>8){
+				alert('预留信息长度超过8');
+				return false;
+			}
+            if($('#subRc').hasClass('disClick')){
+            	alert('请求已提交，请耐心等待！');
+                return false;
+            }
+            
+			$('#subRc').addClass('disClick');
+            $.ajax({
+                url:  "<?php echo $ajaxUrl; ?>/modreserved",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'rcontent='+rContent,
+                success : function(minfo){
+                     $('#subRc').removeClass('disClick');
+                     alert(minfo.msg);
+                     if(minfo.flag == '10000'){
+                    	 location.reload();
+                     } else {
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    $('#subRc').removeClass('disClick');
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+		}
+    </script>
+</body>
+</html>

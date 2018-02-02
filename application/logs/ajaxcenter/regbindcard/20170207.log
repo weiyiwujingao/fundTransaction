@@ -1,0 +1,361 @@
+[15:04:37][|-param-|Array
+(
+    [serial_no] => bj201702071504377810
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 150437
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[15:04:42][|-sRs-|Array
+(
+)
+]
+[15:04:50][|-param-|Array
+(
+    [serial_no] => bj2017020715045024311
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 150450
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[15:04:55][|-sRs-|Array
+(
+)
+]
+[15:05:11][|-param-|Array
+(
+    [serial_no] => bj2017020715051156651
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 150511
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[15:05:16][|-sRs-|Array
+(
+)
+]
+[15:05:29][|-param-|Array
+(
+    [serial_no] => bj201702071505295653
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 150529
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[15:05:34][|-sRs-|Array
+(
+)
+]
+[15:05:49][|-param-|Array
+(
+    [serial_no] => bj2017020715054992287
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 150549
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[15:05:54][|-sRs-|Array
+(
+)
+]
+[15:08:57][|-param-|Array
+(
+    [serial_no] => bj2017020715085735588
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 150857
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[15:09:02][|-sRs-|Array
+(
+)
+]
+[15:25:38][|-param-|Array
+(
+    [serial_no] => bj2017020715253893150
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 152538
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[15:25:44][|-sRs-|Array
+(
+)
+]
+[15:30:15][|-param-|Array
+(
+    [serial_no] => bj2017020715301599904
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199203031425
+    [real_name] => 广告
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 153015
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203110000047
+)
+]
+[15:30:20][|-sRs-|Array
+(
+)
+]
+[15:30:27][|-param-|Array
+(
+    [serial_no] => bj2017020715302723229
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199203031425
+    [real_name] => 广告
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 153027
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203110000047
+)
+]
+[15:30:32][|-sRs-|Array
+(
+)
+]
+[15:57:10][|-param-|Array
+(
+    [serial_no] => bj201702071557104498
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199203031425
+    [real_name] => 广告
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 155710
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203110000047
+)
+]
+[15:57:15][|-sRs-|Array
+(
+)
+]
+[16:03:13][|-param-|Array
+(
+    [serial_no] => bj2017020716031378339
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199203031425
+    [real_name] => 奖励
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 160313
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022093
+)
+]
+[16:03:18][|-sRs-|Array
+(
+)
+]
+[16:08:54][|-param-|Array
+(
+    [serial_no] => bj2017020716085433072
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 160854
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[16:08:59][|-sRs-|Array
+(
+)
+]
+[16:10:13][|-param-|Array
+(
+    [serial_no] => bj2017020716101325063
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199203031425
+    [real_name] => 奖励
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 161013
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022093
+)
+]
+[16:10:18][|-sRs-|Array
+(
+)
+]
+[16:20:50][|-param-|Array
+(
+    [serial_no] => bj2017020716205099122
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199203031425
+    [real_name] => 奖励
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 162050
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022093
+)
+]
+[16:20:55][|-sRs-|Array
+(
+)
+]
+[16:27:39][|-param-|Array
+(
+    [serial_no] => bj2017020716273922746
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199203031425
+    [real_name] => 奖励
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 162739
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022093
+)
+]
+[16:27:44][|-sRs-|Array
+(
+)
+]
+[16:27:55][|-param-|Array
+(
+    [serial_no] => bj2017020716275580814
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170207
+    [order_time] => 162755
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000360
+)
+]
+[16:28:00][|-sRs-|Array
+(
+)
+]
+[16:29:23][|-param-|Array
+(
+    [serial_no] => bj2017020716292355643
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199203031425
+    [real_name] => 奖励
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 162923
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022093
+)
+]
+[16:29:28][|-sRs-|Array
+(
+)
+]
+[17:07:30][|-param-|Array
+(
+    [serial_no] => bj2017020717073085909
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199303031254
+    [real_name] => 奖励
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 170730
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103100022069
+)
+]
+[17:07:35][|-sRs-|Array
+(
+)
+]
+[17:39:05][|-param-|Array
+(
+    [serial_no] => bj2017020717390570730
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199303031254
+    [real_name] => 奖励
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 173905
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203110000022
+)
+]
+[17:39:11][|-sRs-|Array
+(
+)
+]

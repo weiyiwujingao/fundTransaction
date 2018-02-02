@@ -1,0 +1,28 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+	<?php require_once(VIEWPATH . '/common/uc_sidebar.html');?> 
+        <div class="aMain">
+        	<h3 class="Title5">买新基金</h3>
+            <div class="qstepBar">
+                <a href="javascript:;">买新基金</a>
+                <a href="javascript:;">预览付款</a>
+                <a href="javascript:;" class="Cur">申请受理</a>
+            </div>
+            <h3 class="Title Tc Mt25">基金认购申请受理成功</h3>
+            <p class="accDes">使用银行卡(<?=$bankname.'|'.$bankcode.')认购'.$paymentAmount.'元'.$fundname?>申请成功</p>
+            <p class="accDes"><?=date('Y-m-d H:i:s')?></p>
+            <div class="Mt25 Tc">
+            	 <a href="<?=base_url().'trade/subscription.html?fundcode='.$fundcode?>" class="halfBtn Ml25">继续认购</a>
+            </div>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612011555"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();
+    </script>
+</body>
+</html>

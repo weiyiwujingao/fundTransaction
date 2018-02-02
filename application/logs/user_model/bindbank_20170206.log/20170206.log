@@ -1,0 +1,591 @@
+[09:29:20][|-Param-|Array
+(
+    [UserID] => 178
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308581002249
+    [BankCard] => 6214830201562278
+    [Mobile] => 18125530297
+    [NickName] => 阿拉蕾
+    [IdentityNumber] => 422201199207070427
+    [Sex] => 1
+    [Password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 09:29:20
+)
+]
+[09:29:20][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 422201199207070427
+    [password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [mobile_tel] => 18125530297
+    [bank_no] => 007
+    [bank_name] => 招商银行
+    [bank_account] => 6214830201562278
+    [bank_account_name] => 阿拉蕾
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 308581002249
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[09:29:20][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[10:01:04][|-Param-|Array
+(
+    [UserID] => 178
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308581002249
+    [BankCard] => 6214830201562278
+    [Mobile] => 18125530297
+    [NickName] => 阿拉蕾
+    [IdentityNumber] => 422201199207070427
+    [Sex] => 1
+    [Password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 10:01:04
+)
+]
+[10:01:04][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 422201199207070427
+    [password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [mobile_tel] => 18125530297
+    [bank_no] => 007
+    [bank_name] => 招商银行
+    [bank_account] => 6214830201562278
+    [bank_account_name] => 阿拉蕾
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 308581002249
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[10:01:05][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[10:02:40][|-Param-|Array
+(
+    [UserID] => 178
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308581002249
+    [BankCard] => 6214830201562278
+    [Mobile] => 18125530297
+    [NickName] => 江子晗
+    [IdentityNumber] => 422201199207070427
+    [Sex] => 1
+    [Password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 10:02:40
+)
+]
+[10:02:40][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 江子晗
+    [client_name] => 江子晗
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 422201199207070427
+    [password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [mobile_tel] => 18125530297
+    [bank_no] => 007
+    [bank_name] => 招商银行
+    [bank_account] => 6214830201562278
+    [bank_account_name] => 江子晗
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 308581002249
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[10:02:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[10:04:43][|-Param-|Array
+(
+    [UserID] => 178
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308581002249
+    [BankCard] => 6214830201562278
+    [Mobile] => 18125530297
+    [NickName] => 江子晗
+    [IdentityNumber] => 422201199207070427
+    [Sex] => 1
+    [Password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 10:04:43
+)
+]
+[10:04:43][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 江子晗
+    [client_name] => 江子晗
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 422201199207070427
+    [password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [mobile_tel] => 18125530297
+    [bank_no] => 007
+    [bank_name] => 招商银行
+    [bank_account] => 6214830201562278
+    [bank_account_name] => 江子晗
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 308581002249
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[10:04:44][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[10:46:32][|-Param-|Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003318
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286622
+    [Sex] => 1
+    [Password] => 0b04cae8583407ba6329865893082387
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 10:46:32
+)
+]
+[10:46:32][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286622
+    [password] => 0b04cae8583407ba6329865893082387
+    [mobile_tel] => 15972158074
+    [bank_no] => 004
+    [bank_name] => 中国银行
+    [bank_account] => 6217857600002597495
+    [bank_account_name] => 严萌
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 104521003318
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[10:46:32][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170206000001
+                    [apply_date] => 20170206
+                    [success_type] => 0
+                    [trade_acco] => 1160
+                    [error_code] => 
+                    [client_id] => 10068
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[11:06:51][|-Param-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国光大银行
+    [BankNo] => 009
+    [BranchBank] => 303521000181
+    [BankCard] => 6226661401297043
+    [Mobile] => 18671517368
+    [NickName] => 江雪
+    [IdentityNumber] => 421281199202011736
+    [Sex] => 2
+    [Password] => 8211804ff70081d34eeaacbe6b778a44
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 11:06:51
+)
+]
+[11:06:51][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 江雪
+    [client_name] => 江雪
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011736
+    [password] => 8211804ff70081d34eeaacbe6b778a44
+    [mobile_tel] => 18671517368
+    [bank_no] => 009
+    [bank_name] => 中国光大银行
+    [bank_account] => 6226661401297043
+    [bank_account_name] => 江雪
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 303521000181
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[11:06:51][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170206000002
+                    [apply_date] => 20170206
+                    [success_type] => 0
+                    [trade_acco] => 1161
+                    [error_code] => 
+                    [client_id] => 10078
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[11:07:40][|-Param-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国光大银行
+    [BankNo] => 009
+    [BranchBank] => 303521000181
+    [BankCard] => 6226661401297043
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199202011736
+    [Sex] => 2
+    [Password] => 8211804ff70081d34eeaacbe6b778a44
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 11:07:40
+)
+]
+[11:07:40][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 江雪锋
+    [client_name] => 江雪锋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011736
+    [password] => 8211804ff70081d34eeaacbe6b778a44
+    [mobile_tel] => 18671517368
+    [bank_no] => 009
+    [bank_name] => 中国光大银行
+    [bank_account] => 6226661401297043
+    [bank_account_name] => 江雪锋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 303521000181
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[11:07:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[13:37:02][|-Param-|Array
+(
+    [UserID] => 184
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国光大银行
+    [BankNo] => 009
+    [BranchBank] => 303521000181
+    [BankCard] => 6226661401297043
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199202011736
+    [Sex] => 2
+    [Password] => 8211804ff70081d34eeaacbe6b778a44
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 13:37:02
+)
+]
+[13:37:02][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 江雪锋
+    [client_name] => 江雪锋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011736
+    [password] => 8211804ff70081d34eeaacbe6b778a44
+    [mobile_tel] => 18671517368
+    [bank_no] => 009
+    [bank_name] => 中国光大银行
+    [bank_account] => 6226661401297043
+    [bank_account_name] => 江雪锋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 303521000181
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[13:37:02][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [apply_date] => 
+                    [success_type] => 2
+                    [trade_acco] => 
+                    [error_code] => 2014
+                    [client_id] => 
+                    [error_info] => 此证件的该类型账户已开户
+                )
+
+        )
+
+)
+]
+[14:07:00][|-Param-|Array
+(
+    [UserID] => 196
+    [Province] => 湖北省
+    [City] => 武汉市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104521003012
+    [BankCard] => 6217857600002597495
+    [Mobile] => 15972158074
+    [NickName] => 严萌
+    [IdentityNumber] => 420111199508286622
+    [Sex] => 1
+    [Password] => 04c9afd0bf881e685cde0485800ff760
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-06 14:07:00
+)
+]
+[14:07:00][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286622
+    [password] => 04c9afd0bf881e685cde0485800ff760
+    [mobile_tel] => 15972158074
+    [bank_no] => 004
+    [bank_name] => 中国银行
+    [bank_account] => 6217857600002597495
+    [bank_account_name] => 严萌
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 104521003012
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[14:07:00][|-rs-|Array
+(
+    [error_no] => 1
+    [error_code] => 1
+    [error_info] => 转发错误
+)
+]

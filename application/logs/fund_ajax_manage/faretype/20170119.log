@@ -1,0 +1,162 @@
+[10:42:34][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E37C6EFA08D243479938EA38DF580EF22017011910423543437580
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[10:42:34][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7F2F2602B10644D8B1ED9270D2BF0FF12017011910423562233705
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[10:42:34][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => C90DDCBE48F74F2B83139F23FC751BB02017011910423579587758
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[10:42:34][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 1D50E2BCA5B54945A0248913C58882872017011910423600626658
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[10:42:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => C0A00D28D5214AF3886CCDFF223CF8FA2017011910423769775138
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[10:42:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => FADB1703047748169D958CDF472F7BA12017011910424009508146
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[10:42:39][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 605B5FDFB0EF4EF3B0985BB6DB827ECE2017011910424046913358
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[10:42:40][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => DA0E1519514B4B01B2A056BD452E3B1C2017011910424218678799
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]
+[10:42:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 691D0690AD5A4666AA287B2892A837D52017011910424260714568
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+    [trust_way] => 2
+)
+https://sitapi.hscloud.cn/cwsale/v1/rate_qry
+回参：Array
+(
+    [data] => {"data":[{"max_balance":"0.00","min_balance":"0.00","min_fare":"0.00","fund_code":"600570","rowcount":"1","share_type":"A","error_code":"","total_count":"10","sale_type":"0","max_fare":"0.00","cust_type":"1","zoneno":"231","fare_type":"0","ratio":"0.2000","success_type":"0","max_hold":"","min_predays":"","busin_flag":"020","min_hold":"","max_predays":"","error_info":""}]}
+    [code] => 200
+)
+]

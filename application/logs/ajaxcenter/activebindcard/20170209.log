@@ -1,0 +1,300 @@
+[11:16:54][|-param-|Array
+(
+    [mobile_code] => 422463
+    [sms_serial_no] => 1687525
+    [original_serial_no] => bj2017020911162584346
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [mobile_tel] => 18125530297
+    [order_date] => 20170209
+    [order_time] => 111654
+    [bank_account] => 6216697000003339540
+    [bank_no] => 104581010280
+)
+]
+[11:16:55][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[11:16:55][|-iParam-|Array
+(
+    [UserID] => 178
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 中国银行
+    [BankNo] => 004
+    [BranchBank] => 104581010280
+    [BranchName] => 中国银行广州东风东路支行
+    [BankCard] => 6216697000003339540
+    [Mobile] => 18125530297
+    [NickName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 11:16:55
+)
+]
+[11:16:55][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[16:16:12][|-param-|Array
+(
+    [mobile_code] => 909322
+    [sms_serial_no] => 1687724
+    [original_serial_no] => bj2017020916153488664
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 161612
+    [bank_account] => 6228480712413995614
+    [bank_no] => 103405070014
+)
+]
+[16:16:13][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[16:16:13][|-iParam-|Array
+(
+    [UserID] => 166
+    [Province] => 福建省
+    [City] => 龙岩
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103405070014
+    [BranchName] => 中国农业银行龙岩龙津支行
+    [BankCard] => 6228480712413995614
+    [Mobile] => 15205006442
+    [NickName] => 邱小兰
+    [IdentityNumber] => 350426198803037088
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 16:16:13
+)
+]
+[16:16:13][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[16:35:00][|-param-|Array
+(
+    [mobile_code] => 717782
+    [sms_serial_no] => 1687734
+    [original_serial_no] => bj2017020916343459536
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163500
+    [bank_account] => 6228480712413995614
+    [bank_no] => 203110000014
+)
+]
+[16:35:01][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[16:35:01][|-iParam-|Array
+(
+    [UserID] => 220
+    [Province] => 天津市
+    [City] => 天津市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 203110000014
+    [BranchName] => 中国农业发展银行天津市分行
+    [BankCard] => 6228480712413995614
+    [Mobile] => 15205006442
+    [NickName] => 邱小兰
+    [IdentityNumber] => 350426198803037088
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 16:35:01
+)
+]
+[16:35:01][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 此证件的该类型账户已开户
+    [info] => 
+)
+]
+[16:41:01][|-param-|Array
+(
+    [mobile_code] => 874762
+    [sms_serial_no] => 1687741
+    [original_serial_no] => bj201702091640223763
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 164101
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100014030
+)
+]
+[16:41:01][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[16:41:02][|-iParam-|Array
+(
+    [UserID] => 220
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100014030
+    [BranchName] => 中国建设银行北京密云工业开发区支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 15205006442
+    [NickName] => 后
+    [IdentityNumber] => 350426198803025631
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 16:41:01
+)
+]
+[16:41:02][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]
+[16:52:29][|-param-|Array
+(
+    [mobile_code] => 708300
+    [sms_serial_no] => 1687749
+    [original_serial_no] => bj201702091652019531
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 165229
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100014030
+)
+]
+[16:52:30][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[16:52:30][|-iParam-|Array
+(
+    [UserID] => 211
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100014030
+    [BranchName] => 中国建设银行北京密云工业开发区支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13037100638
+    [NickName] => 吴晶
+    [IdentityNumber] => 42092219940809002
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 16:52:30
+)
+]
+[16:52:30][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]

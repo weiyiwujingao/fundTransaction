@@ -1,0 +1,26 @@
+[08:41:20][|-Param-|Array
+(
+    [UserID] => 225
+    [bid] => 32
+    [trade_acco] => 1200
+    [ta_acco] => B01000010055
+    [oldBid] => 29
+    [origin_tradeacco] => 1197
+)
+]
+[08:41:20][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [success_type] => 0
+                    [origin_tradeacco] => 1197
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]

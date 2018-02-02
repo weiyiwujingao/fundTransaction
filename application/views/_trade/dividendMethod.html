@@ -1,0 +1,53 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>	
+        <div class="aMain">
+        	<h3 class="Title5">修改分红方式</h3>
+            <div class="qstepBar">
+                <a href="#" class="Cur">选择基金</a>
+                <a href="#">修改分红方式</a>
+                <a href="#">申请受理</a>
+            </div>
+            <table cellpadding="0" cellspacing="0" class="QTable Mt20">
+            	<thead>
+                	<tr>
+                        <th>基金代码</th>
+                        <th class="w200">基金名称</th>
+                        <th>收费方式</th>
+                        <th>当前分红方式</th>
+                        <th class="w60">操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+				<?php if(isset($data) && $data):?>
+				<?php foreach($data as $k=>$v):?>
+                	<tr>
+                    	<td><a href="<?php echo WEB_URL.'/fund/'.$v["fund_code"]?>" target="_blank" ><?=$v['fund_code']?></a></td>
+                        <td><a href="<?php echo WEB_URL.'/fund/'.$v["fund_code"]?>" target="_blank" class="blue"><?=$v['fund_name']?></a></td>
+                        <td><?=$v['share_type']?></td>
+                        <td><?=$v['auto_buy']?></td>
+                        <td><a href="<?php echo ($v['ofund_type']=='2')?'javascript:;':'https://trade.buyfunds.cn/trade/dividendmethod/'.$v['fund_code'].'.html'?>" class="<?php echo ($v['ofund_type']=='2')?'tdGray':'thBtn';?>">修改</a></td>
+                    </tr>
+				<?php endforeach?>
+				<?php endif?>
+               	</tbody>
+            </table>    
+            <div class="Explain">
+            	<h3>说明:</h3>
+                <p>1、我们将 24 小时受理您的交易申请。您交易日的交易申请至 15:00 截止， 15:00 以后的交易申请或非交易日的交易申请视为下一个交易日提交。您最终申请提交时间以我司注册登记中心接收时间为准。</p>
+                <p>2、股票型基金和债券型基金的默认分红方式为现金红利，货币基金的分红方式为红利再投资，货币基金不能修改分红方式。</p>
+				<p>3、分红方式修改后，您在我司网上销售所购买的同一基金均自动适用此分红方式。</p>
+				<p>4、红利再投资指将分得的红利直接再投资该只基金，免所得税和再投资的手续费。现金红利是指直接获得现金红利。</p>
+            </div>
+        </div>
+    </div>
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612007163056"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+    </script>
+</body>
+</html>

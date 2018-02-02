@@ -1,0 +1,684 @@
+[12:18:18][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[12:18:18][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1189
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => E1234567
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"0102","error_info":"[1189]|请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[13:07:45][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:07:45][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1189
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => E1234567
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"","apply_date":"","success_type":"3","error_code":"0102","error_info":"[1189]|请输入正确的密码。"}]}
+    [code] => 200
+)
+]
+[13:36:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:36:28][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1189
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000298","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[13:39:07][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:39:07][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1195
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => e820143041a4921b0ba1fb73f90c36a5
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000300","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[13:40:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:40:38][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1189
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000302","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[13:52:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:52:22][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1193
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 7c5ec8641af12d25b10d4e9d67631cf4
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000305","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[13:54:35][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:54:36][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1189
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000307","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[13:55:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[13:55:52][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1189
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000309","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[14:00:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:00:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1195
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => e820143041a4921b0ba1fb73f90c36a5
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000313","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[14:05:58][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:05:58][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1193
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 7c5ec8641af12d25b10d4e9d67631cf4
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000315","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[14:11:33][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:11:34][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1189
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000317","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[14:22:32][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:22:32][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1195
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => e820143041a4921b0ba1fb73f90c36a5
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000325","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[14:22:46][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[14:22:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => AA2BF967800449AD968CEE4D203F727A2017021511052934754555
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1195
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => e820143041a4921b0ba1fb73f90c36a5
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => {"data":[{"allot_no":"20170215000327","apply_date":"20170215","success_type":"0","error_code":"","error_info":""}]}
+    [code] => 200
+)
+]
+[17:14:14][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:14:19][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1188
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:19:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:19:45][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:19:45][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:19:47][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1195
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6c129a83ce804ef594399661aa00fee9
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:19:50][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1195
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6c129a83ce804ef594399661aa00fee9
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:19:51][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1195
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6c129a83ce804ef594399661aa00fee9
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:20:59][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [request_num] => 1
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 0
+    [fund_code] => 600570
+)
+https://sitapi.hscloud.cn/cwsale/v1/newhq_qry
+回参：Array
+(
+    [data] => {"data":[{"ofund_type":"0","per_myriad_income":"0.0000","fund_code":"600570","fund_curr_income":"0.00","rowcount":"1","forbid_modi_autobuy_flag":"0","pre_income_ratio":"0.0000","fund_full_name":"恒生电子股票基金","accept_hq_date":"20170215","share_type":"A","error_code":"","total_count":"1","fund_share":"0.00","fund_name":"恒生电子股票基金","fund_status":"0","ta_no":"B0","success_type":"0","nav_total":"1.7000","nav":"1.7000","prod_term":"0","ofund_risklevel":"0","en_minshare":"0.00","hq_date":"20170214","fund_curr_ratio":"0.0000","error_info":""}]}
+    [code] => 200
+)
+]
+[17:21:04][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D1554688569F41F59210E5C8D04E7DFF2017021516240385943307
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [trade_acco] => 1195
+    [auto_buy] => 1
+    [fund_code] => 600570
+    [share_type] => A
+    [password] => 6c129a83ce804ef594399661aa00fee9
+)
+https://sitapi.hscloud.cn/cwsale/v1/dividendmethod_trade
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]

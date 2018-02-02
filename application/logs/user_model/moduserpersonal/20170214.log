@@ -1,0 +1,146 @@
+[14:07:40][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[14:07:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170214000027
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[14:07:40][|-dParam-|Array
+(
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 178
+)
+]
+[16:33:44][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 邹奋
+)
+]
+[16:33:44][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2578
+                    [error_info] => TA[B0]不能同时修改客户姓名和证件号码
+                )
+
+        )
+
+)
+]
+[16:33:53][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 邹奋
+)
+]
+[16:33:53][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2578
+                    [error_info] => TA[B0]不能同时修改客户姓名和证件号码
+                )
+
+        )
+
+)
+]
+[16:39:28][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 邹奋
+)
+]
+[16:39:28][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2578
+                    [error_info] => TA[B0]不能同时修改客户姓名和证件号码
+                )
+
+        )
+
+)
+]
+[16:39:37][|-xParam-|Array
+(
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 邹奋
+)
+]
+[16:39:38][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2578
+                    [error_info] => TA[B0]不能同时修改客户姓名和证件号码
+                )
+
+        )
+
+)
+]

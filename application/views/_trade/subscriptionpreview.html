@@ -1,0 +1,141 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+	<?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">买新基金</h3>
+            <div class="qstepBar">
+                <a href="javascript:;">买新基金</a>
+                <a href="javascript:;" class="Cur">预览付款</a>
+                <a href="javascript:;">申请受理</a>
+            </div>
+            <form  class="tablePre">
+                <h3 class="Title4">请确认付款信息</h3>
+                <table cellpadding="0" cellspacing="0" class="mTable">
+                    <tbody>
+                        <tr>
+                            <td class="tdGray">基金名称</td>
+                            <td><?=$fundcodename.'('.$fundcode.')'?></td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">收费类型</td>
+                            <td><?=$chargemode?></td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">买入金额</td>
+                            <td><?=$paymentAmount?>元</td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">大写金额</td>
+                            <td><?=$capitalAmount?></td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">支付银行</td>
+                            <td><?=$selecltbanks?></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="formLi Mt10">
+                    <b class="bankPre"><i>*</i>请输入交易密码：</b>
+                    <span><input type="password" onBlur="passInp(this)" value="" class="w340" id="password"></span>
+                    <b class="eMl7"><a href="<?php echo TRADE_TRPWD_URL;?>" class="blue" target="_blank">忘记交易密码?</a></b>
+                    <em></em>
+                </div>
+                <p class="formTip">请输入伯嘉基金网交易密码，非银行卡密码。</p>
+				<input type="hidden" value="<?=$selecltbanks?>" id="bankname">
+				<input type="hidden" value="<?=$paymentAmount?>" id="money" >
+				<input type="hidden" value="<?=$fundcode?>" id="fundcode" >
+				<input type="hidden" value="<?=$fundcodename?>" id="fundname" >
+                <div class="btnPre Mt30">
+                    <a href="javascript:;" onClick="subForm(this);" class="halfBtn">确认付款</a>
+                    <a href="javascript:window.history.back();" class="navyBtn">返回上一页</a>
+                </div>
+            </form>
+            <div class="Explain">
+            	<h3>说明：</h3>
+                <p>1、我们将 24 小时受理您的交易申请。您交易日的交易申请至 15:00 截止， 15:00 以后的交易申请或非交易日的交易申请视为于下一个交易日提交。您最终申请提交时间以我司注册登记中心接收时间为准。</p>
+                <p>2、由于客户端系统时间与服务器时间可能有误差，请尽量避免在交易截止时间前后进行交易，交易提交时间以本系统服务器时间为准。如因网络原因或网银系统故障，导致划款成功指令未传递到本系统的，我们会在交易日结束后通过银行对账，确认交易成功，15：00前的交易申请将视为当日的申请。</p>
+                <p>3、基金的申购、赎回交易均遵循“未知价”交易原则，即您申购、赎回基金时都按提交业务申请当天的净值计算，而每天的净值是在交易结束后计算出来的，也就是说您在提交交易申请时不知道交易的价格。因此您所看到的基金净值，为该基金上一交易日的基金净值，而非基金申购成交时的基金净值。</p>
+            </div>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612011555"></script>
+    <script type="text/javascript">
+		var urlajax = "<?php echo base_url();?>trade/ajax.html";
+		var state = "<?php echo base_url();?>trade/state.html";
+		$('.MenuCnt').QTab();//菜单切换效果
+		function passInp(obj){//密码输入框空判断
+			var str = $(obj).val();
+			if(str == ''){
+				$(obj).showTip('Error','不能为空');
+			}else{
+				$(obj).showTip('Right');
+			}
+		}
+		function getdata(){
+			var data = new Object();
+			data.money    = $('#money').val();
+			data.bankname = $('#bankname').val();
+			data.fundcode = $('#fundcode').val();
+			data.fundname = $('#fundname').val();
+			data.password = $('#password').val();
+			if(!data.money||!data.bankname||!data.fundcode||!data.password){
+				return '';
+			}
+			if(getvalue('zjUserID')){
+				//data.proid = getvalue('proid');
+				//data.fundcodes = getvalue('fundcodes');
+				data.investorid = getvalue('investorid');
+				data.zjUserID   = getvalue('zjUserID');
+				data.investmentinviterid = getvalue('investmentinviterid');
+			}
+			data.action   = 'subscription';
+			return data;
+		}
+		
+		function subForm(obj){//表单提交按钮点击事件 仅供参考
+			var flag = true,
+			p = $(obj).parents('form'),
+			inp = $(p).find('input'),
+			str = $(inp).val();
+			var data='',bankname='';
+			
+			if(str == ''){
+				flag = false;
+				$(inp).showTip('Error','不能为空');
+			}
+			data = getdata();
+			if(!data){
+				alert('参数提交错误！');return;
+			}
+			
+			if(flag){
+				flag = false;
+				$.ajax({
+					url:urlajax,
+					type:'post',
+					data:data,
+					dataType:'json',
+					success: function(d){
+						if(d['flag']=='10000'){
+							window.location.href=d['url'];					
+						}else{
+							alert(d['msg']);
+						}
+						flag = true;						
+					},
+					error: function(XMLHttpRequest, textStatus, errorThrown)
+					{
+						alert('网络繁忙,请稍后再试! 错误码:'+textStatus);
+						flag = true;
+					}
+				});
+			}
+		}
+   
+    </script>
+</body>
+</html>

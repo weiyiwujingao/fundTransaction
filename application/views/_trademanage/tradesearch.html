@@ -1,0 +1,206 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+    	<h3 class="Title7">交易查询</h3>
+        <div class="formLi">
+        	<b class="w100 Tr">交易日期：</b>
+            <span><input type="text" id="startdate" value="" class="DateInp" onBlur="stateClk(this);" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd'})" /></span>
+            <b class="Mr10">至</b>
+            <span><input type="text" id="enddate" value="" class="DateInp" onBlur="stateClk(this);" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd'})" /></span>
+        </div>
+        <div class="srchLi" id="bussinesstype">
+        	<b class="srchPre">业务类型：</b>
+            <a href="javascript:;" onClick="stateClk(this);" data="1000" class="Ac">全部</a>
+            <a href="javascript:;" onClick="stateClk(this);" data="022" >买入</a>
+			<a href="javascript:;" onClick="stateClk(this);" data="024" >卖出</a>
+            <a href="javascript:;" onClick="stateClk(this);" data="036" >转换</a>
+            <a href="javascript:;" onClick="stateClk(this);" data="090" >定投</a>
+            <a href="javascript:;" onClick="stateClk(this);" data="029" >分红</a><br>
+           <!--<a href="javascript:;" onClick="stateClk(this);" data="7" >其他</a>--> 
+        </div>
+        <div class="srchLi" id="status">
+        	<b class="srchPre">状态：</b>
+            <a href="javascript:;" onClick="stateClk(this);" data="1000" class="Ac">全部</a>
+            <a href="javascript:;" onClick="stateClk(this);" data="9">在途</a>
+			<a href="javascript:;" onClick="stateClk(this);" data="1">成功</a>
+            <a href="javascript:;" onClick="stateClk(this);" data="0">失败</a>
+            <a href="javascript:;" onClick="stateClk(this);" data="4">已撤单</a>
+        </div>
+        <h3 class="Title2">查询结果</h3>
+        <table class="QTable" cellpadding="0" cellspacing="0">
+        	<thead>
+            	<tr>
+                	<th>交易发起时间</th>
+                    <th>产品名称</th>
+                    <th>业务类型</th>
+                    <th>申请数额</th>
+                    <th>确认数额</th>
+                    <th>关联账户</th>
+                    <th>状态</th>
+                </tr>
+            </thead>
+            <tbody>
+			<?php if(isset($data) && $data):?>
+			<?php foreach($data as $k=>$v):?>
+				<tr>
+                	<td><?=$v['time']?></td>
+                    <td><a href="<?php echo WEB_URL.'/fund/'.$v['fund_code'];?>" class="blue" target="_blank"><?=$v['fund_name'].' '.$v['fund_code']?></a></td>
+                    <td><?=$v['fund_busin_code']?></td>
+                    <td><?php if($v['balance'] != '0.00'){ echo $v['balance'].'元';} elseif($v['shares'] != '0.00'){ echo $v['shares'].'份';} else { echo '&#45;&#45;';} ?></td>
+                    <td><?php 
+					if($v['taconfirm_flag_code']==1){
+						if($v['trade_confirm_balance']!='0.00'&&$v['trade_confirm_balance']){
+							echo $v['trade_confirm_balance'].'元';
+						}elseif($v['trade_confirm_type']!='0.00'&&$v['trade_confirm_type']){
+							echo $v['trade_confirm_type'].'份';
+						}else{
+							echo '&#45;&#45;';
+						}					
+					}else{ 
+						echo '&#45;&#45;';
+					} ?>
+					</td>
+                    <td><?=$v['fund_bank'].'|'.$v['receivable_account']?></td>
+                    <td><?=$v['taconfirm_flag']?></td>
+                </tr>
+			<?php endforeach?>
+			<?php endif?>
+            </tbody>
+        </table>
+        <div class="page Mt10">
+		<?=$pagelist?>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612161531"></script>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/front/uc/Js/Calendar/WdatePicker.js"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.FormSlt').uSelect();/*select美化*/
+		var urlajax = "<?php echo base_url();?>trade/ajax.html";
+		var bussinesstype = status = startdate = enddate = page= limit = '';
+		var arrbussi =new Array('022','023','039','139','129','053','159','090');
+
+		//loadpage(1,5);
+
+		function stateClk(obj){			
+			if(!$(obj).hasClass('Ac')){
+				$(obj).addClass('Ac').siblings('a').removeClass('Ac');
+			}
+			loadpage(1,5);
+		}
+		function pagenum_onchange(obj){
+			loadpage(1,5);
+		}
+		function loadpage(page,limit){
+			var data = new Object();
+			data.bussinesstype = $("#bussinesstype").children("a[class='Ac']").attr("data");
+			data.status = $("#status").children("a[class='Ac']").attr("data");
+			data.startdate = $("#startdate").val();
+			data.enddate = $("#enddate").val();
+			
+			data.limit = $(".pagesize").val();
+			data.page = page;
+			data.action = 'trade_apply_search';
+			if(!data.limit)
+				data.limit = limit;
+			ajax_get(data);
+		}
+		
+		function ajax_get(data)
+		{
+			$.ajax({
+				url:urlajax,
+				type:'post',
+				data:data,
+				dataType:'json',
+				success: function(d){
+					html = '';
+					if(d.flag=='10000'){
+						if(d.info.data){
+							$.each(d.info.data,function(i,item){
+								html += '<tr>';
+								html += '<td>'+item['time']+'</td>';
+								html += '<td><a href="http://www.buyfunds.cn/fund/'+item['fund_code']+'" class="blue" target="_blank">'+item['fund_name']+item['fund_code']+'</a></td>';
+								html += '<td>'+item['fund_busin_code']+'</td>';
+								if(item['balance']!='0.00'&&item['balance']){
+									html += '<td>'+item['balance']+'元</td>';		
+								}else if (item['shares']!='0.00'&&item['shares']) {
+                                    html += '<td>' + item['shares'] + '份</td>';
+                                   
+                                } else {
+                                    html += '<td>--</td>';
+                                }
+								if(item['trade_confirm_balance']!='0.00'&&item['trade_confirm_balance']){
+									html += '<td>'+item['trade_confirm_balance']+'元</td>';
+								}else if(item['trade_confirm_type']!='0.00'&&item['trade_confirm_type']){
+									html += '<td>' + item['trade_confirm_type'] + '份</td>';
+								}else{
+									html += '<td>--</td>';
+								}
+								html += '<td>'+item['fund_bank']+'|'+item['receivable_account']+'</td>';
+								html += '<td>'+item['taconfirm_flag']+'</td>';
+								html += '</tr>';
+							});
+							$('tbody').html(html);
+							if(d.info.pagelist){
+								$(".page").html(d.info.pagelist);
+							}
+							$('.FormSlt').uSelect();/*select美化*/
+						}
+					}else{
+						$('tbody').html('');
+						$(".page").html('');
+					}
+					
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown)
+				{
+					alert('网络繁忙,请稍后再试! 错误码:'+textStatus);
+				}
+			});
+		}
+		dateInit()//初始化日期为到今天为止七天前
+		function dateInit(){
+			var dli = $('.DateInp'),
+			D = new Date(),
+			time = D.getTime() - 7*24*60*60*1000,
+			_D = new Date(time),
+			y = D.getFullYear(),
+			m = D.getMonth() + 1,
+			d = D.getDate(),
+			_y = _D.getFullYear(),
+			_m = _D.getMonth() + 1,
+			_d = _D.getDate(),
+			today = y +'-'+(m>9?m:'0'+m)+'-'+(d > 9?d:'0'+d),
+			other = _y+'-'+ (_m>9?_m:'0'+_m) +'-'+(_d>9?_d:'0'+_d);			
+			$(dli).eq(0).val(other);
+			$(dli).eq(1).val(today);
+		}
+		function contains(arr, str) {
+			var i = arr.length;
+			while (i--) {
+				   if (arr[i] === str) {
+				   return true;
+				   }   
+			}   
+			return false;
+		}
+    </script>
+</body>
+</html>

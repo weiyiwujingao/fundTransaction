@@ -1,0 +1,432 @@
+[10:35:52][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 409812
+)
+|-$cRs-|Array
+(
+    [Code] => 12
+    [Msg] => 验证码错误
+    [Record] => Array
+        (
+        )
+
+)
+]
+[10:40:57][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 702645
+)
+|-$cRs-|Array
+(
+    [Code] => 12
+    [Msg] => 验证码错误
+    [Record] => Array
+        (
+        )
+
+)
+]
+[10:42:05][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 732017
+)
+|-$cRs-|Array
+(
+    [Code] => 12
+    [Msg] => 验证码错误
+    [Record] => Array
+        (
+        )
+
+)
+]
+[10:48:48][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 791672
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[10:53:59][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 220
+    [Mobile] => 15205006442
+    [IP] => 192.168.10.39
+    [CheckCode] => 151005
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[10:55:08][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 863500
+)
+|-$cRs-|Array
+(
+    [Code] => 12
+    [Msg] => 验证码错误
+    [Record] => Array
+        (
+        )
+
+)
+]
+[11:03:50][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 187700
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[11:07:33][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 500743
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[11:12:34][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 277476
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[11:15:58][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 074611
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[11:20:19][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 818452
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[11:21:43][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 735155
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[11:25:11][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 131262
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[11:36:14][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 782252
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[12:17:54][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 603774
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[12:59:49][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 323153
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:24:12][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 761055
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:33:00][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18950473074
+    [IP] => 192.168.15.235
+    [CheckCode] => 577592
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:35:09][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18950473074
+    [IP] => 192.168.15.235
+    [CheckCode] => 669733
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:39:42][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18950473074
+    [IP] => 192.168.15.235
+    [CheckCode] => 564419
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:50:35][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18950473074
+    [IP] => 192.168.15.235
+    [CheckCode] => 762086
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:52:59][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 196
+    [Mobile] => 15972158074
+    [IP] => 192.168.15.235
+    [CheckCode] => 015495
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:53:17][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 786371
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:54:30][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 211
+    [Mobile] => 13037100638
+    [IP] => 192.168.15.235
+    [CheckCode] => 450649
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]

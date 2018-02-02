@@ -1,0 +1,50 @@
+﻿requirejs.config({
+	paths:{
+		jquery:'jquery-18',
+		funds:'jsonfund',
+		BjFund:'BjFund',
+	}
+});
+requirejs(['jquery','BjFund','fundsvarlist'],function($,BjFund,fundsvarlist){
+    fundsvarlist.CreateBox();
+	$('.fundInp').Fund({
+		number:2,//下拉按钮点击展示选项卡变化 从0开始计算 （默认显示1即A标签页 即不设置此项时）
+		keyup:function(o,fn){//输入框键盘事件,o为单曲input
+			var code = $(o).val(),
+			box = $('.Inp'),
+			html = '<table cellspacing="0" cellpadding="0"><thead><tr><th>选项</th><th>代码</th><th>类型</th><th>简称</th></tr></thead><tbody>';
+			//alert(code);return;
+			$.ajax({
+				url:urlajax,
+				type:'post',
+				data:{'action':'Searchcode','search':code,'limit':'10'},
+				dataType:'json',
+				success: function(d){
+					if(d['flag']!='10000') return;
+					
+					/*ajax 获取输入框输入基金代码相关内容 以表格形式输出*/
+					for(var i = 0; i<d['info'].length; i++){
+						html = html + '<tr datacode="'+d['info'][i]['code']+'"><td><span><span>'+i+'</td><td>'+d['info'][i]['code']+'</td><td>'+d['info'][i]['type']+'</td><td>'+d['info'][i]['sname']+'</td></tr>';
+					}
+					html = html + '<tbody></table>';
+					$(box).html(html);
+					
+					if(typeof fn == 'function'){
+						fn(box);
+					}
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown)
+				{
+					alert('网络繁忙,请稍后再试! 错误码:'+textStatus);
+				}
+			});
+		},
+		click:function(o){//dd内a标签点事件 表格tr的点击事件
+			$(o).parents('.fund_suggest').css('display','none');
+			$('.fundDes').css('display','block');		
+		}
+
+	});
+	
+	
+});

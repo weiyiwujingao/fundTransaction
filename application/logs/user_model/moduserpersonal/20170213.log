@@ -1,0 +1,282 @@
+[10:55:34][|-xParam-|Array
+(
+    [statement_flag] => 2
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[10:55:34][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[10:55:42][|-xParam-|Array
+(
+    [statement_flag] => 2
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[10:55:42][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[10:56:39][|-xParam-|Array
+(
+    [statement_flag] => 2
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[10:56:39][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[11:00:05][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [client_full_name] => 原方
+    [client_name] => 原方
+    [id_kind_gb] => 0
+    [id_no] => 422201100000000427
+    [trade_account_name] => 原方
+)
+]
+[11:00:05][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000004
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[11:00:05][|-dParam-|Array
+(
+    [ReservedContent] => 123
+    [UserID] => 170
+)
+]
+[14:51:06][|-xParam-|Array
+(
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1195
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 严萌
+)
+]
+[14:51:06][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000035
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[14:51:06][|-dParam-|Array
+(
+    [SendRate] => 2
+    [SendMethod] => a:1:{i:0;i:2;}
+    [UserID] => 196
+)
+]
+[15:06:38][|-xParam-|Array
+(
+    [statement_flag] => 3
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[15:06:38][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[16:31:01][|-xParam-|Array
+(
+    [statement_flag] => 3
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[16:31:01][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[16:31:02][|-xParam-|Array
+(
+    [home_tel] => 7512116
+    [address] => 湖北省武汉市洪山区
+    [zipcode] => 430000
+    [e_mail] => 18320825218@163.com
+    [ofund_prof_code] => 1
+    [trust_way] => 2
+    [trade_acco] => 1197
+    [client_full_name] => 石自强
+    [client_name] => 石自强
+    [id_kind_gb] => 0
+    [id_no] => 420625199305046835
+    [trade_account_name] => 石自强
+)
+]
+[16:31:02][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000046
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[16:31:02][|-dParam-|Array
+(
+    [TelPhone] => 7512116
+    [Address] => 湖北省武汉市洪山区
+    [Postal] => 430000
+    [Email] => 18320825218@163.com
+    [ReservedContent] => 好好学习天天向上
+    [Job] => 1
+    [UserID] => 225
+)
+]
+[16:31:30][|-xParam-|Array
+(
+    [statement_flag] => 3
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [client_full_name] => 杜拉拉
+    [client_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [trade_account_name] => 杜拉拉
+)
+]
+[16:31:30][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]

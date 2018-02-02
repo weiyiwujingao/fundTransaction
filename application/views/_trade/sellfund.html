@@ -1,0 +1,71 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+	<?php require_once(VIEWPATH . '/common/uc_sidebar.html');?> 
+        <div class="aMain">
+        	<h3 class="Title5">卖基金</h3>
+            <div class="qstepBar fourStep">
+                <a href="javascript:;" class="Cur">选择卖出基金</a>
+                <a href="javascript:;">卖出基金</a>
+                <a href="javascript:;">预览确认</a>
+                <a href="javascript:;">申请受理</a>
+            </div>
+            <h3 class="Title2 Mt10">当前持有的基金份额<span>(不含现金宝)</span></h3>
+            <table class="QTable" cellpadding="0" cellspacing="0">
+            	<thead>
+                	<tr>
+                        <th>基金代码</th>
+                        <th>基金名称</th>
+                        <th>支付账户</th>
+                        <th>收费方式</th>
+                        <th>单位净值</th>
+                        <th>净值日期</th>
+                        <th>总份额</th>
+                        <th>可用份额</th>
+                        <th>市值</th>
+                        <th class="w60">操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+				<?php if(isset($data) && $data):?>
+                <?php foreach($data as $k=>$v):?>
+				<?php if($v['current_share']=='0.00') continue;?>
+                	<tr>
+                    	<td><a href="<?php echo WEB_URL.'/fund/'.$v["fund_code"]?>" target="_blank"><?=$v["fund_code"]?></a></td>
+                        <td><a href="<?php echo WEB_URL.'/fund/'.$v["fund_code"]?>" alt="<?=$v["fund_name"]?>" target="_blank" class="blue"><?=$v["fund_name"]?></a></td>
+                        <td><?=$v['fund_bank'].'|'.$v['bank_acsort']?></td>
+                        <td><?=str_replace('收费','',$v['share_type'])?></td>
+                        <td><?=$v['nav_value']?></td>
+                        <td><?=$v['nav_date']?></td>
+                        <td><?=$v['current_share']?></td>
+                        <td><?=$v['enable_shares']?></td>
+                        <td><?=$v['worth_value']?></td>
+                        <td><a href="<?=base_url().'trade/sell.html?fundcode='.$v["fund_code"]?>" class="thBtn" >卖出</a></td>
+                    </tr>
+                <?php endforeach?>
+				<?php else:?>
+				<tr><td colspan="10" >暂无可卖基金</td></tr>
+				<?php endif?>
+				
+                </tbody>
+           </table>
+           <div class="Explain Mt10">
+            	<h3>说明：</h3>
+                <p>1、我们将 24 小时受理您的交易申请。您交易日的交易申请至 15:00 截止， 15:00 以后的交易申请或非交易日的交易申请视为于下一个交易日提交。您最终申请提交时间以我司注册登记中心接收时间为准。</p>
+                <p>2、基金的买入、卖出交易均遵循“未知价”交易原则，即您买入、卖出基金时都按提交业务申请当天的净值计算，而每天的净值是在交易结束后计算出来的，也就是说您在提交交易申请时不知道交易的价格。因此您所看到的基金净值，为该基金上一交易日的基金净值，而非基金买入成交时的基金净值。</p>
+                <p>3、当基金申请状态为暂停卖出或连续发生巨额赎回的情况时，根据基金合同规定，可以暂停接受卖出申请。</p>
+                <p>4、问 ：我卖出基金金额何时到账？</p>
+                <p>答 ：在我司交易平台卖出预计基金到账时间如下：</p>
+                <p>货币基金：1-2个工作日，最晚7个工作日内到账；债券基金：2-4个工作日，最晚7个工作日内到账；股票型基金：3-4个工作日，最晚7个工作日内到账；QDII：8-13个工作日，最晚15个工作日内到账（根据基金实际到账为准）。部分特殊产品可能会延后一个工作日。详询，请拨打400-027-9899。</p>
+            </div>
+        </div>
+    </div>   
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=2016120514221102"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();
+    </script>
+</body>
+</html>

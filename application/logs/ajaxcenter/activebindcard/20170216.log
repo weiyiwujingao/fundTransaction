@@ -1,0 +1,60 @@
+[10:46:02][|-param-|Array
+(
+    [mobile_code] => 695269
+    [sms_serial_no] => 1691099
+    [original_serial_no] => bj2017021610455274737
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [mobile_tel] => 15927191870
+    [order_date] => 20170216
+    [order_time] => 104602
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013640
+)
+]
+[10:46:03][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[10:46:04][|-iParam-|Array
+(
+    [UserID] => 224
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013640
+    [BranchName] => 中国农业银行福州塔头支行
+    [BankCard] => 6228480068816522772
+    [Mobile] => 15927191870
+    [NickName] => 罗蔓
+    [IdentityNumber] => 421083199206290033
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-16 10:46:03
+)
+]
+[10:46:04][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]

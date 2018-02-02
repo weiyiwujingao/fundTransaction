@@ -1,0 +1,129 @@
+[21:37:06][|-param-|Array
+(
+    [serial_no] => bj201702072137066070
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170207
+    [order_time] => 213706
+    [bank_account] => 6217000340000565966
+    [bank_no] => 105167104542
+)
+]
+[21:37:06][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[21:37:17][|-param-|Array
+(
+    [serial_no] => bj2017020721371779746
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170207
+    [order_time] => 213717
+    [bank_account] => 6217000340000565909
+    [bank_no] => 105167104542
+)
+]
+[21:37:18][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[21:37:24][|-param-|Array
+(
+    [serial_no] => bj2017020721372458091
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170207
+    [order_time] => 213724
+    [bank_account] => 6217000340000565908
+    [bank_no] => 105167104542
+)
+]
+[21:37:24][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[21:37:45][|-param-|Array
+(
+    [serial_no] => bj2017020721374575617
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170207
+    [order_time] => 213745
+    [bank_account] => 6217000340000565908
+    [bank_no] => 105175015017
+)
+]
+[21:37:46][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[21:38:39][|-param-|Array
+(
+    [serial_no] => bj2017020721383947633
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170207
+    [order_time] => 213839
+    [bank_account] => 6217000340000565908
+    [bank_no] => 105175015017
+)
+]
+[21:38:40][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[21:39:49][|-param-|Array
+(
+    [serial_no] => bj2017020721394930294
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170207
+    [order_time] => 213949
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105175015017
+)
+]
+[21:39:54][|-sRs-|Array
+(
+)
+]

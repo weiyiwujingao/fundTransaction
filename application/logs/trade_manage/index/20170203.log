@@ -1,0 +1,25 @@
+[14:00:29][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 
+    [sort_direction] => 1
+    [begin_date] => 20170127
+    [end_date] => 20170203
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => 
+    [code] => 0
+)
+]

@@ -1,0 +1,50 @@
+[10:09:41][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 471CCC9BDE584434835F2B1A63465B172017012310094136304940
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 
+    [sort_direction] => 1
+    [begin_date] => 20170116
+    [end_date] => 20170123
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[14:36:54][参数：Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 475928AF4D45464EBB4898A3CD15D48C2017012314365473532767
+    [trust_way] => 2
+    [capital_mode] => l
+    [trade_source] => bjjj
+    [request_num] => 5
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [trade_acco] => 1146
+    [client_id] => 9928
+    [taconfirm_flag] => 
+    [sort_direction] => 1
+    [begin_date] => 20170116
+    [end_date] => 20170123
+)
+https://sitapi.hscloud.cn/cwsale/v1/trade_apply_qry
+回参：Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]

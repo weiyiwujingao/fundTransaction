@@ -1,0 +1,81 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">定投终止记录</h3>
+            <div class="Title1">(仅显示最近10条终止记录)</div>
+            <table class="QTable Mt15" cellpadding="0" cellspacing="0">
+            	<thead>
+                	<tr>
+                    	<th>终止时间</th>
+                        <th>基金代码</th>
+                        <th class="w160">基金名称</th>
+                        <th>关联银行卡</th>
+                        <th>每期金额（元）</th>
+                        <th>扣款周期</th>
+                        <th>扣款日期</th>
+                        <th class="w60">操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <?php if ($data) : ?>
+                <?php foreach ($data as $item) : $i = 1;?>
+                <form class="form<?php echo $item['id']; ?>" action="<?php echo base_url(), 'fix/stop_revert/', $item['fund_code'], '.html'; ?>" method="post">
+                	<tr>
+                    	<td><?php echo $item['time']; ?></td>
+                        <td><?php echo $item['fund_code']; ?></td>
+                        <td><a href="<?php echo WEB_URL, '/fund/', $item['fund_code']; ?>" class="blue" target="_blank"><?php echo mb_strlen($item['fund_name']) > 8 ? mb_substr($item['fund_name'], 0 ,8) . '...' : $item['fund_name']; ?></a></td>
+                        <td><?php echo $item['bank_name'], ' | ', substr($item['bank_account'], -4); ?></td>
+                        <td><?php echo $item['balance']; ?></td>
+                        <td>每<?php echo $item['period_unit']; ?></td>
+                        <td><?php echo $item['protocol_fix_day']; ?>日</td>
+                        <input type="hidden" name="code" value="<?php echo $item['fund_code']; ?>">
+                        <input type="hidden" name="name" value="<?php echo $item['fund_name']; ?>">
+                        <input type="hidden" name="bankinfo" value="<?php echo $item['bank_name'], '(', $item['bank_account_revert'], ')'; ?>">
+                        <input type="hidden" name="trade_acco" value="<?php echo $item['trade_acco']; ?>">
+                        <input type="hidden" name="bank_account" value="<?php echo $item['bank_account']; ?>">
+                        <input type="hidden" name="balance" value="<?php echo $item['balance']; ?>">
+                        <input type="hidden" name="protocol_period_unit" value="<?php echo $item['protocol_period_unit']; ?>">
+                        <input type="hidden" name="period_unit" value="<?php echo $item['period_unit']; ?>">
+                        <input type="hidden" name="id" value="<?php echo $item['id']; ?>">
+                        <input type="hidden" name="fix_day" value="<?php echo $item['protocol_fix_day']; ?>">
+                        <td><a href="javascript:;" class="thBtn" onclick="subForm(this) " data-form="<?php echo $item['id']; ?>">恢复</a></td>
+                    </tr>
+                </form>
+                <?php endforeach; ?>
+                <?php else : ?>
+                <tr><td colspan="8">没有定投终止记录</td></tr>
+                <?php endif; ?>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161208160101"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+        function subForm(o) {
+            var formid = $(o).attr('data-form');
+            $(".form"+formid).submit();
+        }
+    </script>

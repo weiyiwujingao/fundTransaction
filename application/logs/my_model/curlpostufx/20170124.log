@@ -1,0 +1,851 @@
+[10:24:14][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 601278A4598742D88B52D2E6A7C5248C2017012410241279704330
+    [serial_no] => bj2017012410241255402
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 102412
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680614","status":"9"}]}
+    [code] => 200
+)
+]
+[16:31:39][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E55871E7480D4DF8B21E8479A8008C542017012416313813985731
+    [serial_no] => bj2017012416313797452
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 163137
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680741","status":"9"}]}
+    [code] => 200
+)
+]
+[16:33:21][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 694DD85967C24BBDA2FC3C0FB348E8592017012416332113344329
+    [serial_no] => bj2017012416332072586
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 163320
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680742","status":"9"}]}
+    [code] => 200
+)
+]
+[16:34:14][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E9F9F63CA0DB4BDF83472334A071CDD12017012416341431571038
+    [serial_no] => bj2017012416341354317
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 163413
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680744","status":"9"}]}
+    [code] => 200
+)
+]
+[16:44:25][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 39C7F887F4704DDA9903F114DEC5ABDE2017012416442500450664
+    [serial_no] => bj2017012416442411685
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 164424
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680749","status":"9"}]}
+    [code] => 200
+)
+]
+[16:45:10][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E2913423BEA24269AB6AF01DD19DF42A2017012416450964593849
+    [serial_no] => bj2017012416450965518
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 164509
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680750","status":"9"}]}
+    [code] => 200
+)
+]
+[16:46:39][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4476844D44C344F78D7EEF32BB4B12C22017012416463857090607
+    [serial_no] => bj2017012416463883200
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 164638
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680752","status":"9"}]}
+    [code] => 200
+)
+]
+[16:47:06][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0981BFA05A174282B319DDC0851C9FC92017012416470607461370
+    [serial_no] => bj2017012416470595818
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 164705
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680753","status":"9"}]}
+    [code] => 200
+)
+]
+[16:54:00][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7CE8D0DB4F7341C699B78F4FA41527AE2017012416535977427468
+    [serial_no] => bj2017012416535943294
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 165359
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680756","status":"9"}]}
+    [code] => 200
+)
+]
+[16:54:04][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E4E1775A9C214E88B4914187333A7E052017012416540438384764
+    [serial_no] => bj2017012416540375934
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 165403
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680758","status":"9"}]}
+    [code] => 200
+)
+]
+[16:57:40][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 49382E7533724627A8AA07FF6DFCD7F12017012416574006655775
+    [serial_no] => bj2017012416573912704
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 165739
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680760","status":"9"}]}
+    [code] => 200
+)
+]
+[16:58:53][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7897A2E5466C4B32AECAE94EF638F7E12017012416585292669511
+    [mobile_code] => 490977
+    [sms_serial_no] => 1680760
+    [original_serial_no] => bj2017012416573912704
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 165852
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"验证码不匹配","error_no":-1}
+    [code] => 200
+)
+]
+[17:01:24][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 
+    [mobile_code] => 490977
+    [sms_serial_no] => 1680760
+    [original_serial_no] => bj2017012416573912704
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 170119
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:02:35][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 27B72212B8AE4E06972FA27DCDFC80AA2017012417023527043689
+    [mobile_code] => 819150
+    [sms_serial_no] => 1680760
+    [original_serial_no] => bj2017012416573912704
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 170234
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"status":"1"}]}
+    [code] => 200
+)
+]
+[17:02:40][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/fundacct_direct_open_acct|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 27B72212B8AE4E06972FA27DCDFC80AA2017012417023527043689
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 2017-01-24
+    [apply_time] => 2017-01-24
+    [cust_type] => l
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [mobile_tel] => 13599951535
+    [bank_no] => 003
+    [bank_name] => 
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013537
+    [detail_fund_way] => 01
+    [id_enddate] => 2099-01-01
+    [fund_interface_type] => 1
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:04:55][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 382C5D7F085E47798513CFF5C032416D2017012417045497695613
+    [mobile_code] => 819150
+    [sms_serial_no] => 1680760
+    [original_serial_no] => bj2017012416573912704
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 170454
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"验证码不匹配","error_no":-1}
+    [code] => 200
+)
+]
+[17:05:04][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 05F6049D109A46F79EB2137B5288F7522017012417050453529835
+    [serial_no] => bj2017012417050439253
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 170504
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680767","status":"9"}]}
+    [code] => 200
+)
+]
+[17:05:42][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 2EA8052808EC448BAA87E03F475BBD692017012417054217227847
+    [mobile_code] => 775077
+    [sms_serial_no] => 1680767
+    [original_serial_no] => bj2017012417050439253
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 170541
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"status":"1"}]}
+    [code] => 200
+)
+]
+[17:05:47][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/fundacct_direct_open_acct|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 2EA8052808EC448BAA87E03F475BBD692017012417054217227847
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 2017-01-24
+    [apply_time] => 2017-01-24
+    [cust_type] => l
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [mobile_tel] => 13599951535
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013537
+    [detail_fund_way] => 01
+    [id_enddate] => 2099-01-01
+    [fund_interface_type] => 1
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:09:16][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => E32CA9007FBE4853A0E774B8340FD9C52017012417091661827897
+    [mobile_code] => 775077
+    [sms_serial_no] => 1680767
+    [original_serial_no] => bj2017012417050439253
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 170916
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"验证码不匹配","error_no":-1}
+    [code] => 200
+)
+]
+[17:09:25][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => DDA07FBF03444D0BB1A837913E87D37D2017012417092449178382
+    [serial_no] => bj2017012417092430438
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 170924
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680769","status":"9"}]}
+    [code] => 200
+)
+]
+[17:09:38][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 85A07901824649E3BAA940D665B060DA2017012417093780393377
+    [mobile_code] => 464205
+    [sms_serial_no] => 1680769
+    [original_serial_no] => bj2017012417092430438
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 170937
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"status":"1"}]}
+    [code] => 200
+)
+]
+[17:09:43][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/fundacct_direct_open_acct|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 85A07901824649E3BAA940D665B060DA2017012417093780393377
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 2017-01-24
+    [apply_time] => 2017-01-24
+    [cust_type] => l
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [mobile_tel] => 13599951535
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013537
+    [detail_fund_way] => 01
+    [id_enddate] => 2099-01-01
+    [fund_interface_type] => 1
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:12:30][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => A2A2FFB611FB461AB0378B069E9BACA72017012417123070092104
+    [mobile_code] => 464205
+    [sms_serial_no] => 1680769
+    [original_serial_no] => bj2017012417092430438
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 171230
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"验证码不匹配","error_no":-1}
+    [code] => 200
+)
+]
+[17:13:13][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 2D439E6ACF544FC6A679867B4232CA582017012417130889296734
+    [serial_no] => bj2017012417130877165
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 171308
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680772","status":"9"}]}
+    [code] => 200
+)
+]
+[17:13:27][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 78EBA36BC57046C783C6D25EFD2510862017012417132737585964
+    [mobile_code] => 079498
+    [sms_serial_no] => 1680772
+    [original_serial_no] => bj2017012417130877165
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 171327
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"status":"1"}]}
+    [code] => 200
+)
+]
+[17:13:32][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/fundacct_direct_open_acct|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 78EBA36BC57046C783C6D25EFD2510862017012417132737585964
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 2017-01-24
+    [apply_time] => 2017-01-24
+    [cust_type] => l
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [mobile_tel] => 13599951535
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013537
+    [detail_fund_way] => 01
+    [id_enddate] => 2099-01-01
+    [fund_interface_type] => 1
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:16:01][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=1AFCF147571C4657864716E105FEE5752017012417160125218230&serial_no=bj2017012417160013130&capital_mode=l&merchant_name=test&id_kind_gb=0&id_no=350122198812076538&real_name=%E9%82%B9%E5%A5%8B&mobile_tel=13599951535&order_date=20170124&order_time=171600&bank_account=6228480068816522772&bank_no=103391013537]
+[17:16:01][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 1AFCF147571C4657864716E105FEE5752017012417160125218230
+    [serial_no] => bj2017012417160013130
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 171600
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680773","status":"9"}]}
+    [code] => 200
+)
+]
+[17:16:17][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=10CFA4EB4B6947D0B9C57C42B7B6CB302017012417161699812670&mobile_code=329798&sms_serial_no=1680773&original_serial_no=bj2017012417160013130&capital_mode=l&merchant_name=test&id_kind_gb=0&id_no=350122198812076538&mobile_tel=13599951535&order_date=20170124&order_time=171616&bank_account=6228480068816522772&bank_no=103391013537]
+[17:16:17][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 10CFA4EB4B6947D0B9C57C42B7B6CB302017012417161699812670
+    [mobile_code] => 329798
+    [sms_serial_no] => 1680773
+    [original_serial_no] => bj2017012417160013130
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 171616
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"status":"1"}]}
+    [code] => 200
+)
+]
+[17:16:22][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=10CFA4EB4B6947D0B9C57C42B7B6CB302017012417161699812670&trust_way=2&en_entrust_way=0%7C1%7C1%7C0%7C0%7C0%7C0%7C&order_date=2017-01-24&apply_time=2017-01-24&cust_type=l&client_full_name=%E9%82%B9%E5%A5%8B&client_name=%E9%82%B9%E5%A5%8B&fund_nationality=156&id_kind_gb=0&id_no=350122198812076538&password=d65999b4039b0ae2adc5d534fa7e96b8&mobile_tel=13599951535&bank_no=003&bank_name=%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E9%93%B6%E8%A1%8C&bank_account=6228480068816522772&bank_account_name=%E9%82%B9%E5%A5%8B&capital_mode=l&ta_no=B0&fund_card=&branchbank=103391013537&detail_fund_way=01&id_enddate=2099-01-01&fund_interface_type=1]
+[17:16:22][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/fundacct_direct_open_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 10CFA4EB4B6947D0B9C57C42B7B6CB302017012417161699812670
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 2017-01-24
+    [apply_time] => 2017-01-24
+    [cust_type] => l
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [mobile_tel] => 13599951535
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013537
+    [detail_fund_way] => 01
+    [id_enddate] => 2099-01-01
+    [fund_interface_type] => 1
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[17:42:01][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=5EE95A2FF44A4FB0A376A94EBD6F118B2017012417420086845347&serial_no=bj2017012417420085273&capital_mode=l&merchant_name=test&id_kind_gb=0&id_no=350122198812076538&real_name=%E9%82%B9%E5%A5%8B&mobile_tel=13599951535&order_date=20170124&order_time=174200&bank_account=6228480068816522772&bank_no=103391013537]
+[17:42:01][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5EE95A2FF44A4FB0A376A94EBD6F118B2017012417420086845347
+    [serial_no] => bj2017012417420085273
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 174200
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680781","status":"9"}]}
+    [code] => 200
+)
+]
+[17:42:15][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=F185B9D98A2646B3A1E01361A3D287862017012417421481708747&mobile_code=416667&sms_serial_no=1680781&original_serial_no=bj2017012417420085273&capital_mode=l&merchant_name=test&id_kind_gb=0&id_no=350122198812076538&mobile_tel=13599951535&order_date=20170124&order_time=174214&bank_account=6228480068816522772&bank_no=103391013537]
+[17:42:15][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F185B9D98A2646B3A1E01361A3D287862017012417421481708747
+    [mobile_code] => 416667
+    [sms_serial_no] => 1680781
+    [original_serial_no] => bj2017012417420085273
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170124
+    [order_time] => 174214
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"status":"1"}]}
+    [code] => 200
+)
+]
+[17:42:20][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=F185B9D98A2646B3A1E01361A3D287862017012417421481708747&trust_way=2&en_entrust_way=0%7C1%7C1%7C0%7C0%7C0%7C0%7C&order_date=20170124&apply_time=174215&cust_type=l&client_full_name=%E9%82%B9%E5%A5%8B&client_name=%E9%82%B9%E5%A5%8B&fund_nationality=156&id_kind_gb=0&id_no=350122198812076538&password=d65999b4039b0ae2adc5d534fa7e96b8&mobile_tel=13599951535&bank_no=003&bank_name=%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E9%93%B6%E8%A1%8C&bank_account=6228480068816522772&bank_account_name=%E9%82%B9%E5%A5%8B&capital_mode=l&ta_no=B0&fund_card=&branchbank=103391013537&detail_fund_way=01&id_enddate=2099-01-01&fund_interface_type=1]
+[17:42:20][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/fundacct_direct_open_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F185B9D98A2646B3A1E01361A3D287862017012417421481708747
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 20170124
+    [apply_time] => 174215
+    [cust_type] => l
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [mobile_tel] => 13599951535
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013537
+    [detail_fund_way] => 01
+    [id_enddate] => 2099-01-01
+    [fund_interface_type] => 1
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]

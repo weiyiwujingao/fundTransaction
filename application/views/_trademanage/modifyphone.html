@@ -1,0 +1,120 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+	<?php require_once(VIEWPATH . '/common/uc_sidebar.html');?> 
+        <div class="aMain">
+        	<h3 class="Title5">修改手机号</h3>
+            <div class="qstepBar Mt10">
+            	<a href="javascript:;" class="Cur">安全认证</a>
+                <a href="javascript:;">新增手机号验证</a>
+                <a href="javascript:;">修改成功</a>
+            </div>
+            <form class="Mt25">
+            	<div class="formP Tc">伯嘉基金已经向您的手机<?php echo mobileReplace($userInfo['Mobile']);?> 免费发送了一条校验短信，请查看并输入。</div>
+                <div class="formLi Pl130">
+                    <b class="bankPre"><i>*</i>短信验证码：</b>
+                    <span><input type="text" value="" id="modCodeTxt" class="w160"/></span>
+                    <a href="javascript:;" onClick="getMobileCode();" id="scBtn" class="codeBtn">获取短信验证</a>
+                    <em id="mCodeError"></em>
+                </div>
+                <div class="Mt30 Tc">
+					<input type="hidden" id="modTstr"/>
+					<input type="hidden" id="modVstr"/>
+                	<a href="javascript:;" onclick="subForm();" class="halfBtn">下一步</a>
+                </div>
+            </form>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js?v=201612141605"></script>
+    <script type="text/javascript">
+		getMobileCode();
+		$('.MenuCnt').QTab();//菜单滑动效果
+		
+		var T = 180,Time;//T倒计时实际，Time倒计时计时器
+		function codeClk(obj){//倒计时按钮点击事件
+			$(obj).codeTime();//传递参数是为清空暂停计时器起参数为下一次计时器时长例如60s，不传参数为启动计时器开始倒计时
+		}
+
+		function getMobileCode(){
+			if($('#scBtn').hasClass('Time')){
+	            return false;
+	        }
+			if($('#scBtn').hasClass('disClick')){
+            	$('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                return false;
+            }
+			$('#modCodeTxt').val('');
+	        $('#modTstr').val('');
+	        $('#modVstr').val('');
+			
+            $('#scBtn').addClass('disClick');
+			$.ajax({
+				url:  "<?php echo base_url(); ?>manage/modMobileCode.html",
+				cache:false,
+				type: 'post',
+				dataType: 'json',
+				data: {'tid':"<?= isset($tid)?$tid:'';?>",'type':4},
+				success : function(minfo){
+					$('#scBtn').removeClass('disClick');
+					 if(minfo['flag'] == '10000'){
+						 $('#modTstr').val(minfo['info']['stid']);
+						 $('#modVstr').val(minfo['info']['mkid']);
+						 countDown(180, '#scBtn');
+					 }else {
+                         $('#mCodeError').showTip('Error',minfo['msg']);
+                        return false;
+                     }
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    $('#msgBox').showWin("<p class='Tc'>数据提交失败，请联系技术人员！</p>");
+					return;
+				}
+			});
+		}
+
+		function subForm(){
+			var $modCodeTxt=$('#modCodeTxt').val();
+			var $modTstr = $('#modTstr').val();
+			var $modVstr = $('#modVstr').val();
+			var flag = true;
+			if($modCodeTxt==''){
+				$('#modCodeTxt').showTip('Error','验证码不能为空');
+				flag = false;
+			}
+			if(flag){
+				$.ajax({
+					url:"<?php echo base_url(); ?>manage/verifyCode.html",
+					type:"post",
+					dataType:"json",
+					data:{'tid':"<?= isset($tid)?$tid:'';?>",'stid':$modTstr,'mkid':$modVstr,'dcode':$modCodeTxt},
+					success:function(data){
+						if(data['flag']=='10000'){
+							window.location.href=data['url']
+						}else{
+							$('#msgBox').showWin("<p class='Tc'>"+data['msg']+"</p>");
+						}
+					},
+					error:function(){
+						$('#msgBox').showWin("<p class='Tc'>数据传输失败，请联系技术人员！</p>");
+					}
+				});
+			}
+		}
+    </script>
+</body>
+</html>

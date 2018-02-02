@@ -1,0 +1,236 @@
+[00:41:41][|-$param-|1]
+[00:42:32][|-$param-|1]
+[00:43:31][|-$param-|1]
+[00:46:40][|-$param-|1]
+[00:47:33][|-$param-|1]
+[00:50:54][|-$param-|1]
+[00:55:48][|-$param-|1]
+[00:55:58][|-$param-|1]
+[01:04:39][|-$param-|1]
+[09:01:55][|-$param-|1]
+[09:07:49][|-$param-|1]
+[09:14:29][|-$param-|1]
+[09:16:47][|-$param-|1]
+[09:19:39][|-$param-|1]
+[09:21:54][|-$param-|1]
+[09:23:34][|-$param-|1]
+[09:27:45][|-$param-|1]
+[09:34:52][|-$param-|1]
+[09:35:44][|-$param-|1]
+[09:43:55][|-$param-|1]
+[09:51:01][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[09:51:18][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[09:52:06][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:08:31][|-$param-|Array
+(
+    [UserID] => 206
+    [RegTime] => 2017-02-06 11:39:03
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:08:55][|-$param-|Array
+(
+    [UserID] => 206
+    [RegTime] => 2017-02-06 11:39:03
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:09:06][|-$param-|Array
+(
+    [UserID] => 206
+    [RegTime] => 2017-02-06 11:39:03
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:09:40][|-$param-|Array
+(
+    [UserID] => 206
+    [RegTime] => 2017-02-06 11:39:03
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:13:32][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:14:24][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:15:48][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:16:57][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:17:11][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:17:35][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:18:25][|-$param-|Array
+(
+    [UserID] => 169
+    [RegTime] => 2017-02-04 09:44:00
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:36:08][|-$param-|Array
+(
+    [UserID] => 206
+    [RegTime] => 2017-02-06 11:39:03
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:47:14][|-$param-|Array
+(
+    [UserID] => 181
+    [RegTime] => 2017-02-04 14:25:40
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:50:35][|-$param-|Array
+(
+    [UserID] => 181
+    [RegTime] => 2017-02-04 14:25:40
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[10:56:16][|-$param-|Array
+(
+    [UserID] => 181
+    [RegTime] => 2017-02-04 14:25:40
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[11:08:28][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[11:22:43][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[13:38:20][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[14:39:46][|-$param-|Array
+(
+    [UserID] => 196
+    [RegTime] => 2017-02-06 09:26:03
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[16:44:43][|-$param-|Array
+(
+    [UserID] => 220
+    [RegTime] => 2017-02-09 16:31:14
+    [RegIP] => 192.168.10.39
+    [RegPlatFormType] => 1
+)
+]
+[21:42:24][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[21:43:56][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[21:44:01][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]
+[21:44:13][|-$param-|Array
+(
+    [UserID] => 178
+    [RegTime] => 2017-02-04 13:39:12
+    [RegIP] => 192.168.15.235
+    [RegPlatFormType] => 1
+)
+]

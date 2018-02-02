@@ -1,0 +1,279 @@
+2017-02-03 09:32:38
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18671517368
+)
+|-result-|Array
+(
+    [Code] => 00
+    [Msg] => 有记录
+    [Record] => Array
+        (
+            [UserID] => 71
+        )
+
+)
+
+2017-02-03 09:34:56
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18671517368
+)
+|-result-|Array
+(
+    [Code] => 00
+    [Msg] => 有记录
+    [Record] => Array
+        (
+            [UserID] => 71
+        )
+
+)
+
+2017-02-03 09:40:25
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18671517368
+)
+|-result-|Array
+(
+    [Code] => 00
+    [Msg] => 有记录
+    [Record] => Array
+        (
+            [UserID] => 71
+        )
+
+)
+
+2017-02-03 09:43:55
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18671517368
+)
+|-result-|Array
+(
+    [Code] => 00
+    [Msg] => 有记录
+    [Record] => Array
+        (
+            [UserID] => 71
+        )
+
+)
+
+2017-02-03 09:45:44
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13071252005
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 09:58:11
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18671517368
+)
+|-result-|Array
+(
+    [Code] => 00
+    [Msg] => 有记录
+    [Record] => Array
+        (
+            [UserID] => 71
+        )
+
+)
+
+2017-02-03 11:05:42
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18671517368
+)
+|-result-|Array
+(
+    [Code] => 00
+    [Msg] => 有记录
+    [Record] => Array
+        (
+            [UserID] => 71
+        )
+
+)
+
+2017-02-03 11:09:48
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13071252005
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 13:10:34
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13071252005
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 13:19:04
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18671517368
+)
+|-result-|Array
+(
+    [Code] => 00
+    [Msg] => 有记录
+    [Record] => Array
+        (
+            [UserID] => 71
+        )
+
+)
+
+2017-02-03 13:26:54
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13477029958
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 13:41:18
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13477029958
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 13:57:10
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13037100638
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 14:06:29
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13037100638
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 15:39:14
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 18125530297
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 16:30:35
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13037100638
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-03 16:32:28
+|-cParam-|Array
+(
+    [Type] => 4
+    [CheckData] => 13338550457
+)
+|-result-|Array
+(
+    [Code] => 12
+    [Msg] => 没有记录
+    [Record] => Array
+        (
+        )
+
+)
+

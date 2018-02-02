@@ -1,0 +1,22 @@
+2017-02-11 00:18:57 |-info-| Array
+(
+    [content] => 尊敬的客户，您重置交易密码的验证码为：646448。如有疑问请致电400-027-9899。
+    [mobile] => 18065043496
+    [type] => 9
+    [channel] => 9
+    [sign] => 0
+)
+
+2017-02-11 00:18:57|-postParam-|Array
+(
+    [p.apiKey] => 8BE5k8204bo33F382JIA951F24
+    [p.can] => 1
+    [p.msg] => %E5%B0%8A%E6%95%AC%E7%9A%84%E5%AE%A2%E6%88%B7%EF%BC%8C%E6%82%A8%E9%87%8D%E7%BD%AE%E4%BA%A4%E6%98%93%E5%AF%86%E7%A0%81%E7%9A%84%E9%AA%8C%E8%AF%81%E7%A0%81%E4%B8%BA%EF%BC%9A646448%E3%80%82%E5%A6%82%E6%9C%89%E7%96%91%E9%97%AE%E8%AF%B7%E8%87%B4%E7%94%B5400-027-9899%E3%80%82
+    [p.priority] => 0
+    [p.receiver] => 18065043496
+    [p.sendChannel] => 9
+    [p.smstype] => 2
+    [p.sysType] => 1
+    [p.sign] => 0
+)
+|-smsRs-|0

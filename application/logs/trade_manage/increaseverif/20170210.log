@@ -1,0 +1,39 @@
+[13:25:14][|-$mobile-|18950473074|-$userID-|169|-$tid-|1486700241|-$ftid-|1486704274|-$mkid-|acf4fa322877a95a]
+[13:25:14][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18950473074
+    [IP] => 192.168.15.235
+    [CheckCode] => 437949
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:50:59][|-$mobile-|18065043496|-$userID-|169|-$tid-|1486705796|-$ftid-|1486705842|-$mkid-|1d4715ae815dcb05]
+[13:50:59][|-$cParam-|Array
+(
+    [Type] => 1
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 450531
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[13:58:17][|-$mobile-|13337804077|-$userID-|178|-$tid-|1486705969|-$ftid-|1486706012|-$mkid-|925ac9091b2aa93e]

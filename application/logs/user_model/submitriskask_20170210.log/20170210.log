@@ -1,0 +1,22 @@
+[13:37:15][|-Param-|Array
+(
+    [UserID] => 170
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 原方
+    [id_kind_gb] => 0
+    [id_no] => 422201100000000427
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]
+[14:03:37][|-Param-|Array
+(
+    [UserID] => 174
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 董长庚
+    [id_kind_gb] => 0
+    [id_no] => 429006198002245775
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]

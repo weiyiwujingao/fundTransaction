@@ -1,0 +1,162 @@
+[15:39:50][access_token获取失败
+json_data:]
+[15:40:00][access_token获取失败
+json_data:]
+[15:40:05][access_token获取失败
+json_data:]
+[15:40:10][access_token获取失败
+json_data:]
+[15:42:54][access_token获取失败
+json_data:]
+[15:52:45][access_token获取失败
+json_data:]
+[16:02:40][access_token获取
+json_data:Array
+(
+    [token_type] => bearer
+    [access_token] => 7CD3C247811F4602A4B718FED936B2C72017012216024148193066
+    [expires_in] => 86400
+    [refresh_token] => F9CC06AFFFA74293BE619BD2539A204A2017012216024148087144
+    [scope] => iuc,cw
+)
+]
+[16:02:40][access_token获取
+json_data:Array
+(
+    [token_type] => bearer
+    [access_token] => 177D807DD51A41CF999B4D6EA5C379FD2017012216024176310425
+    [expires_in] => 86400
+    [refresh_token] => 9AB42BA6C9934799BFB4EE8ECE17DAD22017012216024176329886
+    [scope] => iuc,cw
+)
+]
+[16:02:42][access_token获取
+json_data:]
+[16:02:42][access_token获取失败
+json_data:]
+[16:02:52][access_token获取
+json_data:]
+[16:02:52][access_token获取失败
+json_data:]
+[16:05:56][access_token参数：Array
+(
+    [open_id] => 345bb87cb20f7a30daefb358f6ce05b2
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [token_type] => bearer
+    [access_token] => 96AAF9A7F7B44886BAD9DA5BF9561BB32017012216055732198642
+    [expires_in] => 86400
+    [refresh_token] => D280D0B54DCF4374B7DA9F51568E49F02017012216055732190369
+    [scope] => iuc,cw
+)
+]
+[16:05:56][access_token参数：Array
+(
+    [open_id] => 345bb87cb20f7a30daefb358f6ce05b2
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [token_type] => bearer
+    [access_token] => 79C18CF77976425F9640CD26D35CFEE72017012216055758703370
+    [expires_in] => 86400
+    [refresh_token] => 453BF8753B8F4E99BFA8FA9DA568CC042017012216055758640764
+    [scope] => iuc,cw
+)
+]
+[16:06:53][access_token参数：Array
+(
+    [open_id] => ae0e00ca2c1704aabe363f3ca78e16c7
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [data] => {"token_type":"bearer","access_token":"E07AA10BAF4242AA8F509707D98366DB2017012216065453306743","expires_in":86400,"refresh_token":"F3D6CDD86E3145E19B5A40243E7819E22017012216065453218848","scope":"iuc,cw"}
+    [code] => 200
+)
+]
+[16:06:53][access_token参数：Array
+(
+    [open_id] => ae0e00ca2c1704aabe363f3ca78e16c7
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [data] => {"token_type":"bearer","access_token":"1BA5D0E4C79142FDB957498CBDF08F3D2017012216065480715957","expires_in":86400,"refresh_token":"68A09FFC95EB4D83A7EFDF6DFBEAF66C2017012216065480729952","scope":"iuc,cw"}
+    [code] => 200
+)
+]
+[16:07:33][access_token参数：Array
+(
+    [open_id] => e42076a325782963c913b87395a4ca1c
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [data] => {"token_type":"bearer","access_token":"9F85E06BF264477AA48AFDE6D57B24FC2017012216073465466689","expires_in":86400,"refresh_token":"85785E7BCFC74C869690BA06905090B32017012216073465409905","scope":"iuc,cw"}
+    [code] => 200
+)
+]
+[16:07:34][access_token参数：Array
+(
+    [open_id] => e42076a325782963c913b87395a4ca1c
+    [client_id] => cc7acb8e-80d0-49e2-b356-26e39d45b1f3
+    [grant_type] => client_credentials
+    [client_secret] => 09462c9b-1be7-4557-b772-7ebb60014549
+)
+
+json_data:Array
+(
+    [data] => {"token_type":"bearer","access_token":"D40F593C27D944A9AC48A62315D8FD312017012216073490357606","expires_in":86400,"refresh_token":"FFBA70A4411F4712B00FC3785107EFB42017012216073490384219","scope":"iuc,cw"}
+    [code] => 200
+)
+]
+[16:09:12][access_token参数：
+json_data:BA9856FA2C8842D996A5BE6234EBA7252017012216091344501834]
+[16:09:12][access_token参数：
+json_data:5C7AD10D5AAF4463B1E872232873E8112017012216091370576976]
+[16:09:32][access_token参数：
+json_data:26CA1AEF21DA451B8C0B1D57E80F4D102017012216093383088310]
+[16:09:33][access_token参数：
+json_data:0AC52FFA4C20402382773A17B1015DAC2017012216093409067882]
+[16:09:36][access_token参数：
+json_data:8E98C23EA0EF4850B40E1985253BFA382017012216093746781645]
+[16:09:36][access_token参数：
+json_data:98C841B96D014FDD88AFD20C73DE262C2017012216093769099512]
+[16:41:58][access_token获取失败
+json_data:]
+[16:42:08][access_token获取失败
+json_data:]
+[16:42:13][access_token获取失败
+json_data:]
+[16:42:18][access_token获取失败
+json_data:]
+[17:09:55][access_token获取失败
+json_data:]
+[17:10:05][access_token获取失败
+json_data:]
+[17:10:10][access_token获取失败
+json_data:]
+[17:28:10][access_token获取失败
+json_data:]
+[17:28:20][access_token获取失败
+json_data:]
+[17:28:25][access_token获取失败
+json_data:]

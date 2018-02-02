@@ -1,0 +1,312 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/login_nav.html');?>
+<?php require_once(VIEWPATH . '/common/reg_banner.html');?>
+
+    <div class="allCnt Mt20">
+    	
+        <div class="qstepBar">
+            <a href="javascript:;" class="Cur">基本资料填写</a>
+            <a href="javascript:;">银行卡关联</a>
+            <a href="javascript:;">开户成功</a>
+        </div>
+        <h3 class="Title Tc">个人客户</h3>
+        <form class="formPre">
+        	<div class="formLi">
+            	<b class="bankPre"><i>*</i>手机号码：</b>
+                <span><input type="text" id="regMobile" value="" class="tel w340" /></span>
+                <em id="mobileError"></em>
+            </div>
+            <div class="formLi">
+                <b class="bankPre"><i>*</i>图片验证码：</b>
+                <span><input type="text" id="pCode" value="" class="w160" /></span>
+                <a href="javascript:;" onclick="javascript:getcode(1);" class="codeImg"><img id="verifyCode" src="" title=""></a>
+                <em id="pCodeError"></em>
+            </div>
+            <div class="formLi">
+            	<b class="bankPre"><i>*</i>短信验证码：</b>
+                <span><input maxlength='8' id="mCode" type="text" value="" class="w160"/></span>
+                <a href="javascript:;" onClick="getMobileCode();" id="scBtn" class="codeBtn">获取短信验证</a>
+                <em id="mCodeError"></em>
+            </div>
+            <div class="formLi">
+            	<b class="bankPre"><i>*</i>登录密码：</b>
+                <span><input maxlength='25' type="password" id="regPswd" onKeyUp="keyPass(this);" class="w340" /></span>
+                <em id="pswdError"></em>
+            </div>
+            <p class="formTip">8-20个字符，可由数字，字母和_@#$组成（必须包含两种以上类型组合）。</p>
+            <div class="pwdStr" id="Pst">
+            	<span class="ruo">弱</span>
+                <span class="zhong">中</span>
+                <span class="qiang">强</span>
+            </div>
+            <div class="formLi">
+            	<b class="bankPre"><i>*</i>再输一次密码：</b>
+                <span><input type="password" maxlength='25' id="comRegPswd" class="w340" /></span>
+                <em id="comPswdError"></em>
+            </div>
+            <div class="protocol">
+                <span class="uChkBox"><i><input id="regAgree" type="checkbox" value="" checked /></i></span>
+               	<a href="<?php echo WEB_PROTOCOL;?>" target="_blank" class="blue">《用户服务协议》</a>
+                <a href="<?php echo WEB_PROTOCOL;?>" target="_blank" class="blue">投资人权益协议</a>
+            </div>
+            <div class="formLi btnPre Mt10">
+                <input id="tstr" class="tstr" type="hidden">
+                <input id="vstr" class="vstr" type="hidden">
+                <input id="tstr2" class="tstr2" type="hidden">
+                <input id="vstr2" class="vstr2" type="hidden">
+                <input id="tmid" class="tmid" type="hidden">
+                <input id="codeID" class="codeID" type="hidden">
+                <input id="codeIDX" class="codeIDX" type="hidden">
+            	<a href="javascript:;" onClick="subForm();" class="loginBtn" id="regBtn">我已阅读并同意以上协议，下一步</a>
+                <b>已有账号?<a href="<?php echo TRADE_LOGIN_URL;?>" class="blue">立即登录</a></b>
+            </div>
+            <p class="formDes">开户时有任何疑问或建议，可致电客服：400-027-9899</p>
+        </form>
+    </div>
+    
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    
+    <!--弹窗开始-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p>你已经输入密码错误四次，再次输入错误，30分钟内禁止登录本站</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" class="redBtn">确定</a>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js"></script>
+    <script type="text/javascript">
+		$('.uChkBox').uCheckBox();/*多选框美化*/
+		$('.tel').inpTel();/*电话号码格式验证*/
+		function codeClk(obj){//倒计时按钮点击事件
+			$(obj).codeTime();//传递参数是为清空暂停计时器起参数为下一次计时器时长例如60s，不传参数为启动计时器开始倒计时
+		}
+		function keyPass(obj){//密码输入框键盘事件
+			pwdStre('regPswd');//密码强弱等级显示
+		}
+
+       function nullTxt(obj,name){//空校验 仅供参考
+            if($(obj).val() == ''){
+                $(obj).showTip('Error',name+'不能为空');
+            }else{
+                $(obj).showTip('Right');
+            }
+        }
+		function nullPswdTxt(obj,name){//空校验 仅供参考
+			if($(obj).val() == ''){
+				$(obj).showTip('Error',name+'不能为空');
+			}else{
+	            cr = checkPswd($(obj).val());
+	            if(cr != '10'){
+	                $('#pswdError').showTip('Error', arrPswdError[cr]);
+	                return false;
+	            }
+	            
+				$(obj).showTip('Right');
+			}
+		}
+		function telWin(obj){//电话弹窗提示示例 具体提示请程序根据时间操作进行
+			var str = $(obj).val();
+            if(!(toolTest.IsPhoneNum(str))){
+                $('#mobileError').showTip('Error', '请输入正确的手机号！');
+                return false;
+            } else {
+            	$('#mobileError').showTip('Right', '');
+            }
+		}
+		
+        function surePaaa(obj){//确认密码框失去焦点事件
+          
+            if($(obj).val() == ''){
+            	$('#comPswdError').showTip('Error', '请再输一次密码!');
+            }else if($('#regPswd').val() != $(obj).val()){
+            	$('#comPswdError').showTip('Error', '两次输入密码不相同!');            
+            }else{
+            	$(obj).showTip('Right');
+            }
+        }
+		
+	    getcode(0);
+	    function getcode(ischange){
+	        $.ajax({
+	            url:  "<?php echo $verifyCodeUrl; ?>",
+	            cache:false,
+	            type: 'post',
+	            dataType: 'json',
+	            data: 'action=ajaxGetCode&tid=<?php echo $tid; ?>&kid=<?php echo $ckid; ?>&type=1',
+	            success : function(minfo){
+	                 if(minfo.flag == '10000'){
+	                     $('#verifyCode').attr('src','<?php echo $verifyCodeShowUrl; ?>?tid=<?php echo $tid; ?>&kid=<?php echo $ckid; ?>&type=1&tstr=' + minfo.info['tstr']+'&vstr=' + minfo.info['vstr']+'&vstrx='+ minfo.info['x']);
+	                     $('#verifyCode').attr('style','display:inline-block;cursor:pointer;');
+	                     $('#tstr').val(minfo.info['tstr']);
+	                     $('#codeID').val(minfo.info['vstr']);
+	                     $('#codeIDX').val(minfo.info['x']);
+	                     if (ischange) {
+	                         $('.codeInput').attr('disabled', false);
+	                     }
+	                 } else {
+	                     alert(minfo.msg);
+	                     return false;
+	                 }
+	            },
+	            error: function(XMLHttpRequest, textStatus, errorThrown) {
+	                alert('数据提交失败，请重新提交！');
+	                return;
+	            }
+	        });
+	    }
+	    
+	    
+	    function getMobileCode(){
+	        if($('#scBtn').hasClass('Time')){
+	            return false;
+	        }
+	        var regMobile = $('#regMobile').val();
+	        var pCode = $('#pCode').val();
+	        var codeID = $('#codeID').val();
+	        var codeIDX = $('#codeIDX').val();
+	        var tstr = $('#tstr').val();
+            if(!(toolTest.IsPhoneNum(regMobile))){
+            	$('#mobileError').showTip('Error', '请输入正确的手机号！');
+                return false;
+            }
+            $('#mobileError').showTip('Right', '');
+            if(!(toolTest.ValPicCode(pCode))){
+                $('#pCodeError').showTip('Error', '请输入正确的图片验证码！');
+                return false;
+            }
+            $('#pCodeError').showTip('Right', '');
+            if(!codeIDX || !codeID || !tstr){
+                $('#msgBox').showWin("<p>验证码信息有误，请刷新页面重试！</p>");
+                return false;
+            }
+            
+            if($('#scBtn').hasClass('disClick')){
+            	$('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                return false;
+            }
+            $('#scBtn').addClass('disClick');
+            $.ajax({
+                url:  "<?php echo $regUrl; ?>/getmobilecode",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'tid=<?php echo $tid; ?>&kid=<?php echo $ckid; ?>&type=1&mobile=' + regMobile + '&pcode='+pCode + '&codeid='+codeID + '&codeidx='+codeIDX+ '&tstr='+tstr,
+                success : function(minfo){
+                	 $('#scBtn').removeClass('disClick');
+                     if(minfo.flag == '10000'){
+                         $('#tstr2').val(minfo.info['tstr']);
+                         $('#vstr2').val(minfo.info['vstr']);
+                         $('#tmid').val(minfo.info['tmid']);
+                         countDown(180, '#scBtn');
+
+                     } else if(minfo.flag == '10301'){
+                    	 $('#pCodeError').showTip('Error', minfo.msg);
+                     } else {
+                         $('#msgBox').showWin('<p>'+minfo.msg+'</p>');
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                	$('#scBtn').removeClass('disClick');
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+
+
+	    }
+	    
+        function subForm(){//表单提交按钮点击事件，仅供参考
+            if(!$('#regAgree').is(':checked')){
+                alert('请先同意并阅读协议');
+                return false;
+            }
+        
+            var regMobile = $('#regMobile').val();
+            var mCode = $('#mCode').val();
+            var pCode = $('#pCode').val();
+            if(!(toolTest.IsPhoneNum(regMobile))){
+                $('#mobileError').showTip('Error', '请输入正确的手机号！');
+                return false;
+            }
+            $('#mobileError').showTip('Right', '');
+            
+            if(!(toolTest.ValPicCode(pCode))){
+                $('#pCodeError').showTip('Error', '请输入正确的图片验证码！');
+                return false;
+            }
+            $('#pCodeError').showTip('Right', '');
+            if(!(toolTest.ValMsgCode(mCode))){
+                $('#mCodeError').showTip('Error', '请输入正确的短信验证码！');
+                return false;
+            }
+            $('#mCodeError').showTip('Right', '');
+            
+            var regPswd = $('#regPswd').val();
+            var comRegPswd = $('#comRegPswd').val();
+            var cr;
+            cr = checkPswd(regPswd);
+            if(cr != '10'){
+                $('#pswdError').showTip('Error', arrPswdError[cr]);
+                return false;
+            }
+            
+            if(regPswd != comRegPswd){
+                $('#comPswdError').showTip('Error', '确认密码不正确，请重新输入');
+                return false;
+            }
+            
+            var tstr = $('#tstr2').val();
+            var vstr = $('#vstr2').val();
+            var tmid = $('#tmid').val();
+            if(tstr == '' || vstr == '' || tmid== ''){
+                $('#msgBox').showWin('<p>验证参数错误！</p>');
+                return false;
+            }
+            
+            if($('#regBtn').hasClass('disClick')){
+                $('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                return false;
+            }
+            $('#regBtn').addClass('disClick');
+        
+            $.ajax({
+                url:  "<?php echo $regUrl; ?>/ajaxregaction",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'tid=<?php echo $tid; ?>&kid=<?php echo $ckid; ?>&type=1&mobile=' + regMobile + '&pcode='+pCode + '&mcode='+mCode + '&tstr='+tstr + '&vstr='+vstr + '&tmid='+tmid+ '&pswd='+regPswd+ '&cpswd='+comRegPswd,
+                success : function(minfo){
+                     $('#regBtn').removeClass('disClick');
+                     if(minfo.flag == '10000'){
+                    	   window.location.href = minfo.info;
+                     } else {
+                         $('#msgBox').showWin('<p>'+minfo.msg+'</p>');
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                	$('#regBtn').removeClass('disClick');
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+            
+            
+            
+        }
+        
+        //绑定回车键
+        document.body.onkeydown=function(e){
+            e=e||window.event;
+            if(e.keyCode==13){
+            	subForm();
+            }
+        }
+    </script>
+</body>
+</html>

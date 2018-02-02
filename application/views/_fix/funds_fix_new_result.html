@@ -1,0 +1,34 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">基金定投</h3>
+            <div class="qstepBar Mt10">
+                <a href="javascript:;">基金定投</a>
+                <a href="javascript:;">预览定投计划</a>
+                <a href="javascript:;" class="Cur">申请受理</a>
+            </div>
+           	<h3 class="Title Tc Mt25">基金定投计划设置<?php echo $success ? '成功' : '失败'; ?></h3>
+            <?php if ($success) : ?>
+            <p class="accDes"><?php echo "{$acco_info}在每{$period}的{$fix_day}日定投{$balance}元{$fund_name}"; ?></p>
+            <?php else : ?>
+            <p class="accDes"><?php echo $info; ?></p>
+            <?php endif; ?>
+            <p class="accDes"><?php echo date('Y-m-d H:i:s', time()); ?></p>
+            <div class="Mt25 Tc">
+            	 <a href="<?php echo $success ? base_url() . 'fix/index.html' : base_url() . 'fix/new.html?fundcode=' . $fund_code; ?>" class="halfBtn Ml25"><?php echo $success ? '查看我的定投计划' : '返回重试'; ?></a>
+            </div>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612271635"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+    </script>

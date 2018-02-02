@@ -1,0 +1,18 @@
+[20:22:37][|-Param-|Array
+(
+    [UserID] => 167
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 中国农业银行
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]
+[20:22:38][|-aRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]

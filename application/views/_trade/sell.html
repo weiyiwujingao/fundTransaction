@@ -1,0 +1,122 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+	<?php require_once(VIEWPATH . '/common/uc_sidebar.html');?> 
+        <div class="aMain">
+        	<h3 class="Title5">卖基金</h3>
+            <div class="qstepBar fourStep">
+                <a href="javascript:;">选择卖出基金</a>
+                <a href="javascript:;" class="Cur">卖出基金</a>
+                <a href="javascript:;">预览确认</a>
+                <a href="javascript:;">申请受理</a>
+            </div>
+            <form class="Mt20" id="form" name="form" method="post" action="<?php echo base_url().'trade/sellpreview.html';?>" >
+			<?php if(isset($data['0']) && $data['0']):?>
+            	<div class="formP">
+            		<b class="bankPre">卖出基金名称：</b>
+                	<b><?=$data['0']['fund_name']?></b>
+                    <b>(可用份额<i><?=$data['0']['enable_shares']?></i>份)</b>
+                </div>
+                <div class="formP">
+            		<b class="bankPre">收费方式：</b>
+                    <b><?=$data['0']['share_type']?></b>
+                	<a href="<?php echo WEB_URL.'/fund/'.$data['0']['fund_code'].'/jjfl';?>" class="blue" target="_blank">查看赎回费率</a>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">卖出基金到：</b>
+                    <span class="FormSlt w340">
+                    	<select name="selecltbanks">
+						<?php if($bank):?>
+						<?php foreach($bank as $k=>$v):?>
+                        	<option><?=$v['bankname'].'（'.$v['bankcode'].'）'?></option>
+						<?php endforeach ?>
+						<?php endif?>
+                        </select>
+                    </span>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre"><i>*</i>卖出份额：</b>
+                    <span><input type="text" name="share_data" id="share_data" value="" onBlur="crashInp(this);" class="money w225" /></span>
+                    <b class="eMl7">份</b>
+                    <a href="javascript:;" onClick="allsell(this);" class="perBtn" minNum="<?=$data['0']['lock_share']?>" allNum="<?php echo $data['0']['enable_shares'];?>">全部份额</a>
+                    <em></em>
+                </div>
+                
+                <div class="formLi">
+                	<b>当基金发生巨额赎回时，选择下一交易日</b>
+                    <span class="uRadio">连续赎回<i><input type="radio" name="isBack" value="1" checked="checked"></i></span>
+                    <span class="uRadio">取消赎回<i><input type="radio" name="isBack" value="0"></i></span>
+                </div>
+                <div class="Mt20 Pl130">
+                	<a href="javascript:;" onClick="subForm(this);" class="halfBtn">下一步</a>
+                    <a href="javascript:;" onClick="history.go(-1);" class="navyBtn">返回上一页</a>
+                </div>
+				<input type="hidden" value="<?=$data['0']['fund_code']?>" name="fundcode" >
+				<input type="hidden" value="<?=$data['0']['fund_name']?>" name="fundname" >
+				<input type="hidden" value="<?=$data['0']['share_type']?>" name="share_type">
+				<input type="hidden" value="<?=$minvalue?>" id="lock_share">
+			<?php endif?>
+            </form>
+            <div class="Explain">
+            	<h3>说明：</h3>
+                <p>1、申请份额不能低于最低卖出份额，如果卖出后剩余份额低于最低份额，请全部一起卖出，否则不能进行卖出。</p>
+                <p>2、若基金发生巨额赎回时，请选择下一交易日的赎回方式。</p>
+            </div>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js?v=2016120514221102"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.uRadio').uRadio();/*单选框美化*/
+		$('.FormSlt').uSelect();/*select美化*/
+		
+		$('.money').inpCash();//现金输入金额限制，大小写关联
+		var minlimit = $("#lock_share").val();
+		var all = "<?php echo $data['0']['enable_shares'];?>";
+		getvalue('fundcode');	
+		function crashInp(obj){//现金输入
+			var p = $(obj).parents('.formLi'),
+			tip = $(p).next().find('i'),
+			numStr = $(obj).val();
+			if(numStr == ''){
+				$(obj).showTip('Error','不能为空!');
+			}			
+		}
+		function passInp(obj){//密码输入框空判断
+			var str = $(obj).val();
+			if(str == ''){
+				$(obj).showTip('Error','不能为空');
+			}else{
+				$(obj).showTip('Right');
+			}
+		}
+		function allsell(){			
+			$("#share_data").val(all);
+			
+		}
+		function subForm(obj){//表单提交事件
+			var p = $(obj).parents('form'),
+			flag = true,
+			str = parseFloat($('.money').val());
+			if(str == ''){
+				flag = false;
+				$('.money').showTip('Error','不能为空');
+			}
+			if(minlimit>(all-str)&&str<all){
+				flag = false;
+				$('.money').showTip('Error','剩余份额低于最低份额，请重新输入！');
+			}
+			if(str>all){
+				flag = false;
+				$('.money').showTip('Error','卖出份额大于持有份额，请重新输入！');
+			}
+			if(flag){
+				$(p).submit();
+			}
+		}
+    </script>
+</body>
+</html>

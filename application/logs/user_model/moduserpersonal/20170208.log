@@ -1,0 +1,984 @@
+[14:53:06][|-xParam-|Array
+(
+    [home_tel] => 12345678987
+    [address] => 和哈哈哈哈哈哈
+    [zipcode] => 430000
+    [e_mail] => 1234567892@qq.com
+    [ofund_prof_code] => 5
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[14:53:06][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:12:36][|-xParam-|Array
+(
+    [home_tel] => 02787532012
+    [address] => 湖北省武汉市五角塘小学
+    [zipcode] => 430000
+    [e_mail] => 1160076822@qq.com
+    [ofund_prof_code] => 5
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[15:12:36][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:13:34][|-xParam-|Array
+(
+    [home_tel] => 02787532012
+    [address] => 湖北省武汉市五角塘小学
+    [zipcode] => 430000
+    [e_mail] => 1160076822@qq.com
+    [ofund_prof_code] => 5
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[15:13:34][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:13:39][|-xParam-|Array
+(
+    [home_tel] => 02787532012
+    [address] => 湖北省武汉市五角塘小学
+    [zipcode] => 430000
+    [e_mail] => 1160076822@qq.com
+    [ofund_prof_code] => 5
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[15:13:39][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[15:14:07][|-xParam-|Array
+(
+    [home_tel] => 02787532012
+    [address] => 湖北省武汉市五角塘小学
+    [zipcode] => 430000
+    [e_mail] => 1160076822@qq.com
+    [ofund_prof_code] => 5
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[15:14:08][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[15:22:35][|-xParam-|Array
+(
+    [home_tel] => 0278753321
+    [address] => 湖北省武汉市五角塘小学
+    [zipcode] => 430000
+    [e_mail] => 1160076821@QQ.COM
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[15:22:35][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:23:58][|-xParam-|Array
+(
+    [home_tel] => 0278753321
+    [address] => 湖北省武汉市五角塘小学
+    [zipcode] => 430000
+    [e_mail] => 1160076821@QQ.COM
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[15:23:58][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:24:41][|-xParam-|Array
+(
+    [home_tel] => 0278753321
+    [address] => 湖北省武汉市五角塘小学
+    [zipcode] => 430000
+    [e_mail] => 1160076821@QQ.COM
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[15:24:41][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:28:23][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [ofund_prof_code] => 7
+    [statement_flag] => 2303
+    [trust_way] => 2
+    [trade_acco] => 1172
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [trade_account_name] => 
+)
+]
+[15:28:23][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:28:33][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [ofund_prof_code] => 7
+    [statement_flag] => 2303
+    [trust_way] => 2
+    [trade_acco] => 1172
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [trade_account_name] => 
+)
+]
+[15:28:33][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:28:50][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [ofund_prof_code] => 7
+    [statement_flag] => 2303
+    [trust_way] => 2
+    [trade_acco] => 1172
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [trade_account_name] => 
+)
+]
+[15:28:50][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[15:30:07][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [ofund_prof_code] => 7
+    [statement_flag] => 2303
+    [trust_way] => 2
+    [trade_acco] => 1172
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [trade_account_name] => 
+)
+]
+[15:30:12][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[15:30:17][|-xParam-|Array
+(
+    [home_tel] => 123456
+    [address] => 123456
+    [zipcode] => 123456
+    [e_mail] => 123456@qq.com
+    [ofund_prof_code] => 7
+    [statement_flag] => 2303
+    [trust_way] => 2
+    [trade_acco] => 1172
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [id_kind_gb] => 0
+    [id_no] => 4222199201010427
+    [trade_account_name] => 
+)
+]
+[15:30:17][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[16:31:01][|-xParam-|Array
+(
+    [home_tel] => 2341234134
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:31:01][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[16:31:07][|-xParam-|Array
+(
+    [home_tel] => 2341234134
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:31:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[16:33:45][|-xParam-|Array
+(
+    [home_tel] => 2341234134
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:33:45][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[16:34:10][|-xParam-|Array
+(
+    [home_tel] => 322341341
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:34:10][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[16:35:41][|-xParam-|Array
+(
+    [home_tel] => 322341341
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:35:41][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[16:35:56][|-xParam-|Array
+(
+    [home_tel] => 3453453252
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:35:57][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[16:38:39][|-xParam-|Array
+(
+    [home_tel] => 3453453345353
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:38:39][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2578
+                    [error_info] => TA[B0]不能同时修改客户姓名和证件号码
+                )
+
+        )
+
+)
+]
+[16:39:27][|-xParam-|Array
+(
+    [home_tel] => 3453453345353
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [trade_account_name] => 
+)
+]
+[16:39:27][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1112
+                    [error_info] => 校验投资者年龄时输入客户信息不全
+                )
+
+        )
+
+)
+]
+[16:39:57][|-xParam-|Array
+(
+    [home_tel] => 3453453345353
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:39:57][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2578
+                    [error_info] => TA[B0]不能同时修改客户姓名和证件号码
+                )
+
+        )
+
+)
+]
+[16:41:41][|-xParam-|Array
+(
+    [home_tel] => 3453453345353
+    [trust_way] => 2
+    [trade_acco] => 1155
+    [id_kind_gb] => 0
+    [id_no] => 323333197710076666
+    [trade_account_name] => 
+)
+]
+[16:41:42][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2578
+                    [error_info] => TA[B0]不能同时修改客户姓名和证件号码
+                )
+
+        )
+
+)
+]
+[17:03:34][|-xParam-|Array
+(
+    [home_tel] => 02712345678
+    [address] => 1111111111
+    [zipcode] => 430000
+    [e_mail] => 1234567892@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[17:03:34][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0102
+                    [error_info] => 请输入正确的密码。
+                )
+
+        )
+
+)
+]
+[17:03:41][|-xParam-|Array
+(
+    [home_tel] => 02712345678
+    [address] => 1111111111
+    [zipcode] => 430000
+    [e_mail] => 1234567892@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[17:03:41][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[17:03:54][|-xParam-|Array
+(
+    [home_tel] => 02712345678
+    [address] => 1111111111
+    [zipcode] => 430000
+    [e_mail] => 1234567892@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[17:03:54][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[17:04:18][|-xParam-|Array
+(
+    [home_tel] => 02712345678
+    [address] => 1111111111
+    [zipcode] => 430000
+    [e_mail] => 1234567892@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[17:04:19][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[17:11:16][|-xParam-|Array
+(
+    [home_tel] => 02787530320
+    [address] => 11111111
+    [zipcode] => 430000
+    [e_mail] => 1160076821@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[17:11:16][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 1353
+                    [error_info] => 交易账号已锁定
+                )
+
+        )
+
+)
+]
+[17:17:38][|-xParam-|Array
+(
+    [home_tel] => 02787530320
+    [address] => 吾问无为谓呜呜呜
+    [zipcode] => 430000
+    [e_mail] => 1160076821@qq.com
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[17:17:38][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0101
+                    [error_info] => 应用错误，请与系统管理员联系。
+                )
+
+        )
+
+)
+]
+[17:24:29][|-xParam-|Array
+(
+    [home_tel] => 02787530321
+    [address] => 呜呜呜呜呜呜
+    [zipcode] => 430000
+    [e_mail] => 1160076821@qq.com
+    [ofund_prof_code] => 5
+    [statement_flag] => 2
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 
+)
+]
+[17:24:29][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0101
+                    [error_info] => 应用错误，请与系统管理员联系。
+                )
+
+        )
+
+)
+]
+[17:27:15][|-xParam-|Array
+(
+    [home_tel] => 02787530321
+    [address] => 吾问无为谓呜呜呜
+    [zipcode] => 430000
+    [e_mail] => 1160076821@qq.com
+    [ofund_prof_code] => 1
+    [statement_flag] => 1
+    [check_send_way] => 1
+    [trust_way] => 2
+    [trade_acco] => 1164
+    [client_full_name] => 严萌
+    [client_name] => 严萌
+    [id_kind_gb] => 0
+    [id_no] => 420111199508286623
+    [trade_account_name] => 严萌
+)
+]
+[17:27:16][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170208000042
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[17:27:16][|-dParam-|Array
+(
+    [TelPhone] => 02787530321
+    [Address] => 吾问无为谓呜呜呜
+    [Postal] => 430000
+    [Email] => 1160076821@qq.com
+    [Job] => 1
+    [SendRate] => 1
+    [SendMethod] => a:1:{i:0;i:1;}
+    [UserID] => 196
+)
+]

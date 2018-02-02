@@ -1,0 +1,74 @@
+[09:08:46][|-param-|Array
+(
+    [mobile] => 18065043496
+    [code] => 
+    [tmpMobileID] => 
+    [IP] => 192.168.10.85
+    [sType] => 2
+    [sign] => bj_reg_check
+)
+]
+[09:29:34][|-param-|Array
+(
+    [mobile] => 18065043496
+    [code] => 136619
+    [UserID] => 21
+    [IP] => 192.168.10.85
+    [sType] => 2
+    [sign] => bj_reg_check
+)
+]
+[09:31:26][|-param-|Array
+(
+    [mobile] => 18065043496
+    [code] => 140873
+    [UserID] => 21
+    [IP] => 192.168.10.85
+    [sType] => 2
+    [sign] => bj_reg_check
+)
+]
+[09:35:39][|-param-|Array
+(
+    [mobile] => 18065043496
+    [code] => 419861
+    [userID] => 21
+    [IP] => 192.168.10.85
+    [sType] => 2
+    [sign] => bj_reg_check
+)
+]
+[09:35:39][|m_code_key|sendsmscachebj_reg_check2118065043496]
+[10:56:54][|-param-|Array
+(
+    [mobile] => 18065043496
+    [code] => 679720
+    [userID] => 21
+    [IP] => 192.168.10.85
+    [sType] => 2
+    [sign] => bj_reg_check
+)
+]
+[10:56:54][|m_code_key|sendsmscachebj_reg_check2118065043496]
+[11:57:51][|-param-|Array
+(
+    [mobile] => 18065043496
+    [code] => 962295
+    [userID] => 21
+    [IP] => 192.168.10.85
+    [sType] => 2
+    [sign] => bj_reg_check
+)
+]
+[11:57:51][|m_code_key|sendsmscachebj_reg_check2118065043496]
+[11:59:09][|-param-|Array
+(
+    [mobile] => 18065043496
+    [code] => 175451
+    [userID] => 21
+    [IP] => 192.168.10.85
+    [sType] => 2
+    [sign] => bj_reg_check
+)
+]
+[11:59:09][|m_code_key|sendsmscachebj_reg_check2118065043496]

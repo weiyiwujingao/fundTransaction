@@ -1,0 +1,112 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">交易密码找回</h3>
+            <div class="qstepBar fourStep Mt10">
+                <a href="javascript:;">银行卡信息验证</a>
+                <a href="javascript:;">手机验证</a>
+                <a href="javascript:;" class="Cur">设置新密码</a>
+                <a href="javascript:;">重置成功</a>
+            </div>
+            <form class="Mt20 Pl60">
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>新密码：</b>
+                    <span><input type="password" id="myPass" onKeyUp="keyPass(this);" class="w340" /></span>
+                    <em></em>
+                </div>
+                <p class="formTip">6-20位由数字、字母、特殊字符组合成的不完全重复的字符，用于交易验证</p>
+                <div class="pwdStr Mt10" id="Pst">
+                    <span class="ruo">弱</span>
+                    <span class="zhong">中</span>
+                    <span class="qiang">强</span>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>确认新密码：</b>
+                    <span><input type="password" value=""  class="w340" /></span>
+                    <em></em>
+                </div>
+                <div class="btnPre w340 Tc Mt30">
+                    <a href="javascript:;" onClick="subForm(this);" class="halfBtn">确认</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/buy/js/common.js,front/uc/Js/BjCenter/BjFund.js?v=201612121358"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+
+		function keyPass(obj){//密码输入框键盘事件
+			pwdStre('myPass');//密码强弱等级显示
+		}
+		function subForm(obj){//提交表单按钮点击事件
+            var $myPass=$('#myPass').val();
+			var flag = true,
+			arr = ['新密码','确认密码'],
+			form = $(obj).parents('form'),
+			inps = $(form).find('input');
+            $(inps).eq(0).showTip('Right');
+            $(inps).eq(1).showTip('Right');
+			for(var i =0 ; i < $(inps).length;i++){
+				if($(inps).eq(i).val() == ''){
+					flag = false;					
+					$(inps).eq(i).showTip('Error',arr[i]+'不能为空');//此函数用于输入框后错误或正确提示
+					//第一个参数Error表示错误提示 Right表示正确 
+					//当第一个参数为Error时，请传入第二个参数及错误提示信息
+				}
+			}
+			if(flag){
+                if($myPass.length>20 || $myPass.length<6){
+                    $(inps).eq(0).showTip('Error','密码格式不正确');
+                    flag = false;
+                }
+            }
+			if(flag){
+				if($(inps).eq(0).val() != $(inps).eq(1).val()){
+					flag = false;
+					$(inps).eq(1).showTip('Error','确认密码不正确，请重新输入');
+				}
+			}
+			if(flag){
+                $.ajax({
+                    url:"<?= $ajaxUrl;?>/ajaxTradenew",
+                    dataType:'json',
+                    cache:false,
+                    type:'post',
+                    data:{'tid':"<?= isset($tid)?$tid:'';?>",'ttid':"<?= isset($ttid)?$ttid:'';?>",'acco':"<?= isset($userInfo['HsAccount'])?$userInfo['HsAccount']:'';?>",'mkid':"<?= isset($mkid)?$mkid:'';?>",'uid':"<?= isset($uid)?$uid:'';?>",'pwd':$myPass},
+                    success: function(data){
+                        if(data['flag']=='10000'){
+                            window.location.href=data['url'];
+                        }else{
+                            $('#msgBox').showWin("<p class='Tc'>"+data['msg']+"</p>");
+                        }
+                    },
+                    error:function(){
+                        $('#msgBox').showWin("<p class='Tc'>数据传输失败，请联系技术人员！</p>");
+                    }
+                });
+			}
+		}
+		
+    </script>
+</body>
+</html>

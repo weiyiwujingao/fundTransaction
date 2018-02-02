@@ -1,0 +1,61 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+<div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">账户操作日志</h3>
+            <table class="QTable Mt20" cellpadding="0" cellspacing="0">
+            	<thead>
+                	<tr>
+                    	<th>操作时间</th>
+                        <th>业务操作类别</th>
+                        <th>操作状态</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <?php if (!empty($data)) : ?>
+                <?php foreach ($data as $item) : ?>
+                	<tr>
+                    	<td><?php echo $item['OperatTime']; ?></td>
+                        <td><?php echo $item['OperatDetail']; ?></td>
+                        <td><?php echo $item['OperatStatus'] == 1 ? '成功' : '失败'; ?></td>
+                    </tr>
+                <?php endforeach; ?>
+                <?php else : ?>
+                <tr>
+                    <td colspan="3">没有记录</td>
+                </tr>
+                <?php endif; ?>
+                </tbody>
+            </table>
+
+
+            <div class="pageCnt Mt10">
+            	<span>共<?php echo $total; ?>条</span>
+                <div class="page Fr">
+                    <?php echo $page_html; ?>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+   <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161215163056"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.FormSlt').uSelect();/*select美化*/
+
+        function pagenum_onchange(o){
+            var pagesize = $(o).val();
+            window.location.href = "<?php echo base_url(); ?>transaction/log.html?pagesize="+pagesize
+        }
+
+        function loadpage(page, pagesize){
+            window.location.href = "<?php echo base_url(); ?>transaction/log.html?pagesize="+pagesize+"&page="+page
+        }
+    </script>

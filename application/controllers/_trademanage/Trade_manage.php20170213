@@ -1,0 +1,767 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+/****************************************************************
+ * 基金交易-用户基金买卖交易后台
+ *---------------------------------------------------------------
+ * Copyright (c) 2004-2017 CNFOL Inc. (http://www.cnfol.com)
+ *---------------------------------------------------------------
+ * $author:wujg $addtime:2016-12-12
+ ****************************************************************/
+class Trade_manage extends MY_Controller 
+{
+	/* 传递到对应视图的数据 */
+	private $_data     = array();
+
+    public function __construct() 
+    {
+        parent::__construct();
+		$this->load->model('_user/User_Interact');
+		$this->_data['headerCss'] = '?v='.time();
+        $this->_data['title'] = '交易查询_伯嘉基金网';
+		$this->_data['nav'] = 'jycx';
+		$this->_data['subnav'] = 'jjjycx';
+		
+		$this->_data['userID'] = (int)$this->User_Interact->getUserID();
+        $this->_data['nickName'] = filter_slashes($this->User_Interact->getNickName());
+		
+		$this->_data['keywords'] = SEO_KEYWORDS;
+        $this->_data['description'] = SEO_DESCRIPTION;
+		//判断权限
+		$this->User_Interact->passportCheck();
+
+		$this->_data['userInfo'] = $this->User_Model->getUserBaseByUserID($this->_data['userID']);
+        if(!$this->_data['userInfo']){
+            exit('用户信息错误！');
+        }
+		$this->load->library('Buyfunds_mem',NULL,'buyfunds_mem');
+        $this->cache = $this->buyfunds_mem;
+    }
+
+   /**
+     * 
+     * 交易申请查询
+	 *
+	 * @return view
+     *
+    **/
+    public function index() 
+    { 	
+		/* 日志路径 */
+        $logFile = strtolower(__CLASS__).'/'.strtolower(__FUNCTION__);
+		$this->tradeapi_manage_mdl->set_log_file($logFile);
+		/* 需要通过注册获取的数据  */
+        $trade_acco = $this->_data['userInfo']['HsAccount'];//交易编号
+        $client_id = $this->_data['userInfo']['HsUserID'];//用户编号
+		$this->_data['data'] = '';
+		//交易申请查询
+		$applyqry = $this->tradeapi_manage_mdl->trade_apply_qry(array('sort_direction'=>'1','begin_date'=> date('Ymd',time()-7*86400),'end_date'=> date('Ymd',time()+86400)),'',$client_id,5,1,1);
+		//pre($applyqry);
+		if($applyqry)
+			$this->_data['data'] = $applyqry['list'];
+		$this->load->helper('html');
+		if(isset($applyqry['total']) && $applyqry['total']) 
+			$this->_data['pagelist'] = pageajax($applyqry['total'],1,5);
+		else
+			$this->_data['pagelist'] = '';
+		$this->load->view('_trademanage/tradesearch.html',$this->_data);
+    }
+	 /**
+     * 
+     * 持仓明细首页
+	 *
+	 * @return view
+     *
+    **/
+    public function positiondetails() 
+    { 	
+		/* 日志路径 */
+        $logFile = strtolower(__CLASS__).'/'.strtolower(__FUNCTION__);
+		$this->tradeapi_manage_mdl->set_log_file($logFile);
+		
+		$this->_data['title'] = '持仓明细_基金交易_伯嘉基金网';
+		$this->_data['nav'] = 'wdzh';
+		$this->_data['sidebar'] = 'ccmx';
+		$this->_data['subnav'] = 'ccmx';
+		
+		
+		//echo VIEWPATH;exit;
+		/* 需要通过注册获取的数据  */
+        $trade_acco = $this->_data['userInfo']['HsAccount'];//交易编号
+        $client_id = $this->_data['userInfo']['HsUserID'];//用户编号
+		//$trade_acco = '1146';//交易编号
+       // $client_id = '';//用户编号
+		$this->_data['data'] = array();
+		//份额查询
+		$applyqry = $this->tradeapi_manage_mdl->shareQry(array('trade_acco'=>$trade_acco),25);
+		//var_dump($applyqry);exit;
+		if($applyqry)
+			$this->_data['data'] = $this->tradeapi_manage_mdl->positionData($applyqry);
+		//t($this->_data['data']);
+		$this->load->view('_trademanage/positiondetails.html',$this->_data);
+    }
+	/**
+     * 
+     * 绑定手机号码
+	 *
+	 * @return view
+     *
+    **/
+    public function bindphone() 
+    { 	
+		/* 日志路径 */
+        $logFile = strtolower(__CLASS__).'/'.strtolower(__FUNCTION__);
+		$this->tradeapi_manage_mdl->set_log_file($logFile);
+		
+		$this->_data['title'] = '绑定手机号_账户管理_伯嘉基金网';
+		$this->_data['nav'] = 'wdzh';
+		$this->_data['sidebar'] = 'wdzc';
+		$this->_data['subnav'] = 'grxxgl';
+		
+		$this->_data['regUrl'] = TRADE_WEB_URL . '/user/register';
+		$this->_data['binUrl'] = TRADE_WEB_URL . '/manage';
+        $this->_data['verifyCodeUrl']  = TRADE_WEB_URL . '/ajax/verifycode.html';
+        $this->_data['verifyCodeShowUrl']  = TRADE_WEB_URL . '/ajax/verifycodeshow.html';
+		
+		$tid = time();
+        $this->_data['tid'] = $tid;
+        //验证手机号
+        $this->_data['mkid'] = substr(md5(ENCODE_KEY . substr(md5($tid), -5) . 'mobile'), 8, 16);
+        //获取验证码
+        $this->_data['ckid'] = substr(md5(ENCODE_KEY . substr(md5($tid), -5) . 'code'), 8, 16);
+        //验证昵称
+        $this->_data['nkid'] = substr(md5(ENCODE_KEY . substr(md5($tid), -5) . 'nickname'), 8, 16);
+        //注册验证
+        $this->_data['rkid'] = substr(md5(ENCODE_KEY . substr(md5($tid), -5) . 'reg'), 8, 16);
+
+		/* 需要通过注册获取的数据  */
+        $trade_acco = $this->_data['userInfo']['HsAccount'];//交易编号
+        $client_id = $this->_data['userInfo']['HsUserID'];//用户编号
+        $UserID = $this->_data['userInfo']['UserID'];//用户编号
+
+		$this->_data['data'] = array();
+		$this->load->view('_trademanage/bindphone.html',$this->_data);
+    }
+	 /**
+     *
+     * 绑卡动作
+     *
+     */
+    public function ajaxRegAction(){
+        $logFile = strtolower(__CLASS__) . '/' . strtolower(__FUNCTION__) . '_' . date('Ymd') . '.log';
+        //防刷3秒， 10次
+        $this->_ajaxRequestCheck(strtolower(__FUNCTION__), 10, 3);
+         
+		/* 需要通过注册获取的数据  */
+        $trade_acco = $this->_data['userInfo']['HsAccount'];//交易编号
+        $client_id = $this->_data['userInfo']['HsUserID'];//用户编号
+        $UserID = $this->_data['userInfo']['UserID'];//用户编号
+		
+        $mobile = filter_slashes(trim($this->input->post('mobile', true))); //手机号
+        $pCode = filter_slashes(trim($this->input->post('pcode', true))); //图片验证码
+        $mCode = filter_slashes(trim($this->input->post('mcode', true))); //短信验证码
+        $password = filter_slashes(trim($this->input->post('pswd', true))); //密码
+        $comPassword = filter_slashes(trim($this->input->post('cpswd', true))); //密码
+        $tmpMobileID = filter_slashes(trim($this->input->post('tmid', true))); //临时手机存放表ID
+        $type = (int)trim($this->input->post('type', true));  //1 注册页， 2绑定修改手机号
+         
+        $tstr = $this->input->post('tstr', true);
+        $vstr = $this->input->post('vstr', true);
+        $tid = $this->input->post('tid', true);
+        $kid = $this->input->post('kid', true);
+        $ip = $this->input->ip_address();
+         
+        //参数是否完整
+        if(!$mobile || !$pCode || !$mCode || !$password || !$tmpMobileID || !$type || !$tid || !$kid || !$tstr || !$vstr){
+            echo json_encode(array('flag'=>'10001', 'msg'=>'参数错误，请重试')); exit;
+        }
+        
+         
+        //获取验证码请求过期, 半小时
+        isRequestTimeout($tstr, 60*30, '请求已失效，请刷新页面重试');
+        $qVer = md5(md5($tmpMobileID . $kid) . $tid . md5($tstr . ENCODE_KEY));
+        if($qVer != $vstr){
+            echo json_encode(array('flag'=>'100031', 'msg'=>'校验错误')); exit;
+        }
+        
+        $qKeyCount = cacheKeyCount($vstr);
+        //pre($qKeyCount);
+        if($qKeyCount['count'] > 15){ //一个key请求不能超过10次
+            echo json_encode(array('flag'=>'10006', 'msg'=>'校验过期')); exit;
+        }
+    
+        //密码判断
+        $checkPwd =  checkPassword($password);
+        if($checkPwd['flag'] != '10000'){
+            echo json_encode($checkPwd); exit;
+        }
+        
+        //图片验证码
+        $cPCode = $this->cache->get($qVer . 'pCode');
+        //pre($cPCode);
+        if(!$cPCode){
+            echo json_encode(array('flag'=>'10007', 'msg'=>'图片验证码不存在或已过期!')); exit;
+        }
+        
+        if($cPCode != strtolower($pCode)){
+            echo json_encode(array('flag'=>'10008', 'msg'=>'图片验证码错误1')); exit;
+        }
+        
+        //短信验证码判断
+        $m_key = SEND_SMS_SIGN . 'bj_reg_checkTMP' . $tmpMobileID  . $mobile;
+        //pre($m_key);
+        $vCode = $this->cache->get($m_key);
+        //pre($vCode);
+        if(!$vCode){
+            echo json_encode(array('flag'=>'10007', 'msg'=>'短信验证码不存在或已过期')); exit;
+        }
+        if($mCode != $vCode){
+            echo json_encode(array('flag'=>'10008', 'msg'=>'短信验证码错误')); exit;
+        }
+ 
+        //手机号判断
+        @error_log(date('Y-m-d H:i:s').'|-ip-|' . $ip . '|-mobile-|' . $mobile . '|-phoneArea-|' . $phoneArea . '|||' .PHP_EOL,3,LOG_PATH. '/'. $logFile);
+        //检查手机
+        $cParam = array('mobile'=>$mobile, 'ip'=>$ip);
+        $cRs =  $this->checkMobileStatus($cParam);
+        @error_log(date('Y-m-d H:i:s').'|-$cParam-|' . print_r($cParam, true) . '|-cRs-|' . print_r($cRs, true) . PHP_EOL,3,LOG_PATH. '/'. $logFile);
+    
+        if ($cRs['flag'] == '10010'){ //已注册
+            echo json_encode(array('flag'=>'10010', 'msg'=>'手机号已被注册')); exit;
+        } else if($cRs['flag'] == '10000') { //未注册
+             
+            $cParam = array(
+                'Type' => 1, // type=1， 手机注册，手机绑定， type=2 手机修改, type=3 找回密码
+                'TmpMobileID' => $tmpMobileID,
+                'Mobile' => $mobile,
+                'IP' => $ip,
+                'MobileCheck' => $mCode
+            );
+            $cRs = $this->User_Model->checkMobileCode($cParam);
+			// echo json_encode($cRs); exit;
+            @error_log( date('Y-m-d H:i:s') . PHP_EOL . '|-cParam-|' . print_r($cParam, true)  . '|-cRs-|' . print_r($cRs, true) . PHP_EOL, 3, LOG_PATH.'/' . $logFile);
+    
+            if($cRs['Code'] == '00'){
+    
+                $rParam = array(
+                    'Type' =>'1',  //1=>'CM-', 2=>'QQ-', 3=>'SINA-', 4=>'WX-'
+                    'Mobile' => $mobile,
+                    'Password' => $password,
+                    'RegIP' => $ip,
+                    'RegPlatFormType' => 1, //1 PC, 2手机网
+                    'RegTime' => $cRs['Record']['ActiveTime'],
+                    'GroupID' =>'1',
+                    'Status' =>'1',
+                    'CustType'=>CUST_TYPE,
+                    'UserID'=>$UserID
+                );
+                $cRs = $this->User_Model->userBindphone($rParam);
+				
+                if($cRs['Code'] == '00'){
+                    $userID = $cRs['UserID'];
+                    $lParam = array(
+                        'UserID' =>$userID,
+                        'LoginType'=>1, // 登录类别  1-PC端 2-手机端
+                        'LoginIP'=>$ip, 
+                        'LoginPage'=>1, //登录方式 1-伯嘉基金 2-腾讯QQ 3-新浪微博 4-微信 5-中金
+                        'LoginAddr'=>1 //登陆地址
+                    );
+                    $this->User_Model->userLoginLog($lParam);
+                    
+                    $user = $this->User_Model->getUserBaseByUserID($userID);
+                    $userParam['userid']    = $user['UserID'];
+                    $userParam['username']  = $user['UserName'];
+                    $userParam['nickname']  = $user['NickName'];
+                    $userParam['status']    = $user['Status'];
+                    $userParam['mobile']    = $user['Mobile'];
+                    $userParam['keystr']    = $user['KeyStr'];
+                    $userParam['logintime'] = $user['ActiveTime'];
+                    $this->load->model('_user/User_Interact');
+                    $this->User_Interact->setCnfolCookie($userParam);
+                                       
+                    echo json_encode(array('flag'=>'10000', 'msg'=>'绑定手机号码成功', 'info'=> TRADE_WEB_URL)) ; exit;
+    
+                } else {
+                    echo json_encode(array('flag'=>'10011', 'msg'=>$cRs['Msg'] )) ; exit;
+                }
+            } else {
+                echo json_encode(array('flag'=>'10009', 'msg'=>$cRs['Msg'] )) ; exit;
+    
+            }
+    
+        } else {
+            echo json_encode($cRs); exit;
+        }
+        
+    }
+	/**
+     * 
+     * 修改手机号码
+	 *
+	 * @return view
+     *
+    **/
+    public function modifyphone() 
+    { 	
+		/* 日志路径 */
+        $logFile = strtolower(__CLASS__).'/'.strtolower(__FUNCTION__);
+		$this->tradeapi_manage_mdl->set_log_file($logFile);
+
+		$this->_data['title'] = '安全认证_修改手机号_伯嘉基金网';
+		$this->_data['nav'] = 'wdzh';
+		$this->_data['sidebar'] = 'wdzc';
+		$this->_data['subnav'] = 'grxxgl';
+		
+		$this->_data['regUrl'] = TRADE_WEB_URL . '/user/register';
+		$this->_data['binUrl'] = TRADE_WEB_URL . '/manage';
+        $this->_data['verifyCodeUrl']  = TRADE_WEB_URL . '/ajax/verifycode.html';
+        $this->_data['verifyCodeShowUrl']  = TRADE_WEB_URL . '/ajax/verifycodeshow.html';
+
+		/* 需要通过注册获取的数据  */
+		$userID = $this->_data['userInfo']['UserID'];//用户编号
+		$this->_data['data'] = array();
+
+		$tid = time();
+        $this->_data['tid'] = $tid;
+        //验证手机号
+        $this->_data['mkid'] = substr(md5(ENCODE_KEY . substr(md5($tid), -5) . 'mobile'), 8, 16);
+		$m_name='modph_'.$userID.$tid.substr(md5(ENCODE_KEY . md5($userID) ), 8, 6);
+		$this->cache->set($m_name, $this->_data['mkid'], 30*60); //页面合法链接验证储存
+
+		$this->load->view('_trademanage/modifyphone.html',$this->_data);
+    }
+	 /**
+     * 
+     * 获取修改手机号验证码
+     * 
+     **/
+    public function modMobileCode(){
+        $logFile = strtolower(__CLASS__) . '/' . strtolower(__FUNCTION__) . '_' . date('Ymd') . '.log';
+        
+        $type = (int)($this->input->post('type', true));
+        $tid = $this->input->post('tid', true);
+
+        //参数是否完整
+        if(!$type){
+			echo json_encode(array('flag'=>'10001', 'msg'=>'参数错误，请重试')) ; exit;
+        }
+        
+        //防刷3秒， 10次
+        $this->_ajaxRequestCheck(strtolower(__FUNCTION__), 10, 3);
+		
+        /* 需要通过注册获取的数据  */
+        $userID = $this->_data['userInfo']['UserID'];//用户编号
+        $mobile = $this->_data['userInfo']['Mobile'];//用户手机号码
+		$ip = $this->input->ip_address();
+
+        if(!$mobile){
+			echo json_encode(array('flag'=>'10009', 'msg'=>'用户没有绑定手机！')) ; exit;
+        }
+       //短信是否在3分钟内有发送过
+        $mauRs = mobileAndUser($mobile);
+        if($mauRs['flag'] == '10000'){
+            echo json_encode(array('flag'=>'10008', 'msg'=>$mauRs['msg'])); exit;
+        }
+
+		//检查手机
+		$cParam = array('mobile'=>$mobile, 'ip'=>$ip);
+		$cRs =  $this->checkMobileStatus($cParam);
+		logs('|-$cParam-|' . print_r($cParam, true). '|-cRs-|' . print_r($cRs, true) . PHP_EOL, $logFile);
+
+		if ($cRs['flag'] == '10010') { //已注册
+			$uParam = array('Type' => 1, 'Mobile' => $mobile, 'IP' => $ip,'UserID'=>$cRs['info']);
+			//获取找回密码的手机口令
+			$umRs = $this->User_Model->updateUserVerifyCode($uParam);
+			logs('|-$umRs-|' . print_r($umRs, true) . PHP_EOL, $logFile);
+
+			if ($umRs['Code'] == '00') {
+				$mobilekey = $umRs['Record']['CheckCode'];  //新的验证码
+				$aParam = array(
+					'mobile' => $mobile, //手机号
+					'code' => $mobilekey, //验证码
+					'userID' => $userID, //用户ID
+					'IP' => $ip, //ip
+					'sType' => $type, //1 注册短信，2 找回密码 3 交易密码 4 修改手机，5 绑定手机 6，提现
+					'sign' => 'bj_trademod_check'
+				);
+
+				//发送短信
+				$svcRs = $this->sendVerifyCode($aParam);
+				logs('|-$aParam-|' . print_r($aParam, true) . '|-svcRs-|' . print_r($svcRs, true) . PHP_EOL, $logFile);
+				$svcRs['flag']='10000';
+				if ($svcRs['flag'] == '10000') {
+					//重塑mkid
+					$stid=time();
+					$mkid = substr(md5(ENCODE_KEY . substr(md5($stid), -5) . 'mobile'), 8, 16);
+					$m_name='modph_'.$userID.$tid.substr(md5(ENCODE_KEY . md5($userID) ), 8, 6);
+                    $this->cache->set($m_name, '', 1);
+                    $this->cache->set($m_name, $mkid, 30*60); //页面合法链接验证储存
+
+					echo json_encode(array('flag' => '10000', 'msg' => $svcRs['msg'], 'info' => array( 'stid' => $stid, 'mkid' => $mkid)));
+					exit;
+				} else {
+					echo json_encode($svcRs);
+					exit;
+				}
+			} else {
+				echo json_encode(array('flag' => '10011', 'msg' => $umRs['Msg']));
+				exit;
+			}
+		} else {
+			echo json_encode(array('flag' => '10012', 'msg' => '手机号未注册'));
+			exit;
+		}
+    
+    }
+
+	/**
+     * 
+     * 验证修改手机验证码
+     * 
+     */
+	public function verifyCode(){
+		$logFile = strtolower(__CLASS__).'/'.strtolower(__FUNCTION__);
+		//防刷3秒， 10次
+		$this->_ajaxRequestCheck(strtolower(__FUNCTION__), 10, 3);
+
+		//判断是否已登录
+		$apc = $this->User_Interact->ajaxPassportCheck();
+		if($apc['flag'] != '10000'){
+			echo json_encode($apc);exit;
+		}
+
+		$userID = $this->_data['userInfo']['UserID'];//用户编号
+		$ip = $this->input->ip_address();
+		//接收信息
+		$dcode = filter_slashes(trim($this->input->post('dcode', true)));
+		$tid = $this->input->post('tid', true);
+		$stid = $this->input->post('stid', true);
+		$mkid = $this->input->post('mkid', true);
+
+	    //参数是否完整
+	    if(!$userID|| !$ip || !$dcode || !$tid || !$stid || !$mkid){
+	        echo json_encode(array('flag'=>'10001', 'msg'=>'参数错误，请重试')); exit;
+	    }
+
+	    $userinfo = $this->User_Model->getUserBaseByUserID($userID);
+	    if(!$userinfo){
+	        echo json_encode(array('flag'=>'10002', 'msg'=>'用户信息错误！')); exit;
+	    }
+	    
+	    $mobile = $userinfo['Mobile'];
+	     
+	    //页面过期, 半小时
+	    isRequestTimeout($stid, 60*30, '请求已失效，请刷新页面重试');
+
+		//验证非法链接
+		$m_name='modph_'.$userID.$tid.substr(md5(ENCODE_KEY . md5($userID) ), 8, 6);
+		$hmkid=$this->cache->get($m_name);
+		if($hmkid!=$mkid){
+			echo json_encode(array('flag'=>'10003', 'msg'=>'非法链接不得进入!')); exit;
+		}
+
+		//手机验证码校验
+		$m_key = SEND_SMS_SIGN . 'bj_trademod_check' . $userID  . $mobile;
+		$vCode = $this->cache->get($m_key);
+		if(!$vCode){
+			echo json_encode(array('flag'=>'10004', 'msg'=>'短信验证码不存在或已过期')); exit;
+		}
+		if($dcode != $vCode){
+			echo json_encode(array('flag'=>'10005', 'msg'=>'短信验证码错误'.$vCode.' 2 '.$dcode)); exit;
+		}
+		$this->cache->set($m_key,'',1);
+
+		//验证用户表中的短信验证码
+		$cParam = array(
+			'Type' => 1, //type=1修改手机号 type=2 找回密码
+			'UserID' => $userID,
+			'Mobile' => $mobile,
+			'IP' => $ip,
+			'CheckCode' => $dcode
+		);
+		$cRs = $this->User_Model->checkUserCode($cParam);
+		logs('|-$cParam-|' . print_r($cParam, true).'|-$cRs-|' . print_r($cRs, true), $logFile);
+
+		//校验成功赋值新的页面验证链接
+		if($cRs['Code'] == '00'){
+			$ttid=time();
+			$mkid= substr(md5(ENCODE_KEY . substr(md5($ttid), -5) . 'mobile'), 8, 16);
+			$this->cache->set($m_name, $mkid, 30*60); //页面合法链接验证储存
+			$url=base_url().'manage/Increaseph.html?mkid='.$mkid.
+				'&ttid='.$ttid.'&tid='.$tid;
+			//返回实用链接
+			echo json_encode(array('flag'=>'10000', 'msg'=>$cRs['Msg'] , 'url' => $url)); exit;
+		} else {
+			echo json_encode(array('flag'=>'10030', 'msg'=>$cRs['Msg'] )) ; exit;
+		}
+	}
+	/*
+	 * 进入新增手机验证页
+	 * */
+	public function Increaseph(){
+
+        $this->_data['nav'] = 'wdzh';
+        $this->_data['sidebar'] = 'wdzc';
+        $this->_data['subnav'] = 'grxxgl';
+		$logFile = strtolower(__CLASS__).'/'.strtolower(__FUNCTION__);
+		$this->_data['title'] = '新增手机号码_绑定手机修改_伯嘉基金网';
+
+		//判断是否已登录
+		$apc = $this->User_Interact->ajaxPassportCheck();
+		if($apc['flag'] != '10000'){
+			echo json_encode($apc);exit;
+		}
+
+		$userID = $this->_data['userInfo']['UserID'];//用户编号
+
+		$tid = $this->input->get('tid', true);//初始时间
+		$ttid = $this->input->get('ttid', true);//最新时间
+		$mkid = $this->input->get('mkid', true);//页面验证随机码
+
+		//先进行空值校验
+		if( !$userID || !$tid || !$ttid || !$mkid ){
+			echo json_encode(array('flag'=>'10001', 'msg'=>'参数错误，请重试!')); exit;
+		}
+		//验证超时
+		//页面过期, 半小时
+		isRequestTimeout($ttid, 60*30, '请求已失效，请刷新页面重试');
+		//验证非法链接
+		$m_name='modph_'.$userID.$tid.substr(md5(ENCODE_KEY . md5($userID) ), 8, 6);
+		$hmkid=$this->cache->get($m_name);
+		if($hmkid!=$mkid){
+			echo json_encode(array('flag'=>'10002', 'msg'=>'非法链接不得进入!')); exit;
+		}
+
+		$this->_data['tid']=$tid;
+		$this->_data['ttid']=$ttid;
+		$this->_data['mkid']=$mkid;
+
+		$userInfo = $this->User_Model->getUserBaseByUserID($userID);
+
+		if(!$userInfo){
+			exit('用户信息错误！');
+		}
+		$userDetail = $this->User_Model->getUserDetailByUserID($userID);
+		$this->_data['userInfo'] = $userInfo;
+		$this->_data['userDetail'] = $userDetail;
+		logs('|-moRs-|' . print_r($this->_data, true), $logFile);
+		$this->load->view('_trademanage/Inscreaseph.html', $this->_data);
+	}
+
+	/**
+	 *
+	 * 获取修改手机号验证码
+	 *
+	 **/
+	public function modIncreaseCode(){
+		$logFile = strtolower(__CLASS__) . '/' . strtolower(__FUNCTION__) ;
+        //判断是否已登录
+        $apc = $this->User_Interact->ajaxPassportCheck();
+        if($apc['flag'] != '10000'){
+            echo json_encode($apc);exit;
+        }
+
+		$mobile = filter_slashes(trim($this->input->post('mobile', true)));
+
+		$type = (int)($this->input->post('type', true));
+		$mkid = $this->input->post('mkid', true);
+		$ttid = $this->input->post('ttid', true);
+		$tid = $this->input->post('tid', true);
+
+		//参数是否完整
+		if(!$type || !$mobile || !$mkid || !$ttid || !$tid){
+			echo json_encode(array('flag'=>'10001', 'msg'=>'参数错误，请重试')) ; exit;
+		}
+
+		//防刷3秒， 10次
+		$this->_ajaxRequestCheck(strtolower(__FUNCTION__), 10, 3);
+
+		/* 需要通过注册获取的数据  */
+		$userID = $this->_data['userInfo']['UserID'];//用户编号
+		$ymobile = $this->_data['userInfo']['Mobile'];//用户编号
+
+		$ip = $this->input->ip_address();
+
+
+		//短信是否在3分钟内有发送过
+		$mauRs = mobileAndUser($mobile);
+		if($mauRs['flag'] == '10000'){
+			echo json_encode(array('flag'=>'10008', 'msg'=>$mauRs['msg'])); exit;
+		}
+
+		//页面链接过期校验
+		isRequestTimeout($ttid, 60*30, '请求已失效，请刷新页面重试');
+		//页面非法链接校验
+		$m_name='modph_'.$userID.$tid.substr(md5(ENCODE_KEY . md5($userID) ), 8, 6);
+		$hmkid=$this->cache->get($m_name);
+		if(!$hmkid || $hmkid!=$mkid){
+			echo json_encode(array('flag'=>'10026', 'msg'=>'非法链接不得进入!')); exit;
+		}
+
+		$uParam = array('Type' => 1, 'Mobile' => $ymobile, 'IP' => $ip,'UserID'=>$userID);
+
+		//获取更换手机的手机口令
+		$umRs = $this->User_Model->updateUserVerifyCode($uParam);
+		logs('|-$umRs-|' . print_r($umRs, true) . print_r($uParam, true) . PHP_EOL, $logFile);
+
+        $cParam = array('mobile'=>$mobile, 'ip'=>$ip);
+        $cRs =  $this->checkMobileStatus($cParam);
+        logs('|-$cParam-|' . print_r($cParam, true). '|-cRs-|' . print_r($cRs, true) . PHP_EOL, $logFile);
+
+        if ($cRs['flag'] == '10010') { //已注册
+            echo json_encode(array('flag' => '10023', 'msg' => '手机号已注册'));
+            exit;
+        }else {
+            if ($umRs['Code'] == '00') {
+                $mobilekey = $umRs['Record']['CheckCode'];  //新的验证码
+                $aParam = array(
+                    'mobile' => $mobile, //手机号
+                    'code' => $mobilekey, //验证码
+                    'userID' => $userID, //用户ID
+                    'IP' => $ip, //ip
+                    'sType' => $type, //1 注册短信，2 找回密码 3 交易密码 4 修改手机，5 绑定手机 6，提现
+                    'sign' => 'bj_newtrademod_check'
+                );
+
+                //发送短信
+                $svcRs = $this->sendVerifyCode($aParam);
+                logs('|-$aParam-|' . print_r($aParam, true) . '|-svcRs-|' . print_r($svcRs, true) . PHP_EOL, $logFile);
+                $svcRs['flag']='10000';
+                if ($svcRs['flag'] == '10000') {
+                    //重塑mkid
+                    $ftid=time();
+                    $mkid = substr(md5(ENCODE_KEY . substr(md5($ftid), -5) . 'mobile'), 8, 16);
+                    $m_name='modph_'.$userID.$tid.substr(md5(ENCODE_KEY . md5($userID) ), 8, 6);
+                    $this->cache->set($m_name, $mkid, 30*60); //页面合法链接验证储存
+
+                    echo json_encode(array('flag' => '10000', 'msg' => $svcRs['msg'], 'info' => array( 'ftid' => $ftid, 'mkid' => $mkid)));
+                    exit;
+                } else {
+                    echo json_encode($svcRs);
+                    exit;
+                }
+            } else {
+                echo json_encode(array('flag' => '10011', 'msg' => $umRs['Msg'],'info'=>print_r($umRs,true)));
+                exit;
+            }
+        }
+	}
+	/*
+	 * 验证新增绑定手机页面的验证码
+	 * **/
+	public function IncreaseVerif(){
+		$logFile = strtolower(__CLASS__).'/'.strtolower(__FUNCTION__);
+
+		//防刷3秒十次
+		$this->_ajaxRequestCheck(strtolower(__FUNCTION__), 10, 3);
+
+		//判断是否已登录
+		$apc = $this->User_Interact->ajaxPassportCheck();
+		if($apc['flag'] != '10000'){
+			echo json_encode($apc);exit;
+		}
+		$userID = $this->_data['userInfo']['UserID'];//用户编号
+		//接收信息
+		$mobile = filter_slashes(trim($this->input->post('mobile', true)));
+		$dcode = filter_slashes(trim($this->input->post('dcode', true)));
+
+		$tid = $this->input->post('tid', true);
+		$ftid = $this->input->post('ftid', true);
+		$mkid = $this->input->post('mkid', true);
+		$ip=$this->input->ip_address();
+		//空值校验
+		if(!$mobile || !$userID || !$tid || !$ftid || !$mkid){
+			echo json_encode(array('flag'=>'10025', 'msg'=>'参数错误，请重试')); exit;
+		}
+		logs('|-$mobile-|' . $mobile .'|-$userID-|' . $userID.'|-$tid-|' . $tid.'|-$ftid-|' .
+			$ftid.'|-$mkid-|' . $mkid, $logFile);
+
+        $reg  = "/^((13[0-9])|147|(15[0-35-9])|180|182|(18[5-9]))[0-9]{8}$/A";
+        if(!preg_match($reg,$mobile)){
+            echo json_encode(array('flag'=>'10026', 'msg'=>'输入电话号码未通过要求!')); exit;
+        };
+
+        //页面链接过期校验
+		isRequestTimeout($ftid, 60*30, '请求已失效，请刷新页面重试');
+		//页面非法链接校验
+		$m_name='modph_'.$userID.$tid.substr(md5(ENCODE_KEY . md5($userID) ), 8, 6);
+		$hmkid=$this->cache->get($m_name);
+		if(!$hmkid || $hmkid!=$mkid){
+			echo json_encode(array('flag'=>'10027', 'msg'=>'非法链接不得进入!')); exit;
+		}
+		//手机验证码校验
+		$m_key = SEND_SMS_SIGN . 'bj_newtrademod_check' . $userID  . $mobile;
+		$vCode = $this->cache->get($m_key);
+		if(!$vCode){
+			echo json_encode(array('flag'=>'10028', 'msg'=>'短信验证码不存在或已过期')); exit;
+		}
+		if($dcode != $vCode){
+			echo json_encode(array('flag'=>'10029', 'msg'=>'短信验证码错误')); exit;
+		}
+		//验证用户表中的短信验证码
+		$cParam = array(
+			'Type' => 1, //type=1修改手机号 type=2 找回密码
+			'UserID' => $userID,
+			'Mobile' => $mobile,
+			'IP' => $ip,
+			'CheckCode' => $dcode
+		);
+		$cRs = $this->User_Model->checkUserCode($cParam);
+		logs('|-$cParam-|' . print_r($cParam, true).'|-$cRs-|' . print_r($cRs, true), $logFile);
+
+		//校验成功赋值新的页面验证链接
+		if($cRs['Code'] == '00'){
+			//修改数据库中的电话号码与更改keystr
+            $res1=$this->User_Model->updateUserByUserID($userID,array('Mobile'=>$mobile),1);
+            if(!$res1 || $res1['flag']!='10000'){
+                echo json_encode(array('flag'=>'10030', 'msg'=>'修改数据库数据失败！')); exit;
+            }
+            $res2=$this->User_Model->updateBankByUserID($userID,array('Mobile'=>$mobile));
+            if(!$res2 || $res2['flag']!='10000'){
+                echo json_encode(array('flag'=>'10031', 'msg'=>'修改银行数据库数据失败！')); exit;
+            }
+
+			$vtid=time();
+			$mkid= substr(md5(ENCODE_KEY . substr(md5($vtid), -5) . 'mobile'), 8, 16);
+			$this->cache->set($m_name, $mkid, 30*60); //页面合法链接验证储存
+			$url=base_url().'tradeMobileSuccess.html';
+			//返回实用链接
+			echo json_encode(array('flag'=>'10000', 'msg'=>$cRs['Msg'] , 'url' => $url)); exit;
+		} else {
+			echo json_encode(array('flag'=>'10032', 'msg'=>$cRs['Msg'] )) ; exit;
+		}
+	}
+
+    /*
+      * 进入交易密码修改成功页面
+      * */
+    public function tradeMobileSuccess(){
+        $this->_data['nav'] = 'wdzh';
+        $this->_data['sidebar'] = 'wdzc';
+        $this->_data['subnav'] = 'grxxgl';
+        $this->_data['title'] = '修改成功_绑定手机修改_伯嘉基金网';
+        $logFile = strtolower(__CLASS__).'/'.strtolower(__FUNCTION__);
+        //判断是否已登录
+        $apc = $this->User_Interact->ajaxPassportCheck();
+        if($apc['flag'] != '10000'){
+            echo json_encode($apc);exit;
+        }
+        $userID = $this->_data['userInfo']['UserID'];//用户编号
+
+        $userInfo = $this->User_Model->getUserBaseByUserID($userID);
+        logs('|-$userInfo-|' . print_r($userInfo, true), $logFile);
+
+        if(!$userInfo){
+            exit('用户信息错误！');
+        }
+
+        $userDetail = $this->User_Model->getUserDetailByUserID($userID);
+
+        $this->_data['userInfo'] = $userInfo;
+        $this->_data['userDetail'] = $userDetail;
+
+        $this->load->view('_trademanage/tradeMobileSuccess.html', $this->_data);
+    }
+  
+}
+
+/* End of file stockquote.php */
+/* Location: ./application/controllers/stockquote.php */

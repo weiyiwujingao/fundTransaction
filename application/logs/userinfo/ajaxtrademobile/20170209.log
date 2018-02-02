@@ -1,0 +1,228 @@
+[15:02:33][|-$mobile-|15972158074|-$userID-|196|-$tid-|1486623682|-$stid-|1486623717|-$ctid-|1486623723|-$mkid-|900ec56ef25c6ff9]
+[15:02:33][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 196
+    [Mobile] => 15972158074
+    [IP] => 192.168.15.235
+    [CheckCode] => 991276
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[15:08:45][|-$mobile-|15972158074|-$userID-|196|-$tid-|1486624059|-$stid-|1486624101|-$ctid-|1486624103|-$mkid-|4fda6579a577abdb]
+[15:08:45][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 196
+    [Mobile] => 15972158074
+    [IP] => 192.168.15.235
+    [CheckCode] => 434586
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[15:12:51][|-$mobile-|18065043496|-$userID-|169|-$tid-|1486624301|-$stid-|1486624348|-$ctid-|1486624352|-$mkid-|ed71f2141fa14e30]
+[15:12:51][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 436761
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[15:24:08][|-$mobile-|18065043496|-$userID-|169|-$tid-|1486624990|-$stid-|1486625019|-$ctid-|1486625022|-$mkid-|dcdf2f5b9d317b9e]
+[15:24:08][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 467936
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[15:26:56][|-$mobile-|15972158074|-$userID-|196|-$tid-|1486625161|-$stid-|1486625196|-$ctid-|1486625198|-$mkid-|401adb43a0b1ff39]
+[15:26:56][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 196
+    [Mobile] => 15972158074
+    [IP] => 192.168.15.235
+    [CheckCode] => 333296
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[16:55:48][|-$mobile-|15205006442|-$userID-|220|-$tid-|1486630472|-$stid-|1486630518|-$ctid-|1486630528|-$mkid-|ee3f411f1eb252d7]
+[16:55:48][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 220
+    [Mobile] => 15205006442
+    [IP] => 192.168.10.39
+    [CheckCode] => 586023
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[17:05:23][|-$mobile-|18065043496|-$userID-|169|-$tid-|1486631056|-$stid-|1486631093|-$ctid-|1486631095|-$mkid-|3c26fa933b7ea15e]
+[17:05:23][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 792729
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[21:10:14][|-$mobile-|18125530297|-$userID-|178|-$tid-|1486645664|-$stid-|1486645724|-$ctid-|1486645734|-$mkid-|6da617836efb838b]
+[21:10:14][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 324040
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[21:31:54][|-$mobile-|18065043496|-$userID-|169|-$tid-|1486647029|-$stid-|1486647086|-$ctid-|1486647088|-$mkid-|2c866a243a975b78]
+[21:31:54][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.17.222
+    [CheckCode] => 964325
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[21:53:17][|-$mobile-|18125530297|-$userID-|178|-$tid-|1486648278|-$stid-|1486648332|-$ctid-|1486648342|-$mkid-|7966695b2a406297]
+[21:53:17][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 696332
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[22:04:31][|-$mobile-|18065043496|-$userID-|169|-$tid-|1486649012|-$stid-|1486649052|-$ctid-|1486649055|-$mkid-|141659a0fd8593eb]
+[22:04:31][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.17.222
+    [CheckCode] => 226907
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]
+[22:18:05][|-$mobile-|18125530297|-$userID-|178|-$tid-|1486649652|-$stid-|1486649768|-$ctid-|1486649790|-$mkid-|98b4ddc47175e000]
+[22:18:05][|-$cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 342446
+)
+|-$cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+]

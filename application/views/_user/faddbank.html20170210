@@ -1,0 +1,494 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+    	<div class="mSide">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        </div>
+        <div class="aMain">
+            <h3 class="Title8">
+                <a href="<?php echo TRADE_BANK_LIST_URL ?>">银行卡管理</a>&gt;添加银行卡
+            </h3>
+            <div class="qstepBar twoStep Mt10">
+                <a href="javascript:;" class="Cur">银行卡验证</a>
+                <a href="javascript:;">绑定成功</a>
+            </div>
+            <h3 class="Title">请选择银行</h3>
+            <form class="Cf">
+            <div class="bankList">
+                <?php
+                if($bank){
+                    foreach($bank as $bk => $bv){
+                        echo '
+                            <span class="uRadio imgLi">
+                            <img src="https://trade.buyfunds.cn/front/uc/Imgs/BjCenter/BankIcon/' . $bv['pic'] . '" title="">
+                            <i><input type="radio" onClick="radioClk(this);" value="' . $bk . '" name="bank"></i>
+                            </span>';
+                    }
+                }
+                ?>
+            </div>
+            
+            <div class="bankForm" style="display:none">
+                <h3 class="Title1 Tc">仅限持卡人本人操作，请如实填写。以下信息用于银行真实性校验，受网银多重安全保障</h3>
+                <div class="bankIcon">
+                    <b class="bankPre"><i>*</i>发卡银行：</b>
+                    <span id="bankIcon"><img src="https://trade.buyfunds.cn/front/uc/Imgs/BjCenter/BankIcon/GDB.jpg" title=""></span>
+                </div>
+                <p class="bankSafe">安全设置检测成功！开通环境安全可靠</p>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>开户行地址：</b>
+                    <span class="FormSlt w100">
+                        <select name="bProvince" id="bProvince">
+                        <option value="0">--请选择--</option>
+                        </select>
+                    </span>
+                    <span class="FormSlt w100">
+                        <select name="bCity"  id="bCity">
+                        <option value="0">--请选择--</option>
+                        </select>
+                    </span>
+                    <span class="FormSlt w300">
+                        <select name="bBankCode"  id="bBankCode">
+                        <option value="0">--请选择--</option>
+                        </select>
+                    </span>
+                    <em id="addressError"></em>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>银行卡账号：</b>
+                    <span class="Rtv">
+                       <!-- <textarea id="bankNum" class="bankNum"></textarea>-->
+                        <input type="text" id="bankNum" value="" class="bankNum ins" />
+                        <b class="numTip"></b>
+                    </span>
+                    <em class="Lock"></em>
+                    <em></em>
+                </div>
+                <p class="bankTip">提示：请填写开户人本人的借记卡/存储卡号码（暂不支持普通存折或信用卡号）</p>
+                <div class="formLi Mt10">
+                    <b class="bankPre"><i>*</i>身份证号：</b>
+                    <span><input type="text" id="identNum" value="" class="ident w340 ins"/></span>
+                    <em class="Lock"></em>
+                    <em></em>
+                </div>
+                <p class="formTip">请与银行开户时证件号码一致</p>
+                <div class="formLi Mt10">
+                    <b class="bankPre"><i>*</i>持卡人真实姓名：</b>
+                    <span><input type="text" id="cName" value="" onBlur="nullTxt(this,'真实姓名')" class="w340 ins"/></span>
+                    <em></em>
+                </div>
+                <p class="formTip">请与银行开户时姓名一致</p>
+                <div class="formLi Mt10">
+                    <b class="bankPre"><i>*</i>银行预留手机号：</b>
+                    <span><input type="text" id="cMobile" value="" onBlur="telWin(this);" class="tel w340 ins"/></span>
+                    <em></em>
+                </div>
+                <p class="formTip">请与银行开户时预留的手机号一致</p>
+                <div class="formLi Mt10">
+                    <b class="bankPre"><i>*</i>交易密码：</b>
+                    <span><input type="password" id="myPass" onBlur="nullPswdTxt(this,'密码')" onKeyUp="keyPass(this);" class="w340 ins" /></span>
+                    <em id="pswdError"></em>
+                </div>
+                <p class="formTip">密码由6-20位数字，字母或者_@#$组成</p>
+                <div class="pwdStr Mt10" id="Pst">
+                    <span class="ruo">弱</span>
+                    <span class="zhong">中</span>
+                    <span class="qiang">强</span>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>再输一次密码：</b>
+                    <span><input type="password" id="cPass" onBlur="nullTxt(this,'确认密码')" class="w340 ins" /></span>
+                    <em></em>
+                </div>
+                <div class="btnPre w340 Tc Mt30">
+                    <a href="javascript:;" onClick="subForm(this);" id="subForm" class="halfBtn">开始安全验证</a>
+                </div>
+                <p class="formDes">开户时有任何疑问或建议，可致电客服：400-027-9899</p>
+            </div>
+            </form>
+        </div>
+    </div>
+    
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+        <h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+            <p>你已经输入密码错误四次，再次输入错误，30分钟内禁止登录本站</p>
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" class="redBtn">确定</a>
+        </div>
+    </div>
+    <div class="qWin" id="telCode">
+        <h3><span>验证提示</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+            <p>伯嘉基金已向你的手机号<span id="smsMobile"></span>发送了一条校验短信，请查收并完成验证。</p>
+            <div class="formLi">
+                <b>验证码：</b>
+                <span><input type="text" onBlur="nullTxt(this,'验证码');" class="w130" id="scode" value=""></span>
+                <input type="hidden" value="" id="ssid" />
+                <input type="hidden" value="" id="skey" />
+                <em id="scodeError"></em>
+            </div>
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" onClick="smsSubForm();" id="smsSubForm" class="redBtn undo">确定</a>
+        </div>
+    </div>
+	<script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js"></script>
+    <script type="text/javascript">
+        $('.MenuCnt').QTab();//菜单滑动效果
+        $('.uRadio').uRadio();/*单选框美化*/
+        
+        $('#bankNum').bankInp();//银行卡号输入 空格嵌入
+        $('.ident').inpIdent();//身份证号输入验证
+        $('.tel').inpTel();//手机号输入验证
+        
+        function keyPass(obj){//密码输入框键盘事件
+            pwdStre('myPass');//密码强弱等级显示
+        }
+        
+        //各个输入框空校验 仅供参考
+        function nullTxt(obj,name){
+            if($(obj).val() == ''){
+                $(obj).showTip('Error',name+'不能为空');
+            }else{
+                $(obj).showTip('Right');
+            }
+        }
+        
+        function nullPswdTxt(obj,name){//空校验 仅供参考
+            if($(obj).val() == ''){
+                $(obj).showTip('Error',name+'不能为空');
+            }else{
+                //cr = checkPswd($(obj).val());
+                //if(cr != '10'){
+                    //$('#pswdError').showTip('Error', arrPswdError[cr]);
+                    //return false;
+                //}
+                if(!(toolTest.IsTradPswd($(obj).val()))){
+                    $('#pswdError').showTip('Error', '密码由6-20位数字，字母或者_@#$组成');
+                    return false;
+                }
+                
+                $(obj).showTip('Right');
+            }
+        }
+        
+        function telWin(obj){
+        	var str = $(obj).val();
+            if(!(toolTest.IsPhoneNum(str))){
+                $('.tel').showTip('Error','手机号格式不正确');
+                return false;
+            } else {
+                flag = false;
+                $('.tel').showTip('Right');
+            }
+
+        }
+        function radioClk(obj){
+            var p = $(obj).parents('.imgLi'),
+            box = $(p).parent().next(),
+            img = $(p).find('img'),
+            im = $(img).clone();
+            $('#bankIcon').html('');
+            $('#bankIcon').append(im);
+            
+            
+            var bcode = $("input[name='bank']:checked").val();
+            if(bcode == '0'){
+                return false;
+            }
+            $.ajax({
+                url:  "<?php echo $ajaxUrl; ?>/provincebybank",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'bcode='+bcode,
+                success : function(minfo){
+                     if(minfo.flag == '10000'){
+                         var str = '';
+                         $('#bProvince').html('');//清空
+                         $('#bCity').html('');//清空
+                         $('#bBankCode').html('');//清空
+                         str += '<option value="0">--请选择--</option>';
+                         $.each(minfo['info'], function (i, item) {   //遍历数组填充li
+                        	 str += '<option value="'+i+'">'+item+'</option>';
+                         });
+                         //alert(str);
+                         $('#bProvince').html(str);
+                         $('#bProvince').attr('onchange','provinceChg(\''+bcode+'\', this.value);');
+                         $('.FormSlt').uSelect();/*select美化*/
+                     } else {
+                    	 $('#msgBox').showWin('<p>'+minfo.msg+'</p>');
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+            if($(box).is(':hidden')){
+                $(box).css('display','block');
+                $('.FormSlt').uSelect();/*select美化*/
+            }
+
+        }
+        
+        function provinceChg(bcode, pid){
+        	if(pid == '0' || bcode == '0'){
+        		return false;
+        	}
+            $.ajax({
+                url:  "<?php echo $ajaxUrl; ?>/citybyprovincebank",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'bcode='+bcode+'&pid='+pid,
+                success : function(minfo){
+                     if(minfo.flag == '10000'){
+                         var str = '';
+                         $('#bCity').html('');//清空
+                         $('#bBankCode').html('');//清空
+                         str += '<option value="0">--请选择--</option>';
+                         $.each(minfo['info'], function (i, item) {   //遍历数组填充li
+                             str += '<option value="'+i+'">'+item+'</option>';
+                         });
+                         //alert(str);
+                         $('#bCity').html(str);
+                         $('#bCity').attr('onchange','cityChg(\''+bcode+'\',\''+pid+'\', this.value);');
+                         $('.FormSlt').uSelect();/*select美化*/
+                     } else {
+                         $('#msgBox').showWin('<p>'+minfo.msg+'</p>');
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+        }
+        
+        function cityChg(bcode, pid, city){
+            if(pid == '0' || bcode == '0' || city == '0'){
+                return false;
+            }
+            
+            $.ajax({
+                url:  "<?php echo $ajaxUrl; ?>/bandbyprovincebankcity",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'bcode='+bcode+'&pid='+pid+'&city='+city,
+                success : function(minfo){
+                     if(minfo.flag == '10000'){
+                         var str = '';
+                         str += '<option value="0">--请选择--</option>';
+                         $.each(minfo['info'], function (i, item) {   //遍历数组填充li
+                             str += '<option value="'+i+'|||'+item+'">'+item+'</option>';
+                         });
+                         //alert(str);
+                         $('#bBankCode').html(str);
+                         $('.FormSlt').uSelect();/*select美化*/
+                     } else {
+                         $('#msgBox').showWin('<p>'+minfo.msg+'</p>');
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+        }
+        
+        function subForm(obj){
+        	
+            var flag = true,reg,
+            arr = ['银行卡','身份证','真实姓名','手机号码','密码','确认密码'],
+            form = $(obj).parents('form'),
+            block = $(obj).parents('.formPre'),
+            inps = $(block).find('.ins');
+            for(var i =0 ; i < $(inps).length;i++){
+                if($(inps).eq(i).val() == ''){
+                    flag = false;           
+                    $(inps).eq(i).showTip('Error',arr[i]+'不能为空');//此函数用于输入框后错误或正确提示
+                    //第一个参数Error表示错误提示 Right表示正确 
+                    //当第一个参数为Error时，请传入第二个参数及错误提示信息
+                }
+            }
+            if(flag){
+            	
+                var bcode = $("input[name='bank']:checked").val();
+                var bProvince = $("#bProvince").val();
+                var bCity = $("#bCity").val();
+                var bBankCode = $("#bBankCode").val();
+                var identNum = $("#identNum").val();
+                var bankNum = $("#bankNum").val();
+                var cName = $("#cName").val();
+                var cMobile = $("#cMobile").val();
+                var myPass = $("#myPass").val();
+                var cPass = $("#cPass").val();
+                
+                
+                if(bcode == '' || bcode == 'undefined'){
+                	//$('#addressError').attr('class','Error');
+                	//$('#addressError').html('请选择银行');
+                	$('#addressError').showTip('Error','请选择银行');
+                    return false;
+                }
+                if(bProvince == 0 || bProvince == 'undefined'){
+                    //$('#addressError').attr('class','Error');
+                    //$('#addressError').html('请选择省份');
+                    $('#addressError').showTip('Error','请选择省份');
+                    return false;
+                }
+
+                if(bCity == 0 || bCity == 'undefined'){
+                    //$('#addressError').attr('class','Error');
+                    //$('#addressError').html('请选择县市');
+                    $('#addressError').showTip('Error','请选择县市');
+                    return false;
+                }
+                if(bBankCode == 0 || bBankCode == 'undefined'){
+                    //$('#addressError').attr('class','Error');
+                    //$('#addressError').html('请选择支行');
+                    $('#addressError').showTip('Error','请选择支行');
+                    return false;
+                }
+                
+                if(!(toolTest.IsPhoneNum(cMobile))){
+                	$('.tel').showTip('Error','手机号格式不正确');
+                    return false;
+                } else {
+                    flag = false;
+                    $('.tel').showTip('Right');
+                }
+                if(!(toolTest.IsIdentNum(identNum))){
+                	$('.ident').showTip('Error','身份证号格式不正确');
+                    return false;
+                } else {
+                    flag = false;
+                    $('.ident').showTip('Right');
+                }
+                
+                var reg2 = /([^\d])/g;
+                bankNum = bankNum.replace(reg2,'');
+                if(!(toolTest.IsBankCardNum(bankNum))){
+                	$('#bankNum').showTip('Error','银行卡格式不正确');
+                    return false;
+                } else {
+                    flag = false;
+                    $('#bankNum').showTip('Right');
+                }
+                //alert(myPass);
+                if(!(toolTest.IsTradPswd(myPass))){
+                    $('#pswdError').showTip('Error', '密码由6-20位数字，字母或者_@#$组成');
+                    return false;
+                } else {
+                    flag = false;
+                    $('#myPass').showTip('Right');
+                }
+                
+                if(myPass != cPass){
+                    $('#cPass').showTip('Error', '确认密码不正确，请重新输入');
+                    return false;
+                } else {
+                    flag = false;
+                    $('#cPass').showTip('Right');
+                }
+                
+                if($('#subForm').hasClass('disClick')){
+                    $('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                    return false;
+                }
+                $('#subForm').addClass('disClick');
+                
+                $.ajax({
+                    url:  "<?php echo $ajaxUrl; ?>/regbindcard",
+                    cache:false,
+                    type: 'post',
+                    dataType: 'json',
+                    data: 'tid=<?php echo $tid;?>&kid=<?php echo $kid;?>&bcode='+bcode+'&bprovince='+bProvince+'&bcity='+bCity+'&bbankcode='+bBankCode+'&identnum='+identNum+'&cname='+cName+'&cmobile='+cMobile+'&mypass='+myPass+'&banknum='+bankNum,
+                    success : function(minfo){
+                        
+                         $('#subForm').removeClass('disClick');
+                        
+                         if(minfo.flag == '10000'){
+                             $('#smsMobile').html(minfo.info['mobile']);
+                             $('#ssid').val(minfo.info['ssid']);
+                             $('#skey').val(minfo.info['skey']);
+                             $('#scode').val('');
+                             $('#scodeError').showTip('Right', '');
+                             $('#telCode').showWin();
+                         } else {
+                             $('#msgBox').showWin('<p>'+minfo.msg+'</p>');
+                             return false;
+                         }
+                    },
+                    error: function(XMLHttpRequest, textStatus, errorThrown) {
+                        $('#subForm').removeClass('disClick');
+                        alert('数据提交失败，请重新提交！');
+                        return;
+                    }
+                });
+            }
+
+
+        }
+        
+        function smsSubForm(){
+        	
+        	var ssid = $("#ssid").val();
+        	var scode = $("#scode").val();
+        	var skey = $("#skey").val();
+        	
+            if(!(toolTest.ValMsgCode(scode))){
+                $('#scodeError').showTip('Error', '请输入正确的短信验证码！');
+                return false;
+            }
+            
+            if(ssid == '' || skey== ''){
+                $('#scodeError').showTip('Error', '验证参数无效！');
+                return false;
+            }
+            $('#scodeError').showTip('Right', '');
+
+            if($('#smsSubForm').hasClass('disClick')){
+                $('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                return false;
+            }
+            $('#smsSubForm').addClass('disClick');
+            
+            $.ajax({
+                url:  "<?php echo $ajaxUrl; ?>/activebindcard",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'ssid='+ssid+'&scode='+scode+'&skey='+skey+'&fst=1',
+                success : function(minfo){
+                	 $('#smsSubForm').removeClass('disClick');
+                     if(minfo.flag == '10000'){
+                    	 window.location.href= minfo.info;
+                     } else {
+                         $('#scodeError').showTip('Error', minfo.msg);
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                	$('#smsSubForm').removeClass('disClick');
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+        }
+        
+    </script>
+</body>
+</html>

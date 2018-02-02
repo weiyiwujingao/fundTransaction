@@ -1,0 +1,3976 @@
+[11:42:56][|-Param-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486611776
+    [mkid] => 28039b6ddde4e969
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 11:26:15
+            [ActiveTime] => 2017-02-09 11:26:15
+            [KeyStr] => 8f5cf20f62ab1613c5dd852ba596b827
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]
+[11:45:29][|-Param-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486611929
+    [mkid] => 7d5b908ee5fa4b86
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 11:26:15
+            [ActiveTime] => 2017-02-09 11:26:15
+            [KeyStr] => 8f5cf20f62ab1613c5dd852ba596b827
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]
+[11:56:53][|-Param-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486612613
+    [mkid] => 7d54443251202251
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 11:26:15
+            [ActiveTime] => 2017-02-09 11:26:15
+            [KeyStr] => 8f5cf20f62ab1613c5dd852ba596b827
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]
+[14:45:11][|-Param-|Array
+(
+    [userID] => 196
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 严萌
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486622711
+    [mkid] => 51db15b39d19da48
+    [userInfo] => Array
+        (
+            [UserID] => 196
+            [HsUserID] => 10108
+            [HsAccount] => 1164
+            [UserName] => CM-196
+            [NickName] => 严萌
+            [Mobile] => 15972158074
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 14:40:15
+            [ActiveTime] => 2017-02-09 14:40:15
+            [KeyStr] => 92fb964cb8285f22a7493bf0b89affd3
+            [RegTime] => 2017-02-06 09:26:03
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 196
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000015
+            [TelPhone] => 02787530321
+            [Email] => 1160076821@qq.com
+            [Address] => 吾问无为谓呜呜呜
+            [Postal] => 430000
+            [Job] => 1
+            [SendRate] => 1
+            [SendMethod] => a:1:{i:0;i:1;}
+            [ReservedContent] => 巴拉拉小魔仙
+        )
+
+)
+]
+[14:45:36][|-Param-|Array
+(
+    [userID] => 196
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 严萌
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486622736
+    [mkid] => ee5a95a56b1b2e89
+    [userInfo] => Array
+        (
+            [UserID] => 196
+            [HsUserID] => 10108
+            [HsAccount] => 1164
+            [UserName] => CM-196
+            [NickName] => 严萌
+            [Mobile] => 15972158074
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 14:40:15
+            [ActiveTime] => 2017-02-09 14:40:15
+            [KeyStr] => 92fb964cb8285f22a7493bf0b89affd3
+            [RegTime] => 2017-02-06 09:26:03
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 196
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000015
+            [TelPhone] => 02787530321
+            [Email] => 1160076821@qq.com
+            [Address] => 吾问无为谓呜呜呜
+            [Postal] => 430000
+            [Job] => 1
+            [SendRate] => 1
+            [SendMethod] => a:1:{i:0;i:1;}
+            [ReservedContent] => 巴拉拉小魔仙
+        )
+
+)
+]
+[14:50:37][|-Param-|Array
+(
+    [userID] => 196
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 严萌
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486623037
+    [mkid] => 4f6001b5552fe862
+    [userInfo] => Array
+        (
+            [UserID] => 196
+            [HsUserID] => 10108
+            [HsAccount] => 1164
+            [UserName] => CM-196
+            [NickName] => 严萌
+            [Mobile] => 15972158074
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 14:40:15
+            [ActiveTime] => 2017-02-09 14:40:15
+            [KeyStr] => 92fb964cb8285f22a7493bf0b89affd3
+            [RegTime] => 2017-02-06 09:26:03
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 196
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000015
+            [TelPhone] => 02787530321
+            [Email] => 1160076821@qq.com
+            [Address] => 吾问无为谓呜呜呜
+            [Postal] => 430000
+            [Job] => 1
+            [SendRate] => 1
+            [SendMethod] => a:1:{i:0;i:1;}
+            [ReservedContent] => 巴拉拉小魔仙
+        )
+
+)
+]
+[15:01:22][|-Param-|Array
+(
+    [userID] => 196
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 严萌
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486623682
+    [mkid] => b5739bdbc732d813
+    [userInfo] => Array
+        (
+            [UserID] => 196
+            [HsUserID] => 10108
+            [HsAccount] => 1164
+            [UserName] => CM-196
+            [NickName] => 严萌
+            [Mobile] => 15972158074
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 14:40:15
+            [ActiveTime] => 2017-02-09 14:40:15
+            [KeyStr] => 92fb964cb8285f22a7493bf0b89affd3
+            [RegTime] => 2017-02-06 09:26:03
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 196
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000015
+            [TelPhone] => 02787530321
+            [Email] => 1160076821@qq.com
+            [Address] => 吾问无为谓呜呜呜
+            [Postal] => 430000
+            [Job] => 1
+            [SendRate] => 1
+            [SendMethod] => a:1:{i:0;i:1;}
+            [ReservedContent] => 巴拉拉小魔仙
+        )
+
+)
+]
+[15:07:29][|-Param-|Array
+(
+    [userID] => 196
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 严萌
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486624049
+    [mkid] => a19d1de2e2a133e5
+    [userInfo] => Array
+        (
+            [UserID] => 196
+            [HsUserID] => 10108
+            [HsAccount] => 1164
+            [UserName] => CM-196
+            [NickName] => 严萌
+            [Mobile] => 15972158074
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 14:40:15
+            [ActiveTime] => 2017-02-09 14:40:15
+            [KeyStr] => 92fb964cb8285f22a7493bf0b89affd3
+            [RegTime] => 2017-02-06 09:26:03
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 196
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000015
+            [TelPhone] => 02787530321
+            [Email] => 1160076821@qq.com
+            [Address] => 吾问无为谓呜呜呜
+            [Postal] => 430000
+            [Job] => 1
+            [SendRate] => 1
+            [SendMethod] => a:1:{i:0;i:1;}
+            [ReservedContent] => 巴拉拉小魔仙
+        )
+
+)
+]
+[15:07:39][|-Param-|Array
+(
+    [userID] => 196
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 严萌
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486624059
+    [mkid] => a35d89af3bfc1041
+    [userInfo] => Array
+        (
+            [UserID] => 196
+            [HsUserID] => 10108
+            [HsAccount] => 1164
+            [UserName] => CM-196
+            [NickName] => 严萌
+            [Mobile] => 15972158074
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 14:40:15
+            [ActiveTime] => 2017-02-09 14:40:15
+            [KeyStr] => 92fb964cb8285f22a7493bf0b89affd3
+            [RegTime] => 2017-02-06 09:26:03
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 196
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000015
+            [TelPhone] => 02787530321
+            [Email] => 1160076821@qq.com
+            [Address] => 吾问无为谓呜呜呜
+            [Postal] => 430000
+            [Job] => 1
+            [SendRate] => 1
+            [SendMethod] => a:1:{i:0;i:1;}
+            [ReservedContent] => 巴拉拉小魔仙
+        )
+
+)
+]
+[15:11:41][|-Param-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486624301
+    [mkid] => 006a2e1700086c62
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 15:10:29
+            [ActiveTime] => 2017-02-09 15:10:29
+            [KeyStr] => 4e6cea5a5f31361e77e228041b89f2d0
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[15:23:10][|-Param-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486624990
+    [mkid] => 28a2ce3a60292057
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 15:10:29
+            [ActiveTime] => 2017-02-09 15:10:29
+            [KeyStr] => 4e6cea5a5f31361e77e228041b89f2d0
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[15:26:01][|-Param-|Array
+(
+    [userID] => 196
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 严萌
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486625161
+    [mkid] => 41237ecfdb5dd5b9
+    [userInfo] => Array
+        (
+            [UserID] => 196
+            [HsUserID] => 10108
+            [HsAccount] => 1164
+            [UserName] => CM-196
+            [NickName] => 严萌
+            [Mobile] => 15972158074
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 14:40:15
+            [ActiveTime] => 2017-02-09 14:40:15
+            [KeyStr] => 92fb964cb8285f22a7493bf0b89affd3
+            [RegTime] => 2017-02-06 09:26:03
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 196
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000015
+            [TelPhone] => 02787530321
+            [Email] => 1160076821@qq.com
+            [Address] => 吾问无为谓呜呜呜
+            [Postal] => 430000
+            [Job] => 1
+            [SendRate] => 1
+            [SendMethod] => a:1:{i:0;i:1;}
+            [ReservedContent] => 巴拉拉小魔仙
+        )
+
+)
+]
+[16:50:12][|-Param-|Array
+(
+    [userID] => 220
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 后
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486630212
+    [mkid] => cbe7c3b5a4c972db
+    [userInfo] => Array
+        (
+            [UserID] => 220
+            [HsUserID] => 10288
+            [HsAccount] => 1189
+            [UserName] => CM-220
+            [NickName] => 后
+            [Mobile] => 15205006442
+            [Status] => 1
+            [LastLoginIP] => 192.168.10.39
+            [LastLoginTime] => 2017-02-09 16:45:41
+            [ActiveTime] => 2017-02-09 16:45:41
+            [KeyStr] => e3cd196e09d6bfc1ccefa2ff99321948
+            [RegTime] => 2017-02-09 16:31:14
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 220
+            [Country] => 
+            [RiskBear] => 2
+            [PaperID] => 20170209000053
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]
+[16:50:50][|-Param-|Array
+(
+    [userID] => 220
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 后
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486630250
+    [mkid] => bc64f72d88d0e6fb
+    [userInfo] => Array
+        (
+            [UserID] => 220
+            [HsUserID] => 10288
+            [HsAccount] => 1189
+            [UserName] => CM-220
+            [NickName] => 后
+            [Mobile] => 15205006442
+            [Status] => 1
+            [LastLoginIP] => 192.168.10.39
+            [LastLoginTime] => 2017-02-09 16:45:41
+            [ActiveTime] => 2017-02-09 16:45:41
+            [KeyStr] => e3cd196e09d6bfc1ccefa2ff99321948
+            [RegTime] => 2017-02-09 16:31:14
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 220
+            [Country] => 
+            [RiskBear] => 2
+            [PaperID] => 20170209000053
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]
+[16:54:32][|-Param-|Array
+(
+    [userID] => 220
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 后
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486630472
+    [mkid] => 1b50ff5f742017e1
+    [userInfo] => Array
+        (
+            [UserID] => 220
+            [HsUserID] => 10288
+            [HsAccount] => 1189
+            [UserName] => CM-220
+            [NickName] => 后
+            [Mobile] => 15205006442
+            [Status] => 1
+            [LastLoginIP] => 192.168.10.39
+            [LastLoginTime] => 2017-02-09 16:45:41
+            [ActiveTime] => 2017-02-09 16:45:41
+            [KeyStr] => e3cd196e09d6bfc1ccefa2ff99321948
+            [RegTime] => 2017-02-09 16:31:14
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 220
+            [Country] => 
+            [RiskBear] => 2
+            [PaperID] => 20170209000053
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]
+[17:04:16][|-Param-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486631056
+    [mkid] => 0840c8d63d7f0147
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 15:10:29
+            [ActiveTime] => 2017-02-09 15:10:29
+            [KeyStr] => 4e6cea5a5f31361e77e228041b89f2d0
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[17:18:24][|-Param-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486631904
+    [mkid] => c2de0f8d9fc9fa0f
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 15:10:29
+            [ActiveTime] => 2017-02-09 15:10:29
+            [KeyStr] => 4e6cea5a5f31361e77e228041b89f2d0
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[21:00:45][|-Param-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486645245
+    [mkid] => 3c2f931fc7ddf387
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 20:08:44
+            [ActiveTime] => 2017-02-09 20:08:44
+            [KeyStr] => 25d168ba4b708b6615c5baf5fc3a8d19
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170209000037
+            [TelPhone] => 123456
+            [Email] => 123456@qq.com
+            [Address] => 123456
+            [Postal] => 123456
+            [Job] => 2
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 测试啊
+        )
+
+)
+]
+[21:01:28][|-Param-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486645288
+    [mkid] => dce8e3f9af5ef514
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 20:08:44
+            [ActiveTime] => 2017-02-09 20:08:44
+            [KeyStr] => 25d168ba4b708b6615c5baf5fc3a8d19
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170209000037
+            [TelPhone] => 123456
+            [Email] => 123456@qq.com
+            [Address] => 123456
+            [Postal] => 123456
+            [Job] => 2
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 测试啊
+        )
+
+)
+]
+[21:07:44][|-Param-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486645664
+    [mkid] => dc44e4ff5408dde5
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 20:08:44
+            [ActiveTime] => 2017-02-09 20:08:44
+            [KeyStr] => 25d168ba4b708b6615c5baf5fc3a8d19
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170209000037
+            [TelPhone] => 123456
+            [Email] => 123456@qq.com
+            [Address] => 123456
+            [Postal] => 123456
+            [Job] => 2
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 测试啊
+        )
+
+)
+]
+[21:27:33][|-Param-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486646853
+    [mkid] => 91552c6eb6f45568
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.17.222
+            [LastLoginTime] => 2017-02-09 21:27:11
+            [ActiveTime] => 2017-02-09 21:27:11
+            [KeyStr] => 6264f1439606c43b9fbf1ad63b078253
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[21:30:29][|-Param-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486647029
+    [mkid] => 62132991f20acbcd
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.17.222
+            [LastLoginTime] => 2017-02-09 21:29:52
+            [ActiveTime] => 2017-02-09 21:29:52
+            [KeyStr] => 95d2e1ce6b75359f32f63df1fc194673
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[21:36:49][|-Param-|Array
+(
+    [userID] => 166
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 邱小兰
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486647409
+    [mkid] => ffacc6c17a063dfe
+    [userInfo] => Array
+        (
+            [UserID] => 166
+            [HsUserID] => 10278
+            [HsAccount] => 1188
+            [UserName] => QQ-166
+            [NickName] => 邱小兰
+            [Mobile] => 
+            [Status] => 1
+            [LastLoginIP] => 192.168.10.39
+            [LastLoginTime] => 2017-02-09 21:33:32
+            [ActiveTime] => 2017-02-09 21:33:32
+            [KeyStr] => 70578ca43ee8bc8da04890de3df908ed
+            [RegTime] => 2017-02-03 16:45:26
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 166
+            [Country] => 
+            [RiskBear] => 2
+            [PaperID] => 20170209000049
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 2
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 我是
+        )
+
+)
+]
+[21:51:18][|-Param-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486648278
+    [mkid] => 43aa683f97342eca
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 21:25:28
+            [ActiveTime] => 2017-02-09 21:25:28
+            [KeyStr] => f31f302da63be8dd05871e89dcde65d9
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170209000037
+            [TelPhone] => 123456
+            [Email] => 123456@qq.com
+            [Address] => 123456
+            [Postal] => 123456
+            [Job] => 2
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 测试啊
+        )
+
+)
+]
+[22:03:32][|-Param-|Array
+(
+    [userID] => 169
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 黄
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486649012
+    [mkid] => eb2c1925cf507a54
+    [userInfo] => Array
+        (
+            [UserID] => 169
+            [HsUserID] => 0
+            [HsAccount] => 1181
+            [UserName] => QQ-169
+            [NickName] => 黄
+            [Mobile] => 18065043496
+            [Status] => 1
+            [LastLoginIP] => 192.168.17.222
+            [LastLoginTime] => 2017-02-09 21:29:52
+            [ActiveTime] => 2017-02-09 21:29:52
+            [KeyStr] => 95d2e1ce6b75359f32f63df1fc194673
+            [RegTime] => 2017-02-04 09:44:00
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 169
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170206000025
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 23423
+        )
+
+)
+]
+[22:14:12][|-Param-|Array
+(
+    [userID] => 178
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 杜拉拉
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486649652
+    [mkid] => 9724996c004d6be5
+    [userInfo] => Array
+        (
+            [UserID] => 178
+            [HsUserID] => 10268
+            [HsAccount] => 1184
+            [UserName] => CM-178
+            [NickName] => 杜拉拉
+            [Mobile] => 18125530297
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 21:25:28
+            [ActiveTime] => 2017-02-09 21:25:28
+            [KeyStr] => f31f302da63be8dd05871e89dcde65d9
+            [RegTime] => 2017-02-04 13:39:12
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 178
+            [Country] => 
+            [RiskBear] => 1
+            [PaperID] => 20170209000037
+            [TelPhone] => 123456
+            [Email] => 123456@qq.com
+            [Address] => 123456
+            [Postal] => 123456
+            [Job] => 2
+            [SendRate] => 1
+            [SendMethod] => 
+            [ReservedContent] => 测试啊
+        )
+
+)
+]
+[22:14:59][|-Param-|Array
+(
+    [userID] => 211
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 吴晶
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486649699
+    [mkid] => 9df80428ac3696ab
+    [userInfo] => Array
+        (
+            [UserID] => 211
+            [HsUserID] => 10298
+            [HsAccount] => 1190
+            [UserName] => CM-211
+            [NickName] => 吴晶
+            [Mobile] => 13037100638
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 15:10:23
+            [ActiveTime] => 2017-02-09 15:10:23
+            [KeyStr] => 156e1479a9fb6f6f32e8f7874d12e0d0
+            [RegTime] => 2017-02-07 14:35:50
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 211
+            [Country] => 
+            [RiskBear] => 2
+            [PaperID] => 20170209000058
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]
+[22:20:03][|-Param-|Array
+(
+    [userID] => 211
+    [centerUrl] => https://trade.buyfunds.cn/user/center
+    [keywords] => 基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程
+    [description] => 伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。
+    [headerCss] => 
+    [nav] => wdzh
+    [backUrl] => https://trade.buyfunds.cn/_user/Userinfo
+    [nickName] => 吴晶
+    [subnav] => 
+    [sidebar] => 
+    [title] => 交易密码修改_我的账户_伯嘉基金网
+    [bank] => Array
+        (
+            [002] => Array
+                (
+                    [pic] => ICBC.jpg
+                    [name] => 工商银行
+                )
+
+            [005] => Array
+                (
+                    [pic] => CCB.jpg
+                    [name] => 建设银行
+                )
+
+            [010] => Array
+                (
+                    [pic] => SB.jpg
+                    [name] => 浦发银行
+                )
+
+            [009] => Array
+                (
+                    [pic] => CEB.jpg
+                    [name] => 光大银行
+                )
+
+            [014] => Array
+                (
+                    [pic] => CMB.jpg
+                    [name] => 民生银行
+                )
+
+            [003] => Array
+                (
+                    [pic] => ACB.jpg
+                    [name] => 农业银行
+                )
+
+            [920] => Array
+                (
+                    [pic] => PB.jpg
+                    [name] => 平安银行
+                )
+
+            [004] => Array
+                (
+                    [pic] => CB.jpg
+                    [name] => 中国银行
+                )
+
+            [007] => Array
+                (
+                    [pic] => CBM.jpg
+                    [name] => 招商银行
+                )
+
+            [015] => Array
+                (
+                    [pic] => CIB.jpg
+                    [name] => 中信银行
+                )
+
+            [012] => Array
+                (
+                    [pic] => HB.jpg
+                    [name] => 华夏银行
+                )
+
+            [011] => Array
+                (
+                    [pic] => ICB.jpg
+                    [name] => 兴业银行
+                )
+
+            [006] => Array
+                (
+                    [pic] => BOC.jpg
+                    [name] => 交通银行
+                )
+
+            [016] => Array
+                (
+                    [pic] => GDB.jpg
+                    [name] => 广东发展银行
+                )
+
+        )
+
+    [tid] => 1486650003
+    [mkid] => 4f4a8db5fa604af5
+    [userInfo] => Array
+        (
+            [UserID] => 211
+            [HsUserID] => 10298
+            [HsAccount] => 1190
+            [UserName] => CM-211
+            [NickName] => 吴晶
+            [Mobile] => 13037100638
+            [Status] => 1
+            [LastLoginIP] => 192.168.15.235
+            [LastLoginTime] => 2017-02-09 15:10:23
+            [ActiveTime] => 2017-02-09 15:10:23
+            [KeyStr] => 156e1479a9fb6f6f32e8f7874d12e0d0
+            [RegTime] => 2017-02-07 14:35:50
+            [GroupIDs] => Array
+                (
+                    [0] => 1
+                )
+
+        )
+
+    [userDetail] => Array
+        (
+            [UserID] => 211
+            [Country] => 
+            [RiskBear] => 2
+            [PaperID] => 20170209000058
+            [TelPhone] => 
+            [Email] => 
+            [Address] => 
+            [Postal] => 
+            [Job] => 
+            [SendRate] => 
+            [SendMethod] => 
+            [ReservedContent] => 
+        )
+
+)
+]

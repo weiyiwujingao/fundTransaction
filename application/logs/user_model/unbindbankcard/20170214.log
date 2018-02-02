@@ -1,0 +1,44 @@
+[10:33:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1184
+)
+]
+[10:33:51][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2034
+                    [error_info] => 有在途交易，不能销户
+                )
+
+        )
+
+)
+]
+[10:34:53][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1191
+)
+]
+[10:34:53][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170214000015
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]

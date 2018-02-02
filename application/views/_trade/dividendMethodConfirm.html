@@ -1,0 +1,108 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>	
+        <div class="aMain">
+        	<h3 class="Title5">修改分红方式</h3>
+            <div class="qstepBar">
+                <a href="javascript:;">选择基金</a>
+                <a href="javascript:;" class="Cur">修改分红方式</a>
+                <a href="javascript:;">申请受理</a>
+            </div>
+            <form class="formPre Mt20" id="form" name="form" method="post">
+            	<div class="formP"><b class="bankPre">基金名称：</b><b><?php if(isset($fund_name)) echo $fund_name?> （<?php if(isset($fund_code)) echo $fund_code?>）</b></div>
+                <div class="formLi">
+                	<b class="bankPre">分红方式：</b>
+                    <span class="uRadio">现金分红<i><input type="radio" name="fenhong" value="1" class="FHFS" <?=($fenhongfs=='1')?'checked="checked"':'';?> /></i></span>
+                    <span class="uRadio">红利再投资<i><input type="radio" name="fenhong" value="0" class="FHFS" <?=($fenhongfs)?'':'checked="checked"';?> /></i></span>
+                </div>
+				<div class="formLi">
+                    <b class="bankPre"><i>*</i>请输入交易密码：</b>
+                    <span><input type="password" id="password" onBlur="passInp(this)" value="" class="w340"></span>
+                    <b class="eMl7"><a href="<?php echo TRADE_TRPWD_URL;?>" class="blue">忘记交易密码?</a></b>
+                    <em></em>
+                </div>
+                <div class="Mt20">
+                	<a href="javascript:;" onClick="subForm(this);" class="halfBtn Ml30">确认</a>
+                    <a href="javascript:window.history.back();" class="navyBtn">返回</a>
+                </div>
+				<input type="hidden" value="<?=$fund_name?>" id="fundname" >
+				<input type="hidden" value="<?=$fund_code?>" id="fundcode" >
+            </form> 
+            <div class="Explain">
+            	<h3>说明:</h3>
+                <p>1、修改基金分红方式申请须经过注册登记机构确认，在确认之前您查询到的基金分红方式不会发生变化。</p>
+                <p>2、如果当日发起多笔修改分红方式申请，该基金最终的分红方式以注册登记机构确认结果为准。</p>
+            </div>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>    
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612007163056"></script>
+    <script type="text/javascript">
+		var urlajax = "<?php echo base_url();?>trade/ajax.html";
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.uRadio').uRadio();/*单选框美化*/
+
+        function passInp(obj){//密码输入框空判断
+            var str = $(obj).val();
+            if(str == ''){
+                $(obj).showTip('Error','不能为空');
+            }else{
+                $(obj).showTip('Right');
+            }
+        }
+		function getdata(){
+			var data = new Object();
+			data.fundcode = $('#fundcode').val();
+			data.fundname = $('#fundname').val();
+			data.password = $('#password').val();
+			//data.FHFS   = $('.FHFS').val();
+			data.FHFS   = $("input[name='fenhong']:checked").val();
+			if(!data.fundcode||!data.fundname||!data.password){
+				return '';
+			}
+			data.action   = 'dividendMethod';
+			return data;
+		}
+		function subForm(obj){//表单提交按钮点击事件 仅供参考
+			var flag = true,
+			p = $(obj).parents('form'),
+			inp = $(p).find('input'),
+			str = $(inp).val();
+			if(str == ''){
+				flag = false;
+				$(inp).showTip('Error','不能为空');
+			}
+			data = getdata();
+			if(!data){
+				alert('参数提交错误！');return;
+			}
+			
+			if(flag){
+				flag = false;
+				$.ajax({
+					url:urlajax,
+					type:'post',
+					data:data,
+					dataType:'json',
+					success: function(d){
+						if(d['flag']=='10000'){
+							window.location.href=d['url'];					
+						}else{
+							alert(d['msg']);
+						}
+						flag = true;						
+					},
+					error: function(XMLHttpRequest, textStatus, errorThrown)
+					{
+						alert('网络繁忙,请稍后再试! 错误码:'+textStatus);
+						flag = true;
+					}
+				});
+			}
+		}
+    </script>
+</body>
+</html>

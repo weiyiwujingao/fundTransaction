@@ -1,0 +1,67 @@
+[13:45:53][|-Param-|Array
+(
+    [UserID] => 178
+    [Province] => 广东省
+    [City] => 广州市
+    [BankName] => 招商银行
+    [BankNo] => 007
+    [BranchBank] => 308581002249
+    [BankCard] => 6214830201562278
+    [Mobile] => 18125530297
+    [NickName] => 阿拉蕾
+    [IdentityNumber] => 422201199207070427
+    [Sex] => 1
+    [Password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-04 13:45:53
+)
+]
+[13:45:53][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 
+    [apply_time] => 
+    [account_type] => A
+    [cust_type] => 1
+    [client_full_name] => 阿拉蕾
+    [client_name] => 阿拉蕾
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 422201199207070427
+    [password] => c62d929e7b7e7b6165923a5dfc60cb56
+    [mobile_tel] => 18125530297
+    [bank_no] => 007
+    [bank_name] => 招商银行
+    [bank_account] => 6214830201562278
+    [bank_account_name] => 阿拉蕾
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 308581002249
+    [detail_fund_way] => 01
+    [id_enddate] => 20990101
+    [fund_interface_type] => 1
+)
+]
+[13:45:53][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170126000025
+                    [apply_date] => 20170206
+                    [success_type] => 0
+                    [trade_acco] => 1159
+                    [error_code] => 
+                    [client_id] => 10058
+                    [error_info] => 
+                )
+
+        )
+
+)
+]

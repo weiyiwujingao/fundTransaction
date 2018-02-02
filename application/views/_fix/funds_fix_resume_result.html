@@ -1,0 +1,44 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+<?php
+function getConfirmDate() {
+    $num = 1;
+    if (date('Hi', time()) > 1500) {
+        $num = 2;
+    }
+    if (date('w') == 5) {
+        $num += 2;
+    } elseif (date('w') == 0) {
+        $num = 2;
+    } elseif (date('w') == 6) {
+        $num = 3;
+    }
+    return date('Y-m-d', strtotime("$num days"));
+}
+?>
+<div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">恢复定投计划</h3>
+            <h3 class="Title Tc Mt25">恢复定投计划申请受理<?php echo $success ? '成功' : '失败'; ?></h3>
+            <?php if ($success) : ?>
+            <p class="accDes">生效时间：<?php echo getConfirmDate(); ?></p>
+            <?php else : ?>
+            <p class="accDes"><?php echo $info; ?></p>
+            <?php endif; ?>
+            <p class="accDes"><?php echo date('Y-m-d H:i:s', time()); ?></p>
+            <div class="Mt30 Tc">
+            	 <a href="<?php echo base_url(); ?>fix/index.html" class="halfBtn Ml25"><?php echo $success ? '查看定期充值计划' : '返回重试'; ?></a>
+            </div>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161228140734"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+    </script>

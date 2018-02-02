@@ -1,0 +1,96 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">暂停定投计划</h3>
+            <form class="tablePre" action="<?php echo base_url(); ?>fix/pause_result.html" method="post">
+            	<h3 class="Title4">请确认暂停定投信息</h3>
+                <table cellpadding="0" cellspacing="0" class="mTable">
+                    <tbody>
+                        <tr>
+                            <td class="tdGray">基金名称</td>
+                            <td><?php echo $data['name'], '(', $data['code'], ')'; ?></td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">支付方式</td>
+                            <td><?php echo $data['acco']; ?></td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">收费方式</td>
+                            <td><?php echo $data['share_type']; ?></td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">充值周期</td>
+                            <td>每<?php echo $data['period']; ?></td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">充值日期</td>
+                            <td><?php echo $data['fix_day']; ?>日</td>
+                        </tr>
+                        <tr>
+                            <td class="tdGray">每期充值金额</td>
+                            <td><?php echo $data['balance']; ?>元</td>
+                        </tr>
+                    </tbody>
+                </table>
+            
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>请输入交易密码：</b>
+                    <span><input type="password" name="password" onBlur="passInp(this)" value="" class="w340"></span>
+                    <b class="eMl7"><a href="<?php echo TRADE_TRPWD_URL; ?>" target="_blank" class="blue">忘记交易密码?</a></b>
+                    <em></em>
+                </div>
+                <p class="formTip">请输入伯嘉基金网交易密码，非银行卡密码。</p>
+                <div class="btnPre Mt30">
+                    <a href="javascript:;" onClick="subForm(this);" class="halfBtn">确认</a>
+                    <a href="<?php echo base_url(); ?>fix/index.html" class="navyBtn">返回</a>
+                </div>
+                <input type="hidden" name="protocol_id" value="<?php echo $data['protocol_id']; ?>">
+                <input type="hidden" name="fund_name" value="<?php echo $data['name']; ?>">
+                <input type="hidden" name="period_raw" value="<?php echo $data['period_raw']; ?>">
+                <input type="hidden" name="balance" value="<?php echo $data['balance']; ?>">
+                <input type="hidden" name="fix_day" value="<?php echo $data['fix_day']; ?>">
+                <input type="hidden" name="bank_no" value="<?php echo $data['bank_no']; ?>">
+                <input type="hidden" name="first_exchdate" value="<?php echo $data['first_exchdate']; ?>">
+                <input type="hidden" name="operation" value="<?php echo $data['fix_state'] == 'P' ? 'resume' : 'pause'; ?>">
+            </form>
+            <div class="Explain">
+            	<h3>说明：</h3>
+                <p>1、协议扣款日当天无法暂停/终止原计划。</p>
+                <p>2、定投暂停/终止需T+1日确认，确认成功后从下个扣款日自动停止扣款</p>
+            </div>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161228140734"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		function passInp(obj){//密码输入框空判断
+			var str = $(obj).val();
+			if(str == ''){
+				$(obj).showTip('Error','不能为空');
+			}else{
+				$(obj).showTip('Right');
+			}
+		}
+		function subForm(obj){//表单提交按钮点击事件 仅供参考
+			var flag = true,
+			p = $(obj).parents('form'),
+			inp = $(p).find('input'),
+			str = $(inp).val();
+			if(str == ''){
+				flag = false;
+				$(inp).showTip('Error','不能为空');
+			}
+			if(flag){
+				p.submit();
+			}
+		}
+    </script>

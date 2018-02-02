@@ -1,0 +1,97 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/login_nav.html');?>
+<?php require_once(VIEWPATH . '/common/back_pwd_banner.html');?>
+    <div class="allCnt Mt20">    	
+        <div class="qstepBar">
+            <a href="#">身份验证</a>
+            <a href="#" class="Cur">设置新密码</a>
+            <a href="#">设置成功</a>
+        </div>
+        <form class="formPre Mt25">
+        	<div class="formLi">
+            	<b class="bankPre"><i>*</i>新密码：</b>
+                <span><input id="pwd" type="password" value=""  class="w340" /></span>
+                <em id="pwdError"></em>
+            </div>
+            <div class="formLi">
+            	<b class="bankPre"><i>*</i>确认新密码：</b>
+                <span><input id="compwd" type="password" value="" class="w340" /></span>
+                <em id="compwdError"></em>
+            </div>
+            <div class="btnCnt Mt10">
+                <a href="javascript:;" onClick="subForm();" class="halfBtn">提交</a>
+            </div>
+        </form>
+    </div>
+    <!--弹窗开始-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+        <h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+            <p>你已经输入密码错误四次，再次输入错误，30分钟内禁止登录本站</p>
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" class="redBtn">确定</a>
+        </div>
+    </div>
+
+    <!--Foot Start-->
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+<script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js"></script>
+<script type="text/javascript">
+    	function nullTxt(obj,name){//空校验 仅供参考
+			if($(obj).val() == ''){
+				$(obj).showTip('Error',name+'不能为空');
+			}else{
+				$(obj).showTip('Right');
+			}
+		}
+		function subForm(){//表单提交按钮点击事件，仅供参考
+			var flag = true;
+            var $pwd=$('#pwd').val();
+            var $cmpwd=$('#pwd').val();
+
+            //空值校验
+            if($pwd=='' || $cmpwd==''){
+                nullTxt('#pwd','新密码');
+                nullTxt('#compwd','确认密码');
+                return false;
+            }
+
+            if($pwd != $cmpwd){
+                flag = false;
+                $('#compwd').showTip('Error','确认密码不正确，请重新输入');
+            }
+
+
+
+			if(flag){
+                $.ajax({
+                    url:  "<?php echo $regUrl; ?>/ajaxNewpwdAction",
+                    cache:false,
+                    type: 'post',
+                    dataType: 'json',
+                    data: 'mcode=<?php echo $mcode;?>&tstr=<?php echo $tstr; ?>&tstr2=<?php echo $tstr2; ?>&vstr=<?php echo $vstr; ?>&rbk=<?php echo $rbk; ?>&password='+$pwd,
+                    success : function(minfo){
+                        if(minfo.flag==00){
+                            window.location.href=minfo.url;
+                        }else{
+                            $('#msgBox').showWin('<p>'+minfo.msg+'</p>');
+                        }
+                        return false;
+                    },
+                    error: function(XMLHttpRequest, textStatus, errorThrown) {
+                        $('#regBtn').removeClass('disClick');
+                        $('#msgBox').showWin('<p>'+'数据提交失败，请重新提交！'+'</p>');
+                        return;
+                    }
+                });
+
+			}else{
+                $('#msgBox').showWin('<p>'+'输入格式错误，请依照提示修改！'+'</p>');
+        }
+		}
+    </script>    
+</body>
+</html>

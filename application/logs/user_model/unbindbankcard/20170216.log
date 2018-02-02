@@ -1,0 +1,110 @@
+[09:56:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1201
+)
+]
+[09:56:13][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2034
+                    [error_info] => [1201]有在途交易，不能销户
+                )
+
+        )
+
+)
+]
+[09:57:06][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1197
+)
+]
+[09:57:07][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2034
+                    [error_info] => [1197]有在途交易，不能销户
+                )
+
+        )
+
+)
+]
+[10:00:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1205
+)
+]
+[10:00:18][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2034
+                    [error_info] => [1205]有在途交易，不能销户
+                )
+
+        )
+
+)
+]
+[10:00:33][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1205
+)
+]
+[10:00:33][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2034
+                    [error_info] => [1205]有在途交易，不能销户
+                )
+
+        )
+
+)
+]
+[10:01:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1205
+)
+]
+[10:01:31][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 2034
+                    [error_info] => [1205]有在途交易，不能销户
+                )
+
+        )
+
+)
+]

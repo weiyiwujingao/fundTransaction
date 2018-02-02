@@ -1,0 +1,122 @@
+[00:20:32][|交易密码修改-$userID-|169|-$acco-|1181|-$tid-|1486743249|-$ttid-|1486743592|-$mkid-|525c1a53171bc255]
+[00:20:32][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:21:02][|交易密码修改-$userID-|169|-$acco-|1181|-$tid-|1486743249|-$ttid-|1486743592|-$mkid-|525c1a53171bc255]
+[00:21:02][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:21:18][|交易密码修改-$userID-|169|-$acco-|1181|-$tid-|1486743249|-$ttid-|1486743592|-$mkid-|525c1a53171bc255]
+[00:21:18][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:22:49][|交易密码修改-$userID-|169|-$acco-|1181|-$tid-|1486743249|-$ttid-|1486743592|-$mkid-|525c1a53171bc255]
+[00:22:49][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:23:41][|交易密码修改-$userID-|169|-$acco-|1181|-$tid-|1486743249|-$ttid-|1486743592|-$mkid-|525c1a53171bc255]
+[00:23:41][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:23:41][|-修改密码$param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1181
+    [new_password] => cae28750c430992e43eeb057c27cd38f
+)
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[冻结],不能做该交易[989]
+                )
+
+        )
+
+)
+]
+[00:26:10][|交易密码修改-$userID-|169|-$acco-|1181|-$tid-|1486743249|-$ttid-|1486743592|-$mkid-|525c1a53171bc255]
+[00:26:10][|-$res-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:26:10][|-修改密码$param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1181
+    [new_password] => cae28750c430992e43eeb057c27cd38f
+)
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 
+                    [success_type] => 2
+                    [error_code] => 0106
+                    [error_info] => 基金账号状态是[冻结],不能做该交易[989]
+                )
+
+        )
+
+)
+]

@@ -1,0 +1,34 @@
+2017-02-08 14:01:56|-ip-|192.168.15.235|-mobile-|18059949892|-phoneArea-||||
+2017-02-08 14:01:56|-$cParam-|Array
+(
+    [mobile] => 18059949892
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-08 14:01:56
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 82
+    [Mobile] => 18059949892
+    [IP] => 192.168.15.235
+    [MobileCheck] => 682303
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 82
+            [ActiveTime] => 2017-02-08 14:01:56
+        )
+
+)
+

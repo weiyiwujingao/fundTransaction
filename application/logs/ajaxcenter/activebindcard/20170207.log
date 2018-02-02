@@ -1,0 +1,40 @@
+[15:04:40][|-param-|Array
+(
+    [mobile_code] => 871860
+    [sms_serial_no] => 1686408
+    [original_serial_no] => bj2017020715042866145
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020205
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 150440
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:04:45][|-sRs-|Array
+(
+)
+]
+[15:07:06][|-param-|Array
+(
+    [mobile_code] => 871860
+    [sms_serial_no] => 1686408
+    [original_serial_no] => bj2017020715042866145
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202020205
+    [mobile_tel] => 18671517368
+    [order_date] => 20170207
+    [order_time] => 150706
+    [bank_account] => 6228452408037333076
+    [bank_no] => 103536269569
+)
+]
+[15:07:11][|-sRs-|Array
+(
+)
+]

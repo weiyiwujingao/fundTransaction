@@ -1,0 +1,182 @@
+[09:59:40][|-Param-|Array
+(
+    [UserID] => 69
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013537
+    [BankCard] => 6228480068816522772
+    [Mobile] => 13599951535
+    [NickName] => dexds
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [Password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [EndValidDate] => 2099-01-01
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-01-25 09:59:40
+)
+]
+[10:36:43][|-Param-|Array
+(
+    [UserID] => 69
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013537
+    [BankCard] => 6228480068816522772
+    [Mobile] => 13599951535
+    [NickName] => dexds
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [Password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [EndValidDate] => 2099-01-01
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-01-25 10:36:43
+)
+]
+[10:38:36][|-Param-|Array
+(
+    [UserID] => 69
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013537
+    [BankCard] => 6228480068816522772
+    [Mobile] => 13599951535
+    [NickName] => dexds
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [Password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [EndValidDate] => 2099-01-01
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-01-25 10:38:36
+)
+]
+[10:40:58][|-Param-|Array
+(
+    [UserID] => 69
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013537
+    [BankCard] => 6228480068816522772
+    [Mobile] => 13599951535
+    [NickName] => dexds
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [Password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [EndValidDate] => 2099-01-01
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-01-25 10:40:58
+)
+]
+[10:41:26][|-Param-|Array
+(
+    [UserID] => 69
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013537
+    [BankCard] => 6228480068816522772
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [Password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [EndValidDate] => 2099-01-01
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-01-25 10:41:26
+)
+]
+[10:41:26][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 20170125
+    [apply_time] => 104126
+    [cust_type] => l
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [mobile_tel] => 13599951535
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013537
+    [detail_fund_way] => 01
+    [id_enddate] => 2099-01-01
+    [fund_interface_type] => 1
+)
+]
+[10:41:31][|-rs-|Array
+(
+)
+]
+[10:49:17][|-Param-|Array
+(
+    [UserID] => 69
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103391013537
+    [BankCard] => 6228480068816522772
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [Password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [EndValidDate] => 2099-01-01
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-01-25 10:49:17
+)
+]
+[10:49:17][|-xParam-|Array
+(
+    [trust_way] => 2
+    [en_entrust_way] => 0|1|1|0|0|0|0|
+    [order_date] => 20170125
+    [apply_time] => 104917
+    [cust_type] => l
+    [client_full_name] => 邹奋
+    [client_name] => 邹奋
+    [fund_nationality] => 156
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [password] => d65999b4039b0ae2adc5d534fa7e96b8
+    [mobile_tel] => 13599951535
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480068816522772
+    [bank_account_name] => 邹奋
+    [capital_mode] => l
+    [ta_no] => B0
+    [fund_card] => 
+    [branchbank] => 103391013537
+    [detail_fund_way] => 01
+    [id_enddate] => 2099-01-01
+    [fund_interface_type] => 1
+)
+]
+[10:49:22][|-rs-|Array
+(
+)
+]

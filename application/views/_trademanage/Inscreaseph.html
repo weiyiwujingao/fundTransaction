@@ -1,0 +1,134 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+    <div class="aMain">
+        	<h3 class="Title5">修改手机号</h3>
+            <div class="qstepBar Mt10">
+            	<a href="javascript:;">安全认证</a>
+                <a href="javascript:;" class="Cur">新增手机号验证</a>
+                <a href="javascript:;">修改成功</a>
+            </div>
+            <form class="Mt25 Pl130">
+            	<div class="formLi">
+                    <b class="bankPre"><i>*</i>手机号码：</b>
+                    <span><input type="text" value="" id="phonenum" class="tel w340" /></span>
+                    <em></em>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>短信验证码：</b>
+                    <span><input type="text" value="" id="dcode" class="w160"/></span>
+                    <a href="javascript:;" onClick="getMobileCode();" id="scBtn" class="codeBtn">获取短信验证</a>
+                    <em id="mCodeError"></em>
+                </div>
+                <div class="Mt30 Tc">
+                	<a href="javascript:;" onclick="subForm(this);" class="halfBtn">提交</a>
+                </div>
+            </form>
+            <input type="hidden" id="ftid">
+            <input type="hidden" id="mkid">
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+        <h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+            <p class="red">您已经输错3次密码，还有2次登录机会！</p>
+            <p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js?v=201612141605"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.tel').inpTel();/*电话号码格式验证*/
+		var T = 180,Time;//T倒计时实际，Time倒计时计时器
+
+        function getMobileCode(){
+            var $mobile=$('#phonenum').val();
+            if($mobile==''){
+                $('phonenum').showTip('Error','手机号码不能为空');
+                return false;
+            }
+            if($('#scBtn').hasClass('Time')){
+                return false;
+            }
+            if($('#scBtn').hasClass('disClick')){
+                $('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                return false;
+            }
+
+            $.ajax({
+                url:  "<?php echo base_url(); ?>manage/modIncreaseCode.html",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data:{'tid':"<?= isset($tid)?$tid:'';?>",'ttid':"<?= isset($ttid)?$ttid:'';?>",'type':4,'mkid':"<?= isset($mkid)?$mkid:'';?>",'mobile':$mobile,},
+                success : function(minfo){
+                    $('#scBtn').removeClass('disClick');
+                    if(minfo['flag'] == '10000'){
+                        $('#ftid').val(minfo['info']['ftid']);
+                        $('#mkid').val(minfo['info']['mkid']);
+                        countDown(180, '#scBtn');
+                    }else {
+                        $('#mCodeError').showTip('Error',minfo['msg']);
+                        return false;
+                    }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    $('#msgBox').showWin("<p class='Tc'>数据提交失败，请联系技术人员！</p>");
+                    return;
+                }
+            });
+        }
+
+		function subForm(obj){
+            var $ftid=$('#ftid').val(),$mkid=$('#mkid').val(),$dcode=$('#dcode').val(),$mobile=$('#phonenum').val();
+			var flag = true,arr = ['手机号','验证码']
+			p = $(obj).parents('form'),
+			inp = $(p).find('input');
+			for(var i = 0; i < inp.length;i++){
+				if($(inp).eq(i).val() == ''){
+					flag = false;
+					$(inp).eq(i).showTip('Error',arr[i]+'不能为空');
+				}
+			}
+			if(flag){
+				var str = $('.tel').val(),
+				reg = /^1[3|4|5|7|8]\d{9}$/g;
+				if(!reg.test(str)){
+					flag = false;
+					$('.tel').showTip('Error','手机号格式不正确');
+				}
+			}
+			if(flag){
+                $.ajax({
+                    url:"<?php echo base_url(); ?>manage/IncreaseVerif.html",
+                    type:"post",
+                    dataType:"json",
+                    data:{'tid':"<?= isset($tid)?$tid:'';?>",'ftid':$ftid,'mkid':$mkid,'dcode':$dcode,'mobile':$mobile,},
+                    success:function(data){
+                        if(data['flag']=='10000'){
+                            window.location.href=data['url']
+                        }else{
+                            $('#msgBox').showWin("<p class='Tc'>"+data['msg']+"</p>");
+                        }
+                    },
+                    error:function(){
+                        $('#msgBox').showWin("<p class='Tc'>数据传输失败，请联系技术人员！</p>");
+                    }
+                });
+			}
+		}
+    </script>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">投资者风险承受能力评测</h3>
+            <div class="tipDes"><span>说明：</span>根据证监会关于基金销售管理的相关规定，我们需要对投资者进行风险等级评测，请跟据您的风险偏好确认自己的风险承受力，在基金认申购时，系统会对您的风险承受力和基金的风险等级进行匹配，如果基金风险等级大于您的风险承受力，系统会做出风险提示。</div>
+            <h3 class="Title2 Mt10">请仔细阅读下面题目，选出每个题目中最适合您的选项。</h3>
+            <form class="tablePre" action="" method="POST" name="quesForm" id="quesForm">
+                <?php
+                if($riskQues){
+                    foreach($riskQues as $rqk => $rqv){
+                        echo '<div class="riskQue">'."\r\n";
+                        echo '<h3>' . str_pad((int)($rqk+1), 2, "0", STR_PAD_LEFT) . ' ' . $rqv['question_title']. '</h3>'."\r\n";
+                        foreach($rqv['question_option'] as $qk => $qv){
+                            echo '
+                                <div class="formLi">
+                                    <span class="uRadio">' . $qv['option_content'] . '<i><input type="radio" value="' . $qv['option_no'] . '" name="ques' . $rqv['question_no'] . '" /></i></span>
+                                </div>';
+                        }
+                        echo '</div>';
+                    }
+                }
+
+                ?>
+                <div class="Mt10 Tc">
+                	<a href="javascript:;" onclick="subForm();" class="halfBtn" id="subButton">提交</a>
+                    <a href="<?php echo TRADE_WEB_URL;?>" class="navyBtn">取消</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" class="redBtn" id="undoBox">确定</a>
+        </div>
+    </div>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612161531"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.uRadio').uRadio();//美化单选框
+		
+		function subForm(){
+			<?php 
+			if($riskQues){
+				$d = '';
+				$xc =count($riskQues);
+				$i=1;
+				foreach($riskQues as $rk => $rv){
+					echo '
+				    if(!$("input[name=\'ques'. $rv['question_no'] . '\']:checked").val()){
+				        $(\'#msgBox\').showWin(\'问题' . str_pad((int)($rk+1), 2, "0", STR_PAD_LEFT) . '未选择\');
+				        flag= false;
+				        return false;
+				        }';
+				        
+				        
+				        if($i == $xc){
+				        	$d .= '"&ques'. $rv['question_no'] . '="+$("input[name=\'ques'. $rv['question_no'] . '\']:checked").val()';
+			                
+				        } else {
+				        	$d .= '"&ques'. $rv['question_no'] . '="+$("input[name=\'ques'. $rv['question_no'] . '\']:checked").val()+';
+	                        
+				        }
+				    $i++;
+				}
+				echo "\r\n";
+				
+				echo 'var data =' . $d . ';';
+				
+		    ?>
+
+		    var flag = true;
+		    
+
+            if($('#subButton').hasClass('disClick')){
+                $('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                return false;
+            }
+            $('#subButton').addClass('disClick');
+            if(flag){
+                $.ajax({
+                    url:  "<?php echo $ajaxUrl; ?>/riskask",
+                    cache:false,
+                    type: 'post',
+                    dataType: 'json',
+                    data: data,
+                    success : function(minfo){
+                         $('#subButton').removeClass('disClick');
+                         $('#msgBox').showWin('<p>'+minfo.msg+'</p>');
+                         if(minfo.flag == '10000' || minfo.flag == '10015'){
+                        	 $('#undoBox').addClass('undo');
+                        	 $('.qCls').addClass('undo');
+                        	 $('#undoBox').attr('onclick','javascript:window.location.href =\''+minfo.info+'\'');
+                        	 $('.qCls').attr('onclick','javascript:window.location.href =\''+minfo.info+'\'');
+                        	 //window.location.href = minfo.info;
+                         } else {
+                             return false;
+                         }
+                    },
+                    error: function(XMLHttpRequest, textStatus, errorThrown) {
+                        $('#subButton').removeClass('disClick');
+                        alert('数据提交失败，请重新提交！');
+                        return;
+                    }
+                });
+            }
+            
+		    <?php
+			} else {
+			?>
+			return false;
+			<?php
+			}
+			?>
+
+		}
+		
+		<?php
+		if($error){
+			echo "$('#msgBox').showWin('<p>" . $errorMsg ."</p>');";
+			echo "$('#undoBox').addClass('undo');";
+			echo "$('.qCls').addClass('undo');";
+			echo "$('#undoBox').attr('onclick','javascript:window.location.href =\'". $errorUrl . "\'');";
+			echo "$('.qCls').attr('onclick','javascript:window.location.href =\'". $errorUrl . "\'');";
+		}
+	    ?>
+		
+    </script>
+</body>
+</html>

@@ -1,0 +1,19 @@
+2017-02-13 09:59:40
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 196
+    [Mobile] => 15972158074
+    [IP] => 192.168.15.235
+    [CheckCode] => 756283
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+

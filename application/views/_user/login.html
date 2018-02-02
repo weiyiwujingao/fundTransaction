@@ -1,0 +1,166 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/login_nav.html');?>
+<?php require_once(VIEWPATH . '/common/login_banner.html');?>
+    <div class="PicLogin">
+    	<div class="PicUl">
+        	<dd>
+<?php echo json_decode(file_get_contents("http://he.js.cnfol.com/index_bj.php?id=3095&json=1"),TRUE)?>
+            </dd>
+            <dt>
+            
+            	<span class="Cur"></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </dt>
+        </div>
+        <div class="LoginBox">
+        	<div class="FormBg"></div>
+            <div class="FormIn">
+                <h3>交易登录</h3>
+                
+                <form class="Mt10">
+                	<p class="LgError">密码错误</p>
+                    <div class="Lg">
+                        <span>
+                        	<b onClick="inpFocus(this)">手机号码</b>
+                        	<input onFocus="inpFocus(this);" onBlur="inpBlur(this);telBlur(this);" id="uname" type="text" value="" />
+                        </span>
+                    </div>
+                    <div class="Lg">
+                        <span>
+                        	<b onClick="inpFocus(this);">密码</b>
+                        	<input onFocus="inpFocus(this);" onBlur="inpBlur(this);" id="upass"  type="password" value="" />
+                        </span>
+                    </div>
+                    <p><a href="<?php echo TRADE_FINDPWD_URL; ?>" target="_blanck">忘记密码？</a></p>
+                    <div class="LgBtn">
+	                    <input id="act" name="act" value="login" type="hidden">
+	                    <input id="platform" name="platform" value="1" type="hidden">
+	                    <input id="channel" name="channel" value="1" type="hidden">
+	                    <input id="return" name="return" value="<?php echo $return; ?>" type="hidden">
+                    	<a href="javascript:;" onClick="formSub(this);" class="smallBtn">登录</a>
+                        <a href="<?php echo TRADE_REG_URL; ?>" class="blueBtn" target="_blanck">免费开户</a>
+                    </div>
+                </form>
+                <div class="LgUl">
+                    <span>其他登录方式</span>
+                    <a href="<?= $tdloginUrl;?>?tp=QQ&cb=<?php echo $return;?>" class="QQ"></a>
+                    <a href="<?= $tdloginUrl;?>?tp=WECHAT&cb=<?php echo $return;?>" class="WX"></a>
+                    <a href="<?= $tdloginUrl;?>?tp=SINA&cb=<?php echo $return;?>" class="WB"></a>
+                    <a href="<?= $tdloginUrl;?>?tp=CNFOL&cb=<?php echo $return;?>" class="ZJ"></a>
+                </div>
+           	</div>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p class="red Fw">您已经输错3次密码，还有2次登录机会！</p>
+        	<p>为了保护账户安全，若您的账户密码连续输错5次，系统将暂时限制账户登录30分钟。</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="testCkl()" class="redBtn">确定</a>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js?v=201611301508"></script>
+    <script type="text/javascript">
+    	$('.PicUl').QImage();
+		
+		//start 弹窗关闭及显示函数如下
+		//$('#msgBox').showWin('<p>需要显示的信息</p>');  //显示id="MsgBox"的弹窗 
+														//可以传入参数 即要显示的信息 传入参数是替换当前要显示他才div class="qWmess"的内容 
+														//不传参数时不替换内容，仅让弹窗可见
+		//$('#msgBox').hidWin();//隐藏id="MsgBox"的弹窗
+		//end
+		
+		
+		inpBlur($('#uname'));
+		inpBlur($('#upass'))
+		//输入框焦点事件
+		function inpBlur(obj){//输入框失去焦点
+			if($(obj).val() == ''){
+				$(obj).prev().css('display','block');
+			}else{
+				$(obj).prev().css('display','none');
+			}
+		}
+		function inpFocus(obj){//输入框获取焦点
+			if($(obj).prevAll().length > 0){
+				$(obj).prev().css('display','none');
+			}else{
+				$(obj).css('display','none');
+				$(obj).next().focus();
+			}
+		}
+		function telBlur(obj){
+            var str = $(obj).val();
+            if(!(toolTest.IsPhoneNum(str))){
+            	$('.LgError').css('display','block').html('请输入正确的手机号！');
+                return false;
+            } else {
+            	$('.LgError').css('display','none').html('');
+            }
+		}
+		//表单提交按钮点击事件
+		function formSub(){
+			var loginMobile = $('#uname').val();
+		    if(loginMobile == ''){
+		    	$('.LgError').css('display','block').html('手机号码不为空');
+		        return false;
+		    }else{
+	            if(!(toolTest.IsPhoneNum(loginMobile))){
+	                $('.LgError').css('display','block').html('请输入正确的手机号！');
+	                return false;
+	            } else {
+	                $('.LgError').css('display','none').html('');
+	            }
+		    }
+		    var pswd = $('#upass').val();
+            var cr;
+            cr = checkPswd(pswd);
+            if(cr != '10'){
+            	$('.LgError').css('display','block').html(arrPswdError[cr]);
+                return false;
+            }
+
+		    $.ajax({
+		        url:  "<?php echo $loginUrl; ?>/ajaxlogin",
+		        cache:false,
+		        type: 'post',
+		        dataType: 'json',
+		        data: 'account=' + loginMobile + '&password='+ pswd+'&act=login&platform=1&channel=1&return=<?php echo $return;?>',
+		        success : function(minfo){
+		             if(minfo.flag == '10000'){
+		                 window.location.href=minfo.info;
+		             } else if(minfo.flag == '30006' || minfo.flag == '30007') {
+		            	$('#msgBox .qWmess .red').html(minfo.msg);
+		            	$('#msgBox').showWin();
+		             } else {
+                         $('.LgError').css('display','block').html(minfo.msg);
+                         return false;
+		             }
+		        },
+		        error: function(XMLHttpRequest, textStatus, errorThrown) {
+		            alert('数据提交失败，请重新提交！');
+		            return;
+		        }
+		    });
+
+			
+		}
+
+		
+		//绑定回车键
+		document.body.onkeydown=function(e){
+		    e=e||window.event;
+		    if(e.keyCode==13){
+		    	formSub();
+		    }
+		}
+    </script>
+</body>
+</html>

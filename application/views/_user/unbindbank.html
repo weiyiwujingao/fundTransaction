@@ -1,0 +1,124 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+            <h3 class="Title8">
+                <a href="<?php echo TRADE_BANK_LIST_URL ?>">银行卡管理</a>&gt;解绑银行卡
+            </h3>
+            <div class="qstepBar twoStep Mt10">
+                <a href="javascript:;" class="Cur">解绑银行卡</a>
+                <a href="javascript:;">解绑成功</a>
+            </div>
+            <form class="Pl130 Mt30">
+                <?php
+                if($userBank){
+                    echo '
+                <div class="formP">
+                    <b class="bankPre">真实姓名：</b><span>' . $userAuth['TrueName'] . '</span>
+                </div>
+                <div class="formP">
+                    <b class="bankPre">身份证号：</b><span>' . identReplace($userAuth['IdentityNumber']) . '</span>
+                </div>
+                <div class="payStyle Mt10">
+                    <b class="bankPre">快捷银行卡：</b>
+                    <div class="payBank">
+                        <h3><img src="https://trade.buyfunds.cn/front/uc/Imgs/BjCenter/BankIcon/' . $bankInfo['pic'] . '" title=""></h3>
+                        <!--<span class="payIcon"><img src="" title="" /></span>
+                        <h3>' . $userBank['BankName'] . '<em>|</em><span>储蓄卡</span></h3>-->
+                        <p>' . bankCardReplace($userBank['BankCard']) . '</p>
+                    </div>
+                </div>
+                <div class="formP Mt10">
+                    <b class="bankPre">银行预留手机号：</b><span>' . mobileReplace($userBank['Mobile']) . '</span>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>交易密码：</b>
+                    <span><input type="password" value="" class="w160" id="pswd"></span>
+                    <em></em>
+                </div>
+                <div class="Mt30 Ml150">
+                    <input type="hidden" value="' . $userBank['BankID'] . '" id="bid">
+                    <a href="javascript:;" onclick="subForm();" class="halfBtn" id="subBtn">解绑</a>
+                </div>
+                    ';
+                }
+                ?>
+
+            </form>
+        </div>
+    </div>
+    
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+        <h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+            <p>你已经输入密码错误四次，再次输入错误，30分钟内禁止登录本站</p>
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" class="redBtn">确定</a>
+        </div>
+    </div>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161215163056"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		var T = 10,Time;//T倒计时实际，Time倒计时计时器
+		function codeClk(obj){//倒计时按钮点击事件
+			$(obj).codeTime();//传递参数是为清空暂停计时器起参数为下一次计时器时长例如60s，不传参数为启动计时器开始倒计时
+		}
+		function nullTxt(obj,name){//空校验 仅供参考
+			if($(obj).val() == ''){
+				$(obj).showTip('Error',name+'不能为空');
+			}else{
+				$(obj).showTip('Right');
+			}
+		}
+		function subForm(){
+            var bid = $('#bid').val();
+            var pswd = $('#pswd').val();
+
+            if(!pswd){
+                $('#msgBox').showWin("<p>交易密码必填！</p>");
+                return false;
+            }
+            if(!bid){
+                $('#msgBox').showWin("<p>参数错误！</p>");
+                return false;
+            }
+            if($('#subBtn').hasClass('disClick')){
+                //alert('请求已提交，请耐心等待！');
+                $('#msgBox').showWin("<p>请求已提交，请耐心等待！</p>");
+                return false;
+            }
+            $('#subBtn').addClass('disClick');
+            
+            $.ajax({
+                url:  "<?php echo $ajaxUrl; ?>/unbindbank",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'bid='+bid+'&pswd='+pswd,
+                success : function(minfo){
+                     $('#subBtn').removeClass('disClick');
+                     
+                     if(minfo.flag == '10000'){
+                         window.location.href= minfo.info;
+                     } else {
+                         $('#msgBox').showWin("<p>"+minfo.msg+"</p>");
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    $('#subBtn').removeClass('disClick');
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+		}
+    </script>
+</body>
+</html>

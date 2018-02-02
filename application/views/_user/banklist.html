@@ -1,0 +1,152 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">银行卡管理</h3>
+            <h3 class="Title4">我的银行卡<span>目前共绑定<i><?php echo $userBankCount; ?></i>张银行卡</span></h3>
+            <table class="QTable" cellspacing="0" cellpadding="0">
+            	<thead>
+                	<tr>
+                    	<th>银行卡号</th>
+                        <th>开户行</th>
+                        <th>开户名</th>
+                        <th class="w120">操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <?php 
+                    if($userBank){
+                        foreach($userBank as $ubk => $ubv){
+                            //pre($ubv);
+
+                            $setMaster = $ubv['Master'] == '1' ? '<a href="javascript:;" class="thBtn">主卡</a>' : '<a href="javascript:;" onclick="unbind(\''.$ubv['BankID'].'\');" class="thBtn">解绑</a>&nbsp;<a href="javascript:;" onclick="setMaster(\''.$ubv['BankID'].'\');" class="thBtn setm">设为主卡</a>';
+                            echo '
+                    <tr>
+                        <td>' . bankCardReplace($ubv['BankCard']) . '</td>
+                        <td>' . $ubv['BranchName'] . '</td>
+                        <td>' . $ubv['AccountName'] . '</td>
+                        <td>' . $setMaster . '</td>
+                    </tr>
+                            ';
+                        }
+                    }
+                    ?>
+                </tbody>
+            </table>
+            <h3 class="Title2 Mt20"><a href="<?php echo TRADE_ADD_BANK_URL; ?>" class="smallBtn">添加银行卡</a><em>开通多个支付通道，交易更快捷，额度更高！</em></h3>
+            <div class="Explain Mt20">
+            	<h3>说明：</h3>
+                <p>•您所选支付银行卡有以下情况之一，将不能进行解绑银行卡操作。</p>
+                <p class="Ml30">1、有基金份额。</p>
+                <p class="Ml30">2、距当前日期7个工作日内有在途交易（认购、申购、赎回、转换、定投协议等）。</p>
+				<p class="Ml30">3、距当前日期7个工作日内有在途权益（赎回款、分红款等）。</p>
+                <p class="Ml30">4、当前工作日已经进行过变更银行卡或变更支行操作。</p>
+                <p>•最后一张银行卡无法注销。</p>
+                <p>•如您在支付过程中遇到问题无法支付，可尝试重新验证支付通道。</p>
+            </div>
+        </div>
+    </div>
+    
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" class="redBtn">确定</a>
+        </div>
+    </div>
+    <div class="qWin" id="pswdBox">
+       <h3><span>修改信息</span><i  class="qCls"></i></h3>
+       <div class="qWmess">
+           <p>请输入交易密码：</p>
+           <div class="formLi">
+               <span><input type="password" value="" class="w340" id="pswd"></span>
+               <input type="hidden" value="" class="w340" id="bid">
+           </div>
+       </div>
+       <div class="qWbtn">
+           <a href="javascript:;" id="subAll" onClick="subSetMaster();" class="redBtn undo">确定</a>
+       </div>
+   </div>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?=v201612131545"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		
+		function unbind(bid){
+			<?php
+		    if($userBankCount<2){
+		    	echo "
+		    	$('#msgBox').showWin('<p>当前只有一张银行卡，不能解绑，请先新增银行卡，再进行解绑！</p>');
+                return false;";
+		    } else {
+		    	echo 'window.location.href = "' . $centerUrl . '/unbindbank/"+bid+".html";';
+		    }
+		    ?>
+		}
+		<?php
+		if($userBankCount>1){
+	    ?>
+        function setMaster(bid){
+            if(!bid){
+            	$('#msgBox').showWin('<p>参数错误！</p>');
+            }
+            $('#pswd').val('');
+            $('#bid').val(bid);
+            $('#pswdBox').showWin();
+
+        }
+        
+        function subSetMaster(){
+        	var bid = $('#bid').val();
+            if(!bid){
+            	alert('参数错误！');
+            }
+        	var pswd = $('#pswd').val();
+            if(pswd == ''){
+                alert('交易密码未填！');
+            }
+            if($('#subAll').hasClass('disClick')){
+            	alert('请求已提交，请耐心等待！');
+                return false;
+            }
+            $('#subAll').addClass('disClick');
+        
+            $.ajax({
+                url:  "<?php echo $ajaxUrl; ?>/setmaster",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'bid=' + bid+'&pswd='+pswd,
+                success : function(minfo){
+                     $('#subAll').removeClass('disClick');
+                     if(minfo.flag == '10000'){
+                    	   alert(minfo.msg);
+                           window.location.href = "<?php echo TRADE_BANK_LIST_URL;?>";
+                     } else {
+                    	 alert(minfo.msg);
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    $('#subAll').removeClass('disClick');
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+        }
+	    <?php
+		}
+		?>
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,300 @@
+[13:24:34][|-param-|Array
+(
+    [mobile_code] => 991068
+    [sms_serial_no] => 1686905
+    [original_serial_no] => bj2017020813240897053
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170208
+    [order_time] => 132434
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105181717111
+)
+]
+[13:24:35][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[13:24:35][|-iParam-|Array
+(
+    [UserID] => 167
+    [HsAccount] => 1155
+    [Province] => 山西省
+    [City] => 稷山县
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105181717111
+    [BranchName] => 中国建设银行股份有限公司稷山支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 13599951535
+    [NickName] => 邹奋
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 13:24:35
+)
+]
+[13:24:35][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 交易账号已锁定
+    [info] => 
+)
+]
+[13:29:51][|-param-|Array
+(
+    [mobile_code] => 991068
+    [sms_serial_no] => 1686905
+    [original_serial_no] => bj2017020813240897053
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170208
+    [order_time] => 132951
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105181717111
+)
+]
+[13:29:56][|-sRs-|Array
+(
+)
+]
+[14:30:14][|-param-|Array
+(
+    [mobile_code] => 917395
+    [sms_serial_no] => 1686957
+    [original_serial_no] => bj2017020814300383865
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170208
+    [order_time] => 143014
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105162000215
+)
+]
+[14:30:15][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:53:07][|-param-|Array
+(
+    [mobile_code] => 996456
+    [sms_serial_no] => 1686980
+    [original_serial_no] => bj2017020814514386345
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 18065043496
+    [order_date] => 20170208
+    [order_time] => 145307
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203391000013
+)
+]
+[14:53:07][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:53:07][|-iParam-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 203391000013
+    [BranchName] => 中国农业发展银行福建省分行
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18065043496
+    [NickName] => 黄
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:53:07
+)
+]
+[14:53:07][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 数据项交易账号为空
+    [info] => 
+)
+]
+[14:58:39][|-param-|Array
+(
+    [mobile_code] => 509454
+    [sms_serial_no] => 1686985
+    [original_serial_no] => bj2017020814581715760
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 18065043496
+    [order_date] => 20170208
+    [order_time] => 145839
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203391000013
+)
+]
+[14:58:40][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[14:58:40][|-iParam-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 203391000013
+    [BranchName] => 中国农业发展银行福建省分行
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18065043496
+    [NickName] => 黄
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 14:58:40
+)
+]
+[14:58:40][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 数据项交易账号为空
+    [info] => 
+)
+]
+[15:03:33][|-param-|Array
+(
+    [mobile_code] => 202621
+    [sms_serial_no] => 1686993
+    [original_serial_no] => bj201702081503028121
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 18065043496
+    [order_date] => 20170208
+    [order_time] => 150333
+    [bank_account] => 6228480068816522772
+    [bank_no] => 203391000013
+)
+]
+[15:03:34][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[15:03:34][|-iParam-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 
+    [Province] => 福建省
+    [City] => 福州市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 203391000013
+    [BranchName] => 中国农业发展银行福建省分行
+    [BankCard] => 6228480068816522772
+    [Mobile] => 18065043496
+    [NickName] => 黄
+    [IdentityNumber] => 350122198812076538
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-08 15:03:34
+)
+]
+[15:03:34][|-iRs-|Array
+(
+    [flag] => 10009
+    [msg] => 数据项交易账号为空
+    [info] => 
+)
+]

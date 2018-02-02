@@ -1,0 +1,630 @@
+[09:24:09][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[09:24:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[09:24:25][|-ip-|10.100.0.18|--sign--|getmobilecode]
+[09:24:25][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|getmobilecode]
+[09:25:09][|-ip-|10.100.0.18|--sign--|ajaxregaction]
+[09:25:09][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxregaction]
+[09:25:16][|-ip-|10.100.0.18|--sign--|ajaxregaction]
+[09:25:16][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxregaction]
+[09:25:53][|-ip-|10.100.0.18|--sign--|ajaxregaction]
+[09:25:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxregaction]
+[09:26:06][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[09:26:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[09:35:41][|-ip-|192.168.10.115|--sign--|provincebybank]
+[09:35:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[09:36:04][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[09:36:04][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[09:36:06][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[09:36:06][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[09:36:49][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:36:49][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:36:57][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:36:57][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:38:12][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:38:12][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:39:17][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:39:17][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:39:30][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:39:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:42:31][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:42:31][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:42:53][|-ip-|192.168.10.115|--sign--|provincebybank]
+[09:42:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[09:42:57][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[09:42:57][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[09:42:59][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[09:42:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[09:43:11][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:43:11][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:47:28][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:47:28][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:47:58][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:47:58][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[09:48:41][|-ip-|192.168.10.115|--sign--|regbindcard]
+[09:48:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:13:31][|-ip-|192.168.10.115|--sign--|provincebybank]
+[10:13:31][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[10:13:32][|-ip-|192.168.10.115|--sign--|provincebybank]
+[10:13:32][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[10:13:32][|-ip-|192.168.10.115|--sign--|provincebybank]
+[10:13:32][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[10:13:35][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[10:13:35][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[10:13:37][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[10:13:37][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[10:13:58][|-ip-|192.168.10.115|--sign--|provincebybank]
+[10:13:58][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[10:14:02][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[10:14:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[10:14:03][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[10:14:03][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[10:14:10][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:14:10][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:15:25][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:15:25][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:16:28][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:16:28][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:20:36][|-ip-|192.168.10.115|--sign--|provincebybank]
+[10:20:36][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[10:20:41][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[10:20:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[10:21:00][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[10:21:00][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[10:24:59][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:24:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:25:05][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:25:05][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:25:33][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:25:33][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:25:45][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:25:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:25:52][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:25:52][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:26:28][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:26:28][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:31:11][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:31:11][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:32:53][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:32:53][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:33:08][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:33:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:33:21][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:33:21][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:33:40][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:33:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:39:02][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:39:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:39:27][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:39:27][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:39:45][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:39:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:40:12][|-ip-|192.168.10.115|--sign--|provincebybank]
+[10:40:12][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[10:40:19][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[10:40:19][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[10:40:30][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[10:40:30][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[10:41:39][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:41:39][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:42:14][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:42:14][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[10:42:26][|-ip-|192.168.10.115|--sign--|regbindcard]
+[10:42:26][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[11:06:13][|-ip-|192.168.10.115|--sign--|regbindcard]
+[11:06:13][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:47:36][|-ip-|192.168.10.115|--sign--|provincebybank]
+[14:47:36][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[14:47:40][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[14:47:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[14:47:42][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[14:47:42][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[14:47:59][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:47:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:54:26][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:54:26][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:54:41][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:54:41][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:54:49][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:54:49][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:55:18][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:55:18][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:55:25][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:55:25][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:55:29][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:55:29][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:55:46][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:55:46][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:55:49][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:55:49][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[14:55:59][|-ip-|192.168.10.115|--sign--|regbindcard]
+[14:55:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[15:25:17][|-ip-|192.168.10.115|--sign--|provincebybank]
+[15:25:17][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[15:25:50][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[15:25:50][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[15:25:57][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[15:25:57][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[15:26:18][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[15:26:18][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[15:26:26][|-ip-|192.168.10.115|--sign--|regbindcard]
+[15:26:26][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[16:29:22][|-ip-|192.168.10.115|--sign--|provincebybank]
+[16:29:22][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[16:29:25][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[16:29:25][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[16:29:26][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[16:29:26][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[16:29:28][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[16:29:28][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[16:29:31][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[16:29:31][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[16:29:48][|-ip-|192.168.10.115|--sign--|regbindcard]
+[16:29:48][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[17:01:02][|-ip-|192.168.10.115|--sign--|provincebybank]
+[17:01:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[17:01:08][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[17:01:08][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[17:01:35][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[17:01:35][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[17:04:48][|-ip-|192.168.10.115|--sign--|regbindcard]
+[17:04:48][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[17:05:15][|-ip-|192.168.10.115|--sign--|regbindcard]
+[17:05:15][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]
+[18:45:32][|-ip-|192.168.10.115|--sign--|provincebybank]
+[18:45:32][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|provincebybank]
+[18:45:36][|-ip-|192.168.10.115|--sign--|citybyprovincebank]
+[18:45:36][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|citybyprovincebank]
+[18:45:38][|-ip-|192.168.10.115|--sign--|bandbyprovincebankcity]
+[18:45:38][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|bandbyprovincebankcity]
+[18:45:55][|-ip-|192.168.10.115|--sign--|regbindcard]
+[18:45:55][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|regbindcard]

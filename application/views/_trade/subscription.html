@@ -1,0 +1,291 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+<dl id="fund_suggest" class="fund_suggest"></dl>
+    <div class="allCnt Mt20 Cf">
+	<?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>   	
+        <div class="aMain">
+        	<h3 class="Title5">买新基金</h3>
+            <h3 class="Title1">如果您在接近15点发起申认购申请，系统有可能在15点后收到银行扣款成功通知，则该笔交易将被视为下一工作日申请，请注意风险。</h3>
+            <div class="qstepBar Mt25">
+                <a href="javascript:;" class="Cur">买新基金</a>
+                <a href="javascript:;" id="infotest">预览付款</a>
+                <a href="javascript:;">申请受理</a>
+            </div>
+            <form class="Mt15" id="form" name="form" method="post" action="<?php echo $submiturl;?>">
+            	<div class="formLi">
+                	<b class="bankPre"><i>*</i>选择购买基金：</b>
+                    <span class="fundInp"><input value="请输入基金代码或简称" class="w340" autocomplete="off" onBlur="fundBlur(this);" type="text" id="fundid" name="fundid" ><b></b></span>
+            		<em id="selcode"></em>
+                </div>
+                <div class="fundDes" id="fundDes">
+                	<p>
+                    	<b class="bankPre">基金名称：</b>
+                    	<a href="javascript" class="blue" target="_blank"></a>
+                    </p>
+                    <p>
+                    	<b class="bankPre">基金信息：</b>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span>  分红方式：</span>
+                    </p>
+                </div>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>购买金额：</b>
+                    <span><input type="text" name="money" value="" onBlur="crashInp(this);" class="money w310"/></span>
+                    <b class="eMl7">元</b>
+                    <em id="buydata"></em>
+                </div>
+                <p class="formTip"></p>
+                <div class="formLi">
+                    <b class="bankPre"><i>*</i>大写金额：</b>
+                    <b class="Capital"></b>
+                </div>
+                <div class="payStyle">
+                	<b class="bankPre"><i>*</i>请选择支付方式：</b>
+                    <div class="payLi">
+                        <h3>银行卡支付</h3>
+                        <span class="uRadio paySlt">
+                            <i><input type="radio" checked value="2" onClick="payRadio(this);" name="bank"></i>
+                        </span>
+                        <span class="FormSlt">
+                            <select name="selecltbanks">
+							<?php if(isset($bank) && $bank) :?>
+							<?php foreach($bank as $key=>$val) :?>
+                                <option <?php echo ($userInfo['HsAccount']==$val['trade_acco'])?'selected="selected"':'';?> data="<?=$val['trade_acco']?>"><?=$val['bankname'].'（'.$val['bankcode'].'）';?></option>	
+							<?php endforeach ?>
+							<?php endif ?>
+                            </select>
+                        </span>
+                    </div>
+                </div>
+                <!--<div class="formP">
+                	<b class="bankPre" id="sgfl">认购费率：</b><b id="FeiLv">--</b>
+                </div>
+                <div class="formP">
+                	<b class="bankPre" id="gssxf">估算手续费：</b><b id="ShouXF">--</b>
+                </div>-->
+				<div class="formP">
+                	<b class="bankPre">认购费率：</b><b id="FeiLv">--</b>
+                </div>
+                <div class="formP">
+                	<b class="bankPre">估算手续费：</b><b id="ShouXF">--</b>
+                </div>
+                <div class="Mt10 Tc">
+                	<a href="javascript:;" onClick="return subForm(this);" class="halfBtn">下一步</a>
+                </div>
+            </form>
+            <div class="Explain">
+            	<h3>说明：</h3>
+                <p>1、我们将 24 小时受理您的交易申请。您交易日的交易申请至 15:00 截止， 15:00 以后的交易申请或非交易日的交易申请视为于下一个交易日提交。您最终申请提交时间以我司注册登记中心接收时间为准。</p>
+                <p>2、由于客户端系统时间与服务器时间可能有误差，请尽量避免在交易截止时间前后进行交易，交易提交时间以本系统服务器时间为准。如因网络原因或网银系统故障，导致划款成功指令未传递到本系统的，我们会在交易日结束后通过银行对账，确认交易成功，15：00前的交易申请将视为当日的申请。</p>
+                <p>3、基金的申购、赎回交易均遵循“未知价”交易原则，即您申购、赎回基金时都按提交业务申请当天的净值计算，而每天的净值是在交易结束后计算出来的，也就是说您在提交交易申请时不知道交易的价格。因此您所看到的基金净值，为该基金上一交易日的基金净值，而非基金申购成交时的基金净值。</p>
+            </div>
+        </div>
+    </div>
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+   		<h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        	<p>您当前选择的基金风险等级为<span class="red">【中等风险等级】</span>不符合您的风险承受等级，详情请见<a href="<?php echo WEB_URL?>/bangzhuzhongxin/20170208/24259975.shtml" class="blue">《基金销售适用性规则》</a>是否确认购买</p>
+        </div>
+        <div class="qWbtn">
+        	<a href="javascript:;" onClick="return yesCkl();" class="redBtn Mr15">确定</a>
+            <a href="javascript:;" onClick="return noCkl();" class="cyanBtn">取消</a>
+        </div>
+    </div>
+    <!--Foot End-->
+	<script src="/front/buy/js/require.js?v=<?=time()?>" data-main="/front/buy/js/main"></script>	
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js,front/buy/js/common.js"></script>
+	<!-- 基金数据 -->
+	<script type="text/javascript" src="https://trade.buyfunds.cn/f=front/buy/js/JsonFunds.js"></script>
+    <script type="text/javascript">
+		var urlajax = "<?php echo base_url();?>trade/ajax.html";
+		var jjgmurl = "<?php echo base_url().'trade/fundtrade.html?fundcode=';?>";
+		var flag = false,rankrisk='';
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.uRadio').uRadio();/*单选框美化*/
+		$('.FormSlt').uSelect();/*select美化*/
+		
+		$('.money').inpCash();//现金输入金额限制，大小写关联
+		var fundrisk = "<?php echo $userDetail['RiskBear'];?>";
+		var fundrisk = "<?php echo $userDetail['RiskBear']+1;?>";
+		if(fundrisk=='4'){
+			fundrisk = '5';
+		}
+		function crashInp(obj){//现金输入
+			var p = $(obj).parents('.formLi'),
+			tip = $(p).next().find('i'),
+			numStr = $(obj).val(),
+			Min = parseFloat($(tip).eq(0).attr('number')),
+			Max = parseFloat($(tip).eq(1).attr('number'));
+			if(numStr == ''){
+				$(obj).showTip('Error','不能为空!');
+			}else{
+				var num = parseFloat(numStr);
+				if(num < Min){
+					$(obj).showTip('Error','购买金额不能小于'+Min);
+				}else if(num > Max){
+					$(obj).showTip('Error','购买金额不能超过日累计限额'+Max);
+				}else{
+					$(obj).showTip('Right');
+				}
+			}			
+		}
+		function payRadio(obj){//单选框点击事件 支付方式
+			var p = $(obj).parents('.payStyle'),
+			_this = $(obj).parents('.payLi');
+			$(_this).addClass('curPay').siblings('.payLi').removeClass('curPay');
+			
+		}
+		
+		function subForm(obj){
+			var form = $(obj).parents('form'),
+			inps = $(form).find('input:text');
+			for(i = 0; i < 6; i++){
+                var str = $(inps).eq(i).val();
+				if(str == ''){
+					flag = false;
+					$(inps).eq(i).showTip('Error','不能为空');
+				}
+            }
+			if($('#buydata').html() || $('#selcode').html()){
+				return false;
+			}
+			if(flag){
+				$('#msgBox').showWin('<p>您当前选择的基金风险等级为<span class="red">【'+rankrisk+'】</span>不符合您的风险承受等级，详情请见<a href="<?php echo WEB_URL?>/bangzhuzhongxin/20170208/24259975.shtml" class="blue" target="_blank">《基金销售适用性规则》</a>是否确认购买?</p>','风险提示');
+			}else{
+				yesCkl();
+			}
+		}
+	
+		/*选择基金js====================================*/
+		function fundBlur(obj){
+			var jjId = $(obj).val();
+			//$("#infotest").html(jjId);
+			if(jjId == ''){
+				$(obj).val('请输入基金代码或简称');
+				$(obj).showTip('Error','不能为空');//ig
+				$('.fundDes').css('display','none');
+				return;
+			}else{
+				$.ajax({
+					url:urlajax,
+					type:'post',
+					data:{'action':'Codetype','search':jjId},
+					dataType:'json',
+					success: function(d){						
+						if(d['flag']=='10000'){
+							var html = '',htmltip='';
+							if(d['info'][jjId]['isnewfund']==''){
+								$('#selcode').html('本基金不是新发基金，<a href="'+jjgmurl+jjId+'"  style="color:blue">点此购买此基金</a>');
+								return false;
+							}
+							html += '<p><b class="bankPre">基金名称：</b>';
+							html += '<span>'+d['info'][jjId]['name']+'</span></p>';
+							html += '<p><b class="bankPre">基金信息：</b>';
+							html += '<span>'+d['info'][jjId]['type']+'</span>';
+							html += '<span>'+d['info'][jjId]['rank']+'</span>';
+							html += '<span>'+d['info'][jjId]['chargemode']+'</span>';
+							html += '<input type="hidden" value="'+d['info'][jjId]['chargemode']+'" name="chargemode" >';
+							html += '<span>  分红方式：'+d['info'][jjId]['dividendmethod']+'</span>';
+							$("#fundDes").html(html);
+							if(d['info'][jjId]['min_value'])
+								htmltip += '购买金额不能低于<i number="'+d['info'][jjId]['min_value']+'">'+d['info'][jjId]['min_value']+'</i>元';
+							if(d['info'][jjId]['max_value'])
+								htmltip += '，日累计限额<i number="'+d['info'][jjId]['max_value']+'">'+d['info'][jjId]['max_value']/10000+'万</i>元';
+							$(".formTip").html(htmltip);	
+							$('.fundDes').css('display','block');//显示选择基金基本信息的模块
+							$(obj).showTip('Right');
+							rankrisk = d['info'][jjId]['rank'];
+							if(d['info'][jjId]['ofund_risklevel']>=fundrisk){
+								flag = true;
+							}else{
+								flag = false;
+							}
+						}else{
+							$(obj).showTip('Error','该基金暂时无法认购！');
+							$('.fundDes').css('display','none');
+						}
+						
+					},
+					error: function(XMLHttpRequest, textStatus, errorThrown)
+					{
+						alert('网络繁忙,请稍后再试! 错误码:'+textStatus);
+					}
+				});
+			}
+		}
+		function fundget(){
+			var code = getvalue('fundcode');
+			if(code){
+				$('#fundid').val(code);
+				obj = $('#fundid');
+				fundBlur(obj);
+			}			
+		}
+		fundget();
+		$('.money').bind('keyup',function(event){
+			getFare();return;
+			var money=$('.money').val();
+			var fundcode=$('#fundid').val();
+			$.ajax({
+				url:urlajax,
+				type:'post',
+				data:{'action':'fareType','money':money,'fundcode':fundcode},
+				dataType:'json',
+				success: function(d){
+					if(d['flag']=='10000'){
+						$('#ShouXF').html(d['info']['counterfare']+'元');
+						$('#FeiLv').html(d['info']['rate']);							
+					}else{
+						$(obj).showTip('Error','请输入正确的基金代码');
+						$('.fundDes').css('display','none');
+					}
+					
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown)
+				{
+					alert('网络繁忙,请稍后再试! 错误码:'+textStatus);
+				}
+			});
+			
+		});
+		 /*查询费率*/
+        function getFare()
+        {
+            var trade_acco = $('select[name="selecltbanks"]').attr('data');
+			var money=$('.money').val();
+			var fundcode=$('#fundid').val();
+            if (new RegExp("[0-9]{6}").test(fundcode) && money) {
+                $.post('<?php echo base_url(); ?>fix/getfare',{'trade_acco':trade_acco,'code':fundcode,'balance':money}, function(d){
+                    o = $.parseJSON(d);
+                    if (o.code == 200) {
+                        $('#FeiLv').html('<span style="text-decoration:line-through;">'+o.data.fare_ratio+'%</span>　　'+o.data.bj_ratio+'%');
+                        $('#ShouXF').html(o.data.fare_sx+'元');
+                    } else if (o.code == 201) {
+                        $('#FeiLv').html(o.message);
+                        $('#ShouXF').html('--');
+                    }else if(o.code == 0){
+                        alert(o.message);
+                        window.top.location.href=o.url;
+                    }else{
+                        $('#FeiLv').html('<span style="text-decoration:line-through;">服务器错误，请重试</span>');
+                    }
+                });
+            }
+        }
+		function yesCkl(obj){
+			$("form").submit();
+		} 
+		function noCkl(){
+			return false;
+		}
+    </script>
+
+</body>
+</html>

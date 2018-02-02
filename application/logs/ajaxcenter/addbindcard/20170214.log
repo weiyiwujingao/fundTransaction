@@ -1,0 +1,110 @@
+[13:42:57][|-param-|Array
+(
+    [serial_no] => bj201702141342572937
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170214
+    [order_time] => 134257
+    [bank_account] => 622908493458092716
+    [bank_no] => 309521016046
+)
+]
+[13:42:59][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 请提供正确的手机号
+    [error_no] => -1
+)
+]
+[13:43:11][|-param-|Array
+(
+    [serial_no] => bj2017021413431110566
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170214
+    [order_time] => 134311
+    [bank_account] => 622908493458092716
+    [bank_no] => 309521016046
+)
+]
+[13:43:12][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 请提供正确的手机号
+    [error_no] => -1
+)
+]
+[13:43:20][|-param-|Array
+(
+    [serial_no] => bj2017021413432085136
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170214
+    [order_time] => 134320
+    [bank_account] => 622908493458092716
+    [bank_no] => 309521016046
+)
+]
+[13:43:26][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 请提供正确的手机号
+    [error_no] => -1
+)
+]
+[13:43:43][|-param-|Array
+(
+    [serial_no] => bj2017021413434394919
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100630
+    [order_date] => 20170214
+    [order_time] => 134343
+    [bank_account] => 622908493458092716
+    [bank_no] => 309521016046
+)
+]
+[13:43:44][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 请提供正确的手机号
+    [error_no] => -1
+)
+]
+[13:43:56][|-param-|Array
+(
+    [serial_no] => bj2017021413435644002
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100639
+    [order_date] => 20170214
+    [order_time] => 134356
+    [bank_account] => 622908493458092716
+    [bank_no] => 309521016046
+)
+]
+[13:43:57][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 请提供正确的手机号
+    [error_no] => -1
+)
+]

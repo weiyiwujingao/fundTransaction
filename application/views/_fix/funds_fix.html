@@ -1,0 +1,109 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">定投计划</h3>
+            <!--现金宝已取消-->
+            <!--<h3 class="Title2"><a href="#" class="txtRbtn w130 Fr" target="_blank">新增定期充值计划</a>现金宝定期充值计划</h3>-->
+            <!--<table class="QTable" cellpadding="0" cellspacing="0">-->
+            	<!--<thead>-->
+                	<!--<tr>-->
+                    	<!--<th>基金代码</th>-->
+                        <!--<th>基金名称</th>-->
+                        <!--<th>关联银行卡</th>-->
+                        <!--<th>每期金额(元)</th>-->
+                        <!--<th>扣款周期</th>-->
+                        <!--<th>扣款日期</th>-->
+                        <!--<th>下一次扣款日</th>-->
+                        <!--<th>计划状态</th>-->
+                        <!--<th>操作</th>-->
+                    <!--</tr>-->
+                <!--</thead>-->
+                <!--<tbody>-->
+                	<!--<tr>-->
+                    	<!--<td>600172</td>-->
+                        <!--<td><a href="#" class="blue" target="_blank">宝盈货币A</a></td>-->
+                        <!--<td>民生银行｜2314</td>-->
+                        <!--<td>1000</td>-->
+                        <!--<td>每月</td>-->
+                        <!--<td>2016.10.10</td>-->
+                        <!--<td>2016.11.10</td>-->
+                        <!--<td>正常</td>-->
+                        <!--<td>-->
+                        	<!--<a href="#" class="tdTxt" target="_blank">暂停</a>-->
+                            <!--<a href="#" class="tdTxt" target="_blank">修改</a>-->
+                            <!--<a href="#" class="tdTxt" target="_blank">终止</a>-->
+                        <!--</td>-->
+                    <!--</tr>-->
+                <!--</tbody>-->
+            <!--</table>-->
+            <h3 class="Title2 <!--Mt20-->"><a href="<?php echo base_url(); ?>fix/new.html" class="txtRbtn w130 Fr">新增定投计划</a>普通基金产品定期充值计划</h3>
+            <table class="QTable" cellpadding="0" cellspacing="0">
+            	<thead>
+                	<tr>
+                    	<th>基金代码</th>
+                        <th>基金名称</th>
+                        <th>关联银行卡</th>
+                        <th>每期金额(元)</th>
+                        <th>扣款周期</th>
+                        <th>扣款日期</th>
+                        <th>下一次扣款日</th>
+                        <th>计划状态</th>
+                        <th>操作</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <?php if ($data) : ?>
+                <?php foreach($data as $item) : ?>
+                	<tr>
+                    	<td><?php echo $item['fund_code']; ?></td>
+                        <td><a href="<?php echo WEB_URL, '/fund/', $item['fund_code']; ?>" class="blue" target="_blank" title="<?php echo $item['fund_name']; ?>"><?php echo mb_strlen($item['fund_name']) > 4 ? mb_substr($item['fund_name'], 0, 4) . '...' : $item['fund_name']; ?></a></td>
+                        <td><?php echo $item['bank_name']; ?>|<?php echo $item['bank_account']; ?></td>
+                        <td><?php echo $item['balance']; ?></td>
+                        <td><?php echo $item['protocol_period_unit']; ?></td>
+                        <td><?php echo $item['protocol_fix_day']; ?>日</td>
+                        <td><?php echo $item['next_fixrequest_date']; ?></td>
+                        <td><?php echo $item['fix_state']; ?></td>
+                        <td data-protocolid="<?php echo $item['scheduled_protocol_id']; ?>">
+                            <?php if ($item['fix_state_raw'] == 'P') : ?>
+                            <a href="<?php echo base_url(), 'fix/resume/',$item['scheduled_protocol_id'], '.html' ?>" class="tdTxt">恢复</a>
+                            <?php else : ?>
+                            <a href="<?php echo base_url(), 'fix/pause/',$item['scheduled_protocol_id'], '.html' ?>" class="tdTxt">暂停</a>
+                            <?php endif; ?>
+                            <a href="<?php echo base_url(), 'fix/modify/',$item['scheduled_protocol_id'], '.html' ?>" class="tdTxt">修改</a>
+                            <a href="<?php echo base_url(), 'fix/abort/',$item['scheduled_protocol_id'], '.html' ?>" class="tdTxt">终止</a>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
+                </tbody>
+            </table>
+            <?php else : ?>
+                </tbody>
+            </table>
+            <p class="Title2" style="text-align: center;">还没有定期充值定投计划，<a href="<?php echo base_url(); ?>fix/new.html">开始定期充值</a></p>
+            <?php endif; ?>
+            <div class="Explain Mt10">
+            	<h3>说明：</h3>
+                <p>1.发起定期定额计划，将在下一工作日生效。如果您设置的定期定额扣款日期为当前工作日，会在申请所属工作日进行第一次扣款。</p>
+                <p>2.终止定期定额计划，将在下一工作日生效。如果终止当前工作日为扣款日期，则仍然会发起一次定期定额交易申请。</p>
+                <p>3.定期定额交易申请因银行卡账户余额不足、网络或通讯故障等导致扣款失败，将在之后的1个工作日内补扣，若仍未成功则取消本期扣款。如补扣顺延到的下一工作日恰好与下一期定投扣款日重叠，则当日只发起一笔扣款。如连续三期扣款失败，系统将自动暂停该定投计划。</p>
+                <p>4.如您不想继续进行定期定额投资，请暂停或是终止定期定额计划，否则系统将继续尝试扣款。</p>
+                <p>5.定期定额计划产生的基金份额，可以全部或是部分赎回、转换。</p>
+                <p>6.我们将 24 小时受理您的交易申请。您交易日的交易申请至 15:00 截止， 15:00 以后的交易申请或非交易日的交易申请视为于下一个交易日提交。您最终申请提交时间以我司注册登记中心接收时间为准。</p>
+                <p>7.由于客户端系统时间与服务器时间可能有误差，请尽量避免在交易截止时间前后进行交易，交易提交时间以本系统服务器时间为准。如因网络原因或网银系统故障，导致划款成功指令未传递到本系统的，我们会在交易日结束后通过银行对账，确认交易成功，15：00前的交易申请将视为当日的申请。</p>
+                <p>8.基金的申购、赎回交易均遵循“未知价”交易原则，即您申购、赎回基金时都按提交业务申请当天的净值计算，而每天的净值是在交易结束后计算出来的，也就是说您在提交交易申请时不知道交易的价格。因此您所看到的基金净值，为该基金上一交易日的基金净值，而非基金申购成交时的基金净值。</p>
+            </div>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+<script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=2016120141234"></script>
+<script type="text/javascript">
+    $('.MenuCnt').QTab();//菜单滑动效果
+</script>

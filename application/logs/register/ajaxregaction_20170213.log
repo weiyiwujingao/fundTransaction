@@ -1,0 +1,102 @@
+2017-02-13 11:27:00|-ip-|10.100.0.18|-mobile-|15927191870|-phoneArea-||||
+2017-02-13 11:27:00|-$cParam-|Array
+(
+    [mobile] => 15927191870
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-13 11:27:00
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 91
+    [Mobile] => 15927191870
+    [IP] => 10.100.0.18
+    [MobileCheck] => 654726
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 91
+            [ActiveTime] => 2017-02-13 11:27:00
+        )
+
+)
+
+2017-02-13 13:20:42|-ip-|10.100.0.18|-mobile-|13971357321|-phoneArea-||||
+2017-02-13 13:20:42|-$cParam-|Array
+(
+    [mobile] => 13971357321
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-13 13:20:42
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 94
+    [Mobile] => 13971357321
+    [IP] => 10.100.0.18
+    [MobileCheck] => 486159
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 94
+            [ActiveTime] => 2017-02-13 13:20:42
+        )
+
+)
+
+2017-02-13 13:49:16|-ip-|10.100.0.18|-mobile-|15827379934|-phoneArea-||||
+2017-02-13 13:49:16|-$cParam-|Array
+(
+    [mobile] => 15827379934
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-13 13:49:16
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 93
+    [Mobile] => 15827379934
+    [IP] => 10.100.0.18
+    [MobileCheck] => 363602
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 93
+            [ActiveTime] => 2017-02-13 13:49:16
+        )
+
+)
+

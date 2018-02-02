@@ -1,0 +1,3634 @@
+[09:15:36][|-param-|Array
+(
+    [serial_no] => bj2017020909153653668
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 091536
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[09:15:37][|-sRs-|Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[09:15:49][|-param-|Array
+(
+    [serial_no] => bj2017020909154976546
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 091549
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[09:16:19][|-sRs-|Array
+(
+)
+]
+[10:09:21][|-param-|Array
+(
+    [serial_no] => bj2017020910092144810
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 100921
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[10:09:23][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[10:19:04][|-param-|Array
+(
+    [serial_no] => bj2017020910190418211
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 101904
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[10:19:15][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[10:19:23][|-param-|Array
+(
+    [serial_no] => bj2017020910192369998
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 101923
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[10:19:33][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[10:20:00][|-param-|Array
+(
+    [serial_no] => bj2017020910200083205
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 102000
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[10:20:11][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[10:20:16][|-param-|Array
+(
+    [serial_no] => bj2017020910201642500
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 102016
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[10:20:27][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[10:25:24][|-param-|Array
+(
+    [serial_no] => bj2017020910252474610
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350909198011225533
+    [real_name] => 测试组
+    [mobile_tel] => 13500998776
+    [order_date] => 20170209
+    [order_time] => 102524
+    [bank_account] => 6227003116050099682
+    [bank_no] => 105588089379
+)
+]
+[10:25:25][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687461
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[10:35:09][|-param-|Array
+(
+    [serial_no] => bj2017020910350958055
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 103509
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[10:35:19][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[10:36:30][|-param-|Array
+(
+    [serial_no] => bj2017020910363017516
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 103630
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[10:36:40][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[10:37:55][|-param-|Array
+(
+    [serial_no] => bj2017020910375584938
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 103755
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[10:38:05][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:11:55][|-param-|Array
+(
+    [serial_no] => bj201702091111555104
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [real_name] => 杜拉拉
+    [mobile_tel] => 13337804077
+    [order_date] => 20170209
+    [order_time] => 111155
+    [bank_account] => 6216697000003339540
+    [bank_no] => 104581010280
+)
+]
+[11:11:57][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687520
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[11:13:48][|-param-|Array
+(
+    [serial_no] => bj2017020911134869402
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [real_name] => 杜拉拉
+    [mobile_tel] => 18125530297
+    [order_date] => 20170209
+    [order_time] => 111348
+    [bank_account] => 6216697000003339540
+    [bank_no] => 104581010280
+)
+]
+[11:14:18][|-sRs-|Array
+(
+)
+]
+[11:14:22][|-param-|Array
+(
+    [serial_no] => bj2017020911142236141
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [real_name] => 杜拉拉
+    [mobile_tel] => 18125530297
+    [order_date] => 20170209
+    [order_time] => 111422
+    [bank_account] => 6216697000003339540
+    [bank_no] => 104581010280
+)
+]
+[11:14:33][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:16:25][|-param-|Array
+(
+    [serial_no] => bj2017020911162584346
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [real_name] => 杜拉拉
+    [mobile_tel] => 18125530297
+    [order_date] => 20170209
+    [order_time] => 111625
+    [bank_account] => 6216697000003339540
+    [bank_no] => 104581010280
+)
+]
+[11:16:26][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687525
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[11:17:00][|-param-|Array
+(
+    [serial_no] => bj2017020911170062554
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 111700
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:17:01][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[11:18:15][|-param-|Array
+(
+    [serial_no] => bj2017020911181541532
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 111815
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:18:25][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:19:55][|-param-|Array
+(
+    [serial_no] => bj201702091119556748
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 111955
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:20:05][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:20:35][|-param-|Array
+(
+    [serial_no] => bj2017020911203548104
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112035
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:20:45][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:20:48][|-param-|Array
+(
+    [serial_no] => bj2017020911204857428
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112048
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:20:49][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:21:00][|-param-|Array
+(
+    [serial_no] => bj2017020911210081600
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112100
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:21:00][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:21:02][|-param-|Array
+(
+    [serial_no] => bj2017020911210262977
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112102
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:21:03][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:21:23][|-param-|Array
+(
+    [serial_no] => bj2017020911212352487
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 112123
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:21:24][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[11:21:30][|-param-|Array
+(
+    [serial_no] => bj2017020911213010497
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112130
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:21:31][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:21:42][|-param-|Array
+(
+    [serial_no] => bj2017020911214297321
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112142
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:21:43][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:22:06][|-param-|Array
+(
+    [serial_no] => bj2017020911220680794
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112206
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:22:06][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:23:13][|-param-|Array
+(
+    [serial_no] => bj201702091123132188
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112313
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:23:23][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:23:32][|-param-|Array
+(
+    [serial_no] => bj2017020911233228632
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 112332
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:23:33][|-param-|Array
+(
+    [serial_no] => bj2017020911233361352
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112333
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:23:42][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:23:43][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:25:53][|-param-|Array
+(
+    [serial_no] => bj2017020911255329820
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112553
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:25:53][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:25:56][|-param-|Array
+(
+    [serial_no] => bj201702091125564428
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112556
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:25:57][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:25:58][|-param-|Array
+(
+    [serial_no] => bj2017020911255841480
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112558
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:25:59][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:26:02][|-param-|Array
+(
+    [serial_no] => bj2017020911260219590
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112602
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:26:02][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:26:04][|-param-|Array
+(
+    [serial_no] => bj2017020911260421816
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112604
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:26:14][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:29:52][|-param-|Array
+(
+    [serial_no] => bj2017020911295269095
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 112952
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:29:54][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:30:09][|-param-|Array
+(
+    [serial_no] => bj2017020911300917764
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 113009
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:30:11][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:32:00][|-param-|Array
+(
+    [serial_no] => bj2017020911320096953
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 113200
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:32:00][|-param-|Array
+(
+    [serial_no] => bj2017020911320032984
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113200
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:32:01][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:32:01][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[11:32:13][|-param-|Array
+(
+    [serial_no] => bj2017020911321354871
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113213
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:32:23][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:33:56][|-param-|Array
+(
+    [serial_no] => bj2017020911335686747
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113356
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:34:06][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:34:29][|-param-|Array
+(
+    [serial_no] => bj2017020911342975226
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 113429
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:34:30][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:35:47][|-param-|Array
+(
+    [serial_no] => bj2017020911354712900
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 113547
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:35:48][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[11:35:53][|-param-|Array
+(
+    [serial_no] => bj2017020911355362737
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113553
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:35:53][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[11:35:56][|-param-|Array
+(
+    [serial_no] => bj2017020911355672174
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113556
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:35:57][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[11:36:07][|-param-|Array
+(
+    [serial_no] => bj2017020911360764647
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113607
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:36:08][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[11:36:11][|-param-|Array
+(
+    [serial_no] => bj201702091136117719
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113611
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:36:12][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[11:36:44][|-param-|Array
+(
+    [serial_no] => bj2017020911364464235
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113644
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:36:46][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[11:36:55][|-param-|Array
+(
+    [serial_no] => bj2017020911365537299
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 113655
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[11:37:05][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:37:57][|-param-|Array
+(
+    [serial_no] => bj2017020911375733850
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 113757
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:38:08][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:40:55][|-param-|Array
+(
+    [serial_no] => bj2017020911405573109
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 114055
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:41:06][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[11:44:44][|-param-|Array
+(
+    [serial_no] => bj2017020911444431699
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 114444
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000530
+)
+]
+[11:44:54][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:06:51][|-param-|Array
+(
+    [serial_no] => bj2017020914065123129
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 140651
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:06:53][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:07:01][|-param-|Array
+(
+    [serial_no] => bj2017020914070158717
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 140701
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:07:11][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:07:47][|-param-|Array
+(
+    [serial_no] => bj2017020914074772893
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 140747
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:07:57][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:08:26][|-param-|Array
+(
+    [serial_no] => bj2017020914082685850
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 140826
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:08:36][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:11:00][|-param-|Array
+(
+    [serial_no] => bj201702091411001536
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141100
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:11:01][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:11:05][|-param-|Array
+(
+    [serial_no] => bj2017020914110512857
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141105
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:11:05][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:11:11][|-param-|Array
+(
+    [serial_no] => bj2017020914111194218
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141111
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:11:12][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:11:24][|-param-|Array
+(
+    [serial_no] => bj2017020914112431894
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141124
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:11:25][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:11:35][|-param-|Array
+(
+    [serial_no] => bj2017020914113527121
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141135
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:11:36][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:11:44][|-param-|Array
+(
+    [serial_no] => bj2017020914114448585
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141144
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:11:54][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:12:52][|-param-|Array
+(
+    [serial_no] => bj2017020914125282228
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141252
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:13:02][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:13:08][|-param-|Array
+(
+    [serial_no] => bj201702091413087670
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141308
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:13:18][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:13:23][|-param-|Array
+(
+    [serial_no] => bj2017020914132392175
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141323
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:13:33][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:13:36][|-param-|Array
+(
+    [serial_no] => bj2017020914133651886
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141336
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:13:47][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:14:16][|-param-|Array
+(
+    [serial_no] => bj2017020914141626352
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141416
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:14:26][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:14:54][|-param-|Array
+(
+    [serial_no] => bj2017020914145461422
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141454
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:14:55][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:14:58][|-param-|Array
+(
+    [serial_no] => bj2017020914145878485
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141458
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:14:59][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:15:01][|-param-|Array
+(
+    [serial_no] => bj2017020914150184846
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141501
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:15:01][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:15:04][|-param-|Array
+(
+    [serial_no] => bj2017020914150422093
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141504
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:15:05][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:15:31][|-param-|Array
+(
+    [serial_no] => bj2017020914153189806
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141531
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:15:32][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:15:40][|-param-|Array
+(
+    [serial_no] => bj2017020914154041261
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141540
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:15:41][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:15:49][|-param-|Array
+(
+    [serial_no] => bj2017020914154977418
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141549
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:15:50][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:16:03][|-param-|Array
+(
+    [serial_no] => bj2017020914160326525
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141603
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:16:03][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:16:26][|-param-|Array
+(
+    [serial_no] => bj2017020914162663225
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 141626
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:16:27][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:19:46][|-param-|Array
+(
+    [serial_no] => bj201702091419465714
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 141946
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521003420
+)
+]
+[14:19:56][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:20:07][|-param-|Array
+(
+    [serial_no] => bj2017020914200721329
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 142007
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521003420
+)
+]
+[14:20:17][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:21:07][|-param-|Array
+(
+    [serial_no] => bj2017020914210762399
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 142107
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521003420
+)
+]
+[14:21:08][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[14:22:35][|-param-|Array
+(
+    [serial_no] => bj2017020914223521640
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 142235
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:22:39][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 联机交易交互失败String index out of range: -21
+    [error_no] => -1
+)
+]
+[14:26:50][|-param-|Array
+(
+    [serial_no] => bj2017020914265050791
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 142650
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:27:01][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:29:15][|-param-|Array
+(
+    [serial_no] => bj2017020914291533487
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 142915
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:29:17][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:31:25][|-param-|Array
+(
+    [serial_no] => bj2017020914312531169
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 143125
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:31:26][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:35:37][|-param-|Array
+(
+    [serial_no] => bj201702091435378466
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 143537
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:35:47][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:37:56][|-param-|Array
+(
+    [serial_no] => bj2017020914375613589
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 143756
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:37:57][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:38:02][|-param-|Array
+(
+    [serial_no] => bj2017020914380256858
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 143802
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:38:02][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:38:10][|-param-|Array
+(
+    [serial_no] => bj2017020914381028802
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 143810
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:38:11][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:38:16][|-param-|Array
+(
+    [serial_no] => bj2017020914381651378
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 143816
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:38:17][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:38:24][|-param-|Array
+(
+    [serial_no] => bj2017020914382474577
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 143824
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:38:25][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[14:45:46][|-param-|Array
+(
+    [serial_no] => bj2017020914454669304
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 144546
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:45:56][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:46:03][|-param-|Array
+(
+    [serial_no] => bj2017020914460341867
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 144603
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:46:13][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:46:20][|-param-|Array
+(
+    [serial_no] => bj2017020914462052184
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 144620
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[14:46:30][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[14:58:08][|-param-|Array
+(
+    [serial_no] => bj2017020914580865014
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 145808
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000829
+)
+]
+[14:58:09][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[14:58:13][|-param-|Array
+(
+    [serial_no] => bj2017020914581385561
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 145813
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000829
+)
+]
+[14:58:13][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[14:58:15][|-param-|Array
+(
+    [serial_no] => bj2017020914581598271
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 145815
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000829
+)
+]
+[14:58:16][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[14:58:18][|-param-|Array
+(
+    [serial_no] => bj201702091458185123
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 145818
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000829
+)
+]
+[14:58:19][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[14:58:23][|-param-|Array
+(
+    [serial_no] => bj2017020914582382623
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 145823
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000829
+)
+]
+[14:58:24][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[14:58:54][|-param-|Array
+(
+    [serial_no] => bj2017020914585461590
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 145854
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000829
+)
+]
+[14:58:55][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 授权.找不到授权终端
+    [error_no] => -1
+)
+]
+[14:59:48][|-param-|Array
+(
+    [serial_no] => bj2017020914594868596
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 145948
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000829
+)
+]
+[14:59:59][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:00:34][|-param-|Array
+(
+    [serial_no] => bj2017020915003497142
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219930809002X
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 150034
+    [bank_account] => 6212263202006134513
+    [bank_no] => 102521000829
+)
+]
+[15:00:44][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:18:54][|-param-|Array
+(
+    [serial_no] => bj2017020915185460290
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 151854
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:19:05][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:20:38][|-param-|Array
+(
+    [serial_no] => bj2017020915203822996
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 152038
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:20:39][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:22:10][|-param-|Array
+(
+    [serial_no] => bj2017020915221076486
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 152210
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:22:11][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:23:14][|-param-|Array
+(
+    [serial_no] => bj2017020915231476416
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 152314
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:23:25][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:23:51][|-param-|Array
+(
+    [serial_no] => bj2017020915235191016
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 152351
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:24:02][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:30:28][|-param-|Array
+(
+    [serial_no] => bj2017020915302899150
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153028
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:30:38][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:31:37][|-param-|Array
+(
+    [serial_no] => bj2017020915313783971
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153137
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:31:38][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:31:54][|-param-|Array
+(
+    [serial_no] => bj2017020915315491096
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153154
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:31:55][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:32:01][|-param-|Array
+(
+    [serial_no] => bj2017020915320120057
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153201
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:32:01][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:32:35][|-param-|Array
+(
+    [serial_no] => bj2017020915323557786
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153235
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:32:36][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:32:42][|-param-|Array
+(
+    [serial_no] => bj2017020915324259823
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153242
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:32:42][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:32:46][|-param-|Array
+(
+    [serial_no] => bj2017020915324693231
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153246
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:32:47][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:32:49][|-param-|Array
+(
+    [serial_no] => bj2017020915324979583
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153249
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:32:50][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:33:06][|-param-|Array
+(
+    [serial_no] => bj2017020915330658776
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153306
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:33:16][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:33:36][|-param-|Array
+(
+    [serial_no] => bj2017020915333679010
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153336
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:33:46][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:33:59][|-param-|Array
+(
+    [serial_no] => bj2017020915335912022
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153359
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:34:09][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:34:29][|-param-|Array
+(
+    [serial_no] => bj2017020915342918850
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153429
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:34:39][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:39:24][|-param-|Array
+(
+    [serial_no] => bj2017020915392427406
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153924
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:39:25][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:39:43][|-param-|Array
+(
+    [serial_no] => bj2017020915394365786
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153943
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:39:43][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:39:50][|-param-|Array
+(
+    [serial_no] => bj2017020915395069771
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153950
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:39:51][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:39:56][|-param-|Array
+(
+    [serial_no] => bj2017020915395690005
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 153956
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:39:57][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:40:21][|-param-|Array
+(
+    [serial_no] => bj2017020915402176562
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154021
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:40:22][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:40:29][|-param-|Array
+(
+    [serial_no] => bj2017020915402931034
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154029
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:40:29][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:40:44][|-param-|Array
+(
+    [serial_no] => bj201702091540441778
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154044
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:40:45][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:45:18][|-param-|Array
+(
+    [serial_no] => bj2017020915451863909
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154518
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:45:19][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:45:21][|-param-|Array
+(
+    [serial_no] => bj2017020915452171076
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154521
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:45:21][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:46:02][|-param-|Array
+(
+    [serial_no] => bj2017020915460223534
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154602
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:46:03][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:46:05][|-param-|Array
+(
+    [serial_no] => bj2017020915460575442
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154605
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:46:05][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:46:13][|-param-|Array
+(
+    [serial_no] => bj2017020915461325403
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154613
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:46:14][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:46:17][|-param-|Array
+(
+    [serial_no] => bj2017020915461736925
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154617
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:46:18][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:46:20][|-param-|Array
+(
+    [serial_no] => bj2017020915462028001
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154620
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:46:21][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:46:22][|-param-|Array
+(
+    [serial_no] => bj2017020915462291024
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154622
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:46:23][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:46:25][|-param-|Array
+(
+    [serial_no] => bj2017020915462578044
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154625
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:46:26][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:46:28][|-param-|Array
+(
+    [serial_no] => bj2017020915462893461
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154628
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:46:39][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:46:57][|-param-|Array
+(
+    [serial_no] => bj2017020915465710389
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154657
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:47:08][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:47:27][|-param-|Array
+(
+    [serial_no] => bj201702091547277835
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 154727
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:47:37][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:58:22][|-param-|Array
+(
+    [serial_no] => bj201702091558221645
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 155822
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:58:26][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:58:28][|-param-|Array
+(
+    [serial_no] => bj2017020915582862803
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 155828
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:58:28][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[15:58:33][|-param-|Array
+(
+    [serial_no] => bj2017020915583320851
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 155833
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:58:43][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:59:03][|-param-|Array
+(
+    [serial_no] => bj2017020915590359955
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 155903
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:59:14][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:59:18][|-param-|Array
+(
+    [serial_no] => bj2017020915591819992
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 155918
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:59:28][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:59:32][|-param-|Array
+(
+    [serial_no] => bj2017020915593235313
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 155932
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[15:59:42][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[15:59:55][|-param-|Array
+(
+    [serial_no] => bj201702091559559740
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 155955
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[16:00:06][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:00:09][|-param-|Array
+(
+    [serial_no] => bj2017020916000928284
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 160009
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[16:00:19][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:03:32][|-param-|Array
+(
+    [serial_no] => bj2017020916033230924
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 160332
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[16:03:33][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[16:03:37][|-param-|Array
+(
+    [serial_no] => bj2017020916033786963
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 160337
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[16:03:38][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[16:03:42][|-param-|Array
+(
+    [serial_no] => bj201702091603429693
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 160342
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[16:03:42][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[16:13:10][|-param-|Array
+(
+    [serial_no] => bj2017020916131053169
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 161310
+    [bank_account] => 6226221580672340
+    [bank_no] => 305391015082
+)
+]
+[16:13:21][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:15:34][|-param-|Array
+(
+    [serial_no] => bj2017020916153488664
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 161534
+    [bank_account] => 6228480712413995614
+    [bank_no] => 103405070014
+)
+]
+[16:15:35][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687724
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[16:34:34][|-param-|Array
+(
+    [serial_no] => bj2017020916343459536
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163434
+    [bank_account] => 6228480712413995614
+    [bank_no] => 203110000014
+)
+]
+[16:34:38][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687734
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[16:36:05][|-param-|Array
+(
+    [serial_no] => bj2017020916360555367
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037089
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163605
+    [bank_account] => 6228480712413995614
+    [bank_no] => 203110000014
+)
+]
+[16:36:15][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:36:23][|-param-|Array
+(
+    [serial_no] => bj2017020916362393435
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037089
+    [real_name] => 邱小兰
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163623
+    [bank_account] => 6228480712413995614
+    [bank_no] => 203110000014
+)
+]
+[16:36:33][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:37:36][|-param-|Array
+(
+    [serial_no] => bj2017020916373631397
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037025
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163736
+    [bank_account] => 6228480712413995614
+    [bank_no] => 203110000014
+)
+]
+[16:37:46][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:38:04][|-param-|Array
+(
+    [serial_no] => bj2017020916380455613
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037025
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163804
+    [bank_account] => 6228480712413995614
+    [bank_no] => 203110000014
+)
+]
+[16:38:14][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:38:17][|-param-|Array
+(
+    [serial_no] => bj2017020916381737801
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037025
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163817
+    [bank_account] => 6228480712413995789
+    [bank_no] => 203110000014
+)
+]
+[16:38:17][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[16:38:47][|-param-|Array
+(
+    [serial_no] => bj2017020916384741771
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037025
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163847
+    [bank_account] => 6226221580672340
+    [bank_no] => 305100001008
+)
+]
+[16:38:48][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[16:39:08][|-param-|Array
+(
+    [serial_no] => bj2017020916390849271
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163908
+    [bank_account] => 6226221580672340
+    [bank_no] => 305100001008
+)
+]
+[16:39:08][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[16:39:24][|-param-|Array
+(
+    [serial_no] => bj2017020916392414618
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163924
+    [bank_account] => 6226221580672340
+    [bank_no] => 305100001008
+)
+]
+[16:39:24][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[16:39:27][|-param-|Array
+(
+    [serial_no] => bj2017020916392775026
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 163927
+    [bank_account] => 6226221580672340
+    [bank_no] => 305100001008
+)
+]
+[16:39:28][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 正在处理中
+    [error_no] => -1
+)
+]
+[16:40:22][|-param-|Array
+(
+    [serial_no] => bj201702091640223763
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [real_name] => 后
+    [mobile_tel] => 15205006442
+    [order_date] => 20170209
+    [order_time] => 164022
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100014030
+)
+]
+[16:40:23][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687741
+                    [status] => 9
+                )
+
+        )
+
+)
+]
+[16:50:34][|-param-|Array
+(
+    [serial_no] => bj2017020916503419852
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 165034
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100014030
+)
+]
+[16:50:44][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:51:00][|-param-|Array
+(
+    [serial_no] => bj2017020916510035760
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 165100
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100014030
+)
+]
+[16:51:11][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 与快钱支付通讯超时Read timed out
+    [error_no] => -1
+)
+]
+[16:52:01][|-param-|Array
+(
+    [serial_no] => bj201702091652019531
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [real_name] => 吴晶
+    [mobile_tel] => 13037100638
+    [order_date] => 20170209
+    [order_time] => 165201
+    [bank_account] => 6217000340000565980
+    [bank_no] => 105100014030
+)
+]
+[16:52:02][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1687749
+                    [status] => 9
+                )
+
+        )
+
+)
+]

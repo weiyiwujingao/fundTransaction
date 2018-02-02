@@ -1,0 +1,490 @@
+2017-02-04 12:46:04|-ip-|10.100.0.18|-mobile-|13477029958|-phoneArea-||||
+2017-02-04 12:46:04|-$cParam-|Array
+(
+    [mobile] => 13477029958
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 12:46:04
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 57
+    [Mobile] => 13477029958
+    [IP] => 10.100.0.18
+    [MobileCheck] => 970050
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 57
+            [ActiveTime] => 2017-02-04 12:46:04
+        )
+
+)
+
+2017-02-04 13:30:40|-ip-|192.168.10.115|-mobile-|13599951535|-phoneArea-||||
+2017-02-04 13:30:40|-$cParam-|Array
+(
+    [mobile] => 13599951535
+    [ip] => 192.168.10.115
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 13:30:40
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 62
+    [Mobile] => 13599951535
+    [IP] => 192.168.10.115
+    [MobileCheck] => 005588
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 62
+            [ActiveTime] => 2017-02-04 13:30:40
+        )
+
+)
+
+2017-02-04 13:30:51|-ip-|192.168.10.115|-mobile-|13599951535|-phoneArea-||||
+2017-02-04 13:30:51|-$cParam-|Array
+(
+    [mobile] => 13599951535
+    [ip] => 192.168.10.115
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 175
+)
+
+2017-02-04 13:31:22|-ip-|192.168.10.115|-mobile-|13599951535|-phoneArea-||||
+2017-02-04 13:31:22|-$cParam-|Array
+(
+    [mobile] => 13599951535
+    [ip] => 192.168.10.115
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 13:31:22
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 62
+    [Mobile] => 13599951535
+    [IP] => 192.168.10.115
+    [MobileCheck] => 005588
+)
+|-cRs-|Array
+(
+    [Code] => 100010
+    [Msg] => 验证码不正确，请核对您的验证码！
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 13:34:03|-ip-|192.168.15.235|-mobile-|18125530297|-phoneArea-||||
+2017-02-04 13:34:03|-$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 13:34:03
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 59
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [MobileCheck] => 367084
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 59
+            [ActiveTime] => 2017-02-04 13:34:03
+        )
+
+)
+
+2017-02-04 13:34:11|-ip-|192.168.15.235|-mobile-|18125530297|-phoneArea-||||
+2017-02-04 13:34:11|-$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 176
+)
+
+2017-02-04 13:34:31|-ip-|192.168.15.235|-mobile-|18125530297|-phoneArea-||||
+2017-02-04 13:34:31|-$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 176
+)
+
+2017-02-04 13:34:41|-ip-|192.168.10.115|-mobile-|13599951535|-phoneArea-||||
+2017-02-04 13:34:41|-$cParam-|Array
+(
+    [mobile] => 13599951535
+    [ip] => 192.168.10.115
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 13:34:41
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 63
+    [Mobile] => 13599951535
+    [IP] => 192.168.10.115
+    [MobileCheck] => 164099
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 63
+            [ActiveTime] => 2017-02-04 13:34:41
+        )
+
+)
+
+2017-02-04 13:36:06|-ip-|192.168.15.235|-mobile-|18125530297|-phoneArea-||||
+2017-02-04 13:36:06|-$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 176
+)
+
+2017-02-04 13:36:43|-ip-|192.168.15.235|-mobile-|18125530297|-phoneArea-||||
+2017-02-04 13:36:43|-$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 13:36:43
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 59
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [MobileCheck] => 367084
+)
+|-cRs-|Array
+(
+    [Code] => 100010
+    [Msg] => 验证码不正确，请核对您的验证码！
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 13:39:12|-ip-|192.168.15.235|-mobile-|18125530297|-phoneArea-||||
+2017-02-04 13:39:12|-$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 13:39:12
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 64
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [MobileCheck] => 908213
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 64
+            [ActiveTime] => 2017-02-04 13:39:12
+        )
+
+)
+
+2017-02-04 13:43:46|-ip-|192.168.10.115|-mobile-|13599951535|-phoneArea-||||
+2017-02-04 13:43:46|-$cParam-|Array
+(
+    [mobile] => 13599951535
+    [ip] => 192.168.10.115
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 13:43:46
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 65
+    [Mobile] => 13599951535
+    [IP] => 192.168.10.115
+    [MobileCheck] => 364946
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 65
+            [ActiveTime] => 2017-02-04 13:43:46
+        )
+
+)
+
+2017-02-04 13:53:48|-ip-|192.168.15.235|-mobile-|13037100638|-phoneArea-||||
+2017-02-04 13:53:48|-$cParam-|Array
+(
+    [mobile] => 13037100638
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 13:53:48
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 58
+    [Mobile] => 13037100638
+    [IP] => 192.168.15.235
+    [MobileCheck] => 618356
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 58
+            [ActiveTime] => 2017-02-04 13:53:48
+        )
+
+)
+
+2017-02-04 14:34:05|-ip-|192.168.10.39|-mobile-|15205006442|-phoneArea-||||
+2017-02-04 14:34:05|-$cParam-|Array
+(
+    [mobile] => 15205006442
+    [ip] => 192.168.10.39
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 14:34:05
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 66
+    [Mobile] => 15205006442
+    [IP] => 192.168.10.39
+    [MobileCheck] => 329222
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 66
+            [ActiveTime] => 2017-02-04 14:34:05
+        )
+
+)
+
+2017-02-04 14:37:17|-ip-|192.168.10.115|-mobile-|13599951535|-phoneArea-||||
+2017-02-04 14:37:17|-$cParam-|Array
+(
+    [mobile] => 13599951535
+    [ip] => 192.168.10.115
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 14:37:17
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 67
+    [Mobile] => 13599951535
+    [IP] => 192.168.10.115
+    [MobileCheck] => 079270
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 67
+            [ActiveTime] => 2017-02-04 14:37:17
+        )
+
+)
+
+2017-02-04 14:38:07|-ip-|10.100.0.18|-mobile-|18671517368|-phoneArea-||||
+2017-02-04 14:38:07|-$cParam-|Array
+(
+    [mobile] => 18671517368
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 14:38:07
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 61
+    [Mobile] => 18671517368
+    [IP] => 10.100.0.18
+    [MobileCheck] => 839861
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 61
+            [ActiveTime] => 2017-02-04 14:38:07
+        )
+
+)
+
+2017-02-04 15:17:34|-ip-|10.100.0.18|-mobile-|15620553970|-phoneArea-||||
+2017-02-04 15:17:34|-$cParam-|Array
+(
+    [mobile] => 15620553970
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-02-04 15:17:34
+|-cParam-|Array
+(
+    [Type] => 1
+    [TmpMobileID] => 68
+    [Mobile] => 15620553970
+    [IP] => 10.100.0.18
+    [MobileCheck] => 560981
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [TmpMobileID] => 68
+            [ActiveTime] => 2017-02-04 15:17:34
+        )
+
+)
+

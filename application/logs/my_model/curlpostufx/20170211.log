@@ -1,0 +1,141 @@
+[00:21:02][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>cust_type:<input type="text" value="1" name="cust_type"/>
+<br/>trade_acco:<input type="text" value="1181" name="trade_acco"/>
+<br/>password:<input type="text" value="6803cbb9b19241ab53919a7f025bc107" name="password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[00:21:02][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121&trust_way=2&cust_type=1&trade_acco=1181&password=6803cbb9b19241ab53919a7f025bc107]
+[00:21:02][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1181
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"","success_type":"2","error_code":"0106","password":"","error_info":"基金账号状态是[冻结],不能做该交易[999]"}]}
+    [code] => 200
+)
+]
+[00:21:18][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>cust_type:<input type="text" value="1" name="cust_type"/>
+<br/>trade_acco:<input type="text" value="1181" name="trade_acco"/>
+<br/>password:<input type="text" value="6803cbb9b19241ab53919a7f025bc107" name="password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[00:21:19][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121&trust_way=2&cust_type=1&trade_acco=1181&password=6803cbb9b19241ab53919a7f025bc107]
+[00:21:19][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1181
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"","success_type":"2","error_code":"0106","password":"","error_info":"基金账号状态是[冻结],不能做该交易[999]"}]}
+    [code] => 200
+)
+]
+[00:22:49][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>cust_type:<input type="text" value="1" name="cust_type"/>
+<br/>trade_acco:<input type="text" value="1181" name="trade_acco"/>
+<br/>password:<input type="text" value="6803cbb9b19241ab53919a7f025bc107" name="password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[00:22:50][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121&trust_way=2&cust_type=1&trade_acco=1181&password=6803cbb9b19241ab53919a7f025bc107]
+[00:22:50][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_clear_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1181
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"","success_type":"2","error_code":"0106","password":"","error_info":"基金账号状态是[冻结],不能做该交易[999]"}]}
+    [code] => 200
+)
+]
+[00:23:41][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>trade_acco:<input type="text" value="1181" name="trade_acco"/>
+<br/>new_password:<input type="text" value="cae28750c430992e43eeb057c27cd38f" name="new_password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[00:23:41][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121&trust_way=2&trade_acco=1181&new_password=cae28750c430992e43eeb057c27cd38f]
+[00:23:41][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121
+    [trust_way] => 2
+    [trade_acco] => 1181
+    [new_password] => cae28750c430992e43eeb057c27cd38f
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"","success_type":"2","error_code":"0106","error_info":"基金账号状态是[冻结],不能做该交易[989]"}]}
+    [code] => 200
+)
+]
+[00:26:10][|-x-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+<br/><form method="post" action="https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct">
+<br/>targetcomp_id:<input type="text" value="91000" name="targetcomp_id"/>
+<br/>sendercomp_id:<input type="text" value="91000" name="sendercomp_id"/>
+<br/>access_token:<input type="text" value="0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121" name="access_token"/>
+<br/>trust_way:<input type="text" value="2" name="trust_way"/>
+<br/>trade_acco:<input type="text" value="1181" name="trade_acco"/>
+<br/>new_password:<input type="text" value="cae28750c430992e43eeb057c27cd38f" name="new_password"/>
+<br/><input type="submit" value="ok">
+</form>]
+[00:26:10][|-string-|targetcomp_id=91000&sendercomp_id=91000&access_token=0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121&trust_way=2&trade_acco=1181&new_password=cae28750c430992e43eeb057c27cd38f]
+[00:26:10][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/tradepassword_mod_acct
+|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 0FCB34AB8F1A4CD3951754C2754A32692017021009370359427121
+    [trust_way] => 2
+    [trade_acco] => 1181
+    [new_password] => cae28750c430992e43eeb057c27cd38f
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"allot_no":"","success_type":"2","error_code":"0106","error_info":"基金账号状态是[冻结],不能做该交易[989]"}]}
+    [code] => 200
+)
+]

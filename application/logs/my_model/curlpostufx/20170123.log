@@ -1,0 +1,255 @@
+[18:45:03][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => F7BBB12A906347C99AB7A608D6451E5B2017012318450324201685
+    [sms_serial_no] => 553262
+    [original_serial_no] => 1680471
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184502
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"EDC.外部跟踪编号重复","error_no":-1}
+    [code] => 200
+)
+]
+[18:45:56][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4D1411D296944A449EA7D2C575A91A562017012318455643620586
+    [serial_no] => bj2017012318455589662
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [real_name] => 邹奋
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184555
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"sms_serial_no":"1680502","status":"9"}]}
+    [code] => 200
+)
+]
+[18:47:04][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 5897044671DB4585BB28A43DDFEB609B2017012318470209681411
+    [sms_serial_no] => 553262
+    [original_serial_no] => bj2017012318455589662
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184701
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"EDC.外部跟踪编号重复","error_no":-1}
+    [code] => 200
+)
+]
+[18:48:15][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => FFBB6B6967704C838FA5677D65BCB4F42017012318481540860735
+    [mobile_code] => 553262
+    [sms_serial_no] => 1680502
+    [original_serial_no] => bj2017012318455589662
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184814
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"验证码不匹配","error_no":-1}
+    [code] => 200
+)
+]
+[18:48:31][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 7FEB47641191407DAD0E8042B57D38472017012318483201158379
+    [mobile_code] => 365779
+    [sms_serial_no] => 1680502
+    [original_serial_no] => bj2017012318455589662
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184831
+    [bank_account] => 6228480068816522772
+    [bank_no] => 103391013537
+)
+|-cRs-|Array
+(
+    [data] => {"data":[{"fields":{},"status":"1"}]}
+    [code] => 200
+)
+]
+[18:49:19][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => B1647BEF2A58422CA771EA705FABB36D2017012318491547515974
+    [mobile_code] => 365779
+    [sms_serial_no] => 1680502
+    [original_serial_no] => bj2017012318455589662
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184914
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[18:49:26][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 4B0939C723494B9F9AB47AAB4E0FDE372017012318492204032529
+    [mobile_code] => 365779
+    [sms_serial_no] => 1680502
+    [original_serial_no] => bj2017012318455589662
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184921
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[18:49:32][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 8C685F788EFB4B4FBEBCACE047AFB2E92017012318492854093719
+    [mobile_code] => 365779
+    [sms_serial_no] => 1680502
+    [original_serial_no] => bj2017012318455589662
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 350122198812076538
+    [mobile_tel] => 13599951535
+    [order_date] => 20170123
+    [order_time] => 184927
+)
+|-cRs-|Array
+(
+    [data] => 
+    [code] => 0
+)
+]
+[18:51:30][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 51C2A0541F7A40A5A398C495574F85052017012318513075100477
+    [mobile_code] => 
+    [sms_serial_no] => 
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 
+    [mobile_tel] => 
+    [order_date] => 20170123
+    [order_time] => 185129
+    [bank_account] => 
+    [bank_no] => 
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"[PAN] is empty","error_no":-1}
+    [code] => 200
+)
+]
+[18:51:34][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => DA7FD8C7821A41D78261897874D73DE02017012318513518167781
+    [mobile_code] => 
+    [sms_serial_no] => 
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 
+    [mobile_tel] => 
+    [order_date] => 20170123
+    [order_time] => 185134
+    [bank_account] => 
+    [bank_no] => 
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"[PAN] is empty","error_no":-1}
+    [code] => 200
+)
+]
+[18:51:36][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 9CB521CC373845429144DD8B31ED1F6E2017012318513665186390
+    [mobile_code] => 
+    [sms_serial_no] => 
+    [original_serial_no] => 
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 
+    [mobile_tel] => 
+    [order_date] => 20170123
+    [order_time] => 185135
+    [bank_account] => 
+    [bank_no] => 
+)
+|-cRs-|Array
+(
+    [data] => {"error_code":"9999","error_info":"[PAN] is empty","error_no":-1}
+    [code] => 200
+)
+]

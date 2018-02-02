@@ -1,0 +1,119 @@
+[11:13:24][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[11:13:24][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[15:52:05][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[15:52:05][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[15:53:15][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[15:53:15][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[17:37:59][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[17:37:59][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[17:39:04][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[17:39:04][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[17:39:39][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[17:39:39][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[17:40:33][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[17:40:33][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[17:41:03][|-ip-|192.168.10.115|--sign--|ajaxgetcode]
+[17:41:03][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[17:41:22][|-ip-|192.168.10.115|--sign--|getmobilecode]
+[17:41:22][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|getmobilecode]
+[20:29:16][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[20:29:16][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[20:30:02][|-ip-|10.100.0.18|--sign--|getmobilecode]
+[20:30:02][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|getmobilecode]
+[20:30:36][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[20:30:36][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[20:30:40][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[20:30:40][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[20:33:07][|-ip-|10.100.0.18|--sign--|getmobilecode]
+[20:33:07][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|getmobilecode]
+[20:36:37][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[20:36:37][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[20:36:45][|-ip-|10.100.0.18|--sign--|ajaxgetcode]
+[20:36:45][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|ajaxgetcode]
+[20:36:51][|-ip-|10.100.0.18|--sign--|getmobilecode]
+[20:36:51][|-saRs-|Array
+(
+    [flag] => 10000
+    [msg] => 
+)
+|--sign--|getmobilecode]

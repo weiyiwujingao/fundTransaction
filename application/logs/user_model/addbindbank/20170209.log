@@ -1,0 +1,154 @@
+[17:11:54][|-Param-|Array
+(
+    [UserID] => 178
+    [HsUserID] => 10268
+    [HsAccount] => 1184
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100001052
+    [BranchName] => 中国建设银行北京天坛支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 18125530297
+    [NickName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 2
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 17:11:54
+)
+]
+[17:11:54][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [password] => 7c5ec8641af12d25b10d4e9d67631cf4
+    [mobile_tel] => 18125530297
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000340000565980
+    [bank_account_name] => 杜拉拉
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 422201199901010427
+    [detail_fund_way] => 01
+    [branchbank] => 105100001052
+    [fund_interface_type] => 1
+)
+]
+[17:11:54][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000068
+                    [success_type] => 0
+                    [trade_acco] => 1191
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[17:11:54][|-ibParam-|Array
+(
+    [UserID] => 178
+    [AccountName] => 杜拉拉
+    [HsAccount] => 1191
+    [Master] => 2
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105100001052
+    [BranchName] => 中国建设银行北京天坛支行
+    [BankCard] => 6217000340000565980
+    [Mobile] => 18125530297
+    [Status] => 1
+    [DataTime] => 2017-02-09 17:11:53
+)
+]
+[17:11:54][|-ibRs-|23]
+[19:02:02][|-Param-|Array
+(
+    [UserID] => 220
+    [HsUserID] => 10288
+    [HsAccount] => 1189
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103100022069
+    [BranchName] => 中国农业银行股份有限公司北京东四环华腾分理处
+    [BankCard] => 6228480712413995614
+    [Mobile] => 15205006442
+    [NickName] => 后
+    [IdentityNumber] => 350426198803025631
+    [Sex] => 1
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-09 19:02:02
+)
+]
+[19:02:02][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1189
+    [password] => 571644c4a63665e4c2804a9f0438abe9
+    [mobile_tel] => 15205006442
+    [bank_no] => 003
+    [bank_name] => 中国农业银行
+    [bank_account] => 6228480712413995614
+    [bank_account_name] => 后
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 350426198803025631
+    [detail_fund_way] => 01
+    [branchbank] => 103100022069
+    [fund_interface_type] => 1
+)
+]
+[19:02:02][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170209000079
+                    [success_type] => 0
+                    [trade_acco] => 1192
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[19:02:02][|-ibParam-|Array
+(
+    [UserID] => 220
+    [AccountName] => 后
+    [HsAccount] => 1192
+    [Master] => 2
+    [Province] => 北京市
+    [City] => 北京市
+    [BankName] => 中国农业银行
+    [BankNo] => 003
+    [BranchBank] => 103100022069
+    [BranchName] => 中国农业银行股份有限公司北京东四环华腾分理处
+    [BankCard] => 6228480712413995614
+    [Mobile] => 15205006442
+    [Status] => 1
+    [DataTime] => 2017-02-09 19:02:01
+)
+]
+[19:02:02][|-ibRs-|24]

@@ -1,0 +1,23 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/login_nav.html');?>
+<?php require_once(VIEWPATH . '/common/back_pwd_banner.html');?>
+    <div class="allCnt Mt20">
+        <div class="qstepBar">
+            <a href="#">身份验证</a>
+            <a href="#">设置新密码</a>
+            <a href="#" class="Cur">设置成功</a>
+        </div>
+        <h3 class="Title Tc Mt25">恭喜,密码重置成功</h3>
+        <div class="formLi Mt20 Tc"><a href="javascript:;" onClick="subForm();" class="halfBtn Ml25">返回登录</a></div>
+    </div>
+
+<!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+<!--Foot End-->
+</body>
+<script>
+    function subForm(){
+        window.location.href='<?= base_url() ?>';
+    }
+</script>
+</html>

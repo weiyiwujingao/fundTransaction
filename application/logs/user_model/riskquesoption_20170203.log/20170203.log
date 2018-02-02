@@ -1,0 +1,4786 @@
+[14:47:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:47:31][|-rs-|Array
+(
+)
+]
+[14:47:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:47:31][|-rs-|Array
+(
+)
+]
+[14:47:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:47:31][|-rs-|Array
+(
+)
+]
+[14:47:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:47:31][|-rs-|Array
+(
+)
+]
+[14:47:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:47:32][|-rs-|Array
+(
+)
+]
+[14:47:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:47:32][|-rs-|Array
+(
+)
+]
+[14:47:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:47:32][|-rs-|Array
+(
+)
+]
+[14:47:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:47:32][|-rs-|Array
+(
+)
+]
+[14:47:32][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:47:32][|-rs-|Array
+(
+)
+]
+[14:48:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:48:48][|-rs-|Array
+(
+)
+]
+[14:48:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:48:48][|-rs-|Array
+(
+)
+]
+[14:48:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:48:48][|-rs-|Array
+(
+)
+]
+[14:48:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:48:48][|-rs-|Array
+(
+)
+]
+[14:48:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:48:48][|-rs-|Array
+(
+)
+]
+[14:48:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:48:48][|-rs-|Array
+(
+)
+]
+[14:48:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:48:48][|-rs-|Array
+(
+)
+]
+[14:48:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:48:49][|-rs-|Array
+(
+)
+]
+[14:48:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:48:49][|-rs-|Array
+(
+)
+]
+[14:48:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:48:51][|-rs-|Array
+(
+)
+]
+[14:48:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:48:51][|-rs-|Array
+(
+)
+]
+[14:48:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:48:51][|-rs-|Array
+(
+)
+]
+[14:48:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:48:51][|-rs-|Array
+(
+)
+]
+[14:48:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:48:52][|-rs-|Array
+(
+)
+]
+[14:48:52][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:48:52][|-rs-|Array
+(
+)
+]
+[14:48:52][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:48:52][|-rs-|Array
+(
+)
+]
+[14:48:52][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:48:52][|-rs-|Array
+(
+)
+]
+[14:48:52][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:48:52][|-rs-|Array
+(
+)
+]
+[14:48:53][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:48:53][|-rs-|Array
+(
+)
+]
+[14:48:53][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:48:53][|-rs-|Array
+(
+)
+]
+[14:48:53][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:48:53][|-rs-|Array
+(
+)
+]
+[14:48:53][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:48:53][|-rs-|Array
+(
+)
+]
+[14:48:53][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:48:54][|-rs-|Array
+(
+)
+]
+[14:48:54][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:48:54][|-rs-|Array
+(
+)
+]
+[14:48:54][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:48:54][|-rs-|Array
+(
+)
+]
+[14:48:54][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:48:54][|-rs-|Array
+(
+)
+]
+[14:48:54][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:48:54][|-rs-|Array
+(
+)
+]
+[14:50:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:50:08][|-rs-|Array
+(
+)
+]
+[14:50:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:50:09][|-rs-|Array
+(
+)
+]
+[14:50:09][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:50:09][|-rs-|Array
+(
+)
+]
+[14:50:09][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:50:09][|-rs-|Array
+(
+)
+]
+[14:50:09][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:50:09][|-rs-|Array
+(
+)
+]
+[14:50:09][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:50:09][|-rs-|Array
+(
+)
+]
+[14:50:09][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:50:09][|-rs-|Array
+(
+)
+]
+[14:50:09][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:50:09][|-rs-|Array
+(
+)
+]
+[14:50:09][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:50:09][|-rs-|Array
+(
+)
+]
+[14:50:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:50:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:50:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:50:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:50:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:50:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:50:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:50:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:50:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:50:49][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:51:07][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:51:07][|-rs-|Array
+(
+)
+]
+[14:54:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:54:42][|-rs-|Array
+(
+)
+]
+[14:54:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:54:43][|-rs-|Array
+(
+)
+]
+[14:54:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:54:43][|-rs-|Array
+(
+)
+]
+[14:54:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:54:43][|-rs-|Array
+(
+)
+]
+[14:54:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:54:43][|-rs-|Array
+(
+)
+]
+[14:54:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:54:43][|-rs-|Array
+(
+)
+]
+[14:54:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:54:43][|-rs-|Array
+(
+)
+]
+[14:54:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:54:43][|-rs-|Array
+(
+)
+]
+[14:54:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:54:43][|-rs-|Array
+(
+)
+]
+[14:55:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:55:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:55:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:55:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:55:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:55:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:55:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:55:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:55:50][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:55:50][|-rs-|Array
+(
+)
+]
+[14:56:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:56:03][|-rs-|Array
+(
+)
+]
+[14:56:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:56:03][|-rs-|Array
+(
+)
+]
+[14:56:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:56:04][|-rs-|Array
+(
+)
+]
+[14:56:04][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:56:04][|-rs-|Array
+(
+)
+]
+[14:56:04][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:56:04][|-rs-|Array
+(
+)
+]
+[14:56:04][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:56:04][|-rs-|Array
+(
+)
+]
+[14:56:04][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:56:04][|-rs-|Array
+(
+)
+]
+[14:56:04][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:56:04][|-rs-|Array
+(
+)
+]
+[14:56:04][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:56:04][|-rs-|Array
+(
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:57:18][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:57:21][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[14:58:22][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:02:08][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:02:12][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:02:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:02:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:02:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:02:49][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:07:11][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:08:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:57:39][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:57:39][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 30岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30岁以上40岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 40岁以上50岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 50岁以上60岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 60岁以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:57:39][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:57:39][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A      2000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 2000元以上4000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 4000元以上6000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 6000元以上10000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 10000元以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:57:39][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:57:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 投资过期货、股票、外汇、基金、及其它金融产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 没投资过期货、但投资过股票、外汇、基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资过基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 只投资过黄金、债券、银行理财产品、储蓄等金融产品
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有投资过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:57:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:57:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 50%以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30%以上50%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 15%以上30%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 5%以上15以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 5%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:57:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:57:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 广播、电视等媒体宣传
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 专业人士（工作人员）推荐
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 亲友介绍
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 自己本来就很有理财意识
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[15:57:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:57:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 基金公司专业的管理能力
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 长期表现比较稳健
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资理财的乐趣
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 没什么理由，感觉能赚钱
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 稳赚不赔较为保险的投资方式
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:57:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:57:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 偏股型、债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 购买过但不清楚类型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有购买过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:57:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:57:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 10年以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 5年以上10年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 3年以上5年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 1年以上3年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 1年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[15:57:40][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:57:40][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 全部卖出
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 增加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 7.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 什么也不做
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 等待反弹，如果反弹超过10%，则追加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:59:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:59:13][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:59:31][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:59:42][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:59:43][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[15:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[16:11:17][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[16:11:19][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[16:11:34][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[16:11:37][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[16:11:41][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[17:51:02][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 30岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30岁以上40岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 40岁以上50岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 50岁以上60岁以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 1
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 60岁以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[17:51:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A      2000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 2000元以上4000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 4000元以上6000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 6000元以上10000元以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 2
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 10000元以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[17:51:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 投资过期货、股票、外汇、基金、及其它金融产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 没投资过期货、但投资过股票、外汇、基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 1.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资过基金、及其它产品如黄金、债券、银行理财产品、储蓄等
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 只投资过黄金、债券、银行理财产品、储蓄等金融产品
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 3
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有投资过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[17:51:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 50%以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 30%以上50%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 15%以上30%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 5%以上15以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 4
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 5%以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[17:51:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 广播、电视等媒体宣传
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 专业人士（工作人员）推荐
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 亲友介绍
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 5
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 自己本来就很有理财意识
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[17:51:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 基金公司专业的管理能力
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 长期表现比较稳健
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 投资理财的乐趣
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 没什么理由，感觉能赚钱
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 6
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 稳赚不赔较为保险的投资方式
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[17:51:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 偏股型、债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 债券型、保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 保本型、货币型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 购买过但不清楚类型
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 0.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 7
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 没有购买过
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[17:51:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 10年以上
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 8.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 5年以上10年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 6.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 3年以上5年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 4.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 1年以上3年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+            [4] => Array
+                (
+                    [option_score] => 2.00
+                    [rowcount] => 5
+                    [success_type] => 0
+                    [question_no] => 8
+                    [error_code] => 
+                    [option_no] => 5
+                    [option_content] => E 1年以下
+                    [total_count] => 5
+                    [error_info] => 
+                    [order_no] => 5
+                )
+
+        )
+
+)
+]
+[17:51:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[17:51:03][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [option_score] => 3.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 1
+                    [option_content] => A 全部卖出
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 1
+                )
+
+            [1] => Array
+                (
+                    [option_score] => 5.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 2
+                    [option_content] => B 增加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 2
+                )
+
+            [2] => Array
+                (
+                    [option_score] => 7.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 3
+                    [option_content] => C 什么也不做
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 3
+                )
+
+            [3] => Array
+                (
+                    [option_score] => 10.00
+                    [rowcount] => 4
+                    [success_type] => 0
+                    [question_no] => 9
+                    [error_code] => 
+                    [option_no] => 4
+                    [option_content] => D 等待反弹，如果反弹超过10%，则追加投资
+                    [total_count] => 4
+                    [error_info] => 
+                    [order_no] => 4
+                )
+
+        )
+
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[17:51:45][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[17:59:48][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[17:59:51][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 1
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 2
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 3
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 4
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 5
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 6
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 7
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 8
+)
+]
+[18:00:03][|-Param-|Array
+(
+    [trust_way] => 2
+    [request_num] => 8
+    [reqry_recordsum_flag] => 1
+    [qry_beginrownum] => 1
+    [question_no] => 9
+)
+]

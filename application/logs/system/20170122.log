@@ -1,0 +1,112 @@
+[15:28:52][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/pay_sign_contract_sms|-param-||-cRs-|Array]
+[15:29:12][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/pay_sign_contract_sms|-param-|Array|-cRs-|Array]
+[15:30:23][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/pay_sign_contract_sms|-param-|Array|-cRs-|Array]
+[15:31:22][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/pay_sign_contract_sms|-param-|Array|-cRs-|1]
+[15:31:48][|-Url-|https://sitapi.hscloud.cn/cwsale/v1/pay_sign_contract_sms|-param-|1|-cRs-|1]
+[15:33:00][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-param-|1|-cRs-|1]
+[15:40:15][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|1|-cRs-|1]
+[15:41:10][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => D3552E5241F6476BACBB8300619F5CCE2017012215411026274732
+    [serial_no] => bj2017012215410929597
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 103100022077
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:41:37][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 6B55F842AEB94C74A48EE95484421D1B2017012215413765022645
+    [serial_no] => bj2017012215413786431
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 103100022077
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[15:42:42][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 915FF3DF88004403824AAA10F325A1342017012215424257798552
+    [serial_no] => bj2017012215424118236
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 103100022077
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[16:43:59][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => EBA25749767648F5B6511FDD308A04452017012216435989332069
+    [serial_no] => bj2017012216435951638
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 203110000047
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]
+[16:44:07][|-Url-|https://sitapi.hscloud.cn/cwpay/v1/pay_sign_contract_sms|-aParam-|Array
+(
+    [targetcomp_id] => 91000
+    [sendercomp_id] => 91000
+    [access_token] => 6391BC78FB514A54AA07276CFCD74A372017012216440797432773
+    [serial_no] => bj2017012216440744390
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 35012363636332365
+    [real_name] => dexds
+    [mobile_tel] => 13633336666
+    [bank_account] => 463212233665205871
+    [bank_no] => 203110000047
+)
+|-cRs-|Array
+(
+    [data] => {"error":"invalid_token","error_description":"访问令牌无效或已过期!"}
+    [code] => 401
+)
+]

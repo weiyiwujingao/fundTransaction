@@ -1,0 +1,99 @@
+[14:49:18][|-Param-|Array
+(
+    [UserID] => 178
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 杜拉拉
+    [id_kind_gb] => 0
+    [id_no] => 422201199901010427
+    [elig_content] => 1:1|2:1|3:5|4:5|5:3|6:5|7:5|8:5|9:3|
+)
+]
+[16:18:18][|-Param-|Array
+(
+    [UserID] => 166
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 邱小兰
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]
+[16:24:42][|-Param-|Array
+(
+    [UserID] => 166
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 邱小兰
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [elig_content] => 1:1|2:2|3:3|4:4|5:4|6:3|7:4|8:4|9:3|
+)
+]
+[16:25:43][|-Param-|Array
+(
+    [UserID] => 166
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 邱小兰
+    [id_kind_gb] => 0
+    [id_no] => 350426198803037088
+    [elig_content] => 1:2|2:5|3:1|4:1|5:1|6:1|7:1|8:5|9:2|
+)
+]
+[16:41:20][|-Param-|Array
+(
+    [UserID] => 220
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 后
+    [id_kind_gb] => 0
+    [id_no] => 350426198803025631
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]
+[16:41:27][|-Param-|Array
+(
+    [UserID] => 209
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 奖励
+    [id_kind_gb] => 0
+    [id_no] => 421281199303030145
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]
+[16:48:42][|-Param-|Array
+(
+    [UserID] => 181
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 阿纳啊
+    [id_kind_gb] => 0
+    [id_no] => 421281197910020365
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]
+[16:52:30][|-Param-|Array
+(
+    [UserID] => 211
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 吴晶
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]
+[16:55:07][|-Param-|Array
+(
+    [UserID] => 211
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 吴晶
+    [id_kind_gb] => 0
+    [id_no] => 42092219940809002
+    [elig_content] => 1:1|2:1|3:5|4:1|5:3|6:5|7:3|8:1|9:4|
+)
+]

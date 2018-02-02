@@ -1,0 +1,70 @@
+2017-01-25 11:14:24|-ip-|10.100.0.18|-mobile-|15620553970|-type-|1|||
+2017-01-25 11:14:24|-$cParam-|Array
+(
+    [mobile] => 15620553970
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-01-25 11:14:24|-aParam-|Array
+(
+    [mobile] => 15620553970
+    [code] => 707480
+    [tmpMobileID] => 54
+    [IP] => 10.100.0.18
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => TMP54
+            [mobile] => 15620553970
+            [tid] => 1485314064
+        )
+
+)
+
+2017-01-25 11:27:53|-ip-|10.100.0.18|-mobile-|13237185370|-type-|1|||
+2017-01-25 11:27:53|-$cParam-|Array
+(
+    [mobile] => 13237185370
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2017-01-25 11:27:53|-aParam-|Array
+(
+    [mobile] => 13237185370
+    [code] => 776220
+    [tmpMobileID] => 55
+    [IP] => 10.100.0.18
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => TMP55
+            [mobile] => 13237185370
+            [tid] => 1485314873
+        )
+
+)
+

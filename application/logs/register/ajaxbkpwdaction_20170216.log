@@ -1,0 +1,19 @@
+2017-02-16 10:10:19
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 224
+    [Mobile] => 15927191870
+    [IP] => 10.100.0.18
+    [CheckCode] => 938432
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+

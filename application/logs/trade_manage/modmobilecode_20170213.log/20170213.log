@@ -1,0 +1,98 @@
+[14:51:15][|-$cParam-|Array
+(
+    [mobile] => 15972158074
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 196
+)
+
+]
+[14:51:15][|-$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 243352
+            [UserID] => 196
+        )
+
+)
+
+]
+[14:51:16][|-$aParam-|Array
+(
+    [mobile] => 15972158074
+    [code] => 243352
+    [userID] => 196
+    [IP] => 192.168.15.235
+    [sType] => 4
+    [sign] => bj_trademod_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 196
+            [mobile] => 15972158074
+            [tid] => 1486968676
+        )
+
+)
+
+]
+[15:58:04][|-$cParam-|Array
+(
+    [mobile] => 13971357321
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 225
+)
+
+]
+[15:58:04][|-$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 208686
+            [UserID] => 225
+        )
+
+)
+
+]
+[15:58:04][|-$aParam-|Array
+(
+    [mobile] => 13971357321
+    [code] => 208686
+    [userID] => 225
+    [IP] => 10.100.0.18
+    [sType] => 4
+    [sign] => bj_trademod_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 225
+            [mobile] => 13971357321
+            [tid] => 1486972684
+        )
+
+)
+
+]

@@ -1,0 +1,152 @@
+2016-12-28 17:41:22|-ip-|192.168.10.115|-mobile-|13599951535|-type-|1|||
+2016-12-28 17:41:22|-$cParam-|Array
+(
+    [mobile] => 13599951535
+    [ip] => 192.168.10.115
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2016-12-28 17:41:22|-aParam-|Array
+(
+    [mobile] => 13599951535
+    [code] => 340034
+    [tmpMobileID] => 39
+    [IP] => 192.168.10.115
+    [sType] => 0
+    [sign] => bj_reg_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收
+    [info] => Array
+        (
+            [mobile] => 13599951535
+            [code] => 340034
+            [tmpMobileID] => 39
+            [IP] => 192.168.10.115
+            [sType] => 0
+            [sign] => bj_reg_check
+        )
+
+)
+
+2016-12-28 20:30:02|-ip-|10.100.0.18|-mobile-|18671517368|-type-|1|||
+2016-12-28 20:30:02|-$cParam-|Array
+(
+    [mobile] => 18671517368
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2016-12-28 20:30:02|-aParam-|Array
+(
+    [mobile] => 18671517368
+    [code] => 475301
+    [tmpMobileID] => 0
+    [IP] => 10.100.0.18
+    [sType] => 0
+    [sign] => bj_reg_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收
+    [info] => Array
+        (
+            [mobile] => 18671517368
+            [code] => 475301
+            [tmpMobileID] => 0
+            [IP] => 10.100.0.18
+            [sType] => 0
+            [sign] => bj_reg_check
+        )
+
+)
+
+2016-12-28 20:33:07|-ip-|10.100.0.18|-mobile-|18671517368|-type-|1|||
+2016-12-28 20:33:07|-$cParam-|Array
+(
+    [mobile] => 18671517368
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2016-12-28 20:33:07|-aParam-|Array
+(
+    [mobile] => 18671517368
+    [code] => 400520
+    [tmpMobileID] => 40
+    [IP] => 10.100.0.18
+    [sType] => 0
+    [sign] => bj_reg_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收
+    [info] => Array
+        (
+            [mobile] => 18671517368
+            [code] => 400520
+            [tmpMobileID] => 40
+            [IP] => 10.100.0.18
+            [sType] => 0
+            [sign] => bj_reg_check
+        )
+
+)
+
+2016-12-28 20:36:51|-ip-|10.100.0.18|-mobile-|18671517368|-type-|1|||
+2016-12-28 20:36:51|-$cParam-|Array
+(
+    [mobile] => 18671517368
+    [ip] => 10.100.0.18
+)
+|-cRs-|Array
+(
+    [flag] => 10000
+    [msg] => 该手机未注册
+    [info] => 
+)
+
+2016-12-28 20:36:51|-aParam-|Array
+(
+    [mobile] => 18671517368
+    [code] => 359088
+    [tmpMobileID] => 40
+    [IP] => 10.100.0.18
+    [sType] => 0
+    [sign] => bj_reg_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收
+    [info] => Array
+        (
+            [mobile] => 18671517368
+            [code] => 359088
+            [tmpMobileID] => 40
+            [IP] => 10.100.0.18
+            [sType] => 0
+            [sign] => bj_reg_check
+        )
+
+)
+

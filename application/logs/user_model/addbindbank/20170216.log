@@ -1,0 +1,77 @@
+[09:59:35][|-Param-|Array
+(
+    [UserID] => 184
+    [HsUserID] => 10118
+    [HsAccount] => 1165
+    [Province] => 内蒙古自治区
+    [City] => 通辽市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105199066379
+    [BranchName] => 中国建设银行股份有限公司通辽中心大街支行
+    [BankCard] => 6217000830000123038
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199202011735
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-16 09:59:35
+)
+]
+[09:59:35][|-xParam-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1165
+    [password] => 5dcc73f8fd666d3a9d2d0ce70d36e3ff
+    [mobile_tel] => 18671517368
+    [bank_no] => 005
+    [bank_name] => 中国建设银行
+    [bank_account] => 6217000830000123038
+    [bank_account_name] => 江雪锋
+    [capital_mode] => l
+    [fund_card] => 
+    [bank_open_id_kind_gb] => 0
+    [bank_open_id_no] => 421281199202011735
+    [detail_fund_way] => 01
+    [branchbank] => 105199066379
+    [fund_interface_type] => 1
+)
+]
+[09:59:35][|-rs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170215000346
+                    [success_type] => 0
+                    [trade_acco] => 1205
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[09:59:35][|-ibParam-|Array
+(
+    [UserID] => 184
+    [AccountName] => 江雪锋
+    [HsAccount] => 1205
+    [Master] => 2
+    [Province] => 内蒙古自治区
+    [City] => 通辽市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105199066379
+    [BranchName] => 中国建设银行股份有限公司通辽中心大街支行
+    [BankCard] => 6217000830000123038
+    [Mobile] => 18671517368
+    [Status] => 1
+    [DataTime] => 2017-02-16 09:59:34
+)
+]
+[09:59:35][|-ibRs-|35]

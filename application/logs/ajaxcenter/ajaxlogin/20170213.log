@@ -1,0 +1,24 @@
+[10:54:35][|-修改旧密码$change- repeatPwd -|166Array
+(
+    [flag] => 10005
+    [msg] => 输入密码与原密码不符！
+)
+]
+[15:54:45][|-修改旧密码$change- repeatPwd -|225Array
+(
+    [flag] => 10000
+    [msg] => 修改密码成功！
+)
+]
+[15:56:00][|-修改旧密码$change- repeatPwd -|225Array
+(
+    [flag] => 10000
+    [msg] => 修改密码成功！
+)
+]
+[15:56:38][|-修改旧密码$change- repeatPwd -|225Array
+(
+    [flag] => 10000
+    [msg] => 修改密码成功！
+)
+]

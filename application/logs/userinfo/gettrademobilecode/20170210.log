@@ -1,0 +1,309 @@
+[11:37:51][|-mcRs-|Array
+(
+    [UserID] => 178
+    [HsUserID] => 10268
+    [HsAccount] => 1184
+    [UserName] => CM-178
+    [NickName] => 杜拉拉
+    [Mobile] => 18125530297
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-10 11:01:43
+    [ActiveTime] => 2017-02-10 11:01:43
+    [KeyStr] => 6cc4c3f3d64df33a495fe805aa528711
+    [RegTime] => 2017-02-04 13:39:12
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[11:37:51][|-ip-|192.168.15.235|-mobile-|18125530297|-type-|3|||
+]
+[11:37:51][|-$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 178
+)
+
+]
+[11:37:51][|-$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 302730
+            [UserID] => 178
+        )
+
+)
+
+]
+[11:37:51][|-$aParam-|Array
+(
+    [mobile] => 18125530297
+    [code] => 302730
+    [userID] => 178
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 178
+            [mobile] => 18125530297
+            [tid] => 1486697871
+        )
+
+)
+
+]
+[13:02:31][|-mcRs-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-10 11:35:41
+    [ActiveTime] => 2017-02-10 11:35:41
+    [KeyStr] => 6f89f9c22cac9348a18a2ab860320b0e
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[13:03:00][|-mcRs-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-10 11:35:41
+    [ActiveTime] => 2017-02-10 11:35:41
+    [KeyStr] => 6f89f9c22cac9348a18a2ab860320b0e
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[13:03:00][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|||
+]
+[13:03:00][|-$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[13:03:00][|-$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 190907
+            [UserID] => 169
+        )
+
+)
+
+]
+[13:03:00][|-$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 190907
+    [userID] => 169
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1486702980
+        )
+
+)
+
+]
+[13:20:18][|-mcRs-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-10 11:35:41
+    [ActiveTime] => 2017-02-10 11:35:41
+    [KeyStr] => 68ebbf41becb1f65c24ff7ba7836ce9f
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[13:20:18][|-ip-|192.168.15.235|-mobile-|18065043496|-type-|3|||
+]
+[13:20:18][|-$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[13:20:18][|-$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 466508
+            [UserID] => 169
+        )
+
+)
+
+]
+[13:20:18][|-$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 466508
+    [userID] => 169
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1486704018
+        )
+
+)
+
+]
+[14:54:39][|-mcRs-|Array
+(
+    [UserID] => 178
+    [HsUserID] => 10268
+    [HsAccount] => 1184
+    [UserName] => CM-178
+    [NickName] => 杜拉拉
+    [Mobile] => 18125530297
+    [Status] => 1
+    [LastLoginIP] => 192.168.15.235
+    [LastLoginTime] => 2017-02-10 14:03:00
+    [ActiveTime] => 2017-02-10 14:03:00
+    [KeyStr] => 8e5ae9397a2ab6aea187c4baffd32b05
+    [RegTime] => 2017-02-04 13:39:12
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[14:54:39][|-ip-|192.168.15.235|-mobile-|18125530297|-type-|3|||
+]
+[14:54:39][|-$cParam-|Array
+(
+    [mobile] => 18125530297
+    [ip] => 192.168.15.235
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 178
+)
+
+]
+[14:54:39][|-$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 155316
+            [UserID] => 178
+        )
+
+)
+
+]
+[14:54:39][|-$aParam-|Array
+(
+    [mobile] => 18125530297
+    [code] => 155316
+    [userID] => 178
+    [IP] => 192.168.15.235
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 178
+            [mobile] => 18125530297
+            [tid] => 1486709679
+        )
+
+)
+
+]

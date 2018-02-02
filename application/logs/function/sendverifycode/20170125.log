@@ -1,0 +1,22 @@
+[11:14:24][|-param-|Array
+(
+    [mobile] => 15620553970
+    [code] => 707480
+    [tmpMobileID] => 54
+    [IP] => 10.100.0.18
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[11:14:24][|m_code_key|sendsmscachebj_reg_checkTMP5415620553970]
+[11:27:53][|-param-|Array
+(
+    [mobile] => 13237185370
+    [code] => 776220
+    [tmpMobileID] => 55
+    [IP] => 10.100.0.18
+    [sType] => 1
+    [sign] => bj_reg_check
+)
+]
+[11:27:53][|m_code_key|sendsmscachebj_reg_checkTMP5513237185370]

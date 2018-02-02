@@ -1,0 +1,72 @@
+[00:18:57][|-mcRs-|Array
+(
+    [UserID] => 169
+    [HsUserID] => 0
+    [HsAccount] => 1181
+    [UserName] => QQ-169
+    [NickName] => 黄
+    [Mobile] => 18065043496
+    [Status] => 1
+    [LastLoginIP] => 192.168.17.222
+    [LastLoginTime] => 2017-02-11 00:11:02
+    [ActiveTime] => 2017-02-11 00:11:02
+    [KeyStr] => de03e3fdb7db8903bdd7a25b42a23275
+    [RegTime] => 2017-02-04 09:44:00
+    [GroupIDs] => Array
+        (
+            [0] => 1
+        )
+
+)
+]
+[00:18:57][|-ip-|192.168.17.222|-mobile-|18065043496|-type-|3|-$userID-|169|||
+]
+[00:18:57][|-检查手机$cParam-|Array
+(
+    [mobile] => 18065043496
+    [ip] => 192.168.17.222
+)
+|-cRs-|Array
+(
+    [flag] => 10010
+    [msg] => 该手机号码已注册
+    [info] => 169
+)
+
+]
+[00:18:57][|-获取找回密码的手机口令$umRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+            [CheckCode] => 646448
+            [UserID] => 169
+        )
+
+)
+
+]
+[00:18:57][|-条件$aParam-|Array
+(
+    [mobile] => 18065043496
+    [code] => 646448
+    [userID] => 169
+    [IP] => 192.168.17.222
+    [sType] => 3
+    [sign] => bj_tradepwd_check
+)
+|-发送短信svcRs-|Array
+(
+    [flag] => 10000
+    [msg] => 短信发送成功，请注意查收！
+    [info] => Array
+        (
+            [userID] => 169
+            [mobile] => 18065043496
+            [tid] => 1486743537
+        )
+
+)
+
+]

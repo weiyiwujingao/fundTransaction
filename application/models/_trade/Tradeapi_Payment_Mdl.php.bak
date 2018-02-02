@@ -1,0 +1,214 @@
+<?php if(!defined('BASEPATH')) exit('No direct script access allowed');
+/****************************************************************
+ * 沪深即时行情模型 v2.0
+ *---------------------------------------------------------------
+ * Copyright (c) 2004-2015 CNFOL Inc. (http://www.cnfol.com)
+ *---------------------------------------------------------------
+ * $author:wujg $addtime:2016-12-14
+ ****************************************************************/
+class Tradeapi_manage_mdl extends CI_Model 
+{
+    public function __construct()
+	{
+        parent::__construct();
+		$this->access_token = getAccessToken(__METHOD__);
+		$this->datadictionary = config_item('datadictionary');	
+    }
+
+   /**
+     * 最新基金行情查询  功能号 newhq_qry
+	 *
+     * @param mixed   $search 基金代码
+     * @param integer $type     回复字段范围,参看文档
+	 * @param integer $userid   用户ID
+     * @return array
+     */
+    public function fundType($search) 
+    {	
+		$data = $fundcodemsg = array();
+		//最新基金行情查询
+		$url = STI_CWSALE.'newhq_qry';
+		$arr = array(
+					'targetcomp_id'=>TARGETCOMP_ID,
+					'sendercomp_id'=>SENDERCOMP_ID,
+					'access_token'=>$this->access_token,
+					'request_num'=>'1',
+					'reqry_recordsum_flag'=>'1',
+					'qry_beginrownum'=>'0',
+					'fund_code'=>$search,
+				);
+		$result = curl_post($url,$arr);
+		$data = json_decode($result['data'],true);
+		//return $data;
+		//判断是否存在该基金代码
+		if(!$data['data']['0']['total_count']) return '';
+		$data = $data['data']['0'];
+		
+		$fund_code = $data['fund_code'];
+		$fundcodemsg[$fund_code]['name'] = $data['fund_full_name'];
+		$fundcodemsg[$fund_code]['sname'] = $data['fund_name'];
+		$fundcodemsg[$fund_code]['rank'] = $this->datadictionary['2029'][$data['ofund_risklevel']];
+		$fundcodemsg[$fund_code]['code'] = $fund_code;
+		$fundcodemsg[$fund_code]['type'] = $this->datadictionary['2022'][$data['ofund_type']];
+		$fundcodemsg[$fund_code]['chargemode'] = $this->datadictionary['769023'][$data['share_type']];
+		$fundcodemsg[$fund_code]['share_type'] = $data['share_type'];
+		
+		unset($data);
+        return $fundcodemsg;
+    }
+	/**
+     * 最新基金分红查询  功能号 share_qry
+	 *
+     * @param string   $search 基金代码
+     * @return string
+     */
+    public function fundShare($search) 
+    {	
+		$data = $fundcodemsg = '';
+		// 份额查询 获取分红方式
+		$url = STI_CWSALE.'share_qry';
+		$arr = array(
+					'targetcomp_id'=>TARGETCOMP_ID,
+					'sendercomp_id'=>SENDERCOMP_ID,
+					'access_token'=>$this->access_token,
+					'request_num'=>'1',
+					'reqry_recordsum_flag'=>'1',
+					'qry_beginrownum'=>'0',
+					'fund_code'=>$search
+				);
+		$result = curl_post($url,$arr);
+		$data = json_decode($result['data'],true);
+		//判断是否存在该基金代码
+		if(!$data['data']['0']['total_count']) return '';
+		$data = $data['data']['0'];
+		
+		$fundcodemsg['share_type'] = $this->datadictionary['2010'][$data['auto_buy']];//分红方式
+		$fundcodemsg['c_flag'] = $data['c_flag'];//是否拥有份额
+		//returnJson($data);
+		unset($data);
+		return $fundcodemsg;
+    }
+	/**
+     * 交易限制查询  功能号 trade_limit_qry
+	 *
+     * @param string   $search 基金代码
+     * @return string
+     */
+    public function tradeRestrictions($search,$share_type) 
+    {	
+		$data = $fundcodemsg = '';
+		// 份额查询 获取分红方式
+		$url = STI_CWSALE.'trade_limit_qry';
+		$arr = array(
+					'targetcomp_id'=>TARGETCOMP_ID,
+					'sendercomp_id'=>SENDERCOMP_ID,
+					'access_token'=>$this->access_token,
+					'request_num'=>'1',
+					'reqry_recordsum_flag'=>'1',
+					'qry_beginrownum'=>'0',
+					'fund_code'=>$search,
+					'share_type'=>$share_type,//分红方式
+					'trust_way'=>TRANSACTION_MODE,//委托方式 
+					'capital_mode'=>CAPITAL_MODE,//资金方式 
+					'cust_type'=>CUST_TYPE//客户类别
+				);
+		$result = curl_post($url,$arr);
+		$data = json_decode($result['data'],true);
+		//returnJson($data);
+		//判断是否存在该基金代码
+		if(!$data['data']['0']['total_count']) return '';
+		$data = $data['data']['0'];
+		
+		//$fundcodemsg = $this->datadictionary['2010'][$data['auto_buy']];
+		
+		//unset($data);
+		return $data;
+    }
+	/**
+     * 基金费率查询  功能号 rate_qry
+	 *
+     * @param string   $search 基金代码
+     * @return string
+     */
+    public function fundShareSearch($search) 
+    {	
+		$data = $fundcodemsg = '';
+		// 费率查询
+		$url = STI_CWSALE.'rate_qry';
+		$arr = array(
+					'targetcomp_id'=>TARGETCOMP_ID,
+					'sendercomp_id'=>SENDERCOMP_ID,
+					'access_token'=>$this->access_token,
+					'request_num'=>'1',
+					'reqry_recordsum_flag'=>'1',
+					'qry_beginrownum'=>'0',
+					'fund_code'=>$search,
+					'trust_way'=>TRANSACTION_MODE,//委托方式 
+				);
+		$result = curl_post($url,$arr);
+		$data = json_decode($result['data'],true);
+		//判断是否存在该基金代码
+		if(!$data['data']['0']['total_count'] || $data['data']['0']['success_type']!='0') return '';
+		$data = $data['data']['0'];
+		
+		$fundcodefare['min_fare'] = $data['min_fare'];//最低费率
+		$fundcodefare['max_fare'] = $data['max_fare'];//最高费率
+		$fundcodefare['ratio'] = $data['ratio'];//费率比例
+		
+		unset($data);
+		return $fundcodefare;
+    }
+	/**
+     * 基金理财销售数据字典 查询
+	 *
+     * @param string   $search 要找的配置值
+     * @param string   $key    数据范围键值
+     * @return string
+     */
+    public function fundConfigSearch($search,$key) 
+    {	
+		return array_search($search,$this->datadictionary[$key]);
+	}
+    /**
+     * 基金申购  功能号 allot_trade
+     *
+     * @param string   $search 基金代码
+     * @return string
+     */
+    public function fundAllotTrade($search) 
+    {   
+        $data = $fundcodemsg = '';
+        // 基金申购
+        $url = STI_CWSALE.'allot_trade';
+        $arrCommon = array(
+                        'targetcomp_id' => TARGETCOMP_ID,
+                        'sendercomp_id' => SENDERCOMP_ID,
+                        'access_token'  => $this->access_token,
+                        'money_type'    => CURRENCY,
+                        'trust_way'     => TRANSACTION_MODE,//委托方式 
+                        'capital_mode'  => CAPITAL_MODE,//资金方式
+                     );
+        $arrDynamic = array(
+                        'fund_code'     => $fundcode,//基金代码
+                        'bank_no'       => '',//银行代码
+                        'bank_account'  => '',//银行账号
+                        'share_type'    => '',//份额分类
+                        'balance'       => '',//发生金额
+                        'trade_source'  => 'bjjj',//交易来源
+                        'trade_acco'    => '', //交易账号
+                        'password'      => '', //交易密码
+                      );
+        $arr = array_merge($arrCommon,$arrDynamic);
+        $result = curl_post($url,$arr);
+        $data = json_decode($result['data'],true);
+        //判断是否存在该基金代码
+        if(!$data['data']['0']['total_count'] || $data['data']['0']['success_type']!='0') return '';
+        $data = $data['data']['0'];
+
+        unset($data);
+        return $fundcodefare;
+    }
+}
+
+/* End of file quotes_manage_mdl.php */
+/* Location: ./application/models/_stock/quotes_manage_mdl.php */

@@ -1,0 +1,99 @@
+[09:58:37][|-param-|Array
+(
+    [serial_no] => bj201702160958374923
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011735
+    [real_name] => 江雪锋
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 095837
+    [bank_account] => 9555500272203932
+    [bank_no] => 313331065504
+)
+]
+[09:58:37][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[09:58:43][|-param-|Array
+(
+    [serial_no] => bj2017021609584389606
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011735
+    [real_name] => 江雪锋
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 095843
+    [bank_account] => 95555002722039323
+    [bank_no] => 313331065504
+)
+]
+[09:58:43][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 卡号无效/卡号输入错误
+    [error_no] => -1
+)
+]
+[09:58:50][|-param-|Array
+(
+    [serial_no] => bj2017021609585012173
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011735
+    [real_name] => 江雪锋
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 095850
+    [bank_account] => 9555500272204343
+    [bank_no] => 313331065504
+)
+]
+[09:58:50][|-sRs-|Array
+(
+    [error_code] => 9999
+    [error_info] => 错误的卡号校验位
+    [error_no] => -1
+)
+]
+[09:59:19][|-param-|Array
+(
+    [serial_no] => bj2017021609591986393
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011735
+    [real_name] => 江雪锋
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 095919
+    [bank_account] => 6217000830000123038
+    [bank_no] => 105199066379
+)
+]
+[09:59:20][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [sms_serial_no] => 1691062
+                    [status] => 9
+                )
+
+        )
+
+)
+]

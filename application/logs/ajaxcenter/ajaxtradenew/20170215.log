@@ -1,0 +1,198 @@
+[10:28:27][|交易密码修改-$userID-|170|-$acco-|1193|-$tid-|1487125640|-$ttid-|1487125697|-$mkid-|252cb5177b05a22a]
+[10:28:27][|-$res-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:28:27][|-清密 tradepassword_clear_acct  $res-|Array
+(
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1193
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-$re-|Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[10:28:27][|-修改密码  tradepassword_mod_acct  $param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [new_password] => 7c5ec8641af12d25b10d4e9d67631cf4
+)
+Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[10:28:27][|交易密码修改-$userID-|170|-$acco-|1193|-$tid-|1487125640|-$ttid-|1487125697|-$mkid-|252cb5177b05a22a]
+[10:40:51][|交易密码修改-$userID-|215|-$acco-|1193|-$tid-|1487126375|-$ttid-|1487126437|-$mkid-|bb1b47fc07aece33]
+[10:40:51][|-$res-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:40:51][|-清密 tradepassword_clear_acct  $res-|Array
+(
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1193
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-$re-|Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[10:40:51][|-修改密码  tradepassword_mod_acct  $param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [new_password] => a70aea39a376219a4b918b652a7d0d91
+)
+Array
+(
+    [error] => invalid_token
+    [error_description] => 访问令牌无效或已过期!
+)
+]
+[10:40:51][|交易密码修改-$userID-|215|-$acco-|1193|-$tid-|1487126375|-$ttid-|1487126437|-$mkid-|bb1b47fc07aece33]
+[11:11:38][|交易密码修改-$userID-|215|-$acco-|1193|-$tid-|1487128241|-$ttid-|1487128283|-$mkid-|2e6a419be64acc1a]
+[11:11:38][|-$res-|Array
+(
+    [UserID] => 215
+    [TrueName] => 黄一
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-15
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:11:38][|-清密 tradepassword_clear_acct  $res-|Array
+(
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1193
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-$re-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170215000001
+                    [success_type] => 0
+                    [error_code] => 
+                    [password] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[11:11:38][|-修改密码  tradepassword_mod_acct  $param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [new_password] => 37c98eea54c389dfd955f28413e97e8c
+)
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170215000002
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[11:11:38][|交易密码修改-$userID-|215|-$acco-|1193|-$tid-|1487128241|-$ttid-|1487128283|-$mkid-|2e6a419be64acc1a]
+[11:21:48][|交易密码修改-$userID-|170|-$acco-|1193|-$tid-|1487128833|-$ttid-|1487128900|-$mkid-|a8a7cd13105bd0f4]
+[11:21:48][|-$res-|Array
+(
+    [UserID] => 170
+    [TrueName] => 原方
+    [IdentityNumber] => 422201100000000427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[11:21:49][|-清密 tradepassword_clear_acct  $res-|Array
+(
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1193
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-$re-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170215000005
+                    [success_type] => 0
+                    [error_code] => 
+                    [password] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[11:21:49][|-修改密码  tradepassword_mod_acct  $param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1193
+    [new_password] => 7c5ec8641af12d25b10d4e9d67631cf4
+)
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170215000006
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[11:21:49][|交易密码修改-$userID-|170|-$acco-|1193|-$tid-|1487128833|-$ttid-|1487128900|-$mkid-|a8a7cd13105bd0f4]

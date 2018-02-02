@@ -1,0 +1,46 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+<?php
+function getConfirmDate() {
+    $num = 1;
+    if (date('Hi', time()) > 1500) {
+        $num = 2;
+    }
+    if (date('w') == 5) {
+        $num += 2;
+    } elseif (date('w') == 0) {
+        $num = 2;
+    } elseif (date('w') == 6) {
+        $num = 3;
+    }
+    return date('Y-m-d', strtotime("$num days"));
+}
+?>
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">基金转换</h3>
+            <div class="Title1">根据基金合同约定提供的基本功能，目前仅支持同一公司旗下部分产品之间转换。</div>
+           	<h3 class="Title Tc Mt25">基金转换申请受理<?php echo $success ? '成功' : '失败'; ?></h3>
+            <?php if ($success) : ?>
+            <p class="accDes">预计确认时间：<?php echo getConfirmDate() ?></p>
+            <?php else : ?>
+            <p class="accDes"><?php echo $info; ?></p>
+            <?php endif; ?>
+            <p class="accDes"><?php echo date('Y-m-d H:i:s', time()); ?></p>
+            <div class="Mt25 Tc">
+            	 <a href="<?php echo base_url(); ?>product/convert.html" class="halfBtn Ml25">返回</a>
+            </div>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=20161206144977"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+    </script>

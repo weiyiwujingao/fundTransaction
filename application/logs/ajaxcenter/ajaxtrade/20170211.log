@@ -1,0 +1,50 @@
+[00:12:36][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄|-$userID-|169|-$tid-|1486743078|-$mkid-|30596b86ebab83c8]
+[00:12:36][|-trParam-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:12:36][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:14:57][|-修改交易密码$Param-||-$mobile-|18065043496|-$bankcode-|003|-$banknum-|6228480068816522772|-$idcard-|325632198911113338|-$turename-|黄|-$userID-|169|-$tid-|1486743249|-$mkid-|1db834e80600b436]
+[00:14:57][|-trParam-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]
+[00:14:57][|-修改交易密码$strParam-|Array
+(
+    [UserID] => 169
+    [TrueName] => 黄
+    [IdentityNumber] => 325632198911113338
+    [Sex] => 0
+    [IdentType] => 0
+    [EndValidDate] => 2017-02-07
+    [Country] => 156
+    [Status] => 1
+)
+]

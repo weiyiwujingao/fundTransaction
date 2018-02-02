@@ -1,0 +1,268 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+
+
+    <div class="allCnt Mt20 Cf">
+        <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">个人信息管理</h3>
+            <form class="formPre">     
+            	<div class="formP">
+                	<b class="bankPre">真实姓名：</b>
+                    <span><?php echo isset($userAuth['TrueName']) ? $userAuth['TrueName'] : ''; ?></span>
+                </div>
+                <div class="formP">
+                	<b class="bankPre">性别：</b>
+                    <span><?php echo isset($userAuth['Sex']) ? $aSex[$userAuth['Sex']] : ''; ?></span>
+                </div>
+                <div class="formP">
+                	<b class="bankPre">国籍：</b>
+                    <span><?php echo isset($userAuth['Country']) ? $aCountry[$userAuth['Country']] : ''; ?></span>
+                </div>
+                <div class="formP">
+                	<b class="bankPre">证件类型：</b>
+                    <span><?php echo isset($userAuth['IdentType']) ? $aIdType[$userAuth['IdentType']]: ''; ?></span>
+                </div>
+                <div class="formP">
+                	<b class="bankPre">证件号码：</b>
+                    <span><?php echo isset($userAuth['IdentityNumber']) ? identReplace($userAuth['IdentityNumber']) : ''; ?></span>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">证件有效期：</b>
+                	<?php 
+                	if(isset($userAuth['EndValidDate'])){
+	                ?>
+					<span><input type="text" id="endValidDate" value="<?php echo $userAuth['EndValidDate']; ?>" class="DateInp w225" onfocus="WdatePicker({dateFmt:'yyyy-MM-dd',minDate:'%y-%M-%d'})" /></span>
+					<?php
+					}
+                	?>
+            		</div>
+                <div class="formP">
+                	<b class="bankPre">风险承受能力：</b>
+                	<?php
+                	if($userDetail['RiskBear']){
+                    ?>
+                    <span><?php echo $aBear[$userDetail['RiskBear']]; ?></span>
+                    <a href="<?php echo TRADE_RISK_QUES_URL;?>" class="blue" target="_blank">重新评估风险承受能力</a>
+                    <?php
+                    } else {
+                    echo '<span>未评测</span>';
+                    }
+                	?>
+                </div>
+                <div class="formP">
+                	<b class="bankPre">手机号码：</b>
+                    <span><?php echo mobileReplace($userInfo['Mobile']); ?></span>
+                    <?php echo $userInfo['Mobile'] ? '<a href="' . TRADE_MODIFYPHONE_URL . '" class="blue">修改</a>' : '<a href="<?php echo TRADE_BINDPHONE_URL;?>" class="blue">绑定</a>'; ?>
+                    
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">固定电话：</b>
+                    <span><input type="text" value="<?php echo $userDetail['TelPhone']; ?>" class="w225" id="tel"></span>
+                    <em></em>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">通讯地址：</b>
+                    <span><input type="text" value="<?php echo $userDetail['Address']; ?>" class="addr w225" id="address"></span>
+                    <em></em>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">邮政编码：</b>
+                    <span><input type="text" value="<?php echo $userDetail['Postal']; ?>" class="w225" id="postal"></span>
+                    <em></em>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">电子信箱：</b>
+                    <span><input type="text" value="<?php echo $userDetail['Email']; ?>" class="email w225" id="email"></span>
+                    <em></em>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">预留信息：</b>
+                    <span><input type="text" value="<?php echo $userDetail['ReservedContent']; ?>" class="w225" id="rContent"></span>
+                    <em>预留信息最大长度为8个字符</em>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">职业：</b>
+                    <span class="FormSlt w225">
+                    	<select id="job">
+                    	   <?php 
+                            foreach($aJob as $ak=>$av){
+                                $sel = ($ak == $userDetail['Job']) ? ' selected' : '';
+                                echo '<option value="' . $ak .  '"' . $sel . '>' . $av . '</option>';
+                            }
+                            ?>
+                        </select>
+                    </span>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">账单寄送频率：</b>
+                    <span class="FormSlt w225">
+                    	<select id="sendRate">
+                    	    <?php 
+                            foreach($aSendRate as $ask=>$asv){
+                                $sel = ($ask == $userDetail['SendRate']) ? ' selected' : '';
+                                echo '<option value="' . $ask .  '"' . $sel . '>' . $asv . '</option>';
+                            }
+                            ?>
+                        </select>
+                    </span>
+                </div>
+                <div class="formLi">
+                	<b class="bankPre">账单寄送方式：</b>
+                    <span class="uChkBox">电子邮件寄送<i><input onClick="emailSend(this)" type="checkbox" <?php echo in_array(1, $userDetail['SendMethod']) ? ' checked="checked"' : ''; ?> value="1" id="sendMethod1"/></i></span>
+                    <span class="uChkBox">邮件寄送<i><input onClick="addrSend(this);" type="checkbox" <?php echo in_array(2, $userDetail['SendMethod']) ? ' checked="checked"' : ''; ?> value="2" id="sendMethod2"/></i></span>
+                    <em></em>
+                </div>
+                <div class="Mt30 Ml150">
+                    <a href="javascript:;" onclick="formSub(this);" class="halfBtn">保存</a>
+                </div>
+            </form>
+        </div>
+    </div>
+    
+    <?php require_once(VIEWPATH . '/common/footer.html');?>
+	<!--弹窗提示-->
+    <div class="qMask"></div>
+    <div class="qWin" id="msgBox">
+        <h3><span>提示信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" class="redBtn">确定</a>
+        </div>
+    </div>
+    <div class="qWin" id="pswdBox">
+        <h3><span>修改信息</span><i  class="qCls"></i></h3>
+        <div class="qWmess">
+            <p>请输入交易密码：</p>
+            <div class="formLi">
+                <span><input type="password" value="" class="w340" id="pswd"></span>
+            </div>
+        </div>
+        <div class="qWbtn">
+            <a href="javascript:;" id="subAll" onClick="subAll();" class="redBtn undo">确定</a>
+        </div>
+    </div>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js"></script>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/buy/js/common.js"></script>
+    <script type="text/javascript" src="https://trade.buyfunds.cn/front/uc/Js/Calendar/WdatePicker.js"></script>
+	<script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		$('.FormSlt').uSelect();/*select美化*/
+		$('.uChkBox').uCheckBox()/*chekbox美化*/
+		function addrSend(obj){
+			if($(obj).is(':checked')){
+                $(obj).removeAttr('checked');
+                $(obj).parents('.uChkBox').removeClass('Chked');
+			}
+		}
+		function emailSend(obj){
+			if($(obj).is(':checked')){
+				if($('.email').val() == ''){
+					$(obj).removeAttr('checked');
+					$(obj).parents('.uChkBox').removeClass('Chked');
+					$(obj).showTip('Error','请先填写电子邮箱!');
+				}else{
+					$(obj).showTip('Right');
+				}
+			}
+		}
+		function formSub(obj){
+		      var rContent = $('#rContent').val();
+		      var xEmail = $('#email').val();
+		      if($('#rContent').length>8){
+		      	$('#msgBox').showWin('<p>预留信息长度超过8！</p>');
+		          return false;
+		      }
+		      
+		      if(xEmail){
+		          if(!(toolTest.IsEmail(xEmail))){
+		              $('#msgBox').showWin('<p>邮箱格式不正确！</p>');
+		              return false;
+		          }
+		      }
+		
+		   $('#pswd').val('');
+		   $('#pswdBox').showWin();
+		  }
+		
+		function subAll(){
+			var rContent = $('#rContent').val();
+			var xEmail = $('#email').val();
+            var address = $('#address').val();
+            var pswd = $('#pswd').val();
+            
+            if(pswd == ''){
+            	alert('交易密码未填！');
+            }
+			if($('#rContent').length>8){
+				alert('预留信息长度超过8！');
+			    //$('#msgBox').showWin('<p>预留信息长度超过8！</p>');
+			    return false;
+			}
+
+			if(xEmail){
+			    if(!(toolTest.IsEmail(xEmail))){
+			    	alert('邮箱格式不正确！');
+			        //$('#msgBox').showWin('<p>邮箱格式不正确！</p>');
+			        return false;
+			    }
+			}
+			var sendMethod1 = '';
+            if($('#sendMethod1').is(':checked')){
+                if(!xEmail){
+                    alert('请先填写电子邮箱');
+                    return false;
+                }
+            	sendMethod1 = 1;
+            }
+			var sendMethod2 = '';
+            if($('#sendMethod2').is(':checked')){
+            	if(!address){
+            		alert('请先填写通讯地址!');
+            		return false;
+            	}
+            	sendMethod2 = 2;
+            }
+            var endValidDate = $('#endValidDate').val();
+            var tel = $('#tel').val();
+            var postal = $('#postal').val();
+            var job = $('#job').val();
+            var sendRate = $('#sendRate').val();
+            
+            if($('#subAll').hasClass('disClick')){
+                alert("请求已提交，请耐心等待！");
+                return false;
+            }
+            $('#subAll').addClass('disClick');
+            
+            $.ajax({
+                url:  "<?php echo $ajaxUrl; ?>/personal",
+                cache:false,
+                type: 'post',
+                dataType: 'json',
+                data: 'pswd='+pswd+'&rcontent='+rContent+'&email='+xEmail+'&address='+address+'&sendmethod1='+sendMethod1+'&sendmethod2='+sendMethod2+'&endvaliddate='+endValidDate+'&tel='+tel+'&postal='+postal+'&job='+job+'&sendrate='+sendRate,
+                success : function(minfo){
+                     $('#subAll').removeClass('disClick');
+                     alert(minfo.msg);
+                     if(minfo.flag == '10000'){
+                    	 location.reload();
+                     } else {
+                         return false;
+                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    $('#subAll').removeClass('disClick');
+                    alert('数据提交失败，请重新提交！');
+                    return;
+                }
+            });
+
+		}
+		
+    </script>
+</body>
+</html>

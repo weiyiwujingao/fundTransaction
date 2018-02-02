@@ -1,0 +1,35 @@
+<?php require_once(VIEWPATH . '/common/header.html');?>
+<?php require_once(VIEWPATH . '/common/header_nav.html');?>
+<?php require_once(VIEWPATH . '/common/banner.html');?>
+<?php require_once(VIEWPATH . '/common/uc_nav.html');?>
+    <div class="allCnt Mt20 Cf">
+    <?php require_once(VIEWPATH . '/common/uc_sidebar.html');?>
+        <div class="aMain">
+        	<h3 class="Title5">修改手机号</h3>
+            <div class="qstepBar Mt10">
+            	<a href="javascript:;">安全认证</a>
+                <a href="javascript:;">新增手机号验证</a>
+                <a href="#javascript:;" class="Cur">修改成功</a>
+            </div>
+            <h3 class="Title Tc Mt30">修改成功</h3>
+            <div class="Mt30 Tc">
+                <a href="<?= base_url();?>" onclick="subForm(this);" class="Ml25 halfBtn">返回我的帐户</a>
+            </div>
+        </div>
+    </div>
+    
+    <!--Foot Start-->
+<?php require_once(VIEWPATH . '/common/footer.html');?>
+    <!--Foot End-->
+    <script type="text/javascript" src="https://trade.buyfunds.cn/f=front/uc/Js/BjCenter/jquery-18.js,front/uc/Js/BjCenter/passGrad.js,front/uc/Js/BjCenter/BjFund.js?v=201612141605"></script>
+    <script type="text/javascript">
+		$('.MenuCnt').QTab();//菜单滑动效果
+		
+		var T = 10,Time;//T倒计时实际，Time倒计时计时器
+		function codeClk(obj){//倒计时按钮点击事件
+			$(obj).codeTime();//传递参数是为清空暂停计时器起参数为下一次计时器时长例如60s，不传参数为启动计时器开始倒计时
+		}
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,60 @@
+[10:20:56][|交易密码修改-$userID-|178|-$acco-|1184|-$tid-|1487038770|-$ttid-|1487038846|-$mkid-|996f9c423f39d5f3]
+[10:20:56][|-$res-|Array
+(
+    [UserID] => 178
+    [TrueName] => 杜拉拉
+    [IdentityNumber] => 422201199901010427
+    [Sex] => 1
+    [IdentType] => 0
+    [EndValidDate] => 2099-01-01
+    [Country] => 156
+    [Status] => 1
+)
+]
+[10:20:56][|-清密 tradepassword_clear_acct  $res-|Array
+(
+    [trust_way] => 2
+    [cust_type] => 1
+    [trade_acco] => 1184
+    [password] => 6803cbb9b19241ab53919a7f025bc107
+)
+|-$re-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000087
+                    [success_type] => 0
+                    [error_code] => 
+                    [password] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[10:20:56][|-修改密码  tradepassword_mod_acct  $param-|Array
+(
+    [trust_way] => 2
+    [trade_acco] => 1184
+    [new_password] => 7c5ec8641af12d25b10d4e9d67631cf4
+)
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [allot_no] => 20170213000088
+                    [success_type] => 0
+                    [error_code] => 
+                    [error_info] => 
+                )
+
+        )
+
+)
+]
+[10:20:56][|交易密码修改-$userID-|178|-$acco-|1184|-$tid-|1487038770|-$ttid-|1487038846|-$mkid-|996f9c423f39d5f3]

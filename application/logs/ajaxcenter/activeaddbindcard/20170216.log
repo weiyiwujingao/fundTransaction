@@ -1,0 +1,62 @@
+[09:59:34][|-param-|Array
+(
+    [mobile_code] => 515680
+    [sms_serial_no] => 1691062
+    [original_serial_no] => bj2017021609591986393
+    [capital_mode] => l
+    [merchant_name] => test
+    [id_kind_gb] => 0
+    [id_no] => 421281199202011735
+    [mobile_tel] => 18671517368
+    [order_date] => 20170216
+    [order_time] => 095934
+    [bank_account] => 6217000830000123038
+    [bank_no] => 105199066379
+)
+]
+[09:59:35][|-sRs-|Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [fields] => Array
+                        (
+                        )
+
+                    [status] => 1
+                )
+
+        )
+
+)
+]
+[09:59:35][|-iParam-|Array
+(
+    [UserID] => 184
+    [HsUserID] => 10118
+    [HsAccount] => 1165
+    [Province] => 内蒙古自治区
+    [City] => 通辽市
+    [BankName] => 中国建设银行
+    [BankNo] => 005
+    [BranchBank] => 105199066379
+    [BranchName] => 中国建设银行股份有限公司通辽中心大街支行
+    [BankCard] => 6217000830000123038
+    [Mobile] => 18671517368
+    [NickName] => 江雪锋
+    [IdentityNumber] => 421281199202011735
+    [Sex] => 0
+    [EndValidDate] => 20990101
+    [Status] => 1
+    [protocolNo] => 
+    [DataTime] => 2017-02-16 09:59:35
+)
+]
+[09:59:35][|-iRs-|Array
+(
+    [flag] => 10000
+    [msg] => ok
+    [info] => 
+)
+]

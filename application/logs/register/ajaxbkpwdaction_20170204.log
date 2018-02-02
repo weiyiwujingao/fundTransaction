@@ -1,0 +1,342 @@
+2017-02-04 14:12:12
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 719881
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 14:25:53
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 829921
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 14:34:43
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 883050
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 14:51:54
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 449692
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:02:04
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 133600
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:08:18
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 446346
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:17:50
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 771680
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:20:48
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 012622
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:22:00
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 935011
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:28:37
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 192781
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:31:06
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 918794
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:39:56
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 943584
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:46:07
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 438664
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:48:41
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 169
+    [Mobile] => 18065043496
+    [IP] => 192.168.15.235
+    [CheckCode] => 986991
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 15:52:20
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 965118
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 16:03:22
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 782616
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 16:08:28
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 236894
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+
+2017-02-04 16:31:09
+|-cParam-|Array
+(
+    [Type] => 2
+    [UserID] => 178
+    [Mobile] => 18125530297
+    [IP] => 192.168.15.235
+    [CheckCode] => 988899
+)
+|-cRs-|Array
+(
+    [Code] => 00
+    [Msg] => 成功
+    [Record] => Array
+        (
+        )
+
+)
+

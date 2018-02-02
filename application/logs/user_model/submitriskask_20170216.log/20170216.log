@@ -1,0 +1,22 @@
+[10:46:04][|-Param-|Array
+(
+    [UserID] => 224
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 罗蔓
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [elig_content] => 1:4|2:4|3:4|4:3|5:4|6:1|7:3|8:4|9:3|
+)
+]
+[10:48:28][|-Param-|Array
+(
+    [UserID] => 224
+    [trust_way] => 2
+    [cust_type] => 1
+    [full_name] => 罗蔓
+    [id_kind_gb] => 0
+    [id_no] => 421083199206290033
+    [elig_content] => 1:1|2:2|3:1|4:2|5:4|6:1|7:1|8:4|9:4|
+)
+]
