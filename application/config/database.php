@@ -13,9 +13,9 @@ $query_builder = TRUE;
 /* 主库配置,仅支持写入 模型中初始化 $this->db->database('master') */
 $db['master'] = array(
 	'dsn'	   => '',
-	'hostname' => '172.18.237.102',
-	'username' => 'trade_w',
-	'password' => 'eH0lU3xV5yZ6',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
 	'database' => 'passport',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
@@ -36,10 +36,10 @@ $db['master'] = array(
 /* 从库配置,仅支持读取 模型中初始化 $this->db->database() */
 $db['slave'] = array(
     'dsn'	   => '',
-    'hostname' => '172.18.94.129',
-    'username' => 'trade_r',
-    'password' => 'eA1kI7qR8zZ9',
-    'database' => 'passport',
+    'hostname' => '',
+    'username' => '  ',
+    'password' => '  ',
+    'database' => ' ',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,

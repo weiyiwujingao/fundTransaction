@@ -53,13 +53,11 @@ define('LOGIN_TWO_LIMIT_KEY', 'z*8ip9NWKS3oAaeh&A!SpQTfxjmSunla&UxRBnlD4#NNl1hOx
 define('PASSPORT_AUTH_KEY' , 'QPFyaA@PwUmMPEOIJaFK%E8W5RSHh*XGiUTuZGGZCf5sxPDb4@c$VOE&5z*8ip9NWKS3wAaeh&A!SpQTfcZhSunla&UxRBnlD4#NNl1hOrHFh%O9NxwQ%Cw7!1OsPKCuew51k#3od^HFSQNdZnujSDBq3Egl4uBxI3oIF#mY8ODP#7a1yB@$HJxBV7UPI30iIwXeM3!NZmfr%y84cMI$9IQjYSfrTb&o0u#dxQmmpHuG^qUD%HQsG&GSLgtj6Ixo');
 
 //注册页key
-define('ENCODE_KEY', 'o*8ip9NWKS3wAaeh&A!SOMsdf52Dlssdn5la&UxRpl2D4#NN99hOrHFh%O9NxwQ%Cw7!1OsPKCufh83QPFyaA@PwUmMPEOIJaFK%E8W5RSHh*XGiUTuZGGZCfbcagZb4@c$Vfr%y84cMI$9IQjYSfrTb&o0u#dxQmmpHuG^qUD%HQsG&GSLgtj6IxpnujSDBq3Egl4uBxIOE&5k#3od^HFSQNdZ3oIF#mY#ODP#7a1yB@$HJxBV7UPI30iIwXeM3!NZm');
-//注册页key
-//define('ENCODE_KEY', 'o*8ip9NWKS3wAaeh&A!SOMsdf52Dlssdn5la&UxRpl2D4#NNl1hOrHFh%O9NxwQ%Cw7!1OsPKCufh83QPFyaA@PwUmMPEOIJaFK%E8W5RSHh*XGiUTuZGGZCfbcagZb4@c$Vfr%y84cMI$9IQjYSfrTb&o0u#dxQmmpHuG^qUD%HQsG&GSLgtj6IxpnujSDBq3Egl4uBxIOE&5k#3od^HFSQNdZ3oIF#mY#ODP#7a1yB@$HJxBV7UPI30iIwXeM3!NZm');
+define('ENCODE_KEY', 'IF#mY#ODP#7a1yB@$HJxBV7UPI30iIwXeM3!NZm');
 
 /* SEO关键字和描述 */
-define('SEO_KEYWORDS', '基金,基金销售,伯嘉基金,伯嘉基金网,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程');
-define('SEO_DESCRIPTION', '伯嘉基金网是证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。');
+define('SEO_KEYWORDS', '基金,基金销售,基金第三方销售平台,网上买基金,现金宝,质押宝,固定收益,打新基金,高端理财,基金申购,基金认购,基金费率,免费开户,网上基金开户,开户流程');
+define('SEO_DESCRIPTION', '证监会批准的独立基金销售机构，民生银行全程监管资金安全。网上买基金，首选伯嘉。7*24小时免费基金开户，基金开户流程方便快捷，仅需10秒。');
 
 
 //*****网址设置*****BEGIN*****//
@@ -96,17 +94,17 @@ define('PROID', 19);//项目ID，伯嘉固定1
 
 
 /* 恒生STI环境接口,用于获取全站access_token */
-define('STI_OAUTH2', 'https://vopen.hscloud.cn/oauth2/oauth2/token');
-define('CLIENT_ID', '1f8a1f9e-c975-4a6d-a8b2-9d5c31e9e92a');
-define('CLIENT_SECRET', 'db1e4f08-c20f-4161-bd18-6c9479a568a8');
+define('STI_OAUTH2', 'qqq ');
+define('CLIENT_ID', 'qqq');
+define('CLIENT_SECRET', 'qq');
 define('GRANT_TYPE', 'client_credentials');
-define('OPEN_ID', md5(substr(CLIENT_ID, 0, 10) . time() . 'buyfunds.cn'));
+define('OPEN_ID', 'qq'));
 
 /* 恒生理财和支付接口,用于获取公共参数 */
-define('STI_CWSALE', 'https://vopen.hscloud.cn/cwsale/v1/');//理财接口
-define('STI_CWPAY', 'https://vopen.hscloud.cn/cwpay/v1/');//支付接口
-define('TARGETCOMP_ID', '50059');//机构号，唯一分配
-define('SENDERCOMP_ID', '50059');
+define('STI_CWSALE', 'qq');//理财接口
+define('STI_CWPAY', 'qq');//支付接口
+define('TARGETCOMP_ID', 'qq');//机构号，唯一分配
+define('SENDERCOMP_ID', 'qq');
 
 //交易委托方式  2代表的是网上委托 7 代表的是手机委托
 define('TRANSACTION_MODE', '2');

@@ -8,7 +8,7 @@
  ****************************************************************/
 
 /* 视图中域名连接请使用base_url()获取 */
-$config['base_url'] = 'https://trade.buyfunds.cn';
+$config['base_url'] = '';
 $config['index_page'] = '';
 $config['uri_protocol']	= 'REQUEST_URI';
 $config['url_suffix'] = '';

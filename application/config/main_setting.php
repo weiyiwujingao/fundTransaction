@@ -18,10 +18,10 @@ $config['memcache'] = array
 (
 	'server' => array(
 		array(
-        'host'=>'49c98d2dbe1040e2.m.cnszalist3pub001.ocs.aliyuncs.com',
+        'host'=>' ',
         'port'=>11211,
-        'muser' => '49c98d2dbe1040e2',
-        'mpassword' => 'Z7wzLfCN',)
+        'muser' => ' ',
+        'mpassword' => ' ',)
 	),
 	'prefix'   => '',
 	'expire'   => 5,
